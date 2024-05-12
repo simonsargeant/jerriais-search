@@ -1,35 +1,105 @@
 @import './base.css';
 
 #app {
+  width: 100%;
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
 }
 
 a,
-.green {
+.red {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: var(--vt-c-red-soft);
   transition: 0.4s;
   padding: 3px;
 }
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: var(--vt-c-red-soft);
+    color: var(--vt-c-white);
   }
 }
 
-@media (min-width: 1024px) {
-  body {
+.title {
     display: flex;
-    place-items: center;
-  }
-
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
+    flex-grow: 100;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    img {
+        height: 100px;
+        padding: 10px;
+    }
 }
+
+h1 {
+    color: var(--color-heading);
+    font-size: 100px;
+    font-weight: bold;
+}
+
+nav {
+    flex-grow: 100;
+    padding: 20px;
+    a {
+        padding: 10px;
+    }
+}
+
+main {
+    padding: 10px;
+}
+
+search {
+    flex-grow: 100;
+    input {
+        width: 100%;
+        max-width: 600px;
+        padding: 20px;
+        font-size: 18px;
+    }
+}
+
+output {
+    flex-grow: 100;
+    padding: 10px;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    column-gap: 20px;
+    .first-result {
+        text-align: right;
+        width: 50%;
+    }
+    .second-result {
+        text-align: left;
+        width: 50%;
+    }
+    img {
+        height: 20px;
+    }
+}
+
+html {
+    overflow-y: scroll;
+}
+
+
