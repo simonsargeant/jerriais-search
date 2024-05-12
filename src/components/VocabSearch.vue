@@ -8,7 +8,6 @@ const dataStore = useVocabDataStore();
 const searchTerm = ref('');
 const searchResults = ref([]);
 
-// Function to handle search; debouncing could be added here
 function handleSearch() {
     if (searchTerm.value) {
         searchResults.value = dataStore.search(searchTerm.value);
