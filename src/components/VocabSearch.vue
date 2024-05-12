@@ -24,7 +24,7 @@ function handleSearch() {
             type="text"
             v-model="searchTerm"
             @input="handleSearch"
-            placeholder="Search by word"
+            placeholder="Search for a word in Jèrriais or English"
         />
     </search>
     <output>
