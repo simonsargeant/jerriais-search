@@ -6,7 +6,7 @@ import jeBig from "./assets/img/je-big.png"
 <template>
     <header>
         <div class="title">
-            <h1>Jèrriais</h1>
+            <h1>Pathole</h1>
             <img :src="jeBig">
         </div>
         <nav>
