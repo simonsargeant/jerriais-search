@@ -6,6 +6,9 @@
           of the Société Jersiaise
       </p>
       <p>
+          <a href="https://github.com/simonsargeant/pathole">Open source</a>
+      </p>
+      <p>
           Copyright © 2024 Simon Sargeant
       </p>
   </main>
