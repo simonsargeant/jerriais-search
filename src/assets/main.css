@@ -60,7 +60,7 @@ main {
     padding: 10px;
 }
 
-search {
+.search {
     flex-grow: 100;
     input {
         width: 100%;
@@ -132,7 +132,7 @@ html {
         padding: 2px;
     }
 
-    search {
+    .search {
         input {
             padding: 10px;
             font-size: 16px;

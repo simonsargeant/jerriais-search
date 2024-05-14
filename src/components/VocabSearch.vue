@@ -3,17 +3,22 @@ import { ref } from 'vue';
 import { useVocabDataStore } from '../stores/vocabDataStore';
 import jeMid from "../assets/img/je-mid.png"
 import ukMid from "../assets/img/uk-mid.png"
+import { usePlausible } from 'v-plausible/vue'
+
 
 const dataStore = useVocabDataStore();
 const searchTerm = ref('');
 const searchResults = ref([]);
+const { trackEvent } = usePlausible();
 let searchTimeout = null;
 
 function handleSearch() {
     clearTimeout(searchTimeout);
     searchTimeout = setTimeout(async () => {
         if (searchTerm.value) {
-            searchResults.value = dataStore.search(searchTerm.value);
+            let res = dataStore.search(searchTerm.value);
+            searchResults.value = res
+            trackEvent('search', { props: { term: searchTerm.value, results: res.length } })
         } else {
             searchResults.value = [];
         }
@@ -23,14 +28,14 @@ function handleSearch() {
 </script>
 
 <template>
-    <search>
+    <div class="search">
         <input
             type="text"
             v-model="searchTerm"
             @input="handleSearch"
             placeholder="Search for a word in Jèrriais or English"
         />
-    </search>
+    </div>
     <output>
         <ul v-if="searchResults.length > 0">
             <li>
