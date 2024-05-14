@@ -7,14 +7,19 @@ import ukMid from "../assets/img/uk-mid.png"
 const dataStore = useVocabDataStore();
 const searchTerm = ref('');
 const searchResults = ref([]);
+let searchTimeout = null;
 
 function handleSearch() {
-    if (searchTerm.value) {
-        searchResults.value = dataStore.search(searchTerm.value);
-    } else {
-        searchResults.value = [];
-    }
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(async () => {
+        if (searchTerm.value) {
+            searchResults.value = dataStore.search(searchTerm.value);
+        } else {
+            searchResults.value = [];
+        }
+    }, 300);
 }
+
 </script>
 
 <template>
