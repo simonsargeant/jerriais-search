@@ -60,6 +60,10 @@ main {
     padding: 10px;
 }
 
+ul {
+    width: 100%;
+}
+
 .search {
     flex-grow: 100;
     input {

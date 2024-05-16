@@ -47,8 +47,8 @@ function handleSearch() {
                 </div>
             </li>
             <li v-for="(item, index) in searchResults" :key="index">
-                <div class="first-result">{{ item.jerriais }}</div>
-                <div class="second-result">{{ item.english }}</div>
+                <div class="first-result">{{ item.j }}</div>
+                <div class="second-result">{{ item.e }}</div>
             </li>
         </ul>
     </output>

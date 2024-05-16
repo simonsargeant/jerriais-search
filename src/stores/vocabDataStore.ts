@@ -2,13 +2,21 @@ import { defineStore } from 'pinia'
 import { vocabData } from '../data/vocabData'
 import { ref } from 'vue';
 
+function normalizeString(str) {
+  return str.normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/['’]/g, '')
+    .replace(/[\s-]/g, '')
+    .toLowerCase();
+}
+
 export const useVocabDataStore = defineStore('vocabData', () => {
     const vocab = ref(vocabData);
 
     function search(term: string) {
-        term = term.toLowerCase();
+        const normalized = normalizeString(term);
         return vocab.value.filter(row =>
-            row.jerriais.toLowerCase().includes(term) || row.english.toLowerCase().includes(term)
+            row.f.includes(normalized) || row.k.includes(normalized)
         );
     }
 
