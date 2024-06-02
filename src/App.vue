@@ -10,8 +10,10 @@ import jeBig from "./assets/img/je-big.png"
             <img :src="jeBig">
         </div>
         <nav>
-            <RouterLink to="/">Search</RouterLink>
-            <RouterLink to="/about">About</RouterLink>
+            <ul>
+                <li><RouterLink to="/">Search</RouterLink></li>
+                <li><RouterLink to="/about">About</RouterLink></li>
+            </ul>
         </nav>
     </header>
 

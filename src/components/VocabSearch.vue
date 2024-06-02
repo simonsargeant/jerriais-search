@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 import { useVocabDataStore } from '../stores/vocabDataStore';
 import jeMid from "../assets/img/je-mid.png"
 import ukMid from "../assets/img/uk-mid.png"
@@ -7,24 +7,29 @@ import { usePlausible } from 'v-plausible/vue'
 
 
 const dataStore = useVocabDataStore();
-const searchTerm = ref('');
+const searchTerm = ref(dataStore.lastSearchedTerm);
 const searchResults = ref([]);
 const { trackEvent } = usePlausible();
 let searchTimeout = null;
 
 function handleSearch() {
-    clearTimeout(searchTimeout);
-    searchTimeout = setTimeout(async () => {
-        if (searchTerm.value) {
-            let res = dataStore.search(searchTerm.value);
-            searchResults.value = res
-            trackEvent('search', { props: { term: searchTerm.value, results: res.length } })
-        } else {
-            searchResults.value = [];
-        }
-    }, 300);
+  clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(async () => {
+    if (searchTerm.value) {
+      let res = dataStore.search(searchTerm.value);
+      searchResults.value = res
+      trackEvent('search', { props: { term: searchTerm.value, results: res.length } })
+    } else {
+      searchResults.value = [];
+    }
+  }, 300);
 }
 
+onMounted(() => {
+  if (searchTerm.value) {
+    handleSearch();
+  }
+});
 </script>
 
 <template>
@@ -37,7 +42,7 @@ function handleSearch() {
         />
     </div>
     <output>
-        <ul v-if="searchResults.length > 0">
+        <ul v-if="searchResults.length > 0" class="results">
             <li>
                 <div class="first-result">
                     <img :src="jeMid">

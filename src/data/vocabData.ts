@@ -1,9 +1,27 @@
 export const vocabData = [
   {
+    "j": "'tôt",
+    "e": "bye",
+    "k": "tot",
+    "f": "bye"
+  },
+  {
     "j": "à bas",
     "e": "downstairs",
     "k": "abas",
     "f": "downstairs"
+  },
+  {
+    "j": "à bêtôt",
+    "e": "goodbye",
+    "k": "abetot",
+    "f": "goodbye"
+  },
+  {
+    "j": "à bi!",
+    "e": "'bye!, bye!",
+    "k": "abi!",
+    "f": "bye!,bye!"
   },
   {
     "j": "à bord",
@@ -18,6 +36,30 @@ export const vocabData = [
     "f": "thisevening"
   },
   {
+    "j": "à ch't' arlévée",
+    "e": "this afternoon",
+    "k": "achtarlevee",
+    "f": "thisafternoon"
+  },
+  {
+    "j": "à ches drein",
+    "e": "recently",
+    "k": "achesdrein",
+    "f": "recently"
+  },
+  {
+    "j": "à ch’qué j’ai tréjous ouï...",
+    "e": "from what i’ve always heard...",
+    "k": "achquejaitrejousoui...",
+    "f": "fromwhativealwaysheard..."
+  },
+  {
+    "j": "à ch’qu’i’ pathaît",
+    "e": "apparently",
+    "k": "achquipathait",
+    "f": "apparently"
+  },
+  {
     "j": "à crédit",
     "e": "on credit",
     "k": "acredit",
@@ -30,22 +72,34 @@ export const vocabData = [
     "f": "upstairs"
   },
   {
+    "j": "à l'yi nu",
+    "e": "with the naked eye",
+    "k": "alyinu",
+    "f": "withthenakedeye"
+  },
+  {
     "j": "à la cape",
     "e": "hove to",
     "k": "alacape",
     "f": "hoveto"
   },
   {
-    "j": "À la s'maine tchi veint!",
-    "e": "See you next week!",
-    "k": "alasmainetchiveint!",
-    "f": "seeyounextweek!"
+    "j": "à la mié-août",
+    "e": "in mid-august",
+    "k": "alamieaout",
+    "f": "inmidaugust"
   },
   {
-    "j": "à l'yi nu",
-    "e": "with the naked eye",
-    "k": "alyinu",
-    "f": "withthenakedeye"
+    "j": "à la préchaine",
+    "e": "till the next time",
+    "k": "alaprechaine",
+    "f": "tillthenexttime"
+  },
+  {
+    "j": "à la s'maine tchi veint!",
+    "e": "see you next week, see you next week!",
+    "k": "alasmainetchiveint!",
+    "f": "seeyounextweek,seeyounextweek!"
   },
   {
     "j": "à matîn",
@@ -54,16 +108,82 @@ export const vocabData = [
     "f": "thismorning"
   },
   {
+    "j": "à méjeu",
+    "e": "at noon",
+    "k": "amejeu",
+    "f": "atnoon"
+  },
+  {
+    "j": "à mié-niet",
+    "e": "in the middle of the night",
+    "k": "amieniet",
+    "f": "inthemiddleofthenight"
+  },
+  {
+    "j": "à mié-s'maine",
+    "e": "in mid-week",
+    "k": "amiesmaine",
+    "f": "inmidweek"
+  },
+  {
+    "j": "à mié-sethée",
+    "e": "in the middle of the evening",
+    "k": "amiesethee",
+    "f": "inthemiddleoftheevening"
+  },
+  {
+    "j": "à mînniet",
+    "e": "at midnight",
+    "k": "aminniet",
+    "f": "atmidnight"
+  },
+  {
+    "j": "à m’n avis",
+    "e": "in my opinion",
+    "k": "amnavis",
+    "f": "inmyopinion"
+  },
+  {
+    "j": "à m’n idée",
+    "e": "in my opinion",
+    "k": "amnidee",
+    "f": "inmyopinion"
+  },
+  {
     "j": "à pèrte dé veue",
     "e": "out of sight",
     "k": "apertedeveue",
     "f": "outofsight"
   },
   {
+    "j": "à sinne dé jeu",
+    "e": "at the crack of dawn",
+    "k": "asinnedejeu",
+    "f": "atthecrackofdawn"
+  },
+  {
+    "j": "à tantôt",
+    "e": "see you later in the day",
+    "k": "atantot",
+    "f": "seeyoulaterintheday"
+  },
+  {
+    "j": "à tchi date qué j'vivons?",
+    "e": "what's the date today?",
+    "k": "atchidatequejvivons?",
+    "f": "whatsthedatetoday?"
+  },
+  {
     "j": "à veue dg'yi",
     "e": "in sight",
     "k": "aveuedgyi",
     "f": "insight"
+  },
+  {
+    "j": "a-t-alle un galant?",
+    "e": "has she got a boyfriend?",
+    "k": "atalleungalant?",
+    "f": "hasshegotaboyfriend?"
   },
   {
     "j": "abat-jour",
@@ -84,8 +204,8 @@ export const vocabData = [
     "f": "land"
   },
   {
-    "j": "Âbréhan, Âbra-am, Bram",
-    "e": "Abraham",
+    "j": "âbréhan, âbra-am, bram",
+    "e": "abraham",
     "k": "abrehan,abraam,bram",
     "f": "abraham"
   },
@@ -120,14 +240,20 @@ export const vocabData = [
     "f": "now"
   },
   {
+    "j": "acouo eune fais",
+    "e": "again",
+    "k": "acouoeunefais",
+    "f": "again"
+  },
+  {
     "j": "acyi",
     "e": "steel",
     "k": "acyi",
     "f": "steel"
   },
   {
-    "j": "Âdam",
-    "e": "Adam",
+    "j": "âdam",
+    "e": "adam",
     "k": "adam",
     "f": "adam"
   },
@@ -174,22 +300,22 @@ export const vocabData = [
     "f": "suffering"
   },
   {
-    "j": "Afghanistan",
-    "e": "Afghanistan",
+    "j": "afghanistan",
+    "e": "afghanistan",
     "k": "afghanistan",
     "f": "afghanistan"
   },
   {
-    "j": "Afrique du Sud",
-    "e": "South Africa",
-    "k": "afriquedusud",
-    "f": "southafrica"
-  },
-  {
-    "j": "Afrique",
-    "e": "Africa",
+    "j": "afrique",
+    "e": "africa",
     "k": "afrique",
     "f": "africa"
+  },
+  {
+    "j": "afrique du sud",
+    "e": "south africa",
+    "k": "afriquedusud",
+    "f": "southafrica"
   },
   {
     "j": "agence d'asseûthance",
@@ -202,6 +328,12 @@ export const vocabData = [
     "e": "travel agency",
     "k": "agencedviage",
     "f": "travelagency"
+  },
+  {
+    "j": "ah mes fêsses!",
+    "e": "nonsense!",
+    "k": "ahmesfesses!",
+    "f": "nonsense!"
   },
   {
     "j": "aheuqu'ter",
@@ -234,10 +366,22 @@ export const vocabData = [
     "f": "magnet"
   },
   {
+    "j": "aime-tu les cârottes?",
+    "e": "do you like carrots?",
+    "k": "aimetulescarottes?",
+    "f": "doyoulikecarrots?"
+  },
+  {
     "j": "aimer",
     "e": "like, love",
     "k": "aimer",
     "f": "like,love"
+  },
+  {
+    "j": "aim’-ous les pais ronds?",
+    "e": "do you like peas?",
+    "k": "aimouslespaisronds?",
+    "f": "doyoulikepeas?"
   },
   {
     "j": "air",
@@ -258,14 +402,14 @@ export const vocabData = [
     "f": "easy"
   },
   {
-    "j": "Albannie",
-    "e": "Albania",
+    "j": "albannie",
+    "e": "albania",
     "k": "albannie",
     "f": "albania"
   },
   {
-    "j": "Albèrt",
-    "e": "Albert",
+    "j": "albèrt",
+    "e": "albert",
     "k": "albert",
     "f": "albert"
   },
@@ -282,14 +426,20 @@ export const vocabData = [
     "f": "awl"
   },
   {
-    "j": "Algérie",
-    "e": "Algeria",
+    "j": "algérie",
+    "e": "algeria",
     "k": "algerie",
     "f": "algeria"
   },
   {
-    "j": "Allémangne",
-    "e": "Germany",
+    "j": "all'ous-en!",
+    "e": "go away!",
+    "k": "allousen!",
+    "f": "goaway!"
+  },
+  {
+    "j": "allémangne",
+    "e": "germany",
     "k": "allemangne",
     "f": "germany"
   },
@@ -312,16 +462,34 @@ export const vocabData = [
     "f": "light"
   },
   {
+    "j": "allons, viyons!",
+    "e": "let's see!",
+    "k": "allons,viyons!",
+    "f": "letssee!"
+  },
+  {
     "j": "allouer",
     "e": "allow",
     "k": "allouer",
     "f": "allow"
   },
   {
+    "j": "all’-ous app’ler un taxi?",
+    "e": "are you going to call a taxi?",
+    "k": "allousappleruntaxi?",
+    "f": "areyougoingtocallataxi?"
+  },
+  {
     "j": "alouai",
     "e": "alloy",
     "k": "alouai",
     "f": "alloy"
+  },
+  {
+    "j": "am'ner la vaile, les vailes",
+    "e": "strike sail",
+    "k": "amnerlavaile,lesvailes",
+    "f": "strikesail"
   },
   {
     "j": "amather",
@@ -342,14 +510,14 @@ export const vocabData = [
     "f": "improve"
   },
   {
-    "j": "Améthique",
-    "e": "America",
+    "j": "améthique",
+    "e": "america",
     "k": "amethique",
     "f": "america"
   },
   {
-    "j": "Âmice",
-    "e": "Âmice",
+    "j": "âmice",
+    "e": "âmice",
     "k": "amice",
     "f": "amice"
   },
@@ -360,20 +528,14 @@ export const vocabData = [
     "f": "starch"
   },
   {
-    "j": "am'ner la vaile, les vailes",
-    "e": "strike sail",
-    "k": "amnerlavaile,lesvailes",
-    "f": "strikesail"
-  },
-  {
     "j": "ancien",
     "e": "ancient",
     "k": "ancien",
     "f": "ancient"
   },
   {
-    "j": "Andorre",
-    "e": "Andorra",
+    "j": "andorre",
+    "e": "andorra",
     "k": "andorre",
     "f": "andorra"
   },
@@ -384,20 +546,20 @@ export const vocabData = [
     "f": "anaemic"
   },
   {
-    "j": "Anglyican",
-    "e": "Anglican",
+    "j": "anglyican",
+    "e": "anglican",
     "k": "anglyican",
     "f": "anglican"
   },
   {
-    "j": "Angola",
-    "e": "Angola",
+    "j": "angola",
+    "e": "angola",
     "k": "angola",
     "f": "angola"
   },
   {
-    "j": "Anguilla",
-    "e": "Anguilla",
+    "j": "anguilla",
+    "e": "anguilla",
     "k": "anguilla",
     "f": "anguilla"
   },
@@ -408,8 +570,8 @@ export const vocabData = [
     "f": "today"
   },
   {
-    "j": "Anne",
-    "e": "Ann, Anne",
+    "j": "anne",
+    "e": "ann, anne",
     "k": "anne",
     "f": "ann,anne"
   },
@@ -420,26 +582,26 @@ export const vocabData = [
     "f": "annual"
   },
   {
-    "j": "Antarctique",
-    "e": "Antarctica",
+    "j": "antarctique",
+    "e": "antarctica",
     "k": "antarctique",
     "f": "antarctica"
   },
   {
-    "j": "Antigua et Barbuda",
-    "e": "Antigua and Barbuda",
+    "j": "antigua et barbuda",
+    "e": "antigua and barbuda",
     "k": "antiguaetbarbuda",
     "f": "antiguaandbarbuda"
   },
   {
-    "j": "Antilles des Pays Bas",
-    "e": "Netherlands Antilles",
+    "j": "antilles des pays bas",
+    "e": "netherlands antilles",
     "k": "antillesdespaysbas",
     "f": "netherlandsantilles"
   },
   {
-    "j": "Août",
-    "e": "August",
+    "j": "août",
+    "e": "august",
     "k": "aout",
     "f": "august"
   },
@@ -468,16 +630,16 @@ export const vocabData = [
     "f": "approach"
   },
   {
-    "j": "apprendre par tchoeu",
-    "e": "to learn by heart",
-    "k": "apprendrepartchoeu",
-    "f": "tolearnbyheart"
-  },
-  {
     "j": "apprendre",
     "e": "to learn, to teach",
     "k": "apprendre",
     "f": "tolearn,toteach"
+  },
+  {
+    "j": "apprendre par tchoeu",
+    "e": "to learn by heart",
+    "k": "apprendrepartchoeu",
+    "f": "tolearnbyheart"
   },
   {
     "j": "approuver",
@@ -486,8 +648,20 @@ export const vocabData = [
     "f": "approve"
   },
   {
-    "j": "Arabie Saudi",
-    "e": "Saudi Arabia",
+    "j": "app’lez l’ambulance!",
+    "e": "get an ambulance!",
+    "k": "applezlambulance!",
+    "f": "getanambulance!"
+  },
+  {
+    "j": "app’lez l’chent’nyi!",
+    "e": "call the centenier!",
+    "k": "applezlchentnyi!",
+    "f": "callthecentenier!"
+  },
+  {
+    "j": "arabie saudi",
+    "e": "saudi arabia",
     "k": "arabiesaudi",
     "f": "saudiarabia"
   },
@@ -498,26 +672,26 @@ export const vocabData = [
     "f": "slate"
   },
   {
-    "j": "argent comptant",
-    "e": "cash",
-    "k": "argentcomptant",
-    "f": "cash"
-  },
-  {
     "j": "argent",
     "e": "silver",
     "k": "argent",
     "f": "silver"
   },
   {
-    "j": "Argentinne",
-    "e": "Argentina",
+    "j": "argent comptant",
+    "e": "cash",
+    "k": "argentcomptant",
+    "f": "cash"
+  },
+  {
+    "j": "argentinne",
+    "e": "argentina",
     "k": "argentinne",
     "f": "argentina"
   },
   {
-    "j": "Arménie",
-    "e": "Armenia",
+    "j": "arménie",
+    "e": "armenia",
     "k": "armenie",
     "f": "armenia"
   },
@@ -534,16 +708,22 @@ export const vocabData = [
     "f": "busstop"
   },
   {
-    "j": "arrêter",
+    "j": "arrête",
     "e": "stop",
-    "k": "arreter",
+    "k": "arrete",
     "f": "stop"
   },
   {
     "j": "arrêter",
-    "e": "to arrest",
+    "e": "to arrest, stop",
     "k": "arreter",
-    "f": "toarrest"
+    "f": "toarrest,stop"
+  },
+  {
+    "j": "arrêtez",
+    "e": "stop",
+    "k": "arretez",
+    "f": "stop"
   },
   {
     "j": "arrîsi",
@@ -564,14 +744,38 @@ export const vocabData = [
     "f": "towater"
   },
   {
-    "j": "Aruba",
-    "e": "Aruba",
+    "j": "aruba",
+    "e": "aruba",
     "k": "aruba",
     "f": "aruba"
   },
   {
-    "j": "Âsie",
-    "e": "Asia",
+    "j": "as-tu des hautes bottes?",
+    "e": "have you got wellingtons?",
+    "k": "astudeshautesbottes?",
+    "f": "haveyougotwellingtons?"
+  },
+  {
+    "j": "as-tu finni?",
+    "e": "have you finished",
+    "k": "astufinni?",
+    "f": "haveyoufinished"
+  },
+  {
+    "j": "as-tu liu la gâzette du sé?",
+    "e": "have you read the evening post?",
+    "k": "astuliulagazetteduse?",
+    "f": "haveyoureadtheeveningpost?"
+  },
+  {
+    "j": "as-tu peux?",
+    "e": "are you afraid?",
+    "k": "astupeux?",
+    "f": "areyouafraid?"
+  },
+  {
+    "j": "âsie",
+    "e": "asia",
     "k": "asie",
     "f": "asia"
   },
@@ -594,6 +798,12 @@ export const vocabData = [
     "f": "toassault"
   },
   {
+    "j": "assied-té",
+    "e": "sit down",
+    "k": "assiedte",
+    "f": "sitdown"
+  },
+  {
     "j": "assiégi",
     "e": "to besiege",
     "k": "assiegi",
@@ -604,6 +814,12 @@ export const vocabData = [
     "e": "sit",
     "k": "assiethe",
     "f": "sit"
+  },
+  {
+    "j": "assiév'-ous",
+    "e": "sit down",
+    "k": "assievous",
+    "f": "sitdown"
   },
   {
     "j": "assommer",
@@ -624,8 +840,8 @@ export const vocabData = [
     "f": "accept"
   },
   {
-    "j": "Atchitaine",
-    "e": "Aquitaine",
+    "j": "atchitaine",
+    "e": "aquitaine",
     "k": "atchitaine",
     "f": "aquitaine"
   },
@@ -640,6 +856,30 @@ export const vocabData = [
     "e": "attack, attach",
     "k": "attatchi",
     "f": "attack,attach"
+  },
+  {
+    "j": "attend",
+    "e": "wait",
+    "k": "attend",
+    "f": "wait"
+  },
+  {
+    "j": "attend un moment",
+    "e": "wait a moment",
+    "k": "attendunmoment",
+    "f": "waitamoment"
+  },
+  {
+    "j": "attendez",
+    "e": "wait",
+    "k": "attendez",
+    "f": "wait"
+  },
+  {
+    "j": "attendez un moment",
+    "e": "wait a moment",
+    "k": "attendezunmoment",
+    "f": "waitamoment"
   },
   {
     "j": "attendre",
@@ -678,46 +918,58 @@ export const vocabData = [
     "f": "drill"
   },
   {
-    "j": "Australâsie",
-    "e": "Australasia",
+    "j": "australâsie",
+    "e": "australasia",
     "k": "australasie",
     "f": "australasia"
   },
   {
-    "j": "Australie",
-    "e": "Australia",
+    "j": "australie",
+    "e": "australia",
     "k": "australie",
     "f": "australia"
   },
   {
-    "j": "Australie Méridionale",
-    "e": "South Australia",
+    "j": "australie méridionale",
+    "e": "south australia",
     "k": "australiemeridionale",
     "f": "southaustralia"
   },
   {
-    "j": "Australie Occidentale",
-    "e": "Western Australia",
+    "j": "australie occidentale",
+    "e": "western australia",
     "k": "australieoccidentale",
     "f": "westernaustralia"
   },
   {
-    "j": "Autriche",
-    "e": "Austria",
+    "j": "autriche",
+    "e": "austria",
     "k": "autriche",
     "f": "austria"
   },
   {
-    "j": "Auve les miyeurs souhaits",
-    "e": "Best wishes",
+    "j": "auve les miyeurs souhaits",
+    "e": "best wishes",
     "k": "auvelesmiyeurssouhaits",
     "f": "bestwishes"
   },
   {
+    "j": "av'-ous finni?",
+    "e": "have you finished",
+    "k": "avousfinni?",
+    "f": "haveyoufinished"
+  },
+  {
     "j": "avant-hièr",
-    "e": "day before yesterday",
+    "e": "the day before yesterday, day before yesterday",
     "k": "avanthier",
-    "f": "daybeforeyesterday"
+    "f": "thedaybeforeyesterday,daybeforeyesterday"
+  },
+  {
+    "j": "aver",
+    "e": "have",
+    "k": "aver",
+    "f": "have"
   },
   {
     "j": "aver bouonne main",
@@ -768,10 +1020,10 @@ export const vocabData = [
     "f": "tohaveasquint"
   },
   {
-    "j": "aver",
-    "e": "have",
-    "k": "aver",
-    "f": "have"
+    "j": "aveugl'ye",
+    "e": "blind",
+    "k": "aveuglye",
+    "f": "blind"
   },
   {
     "j": "aveuglier",
@@ -780,22 +1032,70 @@ export const vocabData = [
     "f": "toblind"
   },
   {
-    "j": "aveugl'ye",
-    "e": "blind",
-    "k": "aveuglye",
-    "f": "blind"
-  },
-  {
-    "j": "Avri",
-    "e": "April",
+    "j": "avri",
+    "e": "april",
     "k": "avri",
     "f": "april"
   },
   {
-    "j": "Azerbaidgian",
-    "e": "Azerbaijan",
+    "j": "av’-ous des cartes à gratter?",
+    "e": "have you got any scratchcards?",
+    "k": "avousdescartesagratter?",
+    "f": "haveyougotanyscratchcards?"
+  },
+  {
+    "j": "av’-ous eune plieunme?",
+    "e": "have you got a pen?",
+    "k": "avouseuneplieunme?",
+    "f": "haveyougotapen?"
+  },
+  {
+    "j": "av’-ous faim?",
+    "e": "are you hungry?",
+    "k": "avousfaim?",
+    "f": "areyouhungry?"
+  },
+  {
+    "j": "av’-ous ouï les dreines nouvelles?",
+    "e": "have you heard the latest news?",
+    "k": "avousouilesdreinesnouvelles?",
+    "f": "haveyouheardthelatestnews?"
+  },
+  {
+    "j": "av’-ous peux?",
+    "e": "are you afraid?",
+    "k": "avouspeux?",
+    "f": "areyouafraid?"
+  },
+  {
+    "j": "av’-ous un site d’ithangnie?",
+    "e": "have you got a website?",
+    "k": "avousunsitedithangnie?",
+    "f": "haveyougotawebsite?"
+  },
+  {
+    "j": "av’-ous un téléphone dé pouchette?",
+    "e": "have you got a mobile phone?",
+    "k": "avousuntelephonedepouchette?",
+    "f": "haveyougotamobilephone?"
+  },
+  {
+    "j": "azerbaidgian",
+    "e": "azerbaijan",
     "k": "azerbaidgian",
     "f": "azerbaijan"
+  },
+  {
+    "j": "b'sant",
+    "e": "heavy",
+    "k": "bsant",
+    "f": "heavy"
+  },
+  {
+    "j": "ba-ouîn",
+    "e": "doggy, bow-wow",
+    "k": "baouin",
+    "f": "doggy,bowwow"
   },
   {
     "j": "baba",
@@ -804,16 +1104,28 @@ export const vocabData = [
     "f": "hurt"
   },
   {
-    "j": "Bahames",
-    "e": "Bahamas",
+    "j": "bahames",
+    "e": "bahamas",
     "k": "bahames",
     "f": "bahamas"
   },
   {
-    "j": "Bahrain",
-    "e": "Bahrain",
+    "j": "bahrain",
+    "e": "bahrain",
     "k": "bahrain",
     "f": "bahrain"
+  },
+  {
+    "j": "baille-mé...",
+    "e": "hand me...",
+    "k": "bailleme...",
+    "f": "handme..."
+  },
+  {
+    "j": "bailli",
+    "e": "give",
+    "k": "bailli",
+    "f": "give"
   },
   {
     "j": "bailli eune cliamuse",
@@ -834,10 +1146,10 @@ export const vocabData = [
     "f": "topunch"
   },
   {
-    "j": "bailli",
-    "e": "give",
-    "k": "bailli",
-    "f": "give"
+    "j": "bailliz-mé...",
+    "e": "hand me...",
+    "k": "baillizme...",
+    "f": "handme..."
   },
   {
     "j": "baîsi",
@@ -852,6 +1164,12 @@ export const vocabData = [
     "f": "lower"
   },
   {
+    "j": "baithe",
+    "e": "to drink",
+    "k": "baithe",
+    "f": "todrink"
+  },
+  {
     "j": "baithe à tare-larigot",
     "e": "to drink heavily",
     "k": "baitheatarelarigot",
@@ -864,16 +1182,16 @@ export const vocabData = [
     "f": "todrinkheavily"
   },
   {
-    "j": "baithe",
-    "e": "to drink",
-    "k": "baithe",
-    "f": "todrink"
-  },
-  {
     "j": "bambou",
     "e": "bamboo",
     "k": "bambou",
     "f": "bamboo"
+  },
+  {
+    "j": "ban'se",
+    "e": "bun",
+    "k": "banse",
+    "f": "bun"
   },
   {
     "j": "banc",
@@ -888,8 +1206,8 @@ export const vocabData = [
     "f": "tobandage"
   },
   {
-    "j": "Bangladesh",
-    "e": "Bangladesh",
+    "j": "bangladesh",
+    "e": "bangladesh",
     "k": "bangladesh",
     "f": "bangladesh"
   },
@@ -900,10 +1218,10 @@ export const vocabData = [
     "f": "bank"
   },
   {
-    "j": "ban'se",
-    "e": "bun",
-    "k": "banse",
-    "f": "bun"
+    "j": "bantchi",
+    "e": "to bank",
+    "k": "bantchi",
+    "f": "tobank"
   },
   {
     "j": "bantchi les sou",
@@ -912,32 +1230,20 @@ export const vocabData = [
     "f": "tobankmoney"
   },
   {
-    "j": "bantchi",
-    "e": "to bank",
-    "k": "bantchi",
-    "f": "tobank"
-  },
-  {
-    "j": "ba-ouîn",
-    "e": "doggy, bow-wow",
-    "k": "baouin",
-    "f": "doggy,bowwow"
-  },
-  {
     "j": "bâptîsi",
     "e": "to baptise",
     "k": "baptisi",
     "f": "tobaptise"
   },
   {
-    "j": "Barachouais",
-    "e": "Barachois",
+    "j": "barachouais",
+    "e": "barachois",
     "k": "barachouais",
     "f": "barachois"
   },
   {
-    "j": "Barbados",
-    "e": "Barbados",
+    "j": "barbados",
+    "e": "barbados",
     "k": "barbados",
     "f": "barbados"
   },
@@ -978,16 +1284,16 @@ export const vocabData = [
     "f": "low"
   },
   {
-    "j": "batchi",
-    "e": "to back",
-    "k": "batchi",
-    "f": "toback"
+    "j": "bat'tie d'tchuîsinne",
+    "e": "kitchen utensils",
+    "k": "battiedtchuisinne",
+    "f": "kitchenutensils"
   },
   {
     "j": "batchi",
-    "e": "to back up",
+    "e": "to back up, to back",
     "k": "batchi",
-    "f": "tobackup"
+    "f": "tobackup,toback"
   },
   {
     "j": "bathi à tés",
@@ -1002,22 +1308,16 @@ export const vocabData = [
     "f": "tobuild"
   },
   {
-    "j": "bâtisse à stâtionner",
-    "e": "multi-storey car park",
-    "k": "batisseastationner",
-    "f": "multistoreycarpark"
-  },
-  {
     "j": "bâtisse",
     "e": "building",
     "k": "batisse",
     "f": "building"
   },
   {
-    "j": "bat'tie d'tchuîsinne",
-    "e": "kitchen utensils",
-    "k": "battiedtchuisinne",
-    "f": "kitchenutensils"
+    "j": "bâtisse à stâtionner",
+    "e": "multi-storey car park",
+    "k": "batisseastationner",
+    "f": "multistoreycarpark"
   },
   {
     "j": "battre",
@@ -1068,22 +1368,46 @@ export const vocabData = [
     "f": "stutter"
   },
   {
-    "j": "Bêlarus",
-    "e": "Belarus",
+    "j": "bein fait!",
+    "e": "well done",
+    "k": "beinfait!",
+    "f": "welldone"
+  },
+  {
+    "j": "bein seux!",
+    "e": "of course!",
+    "k": "beinseux!",
+    "f": "ofcourse!"
+  },
+  {
+    "j": "bêlarus",
+    "e": "belarus",
     "k": "belarus",
     "f": "belarus"
   },
   {
-    "j": "Belgique",
-    "e": "Belgium",
+    "j": "belgique",
+    "e": "belgium",
     "k": "belgique",
     "f": "belgium"
   },
   {
-    "j": "Bélize",
-    "e": "Belize",
+    "j": "bélize",
+    "e": "belize",
     "k": "belize",
     "f": "belize"
+  },
+  {
+    "j": "belle dêbâte!",
+    "e": "good riddance!",
+    "k": "belledebate!",
+    "f": "goodriddance!"
+  },
+  {
+    "j": "belle délivrance!",
+    "e": "good riddance!",
+    "k": "belledelivrance!",
+    "f": "goodriddance!"
   },
   {
     "j": "bén'gône",
@@ -1098,14 +1422,14 @@ export const vocabData = [
     "f": "tobless"
   },
   {
-    "j": "Benin",
-    "e": "Benin",
+    "j": "benin",
+    "e": "benin",
     "k": "benin",
     "f": "benin"
   },
   {
-    "j": "Benjamîn",
-    "e": "Benjamin",
+    "j": "benjamîn",
+    "e": "benjamin",
     "k": "benjamin",
     "f": "benjamin"
   },
@@ -1116,14 +1440,14 @@ export const vocabData = [
     "f": "spade"
   },
   {
-    "j": "Bermude",
-    "e": "Bermuda",
+    "j": "bermude",
+    "e": "bermuda",
     "k": "bermude",
     "f": "bermuda"
   },
   {
-    "j": "Bèrnabé",
-    "e": "Barnaby",
+    "j": "bèrnabé",
+    "e": "barnaby",
     "k": "bernabe",
     "f": "barnaby"
   },
@@ -1140,8 +1464,8 @@ export const vocabData = [
     "f": "toplantwithaspade"
   },
   {
-    "j": "Betté, Élîzabé, Lîsabé, Lîzabé",
-    "e": "Elizabeth",
+    "j": "betté, élîzabé, lîsabé, lîzabé",
+    "e": "elizabeth",
     "k": "bette,elizabe,lisabe,lizabe",
     "f": "elizabeth"
   },
@@ -1170,8 +1494,8 @@ export const vocabData = [
     "f": "tobusk"
   },
   {
-    "j": "Bhutan",
-    "e": "Bhutan",
+    "j": "bhutan",
+    "e": "bhutan",
     "k": "bhutan",
     "f": "bhutan"
   },
@@ -1284,6 +1608,12 @@ export const vocabData = [
     "f": "toblink"
   },
   {
+    "j": "bo-ouîn",
+    "e": "doggy, bow-wow",
+    "k": "boouin",
+    "f": "doggy,bowwow"
+  },
+  {
     "j": "boête à lettres",
     "e": "post box",
     "k": "boetealettres",
@@ -1296,8 +1626,8 @@ export const vocabData = [
     "f": "bug"
   },
   {
-    "j": "Bolivie",
-    "e": "Bolivia",
+    "j": "bolivie",
+    "e": "bolivia",
     "k": "bolivie",
     "f": "bolivia"
   },
@@ -1308,10 +1638,10 @@ export const vocabData = [
     "f": "tobombard"
   },
   {
-    "j": "bo-ouîn",
-    "e": "doggy, bow-wow",
-    "k": "boouin",
-    "f": "doggy,bowwow"
+    "j": "bônsouair",
+    "e": "good evening",
+    "k": "bonsouair",
+    "f": "goodevening"
   },
   {
     "j": "bord à bord",
@@ -1326,8 +1656,8 @@ export const vocabData = [
     "f": "mitrebox"
   },
   {
-    "j": "Bosnie et Herzegovina",
-    "e": "Bosnia and Herzegovina",
+    "j": "bosnie et herzegovina",
+    "e": "bosnia and herzegovina",
     "k": "bosnieetherzegovina",
     "f": "bosniaandherzegovina"
   },
@@ -1350,8 +1680,8 @@ export const vocabData = [
     "f": "tobotch"
   },
   {
-    "j": "Botswana",
-    "e": "Botswana",
+    "j": "botswana",
+    "e": "botswana",
     "k": "botswana",
     "f": "botswana"
   },
@@ -1363,15 +1693,9 @@ export const vocabData = [
   },
   {
     "j": "bouais",
-    "e": "tree",
+    "e": "wood, tree",
     "k": "bouais",
-    "f": "tree"
-  },
-  {
-    "j": "bouais",
-    "e": "wood",
-    "k": "bouais",
-    "f": "wood"
+    "f": "wood,tree"
   },
   {
     "j": "bouaissonner",
@@ -1380,8 +1704,14 @@ export const vocabData = [
     "f": "togetdrunk"
   },
   {
-    "j": "Bouann'aventuthe",
-    "e": "Bonaventure",
+    "j": "bouan noué",
+    "e": "happy christmas",
+    "k": "bouannoue",
+    "f": "happychristmas"
+  },
+  {
+    "j": "bouann'aventuthe",
+    "e": "bonaventure",
     "k": "bouannaventuthe",
     "f": "bonaventure"
   },
@@ -1404,16 +1734,16 @@ export const vocabData = [
     "f": "move"
   },
   {
-    "j": "bouoilli par dessus",
-    "e": "to boil over",
-    "k": "bouoillipardessus",
-    "f": "toboilover"
-  },
-  {
     "j": "bouoilli",
     "e": "to boil",
     "k": "bouoilli",
     "f": "toboil"
+  },
+  {
+    "j": "bouoilli par dessus",
+    "e": "to boil over",
+    "k": "bouoillipardessus",
+    "f": "toboilover"
   },
   {
     "j": "bouôlette",
@@ -1422,22 +1752,82 @@ export const vocabData = [
     "f": "screwstock"
   },
   {
-    "j": "bouôn marchi",
-    "e": "cheap",
-    "k": "bouonmarchi",
-    "f": "cheap"
-  },
-  {
     "j": "bouon",
     "e": "good",
     "k": "bouon",
     "f": "good"
   },
   {
-    "j": "Bouonézâr",
-    "e": "Buenos Aires",
+    "j": "bouôn annivèrsaithe",
+    "e": "happy birthday",
+    "k": "bouonanniversaithe",
+    "f": "happybirthday"
+  },
+  {
+    "j": "bouôn dgieu!",
+    "e": "good god!",
+    "k": "bouondgieu!",
+    "f": "goodgod!"
+  },
+  {
+    "j": "bouôn marchi",
+    "e": "cheap",
+    "k": "bouonmarchi",
+    "f": "cheap"
+  },
+  {
+    "j": "bouôn sang dé bouôn sang!",
+    "e": "damn!",
+    "k": "bouonsangdebouonsang!",
+    "f": "damn!"
+  },
+  {
+    "j": "bouôn viage!",
+    "e": "bon voyage!",
+    "k": "bouonviage!",
+    "f": "bonvoyage!"
+  },
+  {
+    "j": "bouonézâr",
+    "e": "buenos aires",
     "k": "bouonezar",
     "f": "buenosaires"
+  },
+  {
+    "j": "bouônjour",
+    "e": "hello",
+    "k": "bouonjour",
+    "f": "hello"
+  },
+  {
+    "j": "bouônjour à matîn",
+    "e": "good morning",
+    "k": "bouonjouramatin",
+    "f": "goodmorning"
+  },
+  {
+    "j": "bouonne année",
+    "e": "happy new year",
+    "k": "bouonneannee",
+    "f": "happynewyear"
+  },
+  {
+    "j": "bouonne cache!",
+    "e": "good luck!",
+    "k": "bouonnecache!",
+    "f": "goodluck!"
+  },
+  {
+    "j": "bouonne niet",
+    "e": "goodnight",
+    "k": "bouonneniet",
+    "f": "goodnight"
+  },
+  {
+    "j": "bouonne santé!",
+    "e": "good health!",
+    "k": "bouonnesante!",
+    "f": "goodhealth!"
   },
   {
     "j": "bourdonner",
@@ -1446,8 +1836,8 @@ export const vocabData = [
     "f": "buzz"
   },
   {
-    "j": "Bourgouongne",
-    "e": "Burgundy",
+    "j": "bourgouongne",
+    "e": "burgundy",
     "k": "bourgouongne",
     "f": "burgundy"
   },
@@ -1518,20 +1908,26 @@ export const vocabData = [
     "f": "online,connected"
   },
   {
+    "j": "bravo!",
+    "e": "bravo!",
+    "k": "bravo!",
+    "f": "bravo!"
+  },
+  {
     "j": "brédâle",
     "e": "bradawl",
     "k": "bredale",
     "f": "bradawl"
   },
   {
-    "j": "Brési",
-    "e": "Brazil",
+    "j": "brési",
+    "e": "brazil",
     "k": "bresi",
     "f": "brazil"
   },
   {
-    "j": "Brétangne",
-    "e": "Brittany",
+    "j": "brétangne",
+    "e": "brittany",
     "k": "bretangne",
     "f": "brittany"
   },
@@ -1578,8 +1974,8 @@ export const vocabData = [
     "f": "tobreeze"
   },
   {
-    "j": "Bristo",
-    "e": "Bristol",
+    "j": "bristo",
+    "e": "bristol",
     "k": "bristo",
     "f": "bristol"
   },
@@ -1608,22 +2004,16 @@ export const vocabData = [
     "f": "burn"
   },
   {
-    "j": "Brunei Darussalam",
-    "e": "Brunei Darussalam",
+    "j": "brunei darussalam",
+    "e": "brunei darussalam",
     "k": "bruneidarussalam",
     "f": "bruneidarussalam"
   },
   {
-    "j": "Bruxelles",
-    "e": "Brussels",
+    "j": "bruxelles",
+    "e": "brussels",
     "k": "bruxelles",
     "f": "brussels"
-  },
-  {
-    "j": "b'sant",
-    "e": "heavy",
-    "k": "bsant",
-    "f": "heavy"
   },
   {
     "j": "bûcheux",
@@ -1632,22 +2022,40 @@ export const vocabData = [
     "f": "fellingaxe"
   },
   {
-    "j": "Bulgarie",
-    "e": "Bulgaria",
+    "j": "bulgarie",
+    "e": "bulgaria",
     "k": "bulgarie",
     "f": "bulgaria"
   },
   {
-    "j": "Burkina Faso",
-    "e": "Burkina Faso",
+    "j": "burkina faso",
+    "e": "burkina faso",
     "k": "burkinafaso",
     "f": "burkinafaso"
   },
   {
-    "j": "Burundi",
-    "e": "Burundi",
+    "j": "burundi",
+    "e": "burundi",
     "k": "burundi",
     "f": "burundi"
+  },
+  {
+    "j": "c'mander",
+    "e": "to command",
+    "k": "cmander",
+    "f": "tocommand"
+  },
+  {
+    "j": "c'menchi",
+    "e": "begin",
+    "k": "cmenchi",
+    "f": "begin"
+  },
+  {
+    "j": "c'menchons",
+    "e": "let's begin",
+    "k": "cmenchons",
+    "f": "letsbegin"
   },
   {
     "j": "cabochi des sous",
@@ -1668,9 +2076,9 @@ export const vocabData = [
     "f": "todrive"
   },
   {
-    "j": "Caën",
-    "e": "Caen",
-    "k": "caën",
+    "j": "caën",
+    "e": "caen",
+    "k": "caen",
     "f": "caen"
   },
   {
@@ -1698,10 +2106,22 @@ export const vocabData = [
     "f": "calico"
   },
   {
-    "j": "Califournie",
-    "e": "California",
+    "j": "califournie",
+    "e": "california",
     "k": "califournie",
     "f": "california"
+  },
+  {
+    "j": "calm'-ous",
+    "e": "calm down",
+    "k": "calmous",
+    "f": "calmdown"
+  },
+  {
+    "j": "calme-té",
+    "e": "calm down",
+    "k": "calmete",
+    "f": "calmdown"
   },
   {
     "j": "caltchuler",
@@ -1716,20 +2136,20 @@ export const vocabData = [
     "f": "tobeat"
   },
   {
-    "j": "Cambodge/Cambodia",
-    "e": "Cambodia",
+    "j": "cambodge/cambodia",
+    "e": "cambodia",
     "k": "cambodge/cambodia",
     "f": "cambodia"
   },
   {
-    "j": "Cameroun",
-    "e": "Cameroon",
+    "j": "cameroun",
+    "e": "cameroon",
     "k": "cameroun",
     "f": "cameroon"
   },
   {
-    "j": "Cannada",
-    "e": "Canada",
+    "j": "cannada",
+    "e": "canada",
     "k": "cannada",
     "f": "canada"
   },
@@ -1758,8 +2178,8 @@ export const vocabData = [
     "f": "list"
   },
   {
-    "j": "Cantorbéry",
-    "e": "Canterbury",
+    "j": "cantorbéry",
+    "e": "canterbury",
     "k": "cantorbery",
     "f": "canterbury"
   },
@@ -1777,15 +2197,15 @@ export const vocabData = [
   },
   {
     "j": "caqu'ter",
-    "e": "cackle",
+    "e": "crow, cackle",
     "k": "caquter",
-    "f": "cackle"
+    "f": "crow,cackle"
   },
   {
-    "j": "caqu'ter",
-    "e": "crow",
-    "k": "caquter",
-    "f": "crow"
+    "j": "cârre-té!",
+    "e": "get out of the way!",
+    "k": "carrete!",
+    "f": "getoutoftheway!"
   },
   {
     "j": "carrefour",
@@ -1794,16 +2214,22 @@ export const vocabData = [
     "f": "crossroads"
   },
   {
+    "j": "cârr’-ous!",
+    "e": "get out of the way!",
+    "k": "carrous!",
+    "f": "getoutoftheway!"
+  },
+  {
+    "j": "cart'ret",
+    "e": "carteret",
+    "k": "cartret",
+    "f": "carteret"
+  },
+  {
     "j": "carton",
     "e": "cardboard",
     "k": "carton",
     "f": "cardboard"
-  },
-  {
-    "j": "Cart'ret",
-    "e": "Carteret",
-    "k": "cartret",
-    "f": "carteret"
   },
   {
     "j": "casèrner",
@@ -1824,22 +2250,22 @@ export const vocabData = [
     "f": "todie"
   },
   {
-    "j": "Catalongne",
-    "e": "Catalonia",
+    "j": "catalongne",
+    "e": "catalonia",
     "k": "catalongne",
     "f": "catalonia"
   },
   {
-    "j": "catholique",
-    "e": "Catholic",
-    "k": "catholique",
-    "f": "catholic"
-  },
-  {
-    "j": "Cath'rinne, Cat'let, Cat'linne",
-    "e": "Catherine",
+    "j": "cath'rinne, cat'let, cat'linne",
+    "e": "catherine",
     "k": "cathrinne,catlet,catlinne",
     "f": "catherine"
+  },
+  {
+    "j": "catholique",
+    "e": "catholic",
+    "k": "catholique",
+    "f": "catholic"
   },
   {
     "j": "catouoilli",
@@ -1884,8 +2310,38 @@ export const vocabData = [
     "f": "stop"
   },
   {
-    "j": "Champangne",
-    "e": "Champagne",
+    "j": "ch'est tout?",
+    "e": "is that all?",
+    "k": "chesttout?",
+    "f": "isthatall?"
+  },
+  {
+    "j": "ch't!",
+    "e": "hush!",
+    "k": "cht!",
+    "f": "hush!"
+  },
+  {
+    "j": "ch't! mot!",
+    "e": "hush!",
+    "k": "cht!mot!",
+    "f": "hush!"
+  },
+  {
+    "j": "ch't' année",
+    "e": "this year",
+    "k": "chtannee",
+    "f": "thisyear"
+  },
+  {
+    "j": "ch't' arlévée",
+    "e": "this afternoon",
+    "k": "chtarlevee",
+    "f": "thisafternoon"
+  },
+  {
+    "j": "champangne",
+    "e": "champagne",
     "k": "champangne",
     "f": "champagne"
   },
@@ -1926,8 +2382,8 @@ export const vocabData = [
     "f": "toshare"
   },
   {
-    "j": "Charles, Charlot, Tchèrli",
-    "e": "Charles, Charlie",
+    "j": "charles, charlot, tchèrli",
+    "e": "charles, charlie",
     "k": "charles,charlot,tcherli",
     "f": "charles,charlie"
   },
@@ -1968,22 +2424,34 @@ export const vocabData = [
     "f": "ash"
   },
   {
+    "j": "chenna f'tha...",
+    "e": "that'll be...",
+    "k": "chennaftha...",
+    "f": "thatllbe..."
+  },
+  {
     "j": "chenna f'tha....",
     "e": "that'll be...",
     "k": "chennaftha....",
     "f": "thatllbe..."
   },
   {
-    "j": "chent ieune",
-    "e": "hundred and one",
-    "k": "chentieune",
-    "f": "hundredandone"
+    "j": "chenna f'thait rithe les cats!",
+    "e": "it's enough to make the cats laugh!",
+    "k": "chennafthaitrithelescats!",
+    "f": "itsenoughtomakethecatslaugh!"
   },
   {
     "j": "chent",
     "e": "hundred",
     "k": "chent",
     "f": "hundred"
+  },
+  {
+    "j": "chent ieune",
+    "e": "hundred and one",
+    "k": "chentieune",
+    "f": "hundredandone"
   },
   {
     "j": "chèrchi",
@@ -1998,10 +2466,10 @@ export const vocabData = [
     "f": "toload"
   },
   {
-    "j": "ch'est tout?",
-    "e": "is that all?",
-    "k": "chesttout?",
-    "f": "isthatall?"
+    "j": "ches nouvieaux soulièrs mé pînchent",
+    "e": "these new shoes pinch me",
+    "k": "chesnouvieauxsouliersmepinchent",
+    "f": "thesenewshoespinchme"
   },
   {
     "j": "cheurque",
@@ -2011,15 +2479,9 @@ export const vocabData = [
   },
   {
     "j": "chi",
-    "e": "dear",
+    "e": "expensive, dear",
     "k": "chi",
-    "f": "dear"
-  },
-  {
-    "j": "chi",
-    "e": "expensive",
-    "k": "chi",
-    "f": "expensive"
+    "f": "expensive,dear"
   },
   {
     "j": "chiffonner",
@@ -2028,8 +2490,8 @@ export const vocabData = [
     "f": "todust"
   },
   {
-    "j": "Chile",
-    "e": "Chile",
+    "j": "chile",
+    "e": "chile",
     "k": "chile",
     "f": "chile"
   },
@@ -2040,8 +2502,20 @@ export const vocabData = [
     "f": "concrete"
   },
   {
-    "j": "Chinne",
-    "e": "China",
+    "j": "chîn louis",
+    "e": "five pounds (£5)",
+    "k": "chinlouis",
+    "f": "fivepounds(£5)"
+  },
+  {
+    "j": "chîn pénîns",
+    "e": "five pence",
+    "k": "chinpenins",
+    "f": "fivepence"
+  },
+  {
+    "j": "chinne",
+    "e": "china",
     "k": "chinne",
     "f": "china"
   },
@@ -2052,16 +2526,58 @@ export const vocabData = [
     "f": "five"
   },
   {
-    "j": "chînquante tch'ieune",
-    "e": "fifty one",
-    "k": "chinquantetchieune",
-    "f": "fiftyone"
+    "j": "chînq minnutes dé douze",
+    "e": "five to twelve",
+    "k": "chinqminnutesdedouze",
+    "f": "fivetotwelve"
+  },
+  {
+    "j": "chînq minnutes dé sept",
+    "e": "five to seven",
+    "k": "chinqminnutesdesept",
+    "f": "fivetoseven"
   },
   {
     "j": "chînquante",
     "e": "fifty",
     "k": "chinquante",
     "f": "fifty"
+  },
+  {
+    "j": "chînquante louis",
+    "e": "fifty pounds (£50)",
+    "k": "chinquantelouis",
+    "f": "fiftypounds(£50)"
+  },
+  {
+    "j": "chînquante pénîns",
+    "e": "fifty pence",
+    "k": "chinquantepenins",
+    "f": "fiftypence"
+  },
+  {
+    "j": "chînquante tch'ieune",
+    "e": "fifty one",
+    "k": "chinquantetchieune",
+    "f": "fiftyone"
+  },
+  {
+    "j": "chîntch’heuthes",
+    "e": "five o'clock",
+    "k": "chintchheuthes",
+    "f": "fiveoclock"
+  },
+  {
+    "j": "chîntch’heuthes chînq",
+    "e": "five past five",
+    "k": "chintchheutheschinq",
+    "f": "fivepastfive"
+  },
+  {
+    "j": "chîntch’heuthes et d’mie",
+    "e": "half past five",
+    "k": "chintchheuthesetdmie",
+    "f": "halfpastfive"
   },
   {
     "j": "chîsé",
@@ -2143,7 +2659,7 @@ export const vocabData = [
   },
   {
     "j": "chrêtchien",
-    "e": "Christian",
+    "e": "christian",
     "k": "chretchien",
     "f": "christian"
   },
@@ -2160,18 +2676,6 @@ export const vocabData = [
     "f": "chrysanthemum"
   },
   {
-    "j": "ch't' année",
-    "e": "this year",
-    "k": "chtannee",
-    "f": "thisyear"
-  },
-  {
-    "j": "ch't' arlévée",
-    "e": "this afternoon",
-    "k": "chtarlevee",
-    "f": "thisafternoon"
-  },
-  {
     "j": "chuchot",
     "e": "dummy",
     "k": "chuchot",
@@ -2184,10 +2688,40 @@ export const vocabData = [
     "f": "whisper"
   },
   {
-    "j": "Chypre",
-    "e": "Cyprus",
+    "j": "chypre",
+    "e": "cyprus",
     "k": "chypre",
     "f": "cyprus"
+  },
+  {
+    "j": "ch’est un bieau fro qué tu’as mîns",
+    "e": "that’s a nice dress you’ve got on",
+    "k": "chestunbieaufroquetuasmins",
+    "f": "thatsanicedressyouvegoton"
+  },
+  {
+    "j": "ch’est un vrai d’luge",
+    "e": "it’s a real downpour",
+    "k": "chestunvraidluge",
+    "f": "itsarealdownpour"
+  },
+  {
+    "j": "ch’est...",
+    "e": "it’s....",
+    "k": "chest...",
+    "f": "its...."
+  },
+  {
+    "j": "ch’fut eune bouonne gamme",
+    "e": "it was a good game",
+    "k": "chfuteunebouonnegamme",
+    "f": "itwasagoodgame"
+  },
+  {
+    "j": "ch’n’est qu’eune êcouocheuse",
+    "e": "it’s only a bruise",
+    "k": "chnestqueuneecouocheuse",
+    "f": "itsonlyabruise"
   },
   {
     "j": "cinnéma",
@@ -2208,15 +2742,15 @@ export const vocabData = [
     "f": "toslapintheface"
   },
   {
-    "j": "cliamûser la becque",
-    "e": "to slap in the face",
-    "k": "cliamuserlabecque",
-    "f": "toslapintheface"
-  },
-  {
     "j": "cliamûser l'mûsé",
     "e": "to slap in the face",
     "k": "cliamuserlmuse",
+    "f": "toslapintheface"
+  },
+  {
+    "j": "cliamûser la becque",
+    "e": "to slap in the face",
+    "k": "cliamuserlabecque",
     "f": "toslapintheface"
   },
   {
@@ -2232,22 +2766,16 @@ export const vocabData = [
     "f": "lap"
   },
   {
+    "j": "cliatchi",
+    "e": "slap, slam",
+    "k": "cliatchi",
+    "f": "slap,slam"
+  },
+  {
     "j": "cliatchi eune paffe",
     "e": "to slap",
     "k": "cliatchieunepaffe",
     "f": "toslap"
-  },
-  {
-    "j": "cliatchi",
-    "e": "slam",
-    "k": "cliatchi",
-    "f": "slam"
-  },
-  {
-    "j": "cliatchi",
-    "e": "slap",
-    "k": "cliatchi",
-    "f": "slap"
   },
   {
     "j": "clié à êcrouettes",
@@ -2256,8 +2784,8 @@ export const vocabData = [
     "f": "spanner"
   },
   {
-    "j": "Cliément",
-    "e": "Clement",
+    "j": "cliément",
+    "e": "clement",
     "k": "cliement",
     "f": "clement"
   },
@@ -2292,16 +2820,16 @@ export const vocabData = [
     "f": "topaste,tostick"
   },
   {
-    "j": "clobe d'niet",
-    "e": "nightclub",
-    "k": "clobedniet",
-    "f": "nightclub"
-  },
-  {
     "j": "clobe",
     "e": "club (associâtion)",
     "k": "clobe",
     "f": "club(association)"
+  },
+  {
+    "j": "clobe d'niet",
+    "e": "nightclub",
+    "k": "clobedniet",
+    "f": "nightclub"
   },
   {
     "j": "clyîncailli",
@@ -2311,15 +2839,9 @@ export const vocabData = [
   },
   {
     "j": "clyinn'ter",
-    "e": "to blink",
+    "e": "wink, to blink",
     "k": "clyinnter",
-    "f": "toblink"
-  },
-  {
-    "j": "clyinn'ter",
-    "e": "wink",
-    "k": "clyinnter",
-    "f": "wink"
+    "f": "wink,toblink"
   },
   {
     "j": "clyiquer",
@@ -2328,16 +2850,10 @@ export const vocabData = [
     "f": "toclick"
   },
   {
-    "j": "c'mander",
-    "e": "to command",
-    "k": "cmander",
-    "f": "tocommand"
-  },
-  {
-    "j": "c'menchi",
-    "e": "begin",
-    "k": "cmenchi",
-    "f": "begin"
+    "j": "co-d'piêter",
+    "e": "to kick",
+    "k": "codpieter",
+    "f": "tokick"
   },
   {
     "j": "coco",
@@ -2358,12 +2874,6 @@ export const vocabData = [
     "f": "chuck,chicken"
   },
   {
-    "j": "co-d'piêter",
-    "e": "to kick",
-    "k": "codpieter",
-    "f": "tokick"
-  },
-  {
     "j": "codpîser",
     "e": "to kick",
     "k": "codpiser",
@@ -2382,14 +2892,14 @@ export const vocabData = [
     "f": "glue"
   },
   {
-    "j": "Colombie",
-    "e": "Colombia",
+    "j": "colombie",
+    "e": "colombia",
     "k": "colombie",
     "f": "colombia"
   },
   {
-    "j": "Colombie Britannique",
-    "e": "British Columbia",
+    "j": "colombie britannique",
+    "e": "british columbia",
     "k": "colombiebritannique",
     "f": "britishcolumbia"
   },
@@ -2400,8 +2910,62 @@ export const vocabData = [
     "f": "howmuchisit?"
   },
   {
-    "j": "Comores",
-    "e": "Comoros",
+    "j": "combein qu'i' y'a d'...?",
+    "e": "how many ... are there?",
+    "k": "combeinquiyad...?",
+    "f": "howmany...arethere?"
+  },
+  {
+    "j": "combein qu’est chennechîn?",
+    "e": "how much is this?",
+    "k": "combeinquestchennechin?",
+    "f": "howmuchisthis?"
+  },
+  {
+    "j": "combein qu’est un titchet pouor l’aéroport?",
+    "e": "how much is a ticket for the airport?",
+    "k": "combeinquestuntitchetpouorlaeroport?",
+    "f": "howmuchisaticketfortheairport?"
+  },
+  {
+    "j": "comme chennechîn",
+    "e": "like this",
+    "k": "commechennechin",
+    "f": "likethis"
+  },
+  {
+    "j": "comme est qu'ous êtes?",
+    "e": "how are you? (formal)",
+    "k": "commeestquousetes?",
+    "f": "howareyou?(formal)"
+  },
+  {
+    "j": "comme est qu'tu'es?",
+    "e": "how are you? (informal)",
+    "k": "commeestqutues?",
+    "f": "howareyou?(informal)"
+  },
+  {
+    "j": "comme eune vielle",
+    "e": "like an old woman",
+    "k": "commeeunevielle",
+    "f": "likeanoldwoman"
+  },
+  {
+    "j": "comme lé temps",
+    "e": "like the weather",
+    "k": "commeletemps",
+    "f": "liketheweather"
+  },
+  {
+    "j": "comme un vyi",
+    "e": "like an old man",
+    "k": "commeunvyi",
+    "f": "likeanoldman"
+  },
+  {
+    "j": "comores",
+    "e": "comoros",
     "k": "comores",
     "f": "comoros"
   },
@@ -2442,22 +3006,22 @@ export const vocabData = [
     "f": "toconfiscate"
   },
   {
-    "j": "Congo",
-    "e": "Congo",
+    "j": "congo",
+    "e": "congo",
     "k": "congo",
     "f": "congo"
-  },
-  {
-    "j": "connaître dé veue",
-    "e": "to know by sight",
-    "k": "connaitredeveue",
-    "f": "toknowbysight"
   },
   {
     "j": "connaître",
     "e": "know",
     "k": "connaitre",
     "f": "know"
+  },
+  {
+    "j": "connaître dé veue",
+    "e": "to know by sight",
+    "k": "connaitredeveue",
+    "f": "toknowbysight"
   },
   {
     "j": "considéther",
@@ -2484,6 +3048,12 @@ export const vocabData = [
     "f": "tobuild"
   },
   {
+    "j": "cont'nîn",
+    "e": "contain",
+    "k": "contnin",
+    "f": "contain"
+  },
+  {
     "j": "contagieux",
     "e": "contagious",
     "k": "contagieux",
@@ -2500,12 +3070,6 @@ export const vocabData = [
     "e": "continue",
     "k": "continnuer",
     "f": "continue"
-  },
-  {
-    "j": "cont'nîn",
-    "e": "contain",
-    "k": "contnin",
-    "f": "contain"
   },
   {
     "j": "contré-riveûthe",
@@ -2568,14 +3132,14 @@ export const vocabData = [
     "f": "shoeshop"
   },
   {
-    "j": "Corée du Nord",
-    "e": "North Korea",
+    "j": "corée du nord",
+    "e": "north korea",
     "k": "coreedunord",
     "f": "northkorea"
   },
   {
-    "j": "Corée du Sud",
-    "e": "South Korea",
+    "j": "corée du sud",
+    "e": "south korea",
     "k": "coreedusud",
     "f": "southkorea"
   },
@@ -2592,8 +3156,8 @@ export const vocabData = [
     "f": "tocurl"
   },
   {
-    "j": "Cornouaille",
-    "e": "Cornwall",
+    "j": "cornouaille",
+    "e": "cornwall",
     "k": "cornouaille",
     "f": "cornwall"
   },
@@ -2604,20 +3168,20 @@ export const vocabData = [
     "f": "tobribe"
   },
   {
-    "j": "Costa Rica",
-    "e": "Costa Rica",
+    "j": "costa rica",
+    "e": "costa rica",
     "k": "costarica",
     "f": "costarica"
   },
   {
-    "j": "Côte d'Iviéthe",
-    "e": "Côte d'Ivoire",
+    "j": "côte d'iviéthe",
+    "e": "côte d'ivoire",
     "k": "cotediviethe",
     "f": "cotedivoire"
   },
   {
-    "j": "Cotentîn",
-    "e": "Cotentin",
+    "j": "cotentîn",
+    "e": "cotentin",
     "k": "cotentin",
     "f": "cotentin"
   },
@@ -2628,16 +3192,16 @@ export const vocabData = [
     "f": "cotton"
   },
   {
-    "j": "couarder",
-    "e": "cluck",
-    "k": "couarder",
-    "f": "cluck"
-  },
-  {
     "j": "cou-cou",
     "e": "peep-ho",
     "k": "coucou",
     "f": "peepho"
+  },
+  {
+    "j": "couarder",
+    "e": "cluck",
+    "k": "couarder",
+    "f": "cluck"
   },
   {
     "j": "coul'rêsse",
@@ -2652,6 +3216,12 @@ export const vocabData = [
     "f": "lay"
   },
   {
+    "j": "couôrre",
+    "e": "to tack, run",
+    "k": "couorre",
+    "f": "totack,run"
+  },
+  {
     "j": "couôrre à tèrre, êchouer",
     "e": "run aground",
     "k": "couorreaterre,echouer",
@@ -2662,18 +3232,6 @@ export const vocabData = [
     "e": "make a tack",
     "k": "couorreeunebordee",
     "f": "makeatack"
-  },
-  {
-    "j": "couôrre",
-    "e": "run",
-    "k": "couorre",
-    "f": "run"
-  },
-  {
-    "j": "couôrre",
-    "e": "to tack",
-    "k": "couorre",
-    "f": "totack"
   },
   {
     "j": "couôter",
@@ -2724,8 +3282,8 @@ export const vocabData = [
     "f": "short"
   },
   {
-    "j": "Coutanches",
-    "e": "Coutances",
+    "j": "coutanches",
+    "e": "coutances",
     "k": "coutanches",
     "f": "coutances"
   },
@@ -2764,6 +3322,12 @@ export const vocabData = [
     "e": "cutlery",
     "k": "coutelllie",
     "f": "cutlery"
+  },
+  {
+    "j": "crai-tu qué...?",
+    "e": "do you think...?",
+    "k": "craituque...?",
+    "f": "doyouthink...?"
   },
   {
     "j": "craîncheux",
@@ -2838,12 +3402,6 @@ export const vocabData = [
     "f": "creamy"
   },
   {
-    "j": "crépi",
-    "e": "crawl",
-    "k": "crepi",
-    "f": "crawl"
-  },
-  {
     "j": "crêp'ler",
     "e": "to frizz",
     "k": "crepler",
@@ -2856,10 +3414,22 @@ export const vocabData = [
     "f": "frizzy"
   },
   {
-    "j": "Crête",
-    "e": "Crete",
+    "j": "crépi",
+    "e": "crawl",
+    "k": "crepi",
+    "f": "crawl"
+  },
+  {
+    "j": "crête",
+    "e": "crete",
     "k": "crete",
     "f": "crete"
+  },
+  {
+    "j": "créthêt’-ous qué...?",
+    "e": "would you believe...?",
+    "k": "crethetousque...?",
+    "f": "wouldyoubelieve...?"
   },
   {
     "j": "creuser",
@@ -2916,14 +3486,20 @@ export const vocabData = [
     "f": "crystal"
   },
   {
+    "j": "criy’-ous qué...?",
+    "e": "do you think...?",
+    "k": "criyousque...?",
+    "f": "doyouthink...?"
+  },
+  {
     "j": "cro à patates",
     "e": "potato fork",
     "k": "croapatates",
     "f": "potatofork"
   },
   {
-    "j": "Croatie",
-    "e": "Croatia",
+    "j": "croatie",
+    "e": "croatia",
     "k": "croatie",
     "f": "croatia"
   },
@@ -2946,8 +3522,8 @@ export const vocabData = [
     "f": "tobreaktheshell"
   },
   {
-    "j": "Cuba",
-    "e": "Cuba",
+    "j": "cuba",
+    "e": "cuba",
     "k": "cuba",
     "f": "cuba"
   },
@@ -2964,6 +3540,1146 @@ export const vocabData = [
     "f": "cypresswood"
   },
   {
+    "j": "d'battre",
+    "e": "to whisk",
+    "k": "dbattre",
+    "f": "towhisk"
+  },
+  {
+    "j": "d'fendre",
+    "e": "to defend",
+    "k": "dfendre",
+    "f": "todefend"
+  },
+  {
+    "j": "d'l'ache, du céléri sauvage",
+    "e": "wild celery",
+    "k": "dlache,ducelerisauvage",
+    "f": "wildcelery"
+  },
+  {
+    "j": "d'l'alisandre",
+    "e": "alexanders",
+    "k": "dlalisandre",
+    "f": "alexanders"
+  },
+  {
+    "j": "d'l'aloé",
+    "e": "aloe",
+    "k": "dlaloe",
+    "f": "aloe"
+  },
+  {
+    "j": "d'l'alysson",
+    "e": "sweet alison",
+    "k": "dlalysson",
+    "f": "sweetalison"
+  },
+  {
+    "j": "d'l'ambrais",
+    "e": "wood sage",
+    "k": "dlambrais",
+    "f": "woodsage"
+  },
+  {
+    "j": "d'l'amièrdoux (m), la douoche-améthe, du mèrdou",
+    "e": "bittersweet, woody nightshade",
+    "k": "dlamierdoux(m),ladouocheamethe,dumerdou",
+    "f": "bittersweet,woodynightshade"
+  },
+  {
+    "j": "d'l'ancelée d'falaise",
+    "e": "sea plantain",
+    "k": "dlanceleedfalaise",
+    "f": "seaplantain"
+  },
+  {
+    "j": "d'l'ancelée, des né têtes, d's ouothelles dé lapîn",
+    "e": "ribwort plantain",
+    "k": "dlancelee,desnetetes,dsouothellesdelapin",
+    "f": "ribwortplantain"
+  },
+  {
+    "j": "d'l'apathitouaithe",
+    "e": "pellitory-of-the-wall",
+    "k": "dlapathitouaithe",
+    "f": "pellitoryofthewall"
+  },
+  {
+    "j": "d'l'aphrasie",
+    "e": "western eyebright",
+    "k": "dlaphrasie",
+    "f": "westerneyebright"
+  },
+  {
+    "j": "d'l'arbre à lupîns",
+    "e": "tree lupin",
+    "k": "dlarbrealupins",
+    "f": "treelupin"
+  },
+  {
+    "j": "d'l'ardouaise",
+    "e": "slate",
+    "k": "dlardouaise",
+    "f": "slate"
+  },
+  {
+    "j": "d'l'argent",
+    "e": "snow-in-summer",
+    "k": "dlargent",
+    "f": "snowinsummer"
+  },
+  {
+    "j": "d'l'argentinne",
+    "e": "argentum or shrubby orache",
+    "k": "dlargentinne",
+    "f": "argentumorshrubbyorache"
+  },
+  {
+    "j": "d'l'as sauvage",
+    "e": "three-cornered leek, crow garlic",
+    "k": "dlassauvage",
+    "f": "threecorneredleek,crowgarlic"
+  },
+  {
+    "j": "d'l'aspèrge",
+    "e": "asparagus",
+    "k": "dlasperge",
+    "f": "asparagus"
+  },
+  {
+    "j": "d'l'êcappillon",
+    "e": "loose vraic",
+    "k": "dlecappillon",
+    "f": "loosevraic"
+  },
+  {
+    "j": "d'l'êcaûffîn",
+    "e": "heat rash",
+    "k": "dlecauffin",
+    "f": "heatrash"
+  },
+  {
+    "j": "d'l'enchens",
+    "e": "red dead-nettle",
+    "k": "dlenchens",
+    "f": "reddeadnettle"
+  },
+  {
+    "j": "d'l'èpinne-vinnette",
+    "e": "barberry",
+    "k": "dlepinnevinnette",
+    "f": "barberry"
+  },
+  {
+    "j": "d'l'escorvie",
+    "e": "danish scurvygrass",
+    "k": "dlescorvie",
+    "f": "danishscurvygrass"
+  },
+  {
+    "j": "d'l'hèrbe à la danme",
+    "e": "wild clary",
+    "k": "dlherbealadanme",
+    "f": "wildclary"
+  },
+  {
+    "j": "d'l'hèrbe à mille noueds",
+    "e": "corn spurrey",
+    "k": "dlherbeamillenoueds",
+    "f": "cornspurrey"
+  },
+  {
+    "j": "d'l'hèrbe à moutons",
+    "e": "sheep's fescue",
+    "k": "dlherbeamoutons",
+    "f": "sheepsfescue"
+  },
+  {
+    "j": "d'l'hèrbe à paralysie",
+    "e": "tormentil",
+    "k": "dlherbeaparalysie",
+    "f": "tormentil"
+  },
+  {
+    "j": "d'l'hèrbe à poules",
+    "e": "annual meadow-grass",
+    "k": "dlherbeapoules",
+    "f": "annualmeadowgrass"
+  },
+  {
+    "j": "d'l'hèrbe à puches",
+    "e": "blue fleabane",
+    "k": "dlherbeapuches",
+    "f": "bluefleabane"
+  },
+  {
+    "j": "d'l'hèrbe à sang , du sang d'dragon, d'la doque à sang, des fielles à sang",
+    "e": "wood dock",
+    "k": "dlherbeasang,dusangddragon,dladoqueasang,desfiellesasang",
+    "f": "wooddock"
+  },
+  {
+    "j": "d'l'hèrbe à tchilieuvre, du fliancouais, des prannants",
+    "e": "cleavers, goosegrass",
+    "k": "dlherbeatchilieuvre,dufliancouais,desprannants",
+    "f": "cleavers,goosegrass"
+  },
+  {
+    "j": "d'l'hèrbe à teindre",
+    "e": "weld",
+    "k": "dlherbeateindre",
+    "f": "weld"
+  },
+  {
+    "j": "d'l'hèrbe à véthues",
+    "e": "petty spurge, greater celandine",
+    "k": "dlherbeavethues",
+    "f": "pettyspurge,greatercelandine"
+  },
+  {
+    "j": "d'l'hèrbe à véthues, du lait d'tchilieuvre",
+    "e": "sun spurge",
+    "k": "dlherbeavethues,dulaitdtchilieuvre",
+    "f": "sunspurge"
+  },
+  {
+    "j": "d'l'hèrbe b'nêt",
+    "e": "wood avens",
+    "k": "dlherbebnet",
+    "f": "woodavens"
+  },
+  {
+    "j": "d'l'hèrbe d'chorchi",
+    "e": "caper spurge",
+    "k": "dlherbedchorchi",
+    "f": "caperspurge"
+  },
+  {
+    "j": "d'l'hèrbe d'grâce",
+    "e": "vervain",
+    "k": "dlherbedgrace",
+    "f": "vervain"
+  },
+  {
+    "j": "d'l'hèrbe d'pithot",
+    "e": "common duckweed",
+    "k": "dlherbedpithot",
+    "f": "commonduckweed"
+  },
+  {
+    "j": "d'l'hèrbe d'pré",
+    "e": "spreading meadow-grass",
+    "k": "dlherbedpre",
+    "f": "spreadingmeadowgrass"
+  },
+  {
+    "j": "d'l'hèrbe d'st jean",
+    "e": "mugwort",
+    "k": "dlherbedstjean",
+    "f": "mugwort"
+  },
+  {
+    "j": "d'l'hèrbe d'st martin, d'la centaurée",
+    "e": "common centaury",
+    "k": "dlherbedstmartin,dlacentauree",
+    "f": "commoncentaury"
+  },
+  {
+    "j": "d'l'hèrbe des veuves",
+    "e": "autumn crocus",
+    "k": "dlherbedesveuves",
+    "f": "autumncrocus"
+  },
+  {
+    "j": "d'l'hèrbe italienne",
+    "e": "italian rye-grass",
+    "k": "dlherbeitalienne",
+    "f": "italianryegrass"
+  },
+  {
+    "j": "d'l'hèrbe pèrpétuelle",
+    "e": "perennial rye-grass",
+    "k": "dlherbeperpetuelle",
+    "f": "perennialryegrass"
+  },
+  {
+    "j": "d'l'hèrbi",
+    "e": "grass-wrack, zostera marina",
+    "k": "dlherbi",
+    "f": "grasswrack,zosteramarina"
+  },
+  {
+    "j": "d'l'ivraie",
+    "e": "halidrys siliquosa",
+    "k": "dlivraie",
+    "f": "halidryssiliquosa"
+  },
+  {
+    "j": "d'l'ordgi ou d'l'ordgi d'gardîn",
+    "e": "london pride",
+    "k": "dlordgioudlordgidgardin",
+    "f": "londonpride"
+  },
+  {
+    "j": "d'l'ortchie puante, d'l'hèbe d'couochon, d'l'enchens",
+    "e": "hedge woundwort",
+    "k": "dlortchiepuante,dlhebedcouochon,dlenchens",
+    "f": "hedgewoundwort"
+  },
+  {
+    "j": "d'l'orvale",
+    "e": "marsh woundwort, balm-leaved figwort",
+    "k": "dlorvale",
+    "f": "marshwoundwort,balmleavedfigwort"
+  },
+  {
+    "j": "d'l'ôsyi",
+    "e": "osier",
+    "k": "dlosyi",
+    "f": "osier"
+  },
+  {
+    "j": "d'la bague",
+    "e": "haw",
+    "k": "dlabague",
+    "f": "haw"
+  },
+  {
+    "j": "d'la barbe d'vièr bouonhomme",
+    "e": "traveller's joy",
+    "k": "dlabarbedvierbouonhomme",
+    "f": "travellersjoy"
+  },
+  {
+    "j": "d'la bédaine",
+    "e": "fucus vesiculosus",
+    "k": "dlabedaine",
+    "f": "fucusvesiculosus"
+  },
+  {
+    "j": "d'la bédanne",
+    "e": "fucus vesiculosus",
+    "k": "dlabedanne",
+    "f": "fucusvesiculosus"
+  },
+  {
+    "j": "d'la bêle",
+    "e": "fool's water-cress",
+    "k": "dlabele",
+    "f": "foolswatercress"
+  },
+  {
+    "j": "d'la bêle, du louothigan",
+    "e": "brooklime",
+    "k": "dlabele,dulouothigan",
+    "f": "brooklime"
+  },
+  {
+    "j": "d'la bênarde",
+    "e": "hemlock",
+    "k": "dlabenarde",
+    "f": "hemlock"
+  },
+  {
+    "j": "d'la bênarde, du painfais",
+    "e": "hogweed",
+    "k": "dlabenarde,dupainfais",
+    "f": "hogweed"
+  },
+  {
+    "j": "d'la blianche êpîngne",
+    "e": "hawthorn",
+    "k": "dlabliancheepingne",
+    "f": "hawthorn"
+  },
+  {
+    "j": "d'la blianche orme, d'l'orme dgèrnésy, d'l'orme dgèrnésiaise",
+    "e": "hybrid or dutch elm",
+    "k": "dlabliancheorme,dlormedgernesy,dlormedgernesiaise",
+    "f": "hybridordutchelm"
+  },
+  {
+    "j": "d'la blianche s'nîle",
+    "e": "fat hen",
+    "k": "dlablianchesnile",
+    "f": "fathen"
+  },
+  {
+    "j": "d'la blianche-ortchie",
+    "e": "white dead-nettle",
+    "k": "dlabliancheortchie",
+    "f": "whitedeadnettle"
+  },
+  {
+    "j": "d'la bliu-pièrre",
+    "e": "shale",
+    "k": "dlabliupierre",
+    "f": "shale"
+  },
+  {
+    "j": "d'la bourdonniéthe",
+    "e": "common knapweed",
+    "k": "dlabourdonniethe",
+    "f": "commonknapweed"
+  },
+  {
+    "j": "d'la bourse",
+    "e": "keeled cornsalad, common cornsalad",
+    "k": "dlabourse",
+    "f": "keeledcornsalad,commoncornsalad"
+  },
+  {
+    "j": "d'la bourse, du pid d'ouaîthé",
+    "e": "shepherd's purse",
+    "k": "dlabourse,dupiddouaithe",
+    "f": "shepherdspurse"
+  },
+  {
+    "j": "d'la bruëthe",
+    "e": "cross-leaved heath",
+    "k": "dlabruethe",
+    "f": "crossleavedheath"
+  },
+  {
+    "j": "d'la brüethe",
+    "e": "heather, bell heather",
+    "k": "dlabruethe",
+    "f": "heather,bellheather"
+  },
+  {
+    "j": "d'la canârie",
+    "e": "canary-grass",
+    "k": "dlacanarie",
+    "f": "canarygrass"
+  },
+  {
+    "j": "d'la canârie, d'l'hèrbe à pithot",
+    "e": "cockspur",
+    "k": "dlacanarie,dlherbeapithot",
+    "f": "cockspur"
+  },
+  {
+    "j": "d'la canmiéthe",
+    "e": "camomile",
+    "k": "dlacanmiethe",
+    "f": "camomile"
+  },
+  {
+    "j": "d'la capuchinne",
+    "e": "nasturtium",
+    "k": "dlacapuchinne",
+    "f": "nasturtium"
+  },
+  {
+    "j": "d'la cârotte sauvage",
+    "e": "wild carrot",
+    "k": "dlacarottesauvage",
+    "f": "wildcarrot"
+  },
+  {
+    "j": "d'la cassidonne, d'l'aspi",
+    "e": "spike lavender, french lavender",
+    "k": "dlacassidonne,dlaspi",
+    "f": "spikelavender,frenchlavender"
+  },
+  {
+    "j": "d'la catte",
+    "e": "worm for bait",
+    "k": "dlacatte",
+    "f": "wormforbait"
+  },
+  {
+    "j": "d'la chicôrée sauvage",
+    "e": "chicory",
+    "k": "dlachicoreesauvage",
+    "f": "chicory"
+  },
+  {
+    "j": "d'la chrysanthème au dgiâbl'ye",
+    "e": "deadly nightshade",
+    "k": "dlachrysanthemeaudgiablye",
+    "f": "deadlynightshade"
+  },
+  {
+    "j": "d'la chue",
+    "e": "hemlock water-dropwort",
+    "k": "dlachue",
+    "f": "hemlockwaterdropwort"
+  },
+  {
+    "j": "d'la cliaque",
+    "e": "sea lettuce, green laver, purple laver, etc., ulva lactuca, enteromorpha intestinalis, porphyra laciniata",
+    "k": "dlacliaque",
+    "f": "sealettuce,greenlaver,purplelaver,etc.,ulvalactuca,enteromorphaintestinalis,porphyralaciniata"
+  },
+  {
+    "j": "d'la cliouque",
+    "e": "sea lettuce, green laver, purple laver, etc., ulva lactuca, enteromorpha intestinalis, porphyra laciniata",
+    "k": "dlacliouque",
+    "f": "sealettuce,greenlaver,purplelaver,etc.,ulvalactuca,enteromorphaintestinalis,porphyralaciniata"
+  },
+  {
+    "j": "d'la cône dé chèr",
+    "e": "swine-cress, buck's-horn plantain",
+    "k": "dlaconedecher",
+    "f": "swinecress,buckshornplantain"
+  },
+  {
+    "j": "d'la console",
+    "e": "russian comfrey",
+    "k": "dlaconsole",
+    "f": "russiancomfrey"
+  },
+  {
+    "j": "d'la coue",
+    "e": "timothy",
+    "k": "dlacoue",
+    "f": "timothy"
+  },
+  {
+    "j": "d'la coue d'rat",
+    "e": "horsetail",
+    "k": "dlacouedrat",
+    "f": "horsetail"
+  },
+  {
+    "j": "d'la coue dé r'nard",
+    "e": "spotted orchids",
+    "k": "dlacouedernard",
+    "f": "spottedorchids"
+  },
+  {
+    "j": "d'la craqu'linne, des croqu'sîngnoles",
+    "e": "cracknel",
+    "k": "dlacraqulinne,descroqusingnoles",
+    "f": "cracknel"
+  },
+  {
+    "j": "d'la dgeule-dé-lion",
+    "e": "snapdragon",
+    "k": "dladgeuledelion",
+    "f": "snapdragon"
+  },
+  {
+    "j": "d'la droe",
+    "e": "soft-brome, great brome, barren brome",
+    "k": "dladroe",
+    "f": "softbrome,greatbrome,barrenbrome"
+  },
+  {
+    "j": "d'la faie",
+    "e": "liver",
+    "k": "dlafaie",
+    "f": "liver"
+  },
+  {
+    "j": "d'la feûgiéthe",
+    "e": "bracken",
+    "k": "dlafeugiethe",
+    "f": "bracken"
+  },
+  {
+    "j": "d'la finne hèrbe, d'l'adgulle, d'la barbe d'lièvre, d'l'hèrbe ès anges",
+    "e": "silvery hair-grass",
+    "k": "dlafinneherbe,dladgulle,dlabarbedlievre,dlherbeesanges",
+    "f": "silveryhairgrass"
+  },
+  {
+    "j": "d'la finnetèrre",
+    "e": "boreau's ramping-fumitory",
+    "k": "dlafinneterre",
+    "f": "boreausrampingfumitory"
+  },
+  {
+    "j": "d'la grainne",
+    "e": "seed",
+    "k": "dlagrainne",
+    "f": "seed"
+  },
+  {
+    "j": "d'la graisse",
+    "e": "vraic (as fertiliser)",
+    "k": "dlagraisse",
+    "f": "vraic(asfertiliser)"
+  },
+  {
+    "j": "d'la grand' suthelle",
+    "e": "common sorrel",
+    "k": "dlagrandsuthelle",
+    "f": "commonsorrel"
+  },
+  {
+    "j": "d'la grappue",
+    "e": "western gorse",
+    "k": "dlagrappue",
+    "f": "westerngorse"
+  },
+  {
+    "j": "d'la grâsse-g'linne",
+    "e": "purple viper's-bugloss",
+    "k": "dlagrasseglinne",
+    "f": "purplevipersbugloss"
+  },
+  {
+    "j": "d'la grosse chèrvette",
+    "e": "prawns",
+    "k": "dlagrossechervette",
+    "f": "prawns"
+  },
+  {
+    "j": "d'la hannebanne",
+    "e": "henbane",
+    "k": "dlahannebanne",
+    "f": "henbane"
+  },
+  {
+    "j": "d'la jalousie sauvage",
+    "e": "hemp agrimony",
+    "k": "dlajalousiesauvage",
+    "f": "hempagrimony"
+  },
+  {
+    "j": "d'la jombarbe",
+    "e": "houseleek",
+    "k": "dlajombarbe",
+    "f": "houseleek"
+  },
+  {
+    "j": "d'la julienne",
+    "e": "sea rocket",
+    "k": "dlajulienne",
+    "f": "searocket"
+  },
+  {
+    "j": "d'la langue dé belle-méthe",
+    "e": "mother-in-law's tongue",
+    "k": "dlalanguedebellemethe",
+    "f": "motherinlawstongue"
+  },
+  {
+    "j": "d'la langue dé boeu",
+    "e": "hart's-tongue",
+    "k": "dlalanguedeboeu",
+    "f": "hartstongue"
+  },
+  {
+    "j": "d'la langue dé tchian",
+    "e": "hound's tongue",
+    "k": "dlalanguedetchian",
+    "f": "houndstongue"
+  },
+  {
+    "j": "d'la lavande",
+    "e": "common lavender",
+    "k": "dlalavande",
+    "f": "commonlavender"
+  },
+  {
+    "j": "d'la lavande cotonnée",
+    "e": "lavender cotton",
+    "k": "dlalavandecotonnee",
+    "f": "lavendercotton"
+  },
+  {
+    "j": "d'la lianne, d'l'hèrbe à puches, d'l'absînthe",
+    "e": "wormwood",
+    "k": "dlalianne,dlherbeapuches,dlabsinthe",
+    "f": "wormwood"
+  },
+  {
+    "j": "d'la livre-dé-beurre",
+    "e": "globe flower",
+    "k": "dlalivredebeurre",
+    "f": "globeflower"
+  },
+  {
+    "j": "d'la lûzèrne",
+    "e": "lucerne",
+    "k": "dlaluzerne",
+    "f": "lucerne"
+  },
+  {
+    "j": "d'la lûzèrne en faûcil'ye",
+    "e": "sickle medick",
+    "k": "dlaluzerneenfaucilye",
+    "f": "sicklemedick"
+  },
+  {
+    "j": "d'la m'soûque",
+    "e": "sea mayweed, scentless mayweed, scented mayweed",
+    "k": "dlamsouque",
+    "f": "seamayweed,scentlessmayweed,scentedmayweed"
+  },
+  {
+    "j": "d'la menthe dé gardîn",
+    "e": "spear mint",
+    "k": "dlamenthedegardin",
+    "f": "spearmint"
+  },
+  {
+    "j": "d'la menthe sauvage",
+    "e": "water mint",
+    "k": "dlamenthesauvage",
+    "f": "watermint"
+  },
+  {
+    "j": "d'la molène",
+    "e": "great mullein, dark mullein",
+    "k": "dlamolene",
+    "f": "greatmullein,darkmullein"
+  },
+  {
+    "j": "d'la molle hèrbe",
+    "e": "yorkshire-fog, creeping soft-grass",
+    "k": "dlamolleherbe",
+    "f": "yorkshirefog,creepingsoftgrass"
+  },
+  {
+    "j": "d'la monnaie dé pape",
+    "e": "honesty",
+    "k": "dlamonnaiedepape",
+    "f": "honesty"
+  },
+  {
+    "j": "d'la nêle",
+    "e": "corncockle",
+    "k": "dlanele",
+    "f": "corncockle"
+  },
+  {
+    "j": "d'la néthe êpîngne, eune preunelle",
+    "e": "blackthorn, sloe",
+    "k": "dlanetheepingne,eunepreunelle",
+    "f": "blackthorn,sloe"
+  },
+  {
+    "j": "d'la p'tite chèrvette",
+    "e": "shrimps",
+    "k": "dlaptitechervette",
+    "f": "shrimps"
+  },
+  {
+    "j": "d'la p'tite chue",
+    "e": "fool's parsley",
+    "k": "dlaptitechue",
+    "f": "foolsparsley"
+  },
+  {
+    "j": "d'la p'tite g'linne",
+    "e": "bugloss",
+    "k": "dlaptiteglinne",
+    "f": "bugloss"
+  },
+  {
+    "j": "d'la p'tite mauve",
+    "e": "common mallow",
+    "k": "dlaptitemauve",
+    "f": "commonmallow"
+  },
+  {
+    "j": "d'la p'tite suthelle",
+    "e": "sheep's sorrel",
+    "k": "dlaptitesuthelle",
+    "f": "sheepssorrel"
+  },
+  {
+    "j": "d'la pais-flieur",
+    "e": "sweet pea",
+    "k": "dlapaisflieur",
+    "f": "sweetpea"
+  },
+  {
+    "j": "d'la pânnais sauvage",
+    "e": "wild parsnip",
+    "k": "dlapannaissauvage",
+    "f": "wildparsnip"
+  },
+  {
+    "j": "d'la pèrche-pièrre",
+    "e": "rock samphire",
+    "k": "dlaperchepierre",
+    "f": "rocksamphire"
+  },
+  {
+    "j": "d'la plîse",
+    "e": "eelgrass",
+    "k": "dlaplise",
+    "f": "eelgrass"
+  },
+  {
+    "j": "d'la pommiéthe, d'la pommeliéthe",
+    "e": "stinking hellebore",
+    "k": "dlapommiethe,dlapommeliethe",
+    "f": "stinkinghellebore"
+  },
+  {
+    "j": "d'la poudre d'or, du safran",
+    "e": "gold dust",
+    "k": "dlapoudredor,dusafran",
+    "f": "golddust"
+  },
+  {
+    "j": "d'la radiche à j'vaux",
+    "e": "horse-radish",
+    "k": "dlaradicheajvaux",
+    "f": "horseradish"
+  },
+  {
+    "j": "d'la reine-des-prés",
+    "e": "meadowsweet",
+    "k": "dlareinedespres",
+    "f": "meadowsweet"
+  },
+  {
+    "j": "d'la rose à sablion, la rose dé mielle",
+    "e": "burnet rose",
+    "k": "dlaroseasablion,larosedemielle",
+    "f": "burnetrose"
+  },
+  {
+    "j": "d'la rose sauvage",
+    "e": "sweet briar, dog rose",
+    "k": "dlarosesauvage",
+    "f": "sweetbriar,dogrose"
+  },
+  {
+    "j": "d'la rouoge orme, d'l'orme jèrri, d'l'orme jèrriaise",
+    "e": "small-leaved elm",
+    "k": "dlarouogeorme,dlormejerri,dlormejerriaise",
+    "f": "smallleavedelm"
+  },
+  {
+    "j": "d'la rouoge s'nîle, du rouoge pid",
+    "e": "many-seeded goosefoot",
+    "k": "dlarouogesnile,durouogepid",
+    "f": "manyseededgoosefoot"
+  },
+  {
+    "j": "d'la s'nîle traînante, s'nîle à pité, s'nîle dé route, s'nîle grappue, hèrbe traînante, hèrbe couothante",
+    "e": "knotgrass",
+    "k": "dlasniletrainante,snileapite,snilederoute,snilegrappue,herbetrainante,herbecouothante",
+    "f": "knotgrass"
+  },
+  {
+    "j": "d'la sèrpiliéthe, du pouoillot",
+    "e": "wild thyme",
+    "k": "dlaserpiliethe,dupouoillot",
+    "f": "wildthyme"
+  },
+  {
+    "j": "d'la sève",
+    "e": "sap",
+    "k": "dlaseve",
+    "f": "sap"
+  },
+  {
+    "j": "d'la soucique",
+    "e": "pot marigold",
+    "k": "dlasoucique",
+    "f": "potmarigold"
+  },
+  {
+    "j": "d'la stchinnancie",
+    "e": "heath milkwort",
+    "k": "dlastchinnancie",
+    "f": "heathmilkwort"
+  },
+  {
+    "j": "d'la t'naisie",
+    "e": "tansy",
+    "k": "dlatnaisie",
+    "f": "tansy"
+  },
+  {
+    "j": "d'la t'naisie, d'l'argentinne",
+    "e": "silverweed",
+    "k": "dlatnaisie,dlargentinne",
+    "f": "silverweed"
+  },
+  {
+    "j": "d'la tchèrpentchiéthe, l'hèrbe au tchèrpentchi",
+    "e": "yarrow",
+    "k": "dlatcherpentchiethe,lherbeautcherpentchi",
+    "f": "yarrow"
+  },
+  {
+    "j": "d'la têtue",
+    "e": "annual mercury",
+    "k": "dlatetue",
+    "f": "annualmercury"
+  },
+  {
+    "j": "d'la touothelle",
+    "e": "dodder",
+    "k": "dlatouothelle",
+    "f": "dodder"
+  },
+  {
+    "j": "d'la toute-saine",
+    "e": "tutsan",
+    "k": "dlatoutesaine",
+    "f": "tutsan"
+  },
+  {
+    "j": "d'la troène",
+    "e": "privet",
+    "k": "dlatroene",
+    "f": "privet"
+  },
+  {
+    "j": "d'la v'nîse",
+    "e": "white bait",
+    "k": "dlavnise",
+    "f": "whitebait"
+  },
+  {
+    "j": "d'la vèche",
+    "e": "vetch",
+    "k": "dlaveche",
+    "f": "vetch"
+  },
+  {
+    "j": "d'la vèrge d'or, d'la vèrgue d'or",
+    "e": "golden rod",
+    "k": "dlavergedor,dlaverguedor",
+    "f": "goldenrod"
+  },
+  {
+    "j": "d'la vèrte s'nîle",
+    "e": "nettle-leaved goosefoot",
+    "k": "dlavertesnile",
+    "f": "nettleleavedgoosefoot"
+  },
+  {
+    "j": "d'la violette d'êté",
+    "e": "hoary stock",
+    "k": "dlaviolettedete",
+    "f": "hoarystock"
+  },
+  {
+    "j": "d'la violette dé mielle",
+    "e": "sea stock",
+    "k": "dlaviolettedemielle",
+    "f": "seastock"
+  },
+  {
+    "j": "d'la violette sauvage, jaunes violettes, violettes d'hivé, violettes de gardin, la baume dé la résurrection, d'la girofliée, d'la giroufliée",
+    "e": "wallflower",
+    "k": "dlaviolettesauvage,jaunesviolettes,violettesdhive,violettesdegardin,labaumedelaresurrection,dlagirofliee,dlagiroufliee",
+    "f": "wallflower"
+  },
+  {
+    "j": "d'la vraicque",
+    "e": "pondweed (potamogeton sp.)",
+    "k": "dlavraicque",
+    "f": "pondweed(potamogetonsp.)"
+  },
+  {
+    "j": "d'livrer",
+    "e": "to deliver",
+    "k": "dlivrer",
+    "f": "todeliver"
+  },
+  {
+    "j": "d'main",
+    "e": "tomorrow",
+    "k": "dmain",
+    "f": "tomorrow"
+  },
+  {
+    "j": "d'main au matîn",
+    "e": "tomorrow morning",
+    "k": "dmainaumatin",
+    "f": "tomorrowmorning"
+  },
+  {
+    "j": "d'main au sé",
+    "e": "tomorrow evening",
+    "k": "dmainause",
+    "f": "tomorrowevening"
+  },
+  {
+    "j": "d'mander",
+    "e": "ask",
+    "k": "dmander",
+    "f": "ask"
+  },
+  {
+    "j": "d'meuther",
+    "e": "to live",
+    "k": "dmeuther",
+    "f": "tolive"
+  },
+  {
+    "j": "d'pichi",
+    "e": "break",
+    "k": "dpichi",
+    "f": "break"
+  },
+  {
+    "j": "d's aigrettes",
+    "e": "sneezewort",
+    "k": "dsaigrettes",
+    "f": "sneezewort"
+  },
+  {
+    "j": "d's âmes au mont, des mamonts, d's amômonts",
+    "e": "winter cherry",
+    "k": "dsamesaumont,desmamonts,dsamomonts",
+    "f": "wintercherry"
+  },
+  {
+    "j": "d's anchouais",
+    "e": "anchovy",
+    "k": "dsanchouais",
+    "f": "anchovy"
+  },
+  {
+    "j": "d's anémônes du bouais",
+    "e": "wood anemone",
+    "k": "dsanemonesdubouais",
+    "f": "woodanemone"
+  },
+  {
+    "j": "d's aulouoches, d's alouoches",
+    "e": "good king henry",
+    "k": "dsaulouoches,dsalouoches",
+    "f": "goodkinghenry"
+  },
+  {
+    "j": "d's entaillies (f), lé gros s'nichon",
+    "e": "common ragwort",
+    "k": "dsentaillies(f),legrossnichon",
+    "f": "commonragwort"
+  },
+  {
+    "j": "d's êpèrvenches",
+    "e": "greater periwinkle",
+    "k": "dsepervenches",
+    "f": "greaterperiwinkle"
+  },
+  {
+    "j": "d's êpîles à chorchièrs",
+    "e": "musk stork's-bill",
+    "k": "dsepilesachorchiers",
+    "f": "muskstorksbill"
+  },
+  {
+    "j": "d's esprots",
+    "e": "sprats",
+    "k": "dsesprots",
+    "f": "sprats"
+  },
+  {
+    "j": "d's êtailes dé bethléem",
+    "e": "star-of-bethlehem",
+    "k": "dsetailesdebethleem",
+    "f": "starofbethlehem"
+  },
+  {
+    "j": "d's êtchelles dé jâcob",
+    "e": "montbretia, jack or wild gladiolus",
+    "k": "dsetchellesdejacob",
+    "f": "montbretia,jackorwildgladiolus"
+  },
+  {
+    "j": "d's ièrs dé boeu, la cobohiéthe",
+    "e": "oxeye daisy",
+    "k": "dsiersdeboeu,lacobohiethe",
+    "f": "oxeyedaisy"
+  },
+  {
+    "j": "d's iliets d'falaise",
+    "e": "thrift",
+    "k": "dsilietsdfalaise",
+    "f": "thrift"
+  },
+  {
+    "j": "d's iliets d'fôssé, du rouoge coucou, des vièrs garçons, d'la p'tite molène",
+    "e": "red campion",
+    "k": "dsilietsdfosse,durouogecoucou,desviersgarcons,dlaptitemolene",
+    "f": "redcampion"
+  },
+  {
+    "j": "d's iliets d'mielle",
+    "e": "jersey thrift",
+    "k": "dsilietsdmielle",
+    "f": "jerseythrift"
+  },
+  {
+    "j": "d's iliets d'rotchi, du blianc coucou, d'mouaîselles, blianches femmes, bouonnefemmes",
+    "e": "sea campion",
+    "k": "dsilietsdrotchi,dublianccoucou,dmouaiselles,blianchesfemmes,bouonnefemmes",
+    "f": "seacampion"
+  },
+  {
+    "j": "d's ortchies (f)",
+    "e": "stinging nettle",
+    "k": "dsortchies(f)",
+    "f": "stingingnettle"
+  },
+  {
+    "j": "d's ortchies grégeaises",
+    "e": "small nettle",
+    "k": "dsortchiesgregeaises",
+    "f": "smallnettle"
+  },
+  {
+    "j": "d's' êtournieaux",
+    "e": "starlings",
+    "k": "dsetournieaux",
+    "f": "starlings"
+  },
+  {
+    "j": "d'samather",
+    "e": "to undock",
+    "k": "dsamather",
+    "f": "toundock"
+  },
+  {
+    "j": "d'scendre",
+    "e": "go down",
+    "k": "dscendre",
+    "f": "godown"
+  },
+  {
+    "j": "d'sembèrtchi",
+    "e": "disembark",
+    "k": "dsembertchi",
+    "f": "disembark"
+  },
+  {
+    "j": "d'senchorchéler",
+    "e": "to exorcise",
+    "k": "dsenchorcheler",
+    "f": "toexorcise"
+  },
+  {
+    "j": "d'senflier",
+    "e": "to reduce swelling",
+    "k": "dsenflier",
+    "f": "toreduceswelling"
+  },
+  {
+    "j": "d'sînfecter",
+    "e": "to disinfect",
+    "k": "dsinfecter",
+    "f": "todisinfect"
+  },
+  {
+    "j": "d'ver",
+    "e": "to owe, must",
+    "k": "dver",
+    "f": "toowe,must"
+  },
+  {
+    "j": "d'viser",
+    "e": "speak",
+    "k": "dviser",
+    "f": "speak"
+  },
+  {
     "j": "dague",
     "e": "cooper's dog",
     "k": "dague",
@@ -2976,8 +4692,8 @@ export const vocabData = [
     "f": "dahlia"
   },
   {
-    "j": "Dâlpheusse",
-    "e": "Adolphus",
+    "j": "dâlpheusse",
+    "e": "adolphus",
     "k": "dalpheusse",
     "f": "adolphus"
   },
@@ -2988,16 +4704,34 @@ export const vocabData = [
     "f": "damask"
   },
   {
-    "j": "Dannemar",
-    "e": "Denmark",
+    "j": "dannemar",
+    "e": "denmark",
     "k": "dannemar",
     "f": "denmark"
   },
   {
-    "j": "Dannié",
-    "e": "Daniel",
+    "j": "dannié",
+    "e": "daniel",
     "k": "dannie",
     "f": "daniel"
+  },
+  {
+    "j": "dans l'rouoyaume des taupes",
+    "e": "six feet under/fast asleep",
+    "k": "danslrouoyaumedestaupes",
+    "f": "sixfeetunder/fastasleep"
+  },
+  {
+    "j": "dans lé bâtisse à stâtionner.",
+    "e": "in the multi-storey car park.",
+    "k": "danslebatisseastationner.",
+    "f": "inthemultistoreycarpark."
+  },
+  {
+    "j": "dans les p'tites heuthes du matîn",
+    "e": "in the early hours of the morning",
+    "k": "danslesptitesheuthesdumatin",
+    "f": "intheearlyhoursofthemorning"
   },
   {
     "j": "dans les touos vièrs temps",
@@ -3006,10 +4740,16 @@ export const vocabData = [
     "f": "longago"
   },
   {
-    "j": "dans l'rouoyaume des taupes",
-    "e": "six feet under/fast asleep",
-    "k": "danslrouoyaumedestaupes",
-    "f": "sixfeetunder/fastasleep"
+    "j": "dans l’bel",
+    "e": "in the courtyard",
+    "k": "danslbel",
+    "f": "inthecourtyard"
+  },
+  {
+    "j": "dans l’par à vouaituthes",
+    "e": "in the car park",
+    "k": "danslparavouaituthes",
+    "f": "inthecarpark"
   },
   {
     "j": "dans un clyîn dg'yi",
@@ -3030,52 +4770,40 @@ export const vocabData = [
     "f": "serratedsickle"
   },
   {
-    "j": "Dardot, Dardinne, Darrique, Darri",
-    "e": "Eddy",
+    "j": "dardot, dardinne, darrique, darri",
+    "e": "eddy",
     "k": "dardot,dardinne,darrique,darri",
     "f": "eddy"
   },
   {
-    "j": "Dâvi",
-    "e": "David",
+    "j": "dâvi",
+    "e": "david",
     "k": "davi",
     "f": "david"
   },
   {
-    "j": "d'battre",
-    "e": "to whisk",
-    "k": "dbattre",
-    "f": "towhisk"
+    "j": "dé bouôn matîn",
+    "e": "early in the morning",
+    "k": "debouonmatin",
+    "f": "earlyinthemorning"
   },
   {
     "j": "de l'ouothelle d'âne, des prannants",
-    "e": "Lesser Burdock",
+    "e": "lesser burdock",
     "k": "delouothelledane,desprannants",
     "f": "lesserburdock"
   },
   {
     "j": "dé l'ouothelle dé brébis, lé potithon, lé cracot",
-    "e": "Foxglove",
+    "e": "foxglove",
     "k": "delouothelledebrebis,lepotithon,lecracot",
     "f": "foxglove"
   },
   {
     "j": "dé l'ouothelle dé souothis",
-    "e": "Changing Forget-me-not",
+    "e": "early forget-me-not, common mouse-ear, changing forget-me-not",
     "k": "delouothelledesouothis",
-    "f": "changingforgetmenot"
-  },
-  {
-    "j": "dé l'ouothelle dé souothis",
-    "e": "Common Mouse-ear",
-    "k": "delouothelledesouothis",
-    "f": "commonmouseear"
-  },
-  {
-    "j": "dé l'ouothelle dé souothis",
-    "e": "Early Forget-me-not",
-    "k": "delouothelledesouothis",
-    "f": "earlyforgetmenot"
+    "f": "earlyforgetmenot,commonmouseear,changingforgetmenot"
   },
   {
     "j": "dé s'gonde main",
@@ -3228,6 +4956,18 @@ export const vocabData = [
     "f": "lace"
   },
   {
+    "j": "dêpêch'-ous",
+    "e": "hurry up",
+    "k": "depechous",
+    "f": "hurryup"
+  },
+  {
+    "j": "dêpêche-té",
+    "e": "hurry up",
+    "k": "depechete",
+    "f": "hurryup"
+  },
+  {
     "j": "dêpêchi",
     "e": "hurry",
     "k": "depechi",
@@ -3258,14 +4998,14 @@ export const vocabData = [
     "f": "last"
   },
   {
-    "j": "Dèrtémue",
-    "e": "Dartmouth",
+    "j": "dèrtémue",
+    "e": "dartmouth",
     "k": "dertemue",
     "f": "dartmouth"
   },
   {
     "j": "des babinnes-dé-lièvre",
-    "e": "Hare's-tail",
+    "e": "hare's-tail",
     "k": "desbabinnesdelievre",
     "f": "harestail"
   },
@@ -3277,39 +5017,51 @@ export const vocabData = [
   },
   {
     "j": "des belles d'un jour, des cannes à lait, des veîl'yes dé sablion",
-    "e": "Sea bindweed",
+    "e": "sea bindweed",
     "k": "desbellesdunjour,descannesalait,desveilyesdesablion",
     "f": "seabindweed"
   },
   {
     "j": "des belles-dé-niet",
-    "e": "marvel of Peru",
+    "e": "marvel of peru",
     "k": "desbellesdeniet",
     "f": "marvelofperu"
   },
   {
     "j": "des belles-toutes-nues (f )",
-    "e": "Jersey Lily or Belladonna Lily",
+    "e": "jersey lily or belladonna lily",
     "k": "desbellestoutesnues(f)",
     "f": "jerseylilyorbelladonnalily"
   },
   {
     "j": "des bettes",
-    "e": "Sea Beet",
+    "e": "sea beet",
     "k": "desbettes",
     "f": "seabeet"
   },
   {
+    "j": "des blianches chaussettes",
+    "e": "white socks",
+    "k": "desbliancheschaussettes",
+    "f": "whitesocks"
+  },
+  {
     "j": "des bliuettes, des boutons d'or, des boutons d'amour",
-    "e": "Cornflower, Batchelor's Buttons",
+    "e": "cornflower, batchelor's buttons",
     "k": "desbliuettes,desboutonsdor,desboutonsdamour",
     "f": "cornflower,batchelorsbuttons"
   },
   {
     "j": "des bouonnefemmes, la p'tite nue",
-    "e": "Snowdrop",
+    "e": "snowdrop",
     "k": "desbouonnefemmes,laptitenue",
     "f": "snowdrop"
+  },
+  {
+    "j": "des braies en cordéré",
+    "e": "corduroy trousers",
+    "k": "desbraiesencordere",
+    "f": "corduroytrousers"
   },
   {
     "j": "des brîns d'grile",
@@ -3342,14 +5094,20 @@ export const vocabData = [
     "f": "catkins"
   },
   {
-    "j": "des clioches dé Carême, des bliuets, des bliuettes, la becque-dé-corbîn",
-    "e": "Bluebell",
+    "j": "des clioches dé carême, des bliuets, des bliuettes, la becque-dé-corbîn",
+    "e": "bluebell",
     "k": "descliochesdecareme,desbliuets,desbliuettes,labecquedecorbin",
     "f": "bluebell"
   },
   {
+    "j": "des courtes braies",
+    "e": "shorts",
+    "k": "descourtesbraies",
+    "f": "shorts"
+  },
+  {
     "j": "des cratchillons, la grâsse-g'linne",
-    "e": "Pennywort or Navelwort",
+    "e": "pennywort or navelwort",
     "k": "descratchillons,lagrasseglinne",
     "f": "pennywortornavelwort"
   },
@@ -3367,7 +5125,7 @@ export const vocabData = [
   },
   {
     "j": "des doques (f), des patheilles (f )",
-    "e": "Broad-leaved Dock",
+    "e": "broad-leaved dock",
     "k": "desdoques(f),despatheilles(f)",
     "f": "broadleaveddock"
   },
@@ -3379,7 +5137,7 @@ export const vocabData = [
   },
   {
     "j": "des flieurs au dgiâbl'ye",
-    "e": "Sheep's-bit",
+    "e": "sheep's-bit",
     "k": "desflieursaudgiablye",
     "f": "sheepsbit"
   },
@@ -3391,72 +5149,18 @@ export const vocabData = [
   },
   {
     "j": "des frâses",
-    "e": "Garden Strawberry",
+    "e": "garden strawberry",
     "k": "desfrases",
     "f": "gardenstrawberry"
   },
   {
     "j": "des frâses sauvages",
-    "e": "Wild Strawberry",
+    "e": "wild strawberry",
     "k": "desfrasessauvages",
     "f": "wildstrawberry"
   },
   {
-    "j": "des gênottes",
-    "e": "Crocus",
-    "k": "desgenottes",
-    "f": "crocus"
-  },
-  {
-    "j": "des gênottes",
-    "e": "Round-headed Leek",
-    "k": "desgenottes",
-    "f": "roundheadedleek"
-  },
-  {
-    "j": "des gênottes",
-    "e": "Sand Crocus",
-    "k": "desgenottes",
-    "f": "sandcrocus"
-  },
-  {
-    "j": "des gouogeons",
-    "e": "oak dowels",
-    "k": "desgouogeons",
-    "f": "oakdowels"
-  },
-  {
-    "j": "des gradiles",
-    "e": "Black Currant",
-    "k": "desgradiles",
-    "f": "blackcurrant"
-  },
-  {
-    "j": "des gradiles",
-    "e": "Red Currant",
-    "k": "desgradiles",
-    "f": "redcurrant"
-  },
-  {
-    "j": "des grilles",
-    "e": "railings",
-    "k": "desgrilles",
-    "f": "railings"
-  },
-  {
-    "j": "des gris g'veux",
-    "e": "grey hair",
-    "k": "desgrisgveux",
-    "f": "greyhair"
-  },
-  {
-    "j": "des grouaîsiles",
-    "e": "Gooseberry",
-    "k": "desgrouaisiles",
-    "f": "gooseberry"
-  },
-  {
-    "j": "des g'veux d'Judas",
+    "j": "des g'veux d'judas",
     "e": "red hair",
     "k": "desgveuxdjudas",
     "f": "redhair"
@@ -3474,38 +5178,80 @@ export const vocabData = [
     "f": "wavyhair"
   },
   {
-    "j": "des g'vil'yes en fé",
-    "e": "metal dowels",
-    "k": "desgvilyesenfe",
-    "f": "metaldowels"
-  },
-  {
     "j": "des g'vil'yes",
     "e": "dowels",
     "k": "desgvilyes",
     "f": "dowels"
   },
   {
+    "j": "des g'vil'yes en fé",
+    "e": "metal dowels",
+    "k": "desgvilyesenfe",
+    "f": "metaldowels"
+  },
+  {
     "j": "des g'zettes",
-    "e": "Wild Daffodil",
+    "e": "wild daffodil",
     "k": "desgzettes",
     "f": "wilddaffodil"
   },
   {
     "j": "des g'zettes (f), des pipots d'avri",
-    "e": "Cultivated Daffodils or Narcissi",
+    "e": "cultivated daffodils or narcissi",
     "k": "desgzettes(f),despipotsdavri",
     "f": "cultivateddaffodilsornarcissi"
   },
   {
+    "j": "des gênottes",
+    "e": "sand crocus, round-headed leek, crocus",
+    "k": "desgenottes",
+    "f": "sandcrocus,roundheadedleek,crocus"
+  },
+  {
+    "j": "des gouogeons",
+    "e": "oak dowels",
+    "k": "desgouogeons",
+    "f": "oakdowels"
+  },
+  {
+    "j": "des gradiles",
+    "e": "red currant, black currant",
+    "k": "desgradiles",
+    "f": "redcurrant,blackcurrant"
+  },
+  {
+    "j": "des grilles",
+    "e": "railings",
+    "k": "desgrilles",
+    "f": "railings"
+  },
+  {
+    "j": "des gris g'veux",
+    "e": "grey hair",
+    "k": "desgrisgveux",
+    "f": "greyhair"
+  },
+  {
+    "j": "des grouaîsiles",
+    "e": "gooseberry",
+    "k": "desgrouaisiles",
+    "f": "gooseberry"
+  },
+  {
     "j": "des iliets (m), des êliets (m)",
-    "e": "Carnations",
+    "e": "carnations",
     "k": "desiliets(m),deseliets(m)",
     "f": "carnations"
   },
   {
+    "j": "des jaunes mitaines",
+    "e": "yellow mittens",
+    "k": "desjaunesmitaines",
+    "f": "yellowmittens"
+  },
+  {
     "j": "des jaunes pavots",
-    "e": "Yellowed Horned-poppy",
+    "e": "yellowed horned-poppy",
     "k": "desjaunespavots",
     "f": "yellowedhornedpoppy"
   },
@@ -3516,22 +5262,22 @@ export const vocabData = [
     "f": "bulrush,catstail"
   },
   {
-    "j": "des lèrmes d'Jâcob",
-    "e": "Great Quaking-grass",
+    "j": "des lèrmes d'jâcob",
+    "e": "great quaking-grass",
     "k": "deslermesdjacob",
     "f": "greatquakinggrass"
-  },
-  {
-    "j": "des leunettes d'solé",
-    "e": "sunglasses",
-    "k": "desleunettesdsole",
-    "f": "sunglasses"
   },
   {
     "j": "des leunettes",
     "e": "glasses",
     "k": "desleunettes",
     "f": "glasses"
+  },
+  {
+    "j": "des leunettes d'solé",
+    "e": "sunglasses",
+    "k": "desleunettesdsole",
+    "f": "sunglasses"
   },
   {
     "j": "des louochies",
@@ -3541,7 +5287,7 @@ export const vocabData = [
   },
   {
     "j": "des lupîns (m)",
-    "e": "Garden Lupin",
+    "e": "garden lupin",
     "k": "deslupins(m)",
     "f": "gardenlupin"
   },
@@ -3553,37 +5299,37 @@ export const vocabData = [
   },
   {
     "j": "des maillettes",
-    "e": "Lesser Spearwort",
+    "e": "lesser spearwort",
     "k": "desmaillettes",
     "f": "lesserspearwort"
   },
   {
     "j": "des mains jointes",
-    "e": "Soapwort",
+    "e": "soapwort",
     "k": "desmainsjointes",
     "f": "soapwort"
   },
   {
     "j": "des mèrgots",
-    "e": "Daisy",
+    "e": "daisy",
     "k": "desmergots",
     "f": "daisy"
   },
   {
     "j": "des mèrgots à pouochîns",
-    "e": "Mexican Fleabane",
+    "e": "mexican fleabane",
     "k": "desmergotsapouochins",
     "f": "mexicanfleabane"
   },
   {
-    "j": "des mèrgots d'la St. Miché, l'îndgienne",
-    "e": "Michaelmas Daisy",
+    "j": "des mèrgots d'la st. miché, l'îndgienne",
+    "e": "michaelmas daisy",
     "k": "desmergotsdlast.miche,lindgienne",
     "f": "michaelmasdaisy"
   },
   {
     "j": "des navets",
-    "e": "Wild Turnip",
+    "e": "wild turnip",
     "k": "desnavets",
     "f": "wildturnip"
   },
@@ -3600,8 +5346,14 @@ export const vocabData = [
     "f": "notes"
   },
   {
+    "j": "des p'tits chabots",
+    "e": "common bird's-foot-trefoil",
+    "k": "desptitschabots",
+    "f": "commonbirdsfoottrefoil"
+  },
+  {
     "j": "des patates",
-    "e": "Potato",
+    "e": "potato",
     "k": "despatates",
     "f": "potato"
   },
@@ -3612,88 +5364,58 @@ export const vocabData = [
     "f": "stovies"
   },
   {
-    "j": "des pentecôtes",
-    "e": "Jersey or Loose-flowered Orchid",
-    "k": "despentecotes",
-    "f": "jerseyorloosefloweredorchid"
-  },
-  {
-    "j": "des pentecôtes",
-    "e": "Lady's Smock",
-    "k": "despentecotes",
-    "f": "ladyssmock"
-  },
-  {
     "j": "des pente-ouotheilles (f), des fioûcheux",
-    "e": "Fuchsias",
+    "e": "fuchsias",
     "k": "despenteouotheilles(f),desfioucheux",
     "f": "fuchsias"
   },
   {
+    "j": "des pentecôtes",
+    "e": "lady's smock, jersey or loose-flowered orchid",
+    "k": "despentecotes",
+    "f": "ladyssmock,jerseyorloosefloweredorchid"
+  },
+  {
     "j": "des piègnes",
-    "e": "Common Stork's-bill",
+    "e": "common stork's-bill",
     "k": "despiegnes",
     "f": "commonstorksbill"
   },
   {
     "j": "des pip'soles, pip'solles, piptholes, pip'roles, preunoles, prunoles, prunm'noles, prinm'noles, pieunm'tholes, prînmeroles, prînm'tholes, prînm'soles, pâqu'roles, pâqu'tholes ou coucou",
-    "e": "Primrose",
+    "e": "primrose",
     "k": "despipsoles,pipsolles,piptholes,piproles,preunoles,prunoles,prunmnoles,prinmnoles,pieunmtholes,prinmeroles,prinmtholes,prinmsoles,paquroles,paqutholesoucoucou",
     "f": "primrose"
   },
   {
     "j": "des pîssenliets",
-    "e": "Dandelion",
+    "e": "dandelion",
     "k": "despissenliets",
     "f": "dandelion"
   },
   {
-    "j": "des plieurs dé Jâcob, la veuve plieuthante, des plieuthants",
-    "e": "Solomon's-seal",
+    "j": "des plieurs dé jâcob, la veuve plieuthante, des plieuthants",
+    "e": "solomon's-seal",
     "k": "desplieursdejacob,laveuveplieuthante,desplieuthants",
     "f": "solomonsseal"
   },
   {
-    "j": "des pommes dé Galles",
+    "j": "des pommes dé galles",
     "e": "guelder rose, snowball tree",
     "k": "despommesdegalles",
     "f": "guelderrose,snowballtree"
   },
   {
-    "j": "des p'tits chabots",
-    "e": "Common Bird's-foot-trefoil",
-    "k": "desptitschabots",
-    "f": "commonbirdsfoottrefoil"
-  },
-  {
     "j": "des roses à tchian",
-    "e": "Common or round-headed Poppy",
+    "e": "long-headed poppy, common or round-headed poppy",
     "k": "desrosesatchian",
-    "f": "commonorroundheadedpoppy"
-  },
-  {
-    "j": "des roses à tchian",
-    "e": "Long-headed poppy",
-    "k": "desrosesatchian",
-    "f": "longheadedpoppy"
+    "f": "longheadedpoppy,commonorroundheadedpoppy"
   },
   {
     "j": "des roses d'un jour",
-    "e": "Fragrant Evening-primrose",
+    "e": "small-flowered evening-primrose, large-flowered evening- primrose, fragrant evening-primrose",
     "k": "desrosesdunjour",
-    "f": "fragranteveningprimrose"
-  },
-  {
-    "j": "des roses d'un jour",
-    "e": "Large-flowered Evening- primrose",
-    "k": "desrosesdunjour",
-    "f": "largefloweredeveningprimrose"
-  },
-  {
-    "j": "des roses d'un jour",
-    "e": "Small-flowered Evening-primrose",
-    "k": "desrosesdunjour",
-    "f": "smallfloweredeveningprimrose"
+    "f": "smallfloweredeveningprimrose,largefloweredeveningprimrose,fragranteveningprimrose"
   },
   {
     "j": "des rouffl'yes",
@@ -3709,31 +5431,31 @@ export const vocabData = [
   },
   {
     "j": "des sîmplyes roses, des doubl'yes roses",
-    "e": "Garden Roses",
+    "e": "garden roses",
     "k": "dessimplyesroses,desdoublyesroses",
     "f": "gardenroses"
   },
   {
     "j": "des sonnettes",
-    "e": "Yellow Rattle",
+    "e": "yellow rattle",
     "k": "dessonnettes",
     "f": "yellowrattle"
   },
   {
     "j": "des soudards, du tcheurdron ânyi",
-    "e": "Spear Thistle",
+    "e": "spear thistle",
     "k": "dessoudards,dutcheurdronanyi",
     "f": "spearthistle"
   },
   {
     "j": "des soudards, l'încarnat",
-    "e": "Crimson Clover",
+    "e": "crimson clover",
     "k": "dessoudards,lincarnat",
     "f": "crimsonclover"
   },
   {
     "j": "des suidiches",
-    "e": "Swede, Rape",
+    "e": "swede, rape",
     "k": "dessuidiches",
     "f": "swede,rape"
   },
@@ -3745,7 +5467,7 @@ export const vocabData = [
   },
   {
     "j": "des tomates",
-    "e": "Tomato",
+    "e": "tomato",
     "k": "destomates",
     "f": "tomato"
   },
@@ -3757,31 +5479,31 @@ export const vocabData = [
   },
   {
     "j": "des veîl'yes",
-    "e": "Bindweed",
+    "e": "bindweed",
     "k": "desveilyes",
     "f": "bindweed"
   },
   {
     "j": "des veîl'yes dé r'lié",
-    "e": "Field Bindweed",
+    "e": "field bindweed",
     "k": "desveilyesderlie",
     "f": "fieldbindweed"
   },
   {
     "j": "des vieil'yes fil'yes",
-    "e": "White Campion",
+    "e": "white campion",
     "k": "desvieilyesfilyes",
     "f": "whitecampion"
   },
   {
     "j": "des vièrs garçons, d'la colombinne",
-    "e": "Columbine",
+    "e": "columbine",
     "k": "desviersgarcons,dlacolombinne",
     "f": "columbine"
   },
   {
-    "j": "des yeux d'la Vièrge",
-    "e": "Wood Forget-me-not",
+    "j": "des yeux d'la vièrge",
+    "e": "wood forget-me-not",
     "k": "desyeuxdlavierge",
     "f": "woodforgetmenot"
   },
@@ -3804,16 +5526,46 @@ export const vocabData = [
     "f": "two"
   },
   {
-    "j": "Dézembre",
-    "e": "December",
-    "k": "dezembre",
-    "f": "december"
+    "j": "deux fais par s’maine",
+    "e": "twice a week",
+    "k": "deuxfaisparsmaine",
+    "f": "twiceaweek"
   },
   {
-    "j": "d'fendre",
-    "e": "to defend",
-    "k": "dfendre",
-    "f": "todefend"
+    "j": "deux heuthes",
+    "e": "two o'clock",
+    "k": "deuxheuthes",
+    "f": "twooclock"
+  },
+  {
+    "j": "deux heuthes et d’mie",
+    "e": "half past two",
+    "k": "deuxheuthesetdmie",
+    "f": "halfpasttwo"
+  },
+  {
+    "j": "deux heuthes vîngt",
+    "e": "twenty past two",
+    "k": "deuxheuthesvingt",
+    "f": "twentypasttwo"
+  },
+  {
+    "j": "deux jours dé siette",
+    "e": "two days in a row",
+    "k": "deuxjoursdesiette",
+    "f": "twodaysinarow"
+  },
+  {
+    "j": "deux pénîns",
+    "e": "two pence",
+    "k": "deuxpenins",
+    "f": "twopence"
+  },
+  {
+    "j": "dézembre",
+    "e": "december",
+    "k": "dezembre",
+    "f": "december"
   },
   {
     "j": "dgêle",
@@ -3852,8 +5604,20 @@ export const vocabData = [
     "f": "jemmy"
   },
   {
-    "j": "Dgibèrt",
-    "e": "Gilbert",
+    "j": "dgiâbl'ye!",
+    "e": "damn!",
+    "k": "dgiablye!",
+    "f": "damn!"
+  },
+  {
+    "j": "dgiâtre!",
+    "e": "damn!",
+    "k": "dgiatre!",
+    "f": "damn!"
+  },
+  {
+    "j": "dgibèrt",
+    "e": "gilbert",
     "k": "dgibert",
     "f": "gilbert"
   },
@@ -3864,16 +5628,64 @@ export const vocabData = [
     "f": "scoop,basin"
   },
   {
-    "j": "Dgieu sauve la Reine",
-    "e": "God Save the Queen",
+    "j": "dgieu",
+    "e": "god",
+    "k": "dgieu",
+    "f": "god"
+  },
+  {
+    "j": "dgieu mèrcie!",
+    "e": "thank god!",
+    "k": "dgieumercie!",
+    "f": "thankgod!"
+  },
+  {
+    "j": "dgieu sauve la reine",
+    "e": "god save the queen",
     "k": "dgieusauvelareine",
     "f": "godsavethequeen"
   },
   {
-    "j": "Dgieu",
-    "e": "God",
-    "k": "dgieu",
-    "f": "god"
+    "j": "dgiex heuthes",
+    "e": "ten o'clock",
+    "k": "dgiexheuthes",
+    "f": "tenoclock"
+  },
+  {
+    "j": "dgiêx heuthes dgix",
+    "e": "ten past ten",
+    "k": "dgiexheuthesdgix",
+    "f": "tenpastten"
+  },
+  {
+    "j": "dgiêx heuthes vîngt",
+    "e": "twenty past ten",
+    "k": "dgiexheuthesvingt",
+    "f": "twentypastten"
+  },
+  {
+    "j": "dgiêx louis",
+    "e": "ten pounds (£10)",
+    "k": "dgiexlouis",
+    "f": "tenpounds(£10)"
+  },
+  {
+    "j": "dgiêx minnutes dé ieune",
+    "e": "ten to one",
+    "k": "dgiexminnutesdeieune",
+    "f": "tentoone"
+  },
+  {
+    "j": "dgiêx minnutes dé onze",
+    "e": "ten to eleven",
+    "k": "dgiexminnutesdeonze",
+    "f": "tentoeleven"
+  },
+  {
+    "j": "dgiêx pénîns",
+    "e": "ten pence",
+    "k": "dgiexpenins",
+    "f": "tenpence"
   },
   {
     "j": "dgiêx-huit",
@@ -3900,38 +5712,38 @@ export const vocabData = [
     "f": "rabbetplane"
   },
   {
-    "j": "Dgilliaume lé Contchéthant",
-    "e": "William the Conqueror",
+    "j": "dgilliaume lé contchéthant",
+    "e": "william the conqueror",
     "k": "dgilliaumelecontchethant",
     "f": "williamtheconqueror"
   },
   {
-    "j": "Dgilliaume, Dgiaume, Williamme, Ouiyamme, Ouoyamme",
-    "e": "William",
+    "j": "dgilliaume, dgiaume, williamme, ouiyamme, ouoyamme",
+    "e": "william",
     "k": "dgilliaume,dgiaume,williamme,ouiyamme,ouoyamme",
     "f": "william"
   },
   {
-    "j": "Dgilliette",
-    "e": "Diellette",
+    "j": "dgilliette",
+    "e": "diellette",
     "k": "dgilliette",
     "f": "diellette"
   },
   {
-    "j": "Dginnée",
-    "e": "Guinea",
+    "j": "dginnée",
+    "e": "guinea",
     "k": "dginnee",
     "f": "guinea"
   },
   {
-    "j": "Dginnée d'l'Êquateur",
-    "e": "Equatorial Guinea",
+    "j": "dginnée d'l'êquateur",
+    "e": "equatorial guinea",
     "k": "dginneedlequateur",
     "f": "equatorialguinea"
   },
   {
-    "j": "Dginnée-Bissau",
-    "e": "Guinea-Bissau",
+    "j": "dginnée-bissau",
+    "e": "guinea-bissau",
     "k": "dginneebissau",
     "f": "guineabissau"
   },
@@ -3972,8 +5784,8 @@ export const vocabData = [
     "f": "difficult"
   },
   {
-    "j": "Dînmanche",
-    "e": "Sunday",
+    "j": "dînmanche",
+    "e": "sunday",
     "k": "dinmanche",
     "f": "sunday"
   },
@@ -4026,1048 +5838,10 @@ export const vocabData = [
     "f": "say,tell"
   },
   {
-    "j": "Djibouti",
-    "e": "Djibouti",
+    "j": "djibouti",
+    "e": "djibouti",
     "k": "djibouti",
     "f": "djibouti"
-  },
-  {
-    "j": "d'la bague",
-    "e": "Haw",
-    "k": "dlabague",
-    "f": "haw"
-  },
-  {
-    "j": "d'la barbe d'vièr bouonhomme",
-    "e": "Traveller's Joy",
-    "k": "dlabarbedvierbouonhomme",
-    "f": "travellersjoy"
-  },
-  {
-    "j": "d'la bédaine",
-    "e": "Fucus vesiculosus",
-    "k": "dlabedaine",
-    "f": "fucusvesiculosus"
-  },
-  {
-    "j": "d'la bédanne",
-    "e": "Fucus vesiculosus",
-    "k": "dlabedanne",
-    "f": "fucusvesiculosus"
-  },
-  {
-    "j": "d'la bêle",
-    "e": "Fool's Water-cress",
-    "k": "dlabele",
-    "f": "foolswatercress"
-  },
-  {
-    "j": "d'la bêle, du louothigan",
-    "e": "Brooklime",
-    "k": "dlabele,dulouothigan",
-    "f": "brooklime"
-  },
-  {
-    "j": "d'la bênarde",
-    "e": "Hemlock",
-    "k": "dlabenarde",
-    "f": "hemlock"
-  },
-  {
-    "j": "d'la bênarde, du painfais",
-    "e": "Hogweed",
-    "k": "dlabenarde,dupainfais",
-    "f": "hogweed"
-  },
-  {
-    "j": "d'la blianche êpîngne",
-    "e": "Hawthorn",
-    "k": "dlabliancheepingne",
-    "f": "hawthorn"
-  },
-  {
-    "j": "d'la blianche êpîngne",
-    "e": "Hawthorn",
-    "k": "dlabliancheepingne",
-    "f": "hawthorn"
-  },
-  {
-    "j": "d'la blianche orme, d'l'orme Dgèrnésy, d'l'orme Dgèrnésiaise",
-    "e": "Hybrid or Dutch Elm",
-    "k": "dlabliancheorme,dlormedgernesy,dlormedgernesiaise",
-    "f": "hybridordutchelm"
-  },
-  {
-    "j": "d'la blianche s'nîle",
-    "e": "Fat Hen",
-    "k": "dlablianchesnile",
-    "f": "fathen"
-  },
-  {
-    "j": "d'la blianche-ortchie",
-    "e": "White Dead-nettle",
-    "k": "dlabliancheortchie",
-    "f": "whitedeadnettle"
-  },
-  {
-    "j": "d'la bliu-pièrre",
-    "e": "shale",
-    "k": "dlabliupierre",
-    "f": "shale"
-  },
-  {
-    "j": "d'la bourdonniéthe",
-    "e": "Common Knapweed",
-    "k": "dlabourdonniethe",
-    "f": "commonknapweed"
-  },
-  {
-    "j": "d'la bourse",
-    "e": "Common Cornsalad",
-    "k": "dlabourse",
-    "f": "commoncornsalad"
-  },
-  {
-    "j": "d'la bourse",
-    "e": "Keeled Cornsalad",
-    "k": "dlabourse",
-    "f": "keeledcornsalad"
-  },
-  {
-    "j": "d'la bourse, du pid d'ouaîthé",
-    "e": "Shepherd's purse",
-    "k": "dlabourse,dupiddouaithe",
-    "f": "shepherdspurse"
-  },
-  {
-    "j": "d'la brüethe",
-    "e": "Bell Heather",
-    "k": "dlabrüethe",
-    "f": "bellheather"
-  },
-  {
-    "j": "d'la bruëthe",
-    "e": "Cross-leaved Heath",
-    "k": "dlabruëthe",
-    "f": "crossleavedheath"
-  },
-  {
-    "j": "d'la brüethe",
-    "e": "Heather",
-    "k": "dlabrüethe",
-    "f": "heather"
-  },
-  {
-    "j": "d'la canârie",
-    "e": "Canary-grass",
-    "k": "dlacanarie",
-    "f": "canarygrass"
-  },
-  {
-    "j": "d'la canârie, d'l'hèrbe à pithot",
-    "e": "Cockspur",
-    "k": "dlacanarie,dlherbeapithot",
-    "f": "cockspur"
-  },
-  {
-    "j": "d'la canmiéthe",
-    "e": "Camomile",
-    "k": "dlacanmiethe",
-    "f": "camomile"
-  },
-  {
-    "j": "d'la capuchinne",
-    "e": "Nasturtium",
-    "k": "dlacapuchinne",
-    "f": "nasturtium"
-  },
-  {
-    "j": "d'la cârotte sauvage",
-    "e": "Wild Carrot",
-    "k": "dlacarottesauvage",
-    "f": "wildcarrot"
-  },
-  {
-    "j": "d'la cassidonne, d'l'aspi",
-    "e": "spike lavender, French lavender",
-    "k": "dlacassidonne,dlaspi",
-    "f": "spikelavender,frenchlavender"
-  },
-  {
-    "j": "d'la catte",
-    "e": "worm for bait",
-    "k": "dlacatte",
-    "f": "wormforbait"
-  },
-  {
-    "j": "d'la chicôrée sauvage",
-    "e": "Chicory",
-    "k": "dlachicoreesauvage",
-    "f": "chicory"
-  },
-  {
-    "j": "d'la chrysanthème au dgiâbl'ye",
-    "e": "Deadly Nightshade",
-    "k": "dlachrysanthemeaudgiablye",
-    "f": "deadlynightshade"
-  },
-  {
-    "j": "d'la chue",
-    "e": "Hemlock Water-dropwort",
-    "k": "dlachue",
-    "f": "hemlockwaterdropwort"
-  },
-  {
-    "j": "d'la cliaque",
-    "e": "sea lettuce, green laver, purple laver, etc., Ulva lactuca, Enteromorpha intestinalis, Porphyra laciniata",
-    "k": "dlacliaque",
-    "f": "sealettuce,greenlaver,purplelaver,etc.,ulvalactuca,enteromorphaintestinalis,porphyralaciniata"
-  },
-  {
-    "j": "d'la cliouque",
-    "e": "sea lettuce, green laver, purple laver, etc., Ulva lactuca, Enteromorpha intestinalis, Porphyra laciniata",
-    "k": "dlacliouque",
-    "f": "sealettuce,greenlaver,purplelaver,etc.,ulvalactuca,enteromorphaintestinalis,porphyralaciniata"
-  },
-  {
-    "j": "d'la cône dé chèr",
-    "e": "Buck's-horn Plantain",
-    "k": "dlaconedecher",
-    "f": "buckshornplantain"
-  },
-  {
-    "j": "d'la cône dé chèr",
-    "e": "Swine-cress",
-    "k": "dlaconedecher",
-    "f": "swinecress"
-  },
-  {
-    "j": "d'la console",
-    "e": "Russian Comfrey",
-    "k": "dlaconsole",
-    "f": "russiancomfrey"
-  },
-  {
-    "j": "d'la coue",
-    "e": "Timothy",
-    "k": "dlacoue",
-    "f": "timothy"
-  },
-  {
-    "j": "d'la coue dé r'nard",
-    "e": "Spotted Orchids",
-    "k": "dlacouedernard",
-    "f": "spottedorchids"
-  },
-  {
-    "j": "d'la coue d'rat",
-    "e": "horsetail",
-    "k": "dlacouedrat",
-    "f": "horsetail"
-  },
-  {
-    "j": "d'la craqu'linne, des croqu'sîngnoles",
-    "e": "cracknel",
-    "k": "dlacraqulinne,descroqusingnoles",
-    "f": "cracknel"
-  },
-  {
-    "j": "d'la dgeule-dé-lion",
-    "e": "Snapdragon",
-    "k": "dladgeuledelion",
-    "f": "snapdragon"
-  },
-  {
-    "j": "d'la droe",
-    "e": "Barren Brome",
-    "k": "dladroe",
-    "f": "barrenbrome"
-  },
-  {
-    "j": "d'la droe",
-    "e": "Great Brome",
-    "k": "dladroe",
-    "f": "greatbrome"
-  },
-  {
-    "j": "d'la droe",
-    "e": "Soft-brome",
-    "k": "dladroe",
-    "f": "softbrome"
-  },
-  {
-    "j": "d'la faie",
-    "e": "liver",
-    "k": "dlafaie",
-    "f": "liver"
-  },
-  {
-    "j": "d'la feûgiéthe",
-    "e": "Bracken",
-    "k": "dlafeugiethe",
-    "f": "bracken"
-  },
-  {
-    "j": "d'la finne hèrbe, d'l'adgulle, d'la barbe d'lièvre, d'l'hèrbe ès anges",
-    "e": "Silvery Hair-grass",
-    "k": "dlafinneherbe,dladgulle,dlabarbedlievre,dlherbeesanges",
-    "f": "silveryhairgrass"
-  },
-  {
-    "j": "d'la finnetèrre",
-    "e": "Boreau's Ramping-fumitory",
-    "k": "dlafinneterre",
-    "f": "boreausrampingfumitory"
-  },
-  {
-    "j": "d'la grainne",
-    "e": "seed",
-    "k": "dlagrainne",
-    "f": "seed"
-  },
-  {
-    "j": "d'la graisse",
-    "e": "vraic (as fertiliser)",
-    "k": "dlagraisse",
-    "f": "vraic(asfertiliser)"
-  },
-  {
-    "j": "d'la grand' suthelle",
-    "e": "Common Sorrel",
-    "k": "dlagrandsuthelle",
-    "f": "commonsorrel"
-  },
-  {
-    "j": "d'la grappue",
-    "e": "Western Gorse",
-    "k": "dlagrappue",
-    "f": "westerngorse"
-  },
-  {
-    "j": "d'la grâsse-g'linne",
-    "e": "Purple Viper's-bugloss",
-    "k": "dlagrasseglinne",
-    "f": "purplevipersbugloss"
-  },
-  {
-    "j": "d'la grosse chèrvette",
-    "e": "prawns",
-    "k": "dlagrossechervette",
-    "f": "prawns"
-  },
-  {
-    "j": "d'la hannebanne",
-    "e": "Henbane",
-    "k": "dlahannebanne",
-    "f": "henbane"
-  },
-  {
-    "j": "d'la jalousie sauvage",
-    "e": "Hemp Agrimony",
-    "k": "dlajalousiesauvage",
-    "f": "hempagrimony"
-  },
-  {
-    "j": "d'la jombarbe",
-    "e": "Houseleek",
-    "k": "dlajombarbe",
-    "f": "houseleek"
-  },
-  {
-    "j": "d'la julienne",
-    "e": "Sea Rocket",
-    "k": "dlajulienne",
-    "f": "searocket"
-  },
-  {
-    "j": "d'la langue dé belle-méthe",
-    "e": "mother-in-law's tongue",
-    "k": "dlalanguedebellemethe",
-    "f": "motherinlawstongue"
-  },
-  {
-    "j": "d'la langue dé boeu",
-    "e": "Hart's-tongue",
-    "k": "dlalanguedeboeu",
-    "f": "hartstongue"
-  },
-  {
-    "j": "d'la langue dé tchian",
-    "e": "hound's tongue",
-    "k": "dlalanguedetchian",
-    "f": "houndstongue"
-  },
-  {
-    "j": "d'la lavande cotonnée",
-    "e": "lavender cotton",
-    "k": "dlalavandecotonnee",
-    "f": "lavendercotton"
-  },
-  {
-    "j": "d'la lavande",
-    "e": "common lavender",
-    "k": "dlalavande",
-    "f": "commonlavender"
-  },
-  {
-    "j": "d'la lianne, d'l'hèrbe à puches, d'l'absînthe",
-    "e": "Wormwood",
-    "k": "dlalianne,dlherbeapuches,dlabsinthe",
-    "f": "wormwood"
-  },
-  {
-    "j": "d'la livre-dé-beurre",
-    "e": "globe flower",
-    "k": "dlalivredebeurre",
-    "f": "globeflower"
-  },
-  {
-    "j": "d'la lûzèrne",
-    "e": "Lucerne",
-    "k": "dlaluzerne",
-    "f": "lucerne"
-  },
-  {
-    "j": "d'la lûzèrne en faûcil'ye",
-    "e": "Sickle Medick",
-    "k": "dlaluzerneenfaucilye",
-    "f": "sicklemedick"
-  },
-  {
-    "j": "d'la menthe dé gardîn",
-    "e": "Spear Mint",
-    "k": "dlamenthedegardin",
-    "f": "spearmint"
-  },
-  {
-    "j": "d'la menthe sauvage",
-    "e": "Water Mint",
-    "k": "dlamenthesauvage",
-    "f": "watermint"
-  },
-  {
-    "j": "d'la molène",
-    "e": "Dark Mullein",
-    "k": "dlamolene",
-    "f": "darkmullein"
-  },
-  {
-    "j": "d'la molène",
-    "e": "Great Mullein",
-    "k": "dlamolene",
-    "f": "greatmullein"
-  },
-  {
-    "j": "d'la molle hèrbe",
-    "e": "Creeping Soft-grass",
-    "k": "dlamolleherbe",
-    "f": "creepingsoftgrass"
-  },
-  {
-    "j": "d'la molle hèrbe",
-    "e": "Yorkshire-fog",
-    "k": "dlamolleherbe",
-    "f": "yorkshirefog"
-  },
-  {
-    "j": "d'la monnaie dé pape",
-    "e": "honesty",
-    "k": "dlamonnaiedepape",
-    "f": "honesty"
-  },
-  {
-    "j": "d'la m'soûque",
-    "e": "Scented Mayweed",
-    "k": "dlamsouque",
-    "f": "scentedmayweed"
-  },
-  {
-    "j": "d'la m'soûque",
-    "e": "Scentless Mayweed",
-    "k": "dlamsouque",
-    "f": "scentlessmayweed"
-  },
-  {
-    "j": "d'la m'soûque",
-    "e": "Sea Mayweed",
-    "k": "dlamsouque",
-    "f": "seamayweed"
-  },
-  {
-    "j": "d'la nêle",
-    "e": "Corncockle",
-    "k": "dlanele",
-    "f": "corncockle"
-  },
-  {
-    "j": "d'la néthe êpîngne, eune preunelle",
-    "e": "Blackthorn, Sloe",
-    "k": "dlanetheepingne,eunepreunelle",
-    "f": "blackthorn,sloe"
-  },
-  {
-    "j": "d'la pais-flieur",
-    "e": "sweet pea",
-    "k": "dlapaisflieur",
-    "f": "sweetpea"
-  },
-  {
-    "j": "d'la pânnais sauvage",
-    "e": "Wild Parsnip",
-    "k": "dlapannaissauvage",
-    "f": "wildparsnip"
-  },
-  {
-    "j": "d'la pèrche-pièrre",
-    "e": "Rock Samphire",
-    "k": "dlaperchepierre",
-    "f": "rocksamphire"
-  },
-  {
-    "j": "d'la plîse",
-    "e": "Eelgrass",
-    "k": "dlaplise",
-    "f": "eelgrass"
-  },
-  {
-    "j": "d'la pommiéthe, d'la pommeliéthe",
-    "e": "stinking hellebore",
-    "k": "dlapommiethe,dlapommeliethe",
-    "f": "stinkinghellebore"
-  },
-  {
-    "j": "d'la poudre d'or, du safran",
-    "e": "gold dust",
-    "k": "dlapoudredor,dusafran",
-    "f": "golddust"
-  },
-  {
-    "j": "d'la p'tite chèrvette",
-    "e": "shrimps",
-    "k": "dlaptitechervette",
-    "f": "shrimps"
-  },
-  {
-    "j": "d'la p'tite chue",
-    "e": "Fool's Parsley",
-    "k": "dlaptitechue",
-    "f": "foolsparsley"
-  },
-  {
-    "j": "d'la p'tite g'linne",
-    "e": "Bugloss",
-    "k": "dlaptiteglinne",
-    "f": "bugloss"
-  },
-  {
-    "j": "d'la p'tite mauve",
-    "e": "Common Mallow",
-    "k": "dlaptitemauve",
-    "f": "commonmallow"
-  },
-  {
-    "j": "d'la p'tite suthelle",
-    "e": "Sheep's Sorrel",
-    "k": "dlaptitesuthelle",
-    "f": "sheepssorrel"
-  },
-  {
-    "j": "d'la radiche à j'vaux",
-    "e": "Horse-radish",
-    "k": "dlaradicheajvaux",
-    "f": "horseradish"
-  },
-  {
-    "j": "d'la reine-des-prés",
-    "e": "meadowsweet",
-    "k": "dlareinedespres",
-    "f": "meadowsweet"
-  },
-  {
-    "j": "d'la rose à sablion, la rose dé mielle",
-    "e": "Burnet Rose",
-    "k": "dlaroseasablion,larosedemielle",
-    "f": "burnetrose"
-  },
-  {
-    "j": "d'la rose sauvage",
-    "e": "Dog Rose",
-    "k": "dlarosesauvage",
-    "f": "dogrose"
-  },
-  {
-    "j": "d'la rose sauvage",
-    "e": "Sweet Briar",
-    "k": "dlarosesauvage",
-    "f": "sweetbriar"
-  },
-  {
-    "j": "d'la rouoge orme, d'l'orme Jèrri, d'l'orme Jèrriaise",
-    "e": "Small-leaved Elm",
-    "k": "dlarouogeorme,dlormejerri,dlormejerriaise",
-    "f": "smallleavedelm"
-  },
-  {
-    "j": "d'la rouoge s'nîle, du rouoge pid",
-    "e": "Many-seeded Goosefoot",
-    "k": "dlarouogesnile,durouogepid",
-    "f": "manyseededgoosefoot"
-  },
-  {
-    "j": "d'la sèrpiliéthe, du pouoillot",
-    "e": "Wild Thyme",
-    "k": "dlaserpiliethe,dupouoillot",
-    "f": "wildthyme"
-  },
-  {
-    "j": "d'la sève",
-    "e": "sap",
-    "k": "dlaseve",
-    "f": "sap"
-  },
-  {
-    "j": "d'la s'nîle traînante, s'nîle à pité, s'nîle dé route, s'nîle grappue, hèrbe traînante, hèrbe couothante",
-    "e": "Knotgrass",
-    "k": "dlasniletrainante,snileapite,snilederoute,snilegrappue,herbetrainante,herbecouothante",
-    "f": "knotgrass"
-  },
-  {
-    "j": "d'la soucique",
-    "e": "Pot Marigold",
-    "k": "dlasoucique",
-    "f": "potmarigold"
-  },
-  {
-    "j": "d'la stchinnancie",
-    "e": "Heath Milkwort",
-    "k": "dlastchinnancie",
-    "f": "heathmilkwort"
-  },
-  {
-    "j": "d'la tchèrpentchiéthe, l'hèrbe au tchèrpentchi",
-    "e": "Yarrow",
-    "k": "dlatcherpentchiethe,lherbeautcherpentchi",
-    "f": "yarrow"
-  },
-  {
-    "j": "d'la têtue",
-    "e": "Annual Mercury",
-    "k": "dlatetue",
-    "f": "annualmercury"
-  },
-  {
-    "j": "d'la t'naisie",
-    "e": "Tansy",
-    "k": "dlatnaisie",
-    "f": "tansy"
-  },
-  {
-    "j": "d'la t'naisie, d'l'argentinne",
-    "e": "Silverweed",
-    "k": "dlatnaisie,dlargentinne",
-    "f": "silverweed"
-  },
-  {
-    "j": "d'la touothelle",
-    "e": "Dodder",
-    "k": "dlatouothelle",
-    "f": "dodder"
-  },
-  {
-    "j": "d'la toute-saine",
-    "e": "Tutsan",
-    "k": "dlatoutesaine",
-    "f": "tutsan"
-  },
-  {
-    "j": "d'la troène",
-    "e": "Privet",
-    "k": "dlatroene",
-    "f": "privet"
-  },
-  {
-    "j": "d'la vèche",
-    "e": "Vetch",
-    "k": "dlaveche",
-    "f": "vetch"
-  },
-  {
-    "j": "d'la vèrge d'or, d'la vèrgue d'or",
-    "e": "Golden rod",
-    "k": "dlavergedor,dlaverguedor",
-    "f": "goldenrod"
-  },
-  {
-    "j": "d'la vèrte s'nîle",
-    "e": "Nettle-leaved Goosefoot",
-    "k": "dlavertesnile",
-    "f": "nettleleavedgoosefoot"
-  },
-  {
-    "j": "d'la violette dé mielle",
-    "e": "Sea Stock",
-    "k": "dlaviolettedemielle",
-    "f": "seastock"
-  },
-  {
-    "j": "d'la violette d'êté",
-    "e": "Hoary Stock",
-    "k": "dlaviolettedete",
-    "f": "hoarystock"
-  },
-  {
-    "j": "d'la violette sauvage, jaunes violettes, violettes d'hivé, violettes de gardin, la baume dé la résurrection, d'la girofliée, d'la giroufliée",
-    "e": "Wallflower",
-    "k": "dlaviolettesauvage,jaunesviolettes,violettesdhive,violettesdegardin,labaumedelaresurrection,dlagirofliee,dlagiroufliee",
-    "f": "wallflower"
-  },
-  {
-    "j": "d'la v'nîse",
-    "e": "white bait",
-    "k": "dlavnise",
-    "f": "whitebait"
-  },
-  {
-    "j": "d'la vraicque",
-    "e": "pondweed (Potamogeton sp.)",
-    "k": "dlavraicque",
-    "f": "pondweed(potamogetonsp.)"
-  },
-  {
-    "j": "d'l'ache, du céléri sauvage",
-    "e": "Wild Celery",
-    "k": "dlache,ducelerisauvage",
-    "f": "wildcelery"
-  },
-  {
-    "j": "d'l'alisandre",
-    "e": "Alexanders",
-    "k": "dlalisandre",
-    "f": "alexanders"
-  },
-  {
-    "j": "d'l'aloé",
-    "e": "aloe",
-    "k": "dlaloe",
-    "f": "aloe"
-  },
-  {
-    "j": "d'l'alysson",
-    "e": "Sweet Alison",
-    "k": "dlalysson",
-    "f": "sweetalison"
-  },
-  {
-    "j": "d'l'ambrais",
-    "e": "Wood Sage",
-    "k": "dlambrais",
-    "f": "woodsage"
-  },
-  {
-    "j": "d'l'amièrdoux (m), la douoche-améthe, du mèrdou",
-    "e": "Bittersweet, Woody Nightshade",
-    "k": "dlamierdoux(m),ladouocheamethe,dumerdou",
-    "f": "bittersweet,woodynightshade"
-  },
-  {
-    "j": "d'l'ancelée d'falaise",
-    "e": "Sea Plantain",
-    "k": "dlanceleedfalaise",
-    "f": "seaplantain"
-  },
-  {
-    "j": "d'l'ancelée, des né têtes, d's ouothelles dé lapîn",
-    "e": "Ribwort Plantain",
-    "k": "dlancelee,desnetetes,dsouothellesdelapin",
-    "f": "ribwortplantain"
-  },
-  {
-    "j": "d'l'apathitouaithe",
-    "e": "Pellitory-of-the-wall",
-    "k": "dlapathitouaithe",
-    "f": "pellitoryofthewall"
-  },
-  {
-    "j": "d'l'aphrasie",
-    "e": "Western Eyebright",
-    "k": "dlaphrasie",
-    "f": "westerneyebright"
-  },
-  {
-    "j": "d'l'arbre à lupîns",
-    "e": "Tree Lupin",
-    "k": "dlarbrealupins",
-    "f": "treelupin"
-  },
-  {
-    "j": "d'l'ardouaise",
-    "e": "slate",
-    "k": "dlardouaise",
-    "f": "slate"
-  },
-  {
-    "j": "d'l'argent",
-    "e": "Snow-in-summer",
-    "k": "dlargent",
-    "f": "snowinsummer"
-  },
-  {
-    "j": "d'l'argentinne",
-    "e": "Argentum or Shrubby Orache",
-    "k": "dlargentinne",
-    "f": "argentumorshrubbyorache"
-  },
-  {
-    "j": "d'l'as sauvage",
-    "e": "Crow Garlic",
-    "k": "dlassauvage",
-    "f": "crowgarlic"
-  },
-  {
-    "j": "d'l'as sauvage",
-    "e": "Three-cornered Leek",
-    "k": "dlassauvage",
-    "f": "threecorneredleek"
-  },
-  {
-    "j": "d'l'aspèrge",
-    "e": "Asparagus",
-    "k": "dlasperge",
-    "f": "asparagus"
-  },
-  {
-    "j": "d'l'êcappillon",
-    "e": "loose vraic",
-    "k": "dlecappillon",
-    "f": "loosevraic"
-  },
-  {
-    "j": "d'l'êcaûffîn",
-    "e": "heat rash",
-    "k": "dlecauffin",
-    "f": "heatrash"
-  },
-  {
-    "j": "d'l'enchens",
-    "e": "Red Dead-nettle",
-    "k": "dlenchens",
-    "f": "reddeadnettle"
-  },
-  {
-    "j": "d'l'èpinne-vinnette",
-    "e": "Barberry",
-    "k": "dlepinnevinnette",
-    "f": "barberry"
-  },
-  {
-    "j": "d'l'escorvie",
-    "e": "Danish Scurvygrass",
-    "k": "dlescorvie",
-    "f": "danishscurvygrass"
-  },
-  {
-    "j": "d'l'hèrbe à la danme",
-    "e": "Wild Clary",
-    "k": "dlherbealadanme",
-    "f": "wildclary"
-  },
-  {
-    "j": "d'l'hèrbe à mille noueds",
-    "e": "Corn Spurrey",
-    "k": "dlherbeamillenoueds",
-    "f": "cornspurrey"
-  },
-  {
-    "j": "d'l'hèrbe à moutons",
-    "e": "Sheep's Fescue",
-    "k": "dlherbeamoutons",
-    "f": "sheepsfescue"
-  },
-  {
-    "j": "d'l'hèrbe à paralysie",
-    "e": "Tormentil",
-    "k": "dlherbeaparalysie",
-    "f": "tormentil"
-  },
-  {
-    "j": "d'l'hèrbe à poules",
-    "e": "Annual Meadow-grass",
-    "k": "dlherbeapoules",
-    "f": "annualmeadowgrass"
-  },
-  {
-    "j": "d'l'hèrbe à puches",
-    "e": "Blue Fleabane",
-    "k": "dlherbeapuches",
-    "f": "bluefleabane"
-  },
-  {
-    "j": "d'l'hèrbe à sang , du sang d'dragon, d'la doque à sang, des fielles à sang",
-    "e": "Wood Dock",
-    "k": "dlherbeasang,dusangddragon,dladoqueasang,desfiellesasang",
-    "f": "wooddock"
-  },
-  {
-    "j": "d'l'hèrbe à tchilieuvre, du fliancouais, des prannants",
-    "e": "Cleavers, Goosegrass",
-    "k": "dlherbeatchilieuvre,dufliancouais,desprannants",
-    "f": "cleavers,goosegrass"
-  },
-  {
-    "j": "d'l'hèrbe à teindre",
-    "e": "Weld",
-    "k": "dlherbeateindre",
-    "f": "weld"
-  },
-  {
-    "j": "d'l'hèrbe à véthues",
-    "e": "Greater Celandine",
-    "k": "dlherbeavethues",
-    "f": "greatercelandine"
-  },
-  {
-    "j": "d'l'hèrbe à véthues",
-    "e": "Petty Spurge",
-    "k": "dlherbeavethues",
-    "f": "pettyspurge"
-  },
-  {
-    "j": "d'l'hèrbe à véthues, du lait d'tchilieuvre",
-    "e": "Sun Spurge",
-    "k": "dlherbeavethues,dulaitdtchilieuvre",
-    "f": "sunspurge"
-  },
-  {
-    "j": "d'l'hèrbe b'nêt",
-    "e": "Wood Avens",
-    "k": "dlherbebnet",
-    "f": "woodavens"
-  },
-  {
-    "j": "d'l'hèrbe d'chorchi",
-    "e": "Caper Spurge",
-    "k": "dlherbedchorchi",
-    "f": "caperspurge"
-  },
-  {
-    "j": "d'l'hèrbe des veuves",
-    "e": "Autumn crocus",
-    "k": "dlherbedesveuves",
-    "f": "autumncrocus"
-  },
-  {
-    "j": "d'l'hèrbe d'grâce",
-    "e": "Vervain",
-    "k": "dlherbedgrace",
-    "f": "vervain"
-  },
-  {
-    "j": "d'l'hèrbe d'pithot",
-    "e": "Common Duckweed",
-    "k": "dlherbedpithot",
-    "f": "commonduckweed"
-  },
-  {
-    "j": "d'l'hèrbe d'pré",
-    "e": "Spreading Meadow-grass",
-    "k": "dlherbedpre",
-    "f": "spreadingmeadowgrass"
-  },
-  {
-    "j": "d'l'hèrbe d'St Jean",
-    "e": "Mugwort",
-    "k": "dlherbedstjean",
-    "f": "mugwort"
-  },
-  {
-    "j": "d'l'hèrbe d'St Martin, d'la centaurée",
-    "e": "Common Centaury",
-    "k": "dlherbedstmartin,dlacentauree",
-    "f": "commoncentaury"
-  },
-  {
-    "j": "d'l'hèrbe Italienne",
-    "e": "Italian Rye-grass",
-    "k": "dlherbeitalienne",
-    "f": "italianryegrass"
-  },
-  {
-    "j": "d'l'hèrbe pèrpétuelle",
-    "e": "Perennial Rye-grass",
-    "k": "dlherbeperpetuelle",
-    "f": "perennialryegrass"
-  },
-  {
-    "j": "d'l'hèrbi",
-    "e": "grass-wrack, Zostera marina",
-    "k": "dlherbi",
-    "f": "grasswrack,zosteramarina"
-  },
-  {
-    "j": "d'l'ivraie",
-    "e": "Halidrys siliquosa",
-    "k": "dlivraie",
-    "f": "halidryssiliquosa"
-  },
-  {
-    "j": "d'livrer",
-    "e": "to deliver",
-    "k": "dlivrer",
-    "f": "todeliver"
-  },
-  {
-    "j": "d'l'ordgi ou d'l'ordgi d'gardîn",
-    "e": "London Pride",
-    "k": "dlordgioudlordgidgardin",
-    "f": "londonpride"
-  },
-  {
-    "j": "d'l'ortchie puante, d'l'hèbe d'couochon, d'l'enchens",
-    "e": "Hedge Woundwort",
-    "k": "dlortchiepuante,dlhebedcouochon,dlenchens",
-    "f": "hedgewoundwort"
-  },
-  {
-    "j": "d'l'orvale",
-    "e": "Balm-leaved Figwort",
-    "k": "dlorvale",
-    "f": "balmleavedfigwort"
-  },
-  {
-    "j": "d'l'orvale",
-    "e": "Marsh Woundwort",
-    "k": "dlorvale",
-    "f": "marshwoundwort"
-  },
-  {
-    "j": "d'l'ôsyi",
-    "e": "Osier",
-    "k": "dlosyi",
-    "f": "osier"
-  },
-  {
-    "j": "d'main au sé",
-    "e": "tomorrow evening",
-    "k": "dmainause",
-    "f": "tomorrowevening"
-  },
-  {
-    "j": "d'main",
-    "e": "tomorrow",
-    "k": "dmain",
-    "f": "tomorrow"
-  },
-  {
-    "j": "d'mander",
-    "e": "ask",
-    "k": "dmander",
-    "f": "ask"
-  },
-  {
-    "j": "d'meuther",
-    "e": "to live",
-    "k": "dmeuther",
-    "f": "tolive"
   },
   {
     "j": "doctrinner",
@@ -5082,8 +5856,8 @@ export const vocabData = [
     "f": "beddybyes"
   },
   {
-    "j": "Dominica",
-    "e": "Dominica",
+    "j": "dominica",
+    "e": "dominica",
     "k": "dominica",
     "f": "dominica"
   },
@@ -5092,6 +5866,18 @@ export const vocabData = [
     "e": "dumpling",
     "k": "domplin",
     "f": "dumpling"
+  },
+  {
+    "j": "donne-mé...",
+    "e": "give me...",
+    "k": "donneme...",
+    "f": "giveme..."
+  },
+  {
+    "j": "donner",
+    "e": "give",
+    "k": "donner",
+    "f": "give"
   },
   {
     "j": "donner du fouet",
@@ -5124,28 +5910,28 @@ export const vocabData = [
     "f": "togivesomeonealift"
   },
   {
-    "j": "donner",
-    "e": "give",
-    "k": "donner",
-    "f": "give"
+    "j": "donnez-mé...",
+    "e": "give me...",
+    "k": "donnezme...",
+    "f": "giveme..."
   },
   {
-    "j": "Dontchèrque",
-    "e": "Dunkirk",
+    "j": "dontchèrque",
+    "e": "dunkirk",
     "k": "dontcherque",
     "f": "dunkirk"
-  },
-  {
-    "j": "dormi coumme un prînce",
-    "e": "to sleep soundly",
-    "k": "dormicoummeunprince",
-    "f": "tosleepsoundly"
   },
   {
     "j": "dormi",
     "e": "sleep",
     "k": "dormi",
     "f": "sleep"
+  },
+  {
+    "j": "dormi coumme un prînce",
+    "e": "to sleep soundly",
+    "k": "dormicoummeunprince",
+    "f": "tosleepsoundly"
   },
   {
     "j": "doudou",
@@ -5160,6 +5946,12 @@ export const vocabData = [
     "f": "sweeties,sweets"
   },
   {
+    "j": "douochement",
+    "e": "slowly",
+    "k": "douochement",
+    "f": "slowly"
+  },
+  {
     "j": "doux",
     "e": "sweet",
     "k": "doux",
@@ -5172,16 +5964,22 @@ export const vocabData = [
     "f": "twelve"
   },
   {
-    "j": "Dovre",
-    "e": "Dover",
-    "k": "dovre",
-    "f": "dover"
+    "j": "douze heuthes",
+    "e": "twelve o'clock",
+    "k": "douzeheuthes",
+    "f": "twelveoclock"
   },
   {
-    "j": "d'pichi",
-    "e": "break",
-    "k": "dpichi",
-    "f": "break"
+    "j": "douze heuthes vîngt-chînq",
+    "e": "twenty-five past twelve",
+    "k": "douzeheuthesvingtchinq",
+    "f": "twentyfivepasttwelve"
+  },
+  {
+    "j": "dovre",
+    "e": "dover",
+    "k": "dovre",
+    "f": "dover"
   },
   {
     "j": "drâses",
@@ -5190,16 +5988,16 @@ export const vocabData = [
     "f": "knickers(de\"drawers\")"
   },
   {
-    "j": "dréchi",
-    "e": "stand upright",
-    "k": "drechi",
-    "f": "standupright"
-  },
-  {
     "j": "dréch'rêsse",
     "e": "ladle",
     "k": "drechresse",
     "f": "ladle"
+  },
+  {
+    "j": "dréchi",
+    "e": "stand upright",
+    "k": "drechi",
+    "f": "standupright"
   },
   {
     "j": "drîlyi",
@@ -5226,182 +6024,32 @@ export const vocabData = [
     "f": "stumbleandfall"
   },
   {
-    "j": "d's aigrettes",
-    "e": "Sneezewort",
-    "k": "dsaigrettes",
-    "f": "sneezewort"
-  },
-  {
-    "j": "d's âmes au Mont, des mamonts, d's amômonts",
-    "e": "winter cherry",
-    "k": "dsamesaumont,desmamonts,dsamomonts",
-    "f": "wintercherry"
-  },
-  {
-    "j": "d's anchouais",
-    "e": "anchovy",
-    "k": "dsanchouais",
-    "f": "anchovy"
-  },
-  {
-    "j": "d's anémônes du bouais",
-    "e": "Wood Anemone",
-    "k": "dsanemonesdubouais",
-    "f": "woodanemone"
-  },
-  {
-    "j": "d's aulouoches, d's alouoches",
-    "e": "Good King Henry",
-    "k": "dsaulouoches,dsalouoches",
-    "f": "goodkinghenry"
-  },
-  {
-    "j": "d's entaillies (f), lé gros s'nichon",
-    "e": "Common Ragwort",
-    "k": "dsentaillies(f),legrossnichon",
-    "f": "commonragwort"
-  },
-  {
-    "j": "d's êpèrvenches",
-    "e": "Greater Periwinkle",
-    "k": "dsepervenches",
-    "f": "greaterperiwinkle"
-  },
-  {
-    "j": "d's êpîles à chorchièrs",
-    "e": "Musk Stork's-bill",
-    "k": "dsepilesachorchiers",
-    "f": "muskstorksbill"
-  },
-  {
-    "j": "d's esprots",
-    "e": "sprats",
-    "k": "dsesprots",
-    "f": "sprats"
-  },
-  {
-    "j": "d's êtailes dé Bethléem",
-    "e": "Star-of-Bethlehem",
-    "k": "dsetailesdebethleem",
-    "f": "starofbethlehem"
-  },
-  {
-    "j": "d's êtchelles dé Jâcob",
-    "e": "Jack or Wild Gladiolus",
-    "k": "dsetchellesdejacob",
-    "f": "jackorwildgladiolus"
-  },
-  {
-    "j": "d's êtchelles dé Jâcob",
-    "e": "Montbretia",
-    "k": "dsetchellesdejacob",
-    "f": "montbretia"
-  },
-  {
-    "j": "d's' êtournieaux",
-    "e": "starlings",
-    "k": "dsetournieaux",
-    "f": "starlings"
-  },
-  {
-    "j": "d's ièrs dé boeu, la cobohiéthe",
-    "e": "Oxeye Daisy",
-    "k": "dsiersdeboeu,lacobohiethe",
-    "f": "oxeyedaisy"
-  },
-  {
-    "j": "d's iliets d'falaise",
-    "e": "Thrift",
-    "k": "dsilietsdfalaise",
-    "f": "thrift"
-  },
-  {
-    "j": "d's iliets d'fôssé, du rouoge coucou, des vièrs garçons, d'la p'tite molène",
-    "e": "Red Campion",
-    "k": "dsilietsdfosse,durouogecoucou,desviersgarcons,dlaptitemolene",
-    "f": "redcampion"
-  },
-  {
-    "j": "d's iliets d'mielle",
-    "e": "Jersey Thrift",
-    "k": "dsilietsdmielle",
-    "f": "jerseythrift"
-  },
-  {
-    "j": "d's iliets d'rotchi, du blianc coucou, d'mouaîselles, blianches femmes, bouonnefemmes",
-    "e": "Sea Campion",
-    "k": "dsilietsdrotchi,dublianccoucou,dmouaiselles,blianchesfemmes,bouonnefemmes",
-    "f": "seacampion"
-  },
-  {
-    "j": "d's ortchies (f)",
-    "e": "Stinging Nettle",
-    "k": "dsortchies(f)",
-    "f": "stingingnettle"
-  },
-  {
-    "j": "d's ortchies grégeaises",
-    "e": "Small Nettle",
-    "k": "dsortchiesgregeaises",
-    "f": "smallnettle"
-  },
-  {
-    "j": "d'samather",
-    "e": "to undock",
-    "k": "dsamather",
-    "f": "toundock"
-  },
-  {
-    "j": "d'scendre",
-    "e": "go down",
-    "k": "dscendre",
-    "f": "godown"
-  },
-  {
-    "j": "d'sembèrtchi",
-    "e": "disembark",
-    "k": "dsembertchi",
-    "f": "disembark"
-  },
-  {
-    "j": "d'senchorchéler",
-    "e": "to exorcise",
-    "k": "dsenchorcheler",
-    "f": "toexorcise"
-  },
-  {
-    "j": "d'senflier",
-    "e": "to reduce swelling",
-    "k": "dsenflier",
-    "f": "toreduceswelling"
-  },
-  {
-    "j": "d'sînfecter",
-    "e": "to disinfect",
-    "k": "dsinfecter",
-    "f": "todisinfect"
+    "j": "dû",
+    "e": "hard",
+    "k": "du",
+    "f": "hard"
   },
   {
     "j": "du bas",
-    "e": "Common Couch",
+    "e": "common couch",
     "k": "dubas",
     "f": "commoncouch"
   },
   {
     "j": "du bas d'sablion",
-    "e": "Sand Couch",
+    "e": "sand couch",
     "k": "dubasdsablion",
     "f": "sandcouch"
   },
   {
     "j": "du bliajeu",
-    "e": "Yellow Iris",
+    "e": "yellow iris",
     "k": "dubliajeu",
     "f": "yellowiris"
   },
   {
     "j": "du blié sauvage",
-    "e": "Wall Barley",
+    "e": "wall barley",
     "k": "dubliesauvage",
     "f": "wallbarley"
   },
@@ -5413,13 +6061,13 @@ export const vocabData = [
   },
   {
     "j": "du bouisque",
-    "e": "Box",
+    "e": "box",
     "k": "dubouisque",
     "f": "box"
   },
   {
     "j": "du bouôrrage",
-    "e": "Borage",
+    "e": "borage",
     "k": "dubouorrage",
     "f": "borage"
   },
@@ -5431,19 +6079,13 @@ export const vocabData = [
   },
   {
     "j": "du bréha",
-    "e": "Charlock",
+    "e": "pudding-stone, charlock",
     "k": "dubreha",
-    "f": "charlock"
-  },
-  {
-    "j": "du bréha",
-    "e": "pudding-stone",
-    "k": "dubreha",
-    "f": "puddingstone"
+    "f": "puddingstone,charlock"
   },
   {
     "j": "du bréha, des flieuthions",
-    "e": "Sea-Radish",
+    "e": "sea-radish",
     "k": "dubreha,desflieuthions",
     "f": "searadish"
   },
@@ -5455,7 +6097,7 @@ export const vocabData = [
   },
   {
     "j": "du cache-dgiâbl'ye",
-    "e": "Common or perforate St John's-wort",
+    "e": "common or perforate st john's-wort",
     "k": "ducachedgiablye",
     "f": "commonorperforatestjohnswort"
   },
@@ -5467,7 +6109,7 @@ export const vocabData = [
   },
   {
     "j": "du cannevi",
-    "e": "Hemp",
+    "e": "hemp",
     "k": "ducannevi",
     "f": "hemp"
   },
@@ -5503,19 +6145,19 @@ export const vocabData = [
   },
   {
     "j": "du chou-mathîn",
-    "e": "Sea-Kale",
+    "e": "sea-kale",
     "k": "duchoumathin",
     "f": "seakale"
   },
   {
     "j": "du chuchet",
-    "e": "Honeysuckle",
+    "e": "honeysuckle",
     "k": "duchuchet",
     "f": "honeysuckle"
   },
   {
     "j": "du chuchot",
-    "e": "Common Amaranth",
+    "e": "common amaranth",
     "k": "duchuchot",
     "f": "commonamaranth"
   },
@@ -5545,31 +6187,13 @@ export const vocabData = [
   },
   {
     "j": "du coucou",
-    "e": "Common Dog-violet",
+    "e": "sweet violet, field pansy, cuckooflower, common dog-violet",
     "k": "ducoucou",
-    "f": "commondogviolet"
-  },
-  {
-    "j": "du coucou",
-    "e": "Cuckooflower",
-    "k": "ducoucou",
-    "f": "cuckooflower"
-  },
-  {
-    "j": "du coucou",
-    "e": "Field Pansy",
-    "k": "ducoucou",
-    "f": "fieldpansy"
-  },
-  {
-    "j": "du coucou",
-    "e": "Sweet Violet",
-    "k": "ducoucou",
-    "f": "sweetviolet"
+    "f": "sweetviolet,fieldpansy,cuckooflower,commondogviolet"
   },
   {
     "j": "du coucou d'pré",
-    "e": "Ragged Robin",
+    "e": "ragged robin",
     "k": "ducoucoudpre",
     "f": "raggedrobin"
   },
@@ -5581,31 +6205,31 @@ export const vocabData = [
   },
   {
     "j": "du crachet",
-    "e": "Pelvetia canaliculata, Fucus nodosus",
+    "e": "pelvetia canaliculata, fucus nodosus",
     "k": "ducrachet",
     "f": "pelvetiacanaliculata,fucusnodosus"
   },
   {
     "j": "du cracot",
-    "e": "Fucus nodosus",
+    "e": "fucus nodosus",
     "k": "ducracot",
     "f": "fucusnodosus"
   },
   {
     "j": "du cresson",
-    "e": "Water-cress",
+    "e": "water-cress",
     "k": "ducresson",
     "f": "watercress"
   },
   {
     "j": "du cresson à couochons",
-    "e": "Lesser Swine -cress",
+    "e": "lesser swine -cress",
     "k": "ducressonacouochons",
     "f": "lesserswinecress"
   },
   {
     "j": "du crochet",
-    "e": "Pelvetia canaliculata, Fucus nodosus",
+    "e": "pelvetia canaliculata, fucus nodosus",
     "k": "ducrochet",
     "f": "pelvetiacanaliculata,fucusnodosus"
   },
@@ -5623,7 +6247,7 @@ export const vocabData = [
   },
   {
     "j": "du fanon",
-    "e": "Fennel",
+    "e": "fennel",
     "k": "dufanon",
     "f": "fennel"
   },
@@ -5647,37 +6271,37 @@ export const vocabData = [
   },
   {
     "j": "du frêgon, du p'tit housse",
-    "e": "Butcher's-broom",
+    "e": "butcher's-broom",
     "k": "dufregon,duptithousse",
     "f": "butchersbroom"
   },
   {
     "j": "du genêt",
-    "e": "Broom",
+    "e": "broom",
     "k": "dugenet",
     "f": "broom"
   },
   {
     "j": "du genêt d'falaise",
-    "e": "Prostrate Broom",
+    "e": "prostrate broom",
     "k": "dugenetdfalaise",
     "f": "prostratebroom"
   },
   {
     "j": "du geon",
-    "e": "Gorse, furze",
+    "e": "gorse, furze",
     "k": "dugeon",
     "f": "gorse,furze"
   },
   {
     "j": "du geon d'mielle",
-    "e": "Prickly Saltwort",
+    "e": "prickly saltwort",
     "k": "dugeondmielle",
     "f": "pricklysaltwort"
   },
   {
     "j": "du graslard",
-    "e": "Wild Angelica",
+    "e": "wild angelica",
     "k": "dugraslard",
     "f": "wildangelica"
   },
@@ -5689,13 +6313,13 @@ export const vocabData = [
   },
   {
     "j": "du han",
-    "e": "Gallingale",
+    "e": "gallingale",
     "k": "duhan",
     "f": "gallingale"
   },
   {
     "j": "du houbillon",
-    "e": "Hop",
+    "e": "hop",
     "k": "duhoubillon",
     "f": "hop"
   },
@@ -5707,7 +6331,7 @@ export const vocabData = [
   },
   {
     "j": "du housse dé mielle, du tcheurdron d'mielle",
-    "e": "Sea-holly",
+    "e": "sea-holly",
     "k": "duhoussedemielle,dutcheurdrondmielle",
     "f": "seaholly"
   },
@@ -5719,19 +6343,19 @@ export const vocabData = [
   },
   {
     "j": "du jaune coucou",
-    "e": "Cowslip",
+    "e": "cowslip",
     "k": "dujaunecoucou",
     "f": "cowslip"
   },
   {
     "j": "du jaune pain à crapauds, pèrche-pierre, corînthe à poules, hèrbe ès tuilles",
-    "e": "Biting Stonecrop",
+    "e": "biting stonecrop",
     "k": "dujaunepainacrapauds,perchepierre,corintheapoules,herbeestuilles",
     "f": "bitingstonecrop"
   },
   {
     "j": "du jonc",
-    "e": "Soft Rush",
+    "e": "soft rush",
     "k": "dujonc",
     "f": "softrush"
   },
@@ -5743,20 +6367,20 @@ export const vocabData = [
   },
   {
     "j": "du lachet",
-    "e": "thongweed (Himanthalia sp.)",
+    "e": "thongweed (himanthalia sp.)",
     "k": "dulachet",
     "f": "thongweed(himanthaliasp.)"
   },
   {
     "j": "du lachon",
-    "e": "thongweed (Himanthalia sp.)",
+    "e": "thongweed (himanthalia sp.)",
     "k": "dulachon",
     "f": "thongweed(himanthaliasp.)"
   },
   {
     "j": "du laïesse",
     "e": "hard limestone",
-    "k": "dulaïesse",
+    "k": "dulaiesse",
     "f": "hardlimestone"
   },
   {
@@ -5773,21 +6397,9 @@ export const vocabData = [
   },
   {
     "j": "du laiteron",
-    "e": "Perennial Sow-thistle",
+    "e": "smooth sow-thistle, prickly sow-thistle, perennial sow-thistle",
     "k": "dulaiteron",
-    "f": "perennialsowthistle"
-  },
-  {
-    "j": "du laiteron",
-    "e": "Prickly Sow-thistle",
-    "k": "dulaiteron",
-    "f": "pricklysowthistle"
-  },
-  {
-    "j": "du laiteron",
-    "e": "Smooth Sow-thistle",
-    "k": "dulaiteron",
-    "f": "smoothsowthistle"
+    "f": "smoothsowthistle,pricklysowthistle,perennialsowthistle"
   },
   {
     "j": "du lard",
@@ -5797,19 +6409,19 @@ export const vocabData = [
   },
   {
     "j": "du laurientîn, du louothentîn",
-    "e": "Laurustinus",
+    "e": "laurustinus",
     "k": "dulaurientin,dulouothentin",
     "f": "laurustinus"
   },
   {
     "j": "du lilas",
-    "e": "Lilac",
+    "e": "lilac",
     "k": "dulilas",
     "f": "lilac"
   },
   {
-    "j": "du lilas, ou lîlas, du muthaille, du valérien, du lilas d'Espangne",
-    "e": "Red Valerian",
+    "j": "du lilas, ou lîlas, du muthaille, du valérien, du lilas d'espangne",
+    "e": "red valerian",
     "k": "dulilas,oulilas,dumuthaille,duvalerien,dulilasdespangne",
     "f": "redvalerian"
   },
@@ -5821,7 +6433,7 @@ export const vocabData = [
   },
   {
     "j": "du lis dg'ieau",
-    "e": "Water-lily",
+    "e": "water-lily",
     "k": "dulisdgieau",
     "f": "waterlily"
   },
@@ -5838,26 +6450,26 @@ export const vocabData = [
     "f": "assortedlowgradevraic,carragheenetc."
   },
   {
-    "j": "du louothi d'Espangne",
-    "e": "Cherry Laurel",
+    "j": "du louothi d'espangne",
+    "e": "cherry laurel",
     "k": "dulouothidespangne",
     "f": "cherrylaurel"
   },
   {
-    "j": "du louothi du Portûnga",
-    "e": "Portugal laurel",
+    "j": "du louothi du portûnga",
+    "e": "portugal laurel",
     "k": "dulouothiduportunga",
     "f": "portugallaurel"
   },
   {
     "j": "du louothi, du louothyi",
-    "e": "Laurel",
+    "e": "laurel",
     "k": "dulouothi,dulouothyi",
     "f": "laurel"
   },
   {
     "j": "du maître",
-    "e": "Feverfew",
+    "e": "feverfew",
     "k": "dumaitre",
     "f": "feverfew"
   },
@@ -5868,38 +6480,44 @@ export const vocabData = [
     "f": "marble"
   },
   {
+    "j": "du matîn",
+    "e": "a.m.",
+    "k": "dumatin",
+    "f": "a.m."
+  },
+  {
     "j": "du melgreu",
-    "e": "Marram",
+    "e": "marram",
     "k": "dumelgreu",
     "f": "marram"
   },
   {
     "j": "du mélilot",
-    "e": "Ribbed Melilot",
+    "e": "ribbed melilot",
     "k": "dumelilot",
     "f": "ribbedmelilot"
   },
   {
     "j": "du mèneleu",
-    "e": "Corn Marigold",
+    "e": "corn marigold",
     "k": "dumeneleu",
     "f": "cornmarigold"
   },
   {
     "j": "du meurdron",
-    "e": "Common Chickweed",
+    "e": "common chickweed",
     "k": "dumeurdron",
     "f": "commonchickweed"
   },
   {
     "j": "du meuthe-en-c'mîn",
-    "e": "Black Horehound",
+    "e": "black horehound",
     "k": "dumeutheencmin",
     "f": "blackhorehound"
   },
   {
     "j": "du morrhouiton",
-    "e": "Lesser Celandine",
+    "e": "lesser celandine",
     "k": "dumorrhouiton",
     "f": "lessercelandine"
   },
@@ -5910,14 +6528,14 @@ export const vocabData = [
     "f": "musk"
   },
   {
-    "j": "du myi d'Jâcob",
-    "e": "Buddleia, butterfly-bush",
+    "j": "du myi d'jâcob",
+    "e": "buddleia, butterfly-bush",
     "k": "dumyidjacob",
     "f": "buddleia,butterflybush"
   },
   {
     "j": "du myi d'mielle",
-    "e": "Lady's Bedstraw",
+    "e": "lady's bedstraw",
     "k": "dumyidmielle",
     "f": "ladysbedstraw"
   },
@@ -5929,31 +6547,19 @@ export const vocabData = [
   },
   {
     "j": "du ou d'la capillaithe",
-    "e": "Black Spleenwort",
+    "e": "maidenhair-fern, jersey fern, black spleenwort",
     "k": "duoudlacapillaithe",
-    "f": "blackspleenwort"
-  },
-  {
-    "j": "du ou d'la capillaithe",
-    "e": "Jersey Fern",
-    "k": "duoudlacapillaithe",
-    "f": "jerseyfern"
-  },
-  {
-    "j": "du ou d'la capillaithe",
-    "e": "Maidenhair-fern",
-    "k": "duoudlacapillaithe",
-    "f": "maidenhairfern"
+    "f": "maidenhairfern,jerseyfern,blackspleenwort"
   },
   {
     "j": "du pain à crapauds",
-    "e": "English Stonecrop",
+    "e": "english stonecrop",
     "k": "dupainacrapauds",
     "f": "englishstonecrop"
   },
   {
     "j": "du pain d'coucou",
-    "e": "Wood-sorrel",
+    "e": "wood-sorrel",
     "k": "dupaindcoucou",
     "f": "woodsorrel"
   },
@@ -5965,7 +6571,7 @@ export const vocabData = [
   },
   {
     "j": "du paîvre à j'va",
-    "e": "Redshank",
+    "e": "redshank",
     "k": "dupaivreajva",
     "f": "redshank"
   },
@@ -5983,13 +6589,13 @@ export const vocabData = [
   },
   {
     "j": "du pas d'âne",
-    "e": "Winter Heliotrope (locally called Colt's-foot)",
+    "e": "winter heliotrope (locally called colt's-foot)",
     "k": "dupasdane",
     "f": "winterheliotrope(locallycalledcoltsfoot)"
   },
   {
     "j": "du pavis",
-    "e": "Great Fen-sedge",
+    "e": "great fen-sedge",
     "k": "dupavis",
     "f": "greatfensedge"
   },
@@ -6001,13 +6607,13 @@ export const vocabData = [
   },
   {
     "j": "du pèrsi",
-    "e": "Garden Parsley",
+    "e": "garden parsley",
     "k": "dupersi",
     "f": "gardenparsley"
   },
   {
     "j": "du pèrsicarré",
-    "e": "Black Bindweed",
+    "e": "black bindweed",
     "k": "dupersicarre",
     "f": "blackbindweed"
   },
@@ -6025,85 +6631,55 @@ export const vocabData = [
   },
   {
     "j": "du picot",
-    "e": "Motherwort",
+    "e": "motherwort",
     "k": "dupicot",
     "f": "motherwort"
   },
   {
     "j": "du pid-d'alouette",
-    "e": "Crab Grass",
+    "e": "larkspur, crab grass",
     "k": "dupiddalouette",
-    "f": "crabgrass"
-  },
-  {
-    "j": "du pid-d'alouette",
-    "e": "larkspur",
-    "k": "dupiddalouette",
-    "f": "larkspur"
+    "f": "larkspur,crabgrass"
   },
   {
     "j": "du pid-d'co",
-    "e": "Cock's-foot",
+    "e": "cock's-foot",
     "k": "dupiddco",
     "f": "cocksfoot"
   },
   {
     "j": "du pid-d'ouaîsé",
-    "e": "Hedge Mustard",
+    "e": "hedge mustard",
     "k": "dupiddouaise",
     "f": "hedgemustard"
   },
   {
     "j": "du piment",
-    "e": "Lemon Balm",
+    "e": "lemon balm",
     "k": "dupiment",
     "f": "lemonbalm"
   },
   {
     "j": "du pipot",
-    "e": "Bulbous Buttercup",
+    "e": "meadow buttercup, hairy buttercup, creeping buttercup, bulbous buttercup",
     "k": "dupipot",
-    "f": "bulbousbuttercup"
-  },
-  {
-    "j": "du pipot",
-    "e": "Creeping Buttercup",
-    "k": "dupipot",
-    "f": "creepingbuttercup"
-  },
-  {
-    "j": "du pipot",
-    "e": "Hairy Buttercup",
-    "k": "dupipot",
-    "f": "hairybuttercup"
-  },
-  {
-    "j": "du pipot",
-    "e": "Meadow Buttercup",
-    "k": "dupipot",
-    "f": "meadowbuttercup"
+    "f": "meadowbuttercup,hairybuttercup,creepingbuttercup,bulbousbuttercup"
   },
   {
     "j": "du pitouais",
-    "e": "Italian Lords-and Ladies",
+    "e": "lords-and-ladies or cuckoo-pint, italian lords-and ladies",
     "k": "dupitouais",
-    "f": "italianlordsandladies"
-  },
-  {
-    "j": "du pitouais",
-    "e": "Lords-and-Ladies or Cuckoo-pint",
-    "k": "dupitouais",
-    "f": "lordsandladiesorcuckoopint"
+    "f": "lordsandladiesorcuckoopint,italianlordsandladies"
   },
   {
     "j": "du pliantain",
-    "e": "Greater Plantain",
+    "e": "greater plantain",
     "k": "dupliantain",
     "f": "greaterplantain"
   },
   {
     "j": "du pommyi du dgiâbl'ye",
-    "e": "Thorn Apple",
+    "e": "thorn apple",
     "k": "dupommyidudgiablye",
     "f": "thornapple"
   },
@@ -6115,7 +6691,7 @@ export const vocabData = [
   },
   {
     "j": "du pourpyi",
-    "e": "Pot Purslane",
+    "e": "pot purslane",
     "k": "dupourpyi",
     "f": "potpurslane"
   },
@@ -6139,49 +6715,49 @@ export const vocabData = [
   },
   {
     "j": "du riban (dans les gardîns)",
-    "e": "Reed Canary-grass",
+    "e": "reed canary-grass",
     "k": "duriban(danslesgardins)",
     "f": "reedcanarygrass"
   },
   {
     "j": "du ricolisse en bouais",
-    "e": "Common Restharrow",
+    "e": "common restharrow",
     "k": "duricolisseenbouais",
     "f": "commonrestharrow"
   },
   {
     "j": "du ris",
-    "e": "Sweet Woodruff",
+    "e": "sweet woodruff",
     "k": "duris",
     "f": "sweetwoodruff"
   },
   {
     "j": "du romathîn, ou romarîn",
-    "e": "Rosemary",
+    "e": "rosemary",
     "k": "duromathin,ouromarin",
     "f": "rosemary"
   },
   {
     "j": "du ros",
-    "e": "Common Reed",
+    "e": "common reed",
     "k": "duros",
     "f": "commonreed"
   },
   {
     "j": "du ros d'gardîn",
-    "e": "Bamboos",
+    "e": "bamboos",
     "k": "durosdgardin",
     "f": "bamboos"
   },
   {
     "j": "du rouoge trêfl'ye, l'încarnat",
-    "e": "Red Clover",
+    "e": "red clover",
     "k": "durouogetreflye,lincarnat",
     "f": "redclover"
   },
   {
     "j": "du rouoget, du rouoge-pid",
-    "e": "Herb-Robert",
+    "e": "herb-robert",
     "k": "durouoget,durouogepid",
     "f": "herbrobert"
   },
@@ -6192,14 +6768,20 @@ export const vocabData = [
     "f": "rash"
   },
   {
+    "j": "du s'nichon",
+    "e": "heather groundsel, grounsel",
+    "k": "dusnichon",
+    "f": "heathergroundsel,grounsel"
+  },
+  {
     "j": "du sablion",
     "e": "sand",
     "k": "dusablion",
     "f": "sand"
   },
   {
-    "j": "du sâbre dé la Vièrge",
-    "e": "Madonna lily",
+    "j": "du sâbre dé la vièrge",
+    "e": "madonna lily",
     "k": "dusabredelavierge",
     "f": "madonnalily"
   },
@@ -6217,7 +6799,7 @@ export const vocabData = [
   },
   {
     "j": "du sarrasîn",
-    "e": "Buckwheat",
+    "e": "buckwheat",
     "k": "dusarrasin",
     "f": "buckwheat"
   },
@@ -6229,85 +6811,79 @@ export const vocabData = [
   },
   {
     "j": "du saux",
-    "e": "Willow",
+    "e": "willow",
     "k": "dusaux",
     "f": "willow"
   },
   {
+    "j": "du sé",
+    "e": "p.m. (evening)",
+    "k": "duse",
+    "f": "p.m.(evening)"
+  },
+  {
     "j": "du sectîn",
-    "e": "Purple Moor-grass",
+    "e": "purple moor-grass",
     "k": "dusectin",
     "f": "purplemoorgrass"
   },
   {
     "j": "du sênné",
-    "e": "Spurge Laurel",
+    "e": "spurge laurel",
     "k": "dusenne",
     "f": "spurgelaurel"
   },
   {
     "j": "du seu",
-    "e": "Elder",
+    "e": "elder",
     "k": "duseu",
     "f": "elder"
   },
   {
-    "j": "du s'nichon",
-    "e": "Grounsel",
-    "k": "dusnichon",
-    "f": "grounsel"
-  },
-  {
-    "j": "du s'nichon",
-    "e": "Heather Groundsel",
-    "k": "dusnichon",
-    "f": "heathergroundsel"
-  },
-  {
-    "j": "du soulié d'la Vièrge",
+    "j": "du soulié d'la vièrge",
     "e": "pitcher plant",
     "k": "dusouliedlavierge",
     "f": "pitcherplant"
   },
   {
     "j": "du suthîn",
-    "e": "Early Hair-grass",
+    "e": "early hair-grass",
     "k": "dusuthin",
     "f": "earlyhairgrass"
   },
   {
     "j": "du tamathîn",
-    "e": "Tamarisk",
+    "e": "tamarisk",
     "k": "dutamathin",
     "f": "tamarisk"
   },
   {
     "j": "du tcheurdron",
-    "e": "Marsh Thistle",
+    "e": "marsh thistle",
     "k": "dutcheurdron",
     "f": "marshthistle"
   },
   {
     "j": "du tcheurdron à chorchi, d'la piègne à chorchi",
-    "e": "Teasel",
+    "e": "teasel",
     "k": "dutcheurdronachorchi,dlapiegneachorchi",
     "f": "teasel"
   },
   {
     "j": "du tcheurdron à ouaîsieaux",
-    "e": "Creeping Thistle",
+    "e": "creeping thistle",
     "k": "dutcheurdronaouaisieaux",
     "f": "creepingthistle"
   },
   {
     "j": "du tcheurrage",
-    "e": "Water-pepper",
+    "e": "water-pepper",
     "k": "dutcheurrage",
     "f": "waterpepper"
   },
   {
     "j": "du tchiândent",
-    "e": "Sweet Vernal-grass, Couch onion",
+    "e": "sweet vernal-grass, couch onion",
     "k": "dutchiandent",
     "f": "sweetvernalgrass,couchonion"
   },
@@ -6318,34 +6894,22 @@ export const vocabData = [
     "f": "hearts"
   },
   {
-    "j": "du temps d'Âdam",
+    "j": "du temps d'âdam",
     "e": "since time immemorial",
     "k": "dutempsdadam",
     "f": "sincetimeimmemorial"
   },
   {
-    "j": "du temps du rouai Jean",
+    "j": "du temps du rouai jean",
     "e": "since time immemorial",
     "k": "dutempsdurouaijean",
     "f": "sincetimeimmemorial"
   },
   {
     "j": "du tèrrêtre",
-    "e": "Germander Speedwell",
+    "e": "lvy-leaved speedwell, ground-ivy, germander speedwell",
     "k": "duterretre",
-    "f": "germanderspeedwell"
-  },
-  {
-    "j": "du tèrrêtre",
-    "e": "Ground-ivy",
-    "k": "duterretre",
-    "f": "groundivy"
-  },
-  {
-    "j": "du tèrrêtre",
-    "e": "lvy-leaved Speedwell",
-    "k": "duterretre",
-    "f": "lvyleavedspeedwell"
+    "f": "lvyleavedspeedwell,groundivy,germanderspeedwell"
   },
   {
     "j": "du têtu",
@@ -6354,64 +6918,46 @@ export const vocabData = [
     "f": "fry"
   },
   {
-    "j": "du trêfl'ye à moutons",
-    "e": "Black Medick",
-    "k": "dutreflyeamoutons",
-    "f": "blackmedick"
-  },
-  {
-    "j": "du trêfl'ye à ouognons",
-    "e": "Four-leaved Oxalis",
-    "k": "dutreflyeaouognons",
-    "f": "fourleavedoxalis"
-  },
-  {
-    "j": "du trêfl'ye à ouognons",
-    "e": "Large-flowered Pink-sorrel",
-    "k": "dutreflyeaouognons",
-    "f": "largefloweredpinksorrel"
-  },
-  {
-    "j": "du trêfl'ye à ouognons",
-    "e": "Mexican Oxalis",
-    "k": "dutreflyeaouognons",
-    "f": "mexicanoxalis"
-  },
-  {
-    "j": "du trêfl'ye dg'ieau",
-    "e": "Bogbean",
-    "k": "dutreflyedgieau",
-    "f": "bogbean"
-  },
-  {
-    "j": "du trêfl'ye d'Jérusalem",
-    "e": "Spotted Medick",
-    "k": "dutreflyedjerusalem",
-    "f": "spottedmedick"
-  },
-  {
-    "j": "du trêfl'ye d'natuthe",
-    "e": "White Clover",
-    "k": "dutreflyednatuthe",
-    "f": "whiteclover"
-  },
-  {
     "j": "du trêfl'ye",
     "e": "clubs",
     "k": "dutreflye",
     "f": "clubs"
   },
   {
-    "j": "du véchon",
-    "e": "Hairy Tare",
-    "k": "duvechon",
-    "f": "hairytare"
+    "j": "du trêfl'ye à moutons",
+    "e": "black medick",
+    "k": "dutreflyeamoutons",
+    "f": "blackmedick"
+  },
+  {
+    "j": "du trêfl'ye à ouognons",
+    "e": "mexican oxalis, large-flowered pink-sorrel, four-leaved oxalis",
+    "k": "dutreflyeaouognons",
+    "f": "mexicanoxalis,largefloweredpinksorrel,fourleavedoxalis"
+  },
+  {
+    "j": "du trêfl'ye d'jérusalem",
+    "e": "spotted medick",
+    "k": "dutreflyedjerusalem",
+    "f": "spottedmedick"
+  },
+  {
+    "j": "du trêfl'ye d'natuthe",
+    "e": "white clover",
+    "k": "dutreflyednatuthe",
+    "f": "whiteclover"
+  },
+  {
+    "j": "du trêfl'ye dg'ieau",
+    "e": "bogbean",
+    "k": "dutreflyedgieau",
+    "f": "bogbean"
   },
   {
     "j": "du véchon",
-    "e": "Tufted Vetch",
+    "e": "tufted vetch, hairy tare",
     "k": "duvechon",
-    "f": "tuftedvetch"
+    "f": "tuftedvetch,hairytare"
   },
   {
     "j": "du vèr dé rotchi, du vèr dé rocque",
@@ -6421,13 +6967,13 @@ export const vocabData = [
   },
   {
     "j": "du vèrjus",
-    "e": "Grape",
+    "e": "grape",
     "k": "duverjus",
     "f": "grape"
   },
   {
     "j": "du vèrjus au dgiâbl'ye",
-    "e": "Black Nightshade",
+    "e": "black nightshade",
     "k": "duverjusaudgiablye",
     "f": "blacknightshade"
   },
@@ -6439,9 +6985,15 @@ export const vocabData = [
   },
   {
     "j": "du vèrt-bouais",
-    "e": "Evergreen Spindle-tree",
+    "e": "evergreen spindle-tree",
     "k": "duvertbouais",
     "f": "evergreenspindletree"
+  },
+  {
+    "j": "du vrai",
+    "e": "vraic",
+    "k": "duvrai",
+    "f": "vraic"
   },
   {
     "j": "du vrai à cliouques",
@@ -6451,19 +7003,13 @@ export const vocabData = [
   },
   {
     "j": "du vrai d'vivi",
-    "e": "Bog Pondweed",
+    "e": "pondweed (potamogeton sp.), bog pondweed",
     "k": "duvraidvivi",
-    "f": "bogpondweed"
-  },
-  {
-    "j": "du vrai d'vivi",
-    "e": "pondweed (Potamogeton sp.)",
-    "k": "duvraidvivi",
-    "f": "pondweed(potamogetonsp.)"
+    "f": "pondweed(potamogetonsp.),bogpondweed"
   },
   {
     "j": "du vrai ou vré",
-    "e": "Seaweed, Wrack",
+    "e": "seaweed, wrack",
     "k": "duvraiouvre",
     "f": "seaweed,wrack"
   },
@@ -6486,12 +7032,6 @@ export const vocabData = [
     "f": "vraicwasheduponthebeach"
   },
   {
-    "j": "du vrai",
-    "e": "vraic",
-    "k": "duvrai",
-    "f": "vraic"
-  },
-  {
     "j": "du vré",
     "e": "vraic",
     "k": "duvre",
@@ -6499,21 +7039,15 @@ export const vocabData = [
   },
   {
     "j": "du vrégeais",
-    "e": "Fucus vesiculosus, Fucus serratus, Fucus nodosus",
+    "e": "fucus vesiculosus, fucus serratus, fucus nodosus",
     "k": "duvregeais",
     "f": "fucusvesiculosus,fucusserratus,fucusnodosus"
   },
   {
     "j": "du vrégîn",
-    "e": "Fucus vesiculosus, Fucus serratus, Fucus nodosus",
+    "e": "fucus vesiculosus, fucus serratus, fucus nodosus",
     "k": "duvregin",
     "f": "fucusvesiculosus,fucusserratus,fucusnodosus"
-  },
-  {
-    "j": "dû",
-    "e": "hard",
-    "k": "du",
-    "f": "hard"
   },
   {
     "j": "duther",
@@ -6522,22 +7056,34 @@ export const vocabData = [
     "f": "last"
   },
   {
-    "j": "d'ver",
-    "e": "must",
-    "k": "dver",
-    "f": "must"
+    "j": "d’l’arlévée",
+    "e": "p.m. (afternoon)",
+    "k": "dlarlevee",
+    "f": "p.m.(afternoon)"
   },
   {
-    "j": "d'ver",
-    "e": "to owe",
-    "k": "dver",
-    "f": "toowe"
+    "j": "d’meuthe-tu à st brélade?",
+    "e": "do you live in st brelade?",
+    "k": "dmeuthetuastbrelade?",
+    "f": "doyouliveinstbrelade?"
   },
   {
-    "j": "d'viser",
-    "e": "speak",
-    "k": "dviser",
-    "f": "speak"
+    "j": "d’meuth’-ous à st jean?",
+    "e": "do you live in st john?",
+    "k": "dmeuthousastjean?",
+    "f": "doyouliveinstjohn?"
+  },
+  {
+    "j": "d’vièrs trais heuthes",
+    "e": "about three o’clock",
+    "k": "dvierstraisheuthes",
+    "f": "aboutthreeoclock"
+  },
+  {
+    "j": "e-mailer",
+    "e": "to e-mail",
+    "k": "emailer",
+    "f": "toemail"
   },
   {
     "j": "êbène",
@@ -6582,9 +7128,21 @@ export const vocabData = [
     "f": "economic"
   },
   {
+    "j": "êcoute",
+    "e": "listen",
+    "k": "ecoute",
+    "f": "listen"
+  },
+  {
     "j": "êcouter",
     "e": "listen",
     "k": "ecouter",
+    "f": "listen"
+  },
+  {
+    "j": "êcoutez",
+    "e": "listen",
+    "k": "ecoutez",
     "f": "listen"
   },
   {
@@ -6630,22 +7188,22 @@ export const vocabData = [
     "f": "scrofula"
   },
   {
-    "j": "Êdouard, Douard",
-    "e": "Edward, Édouard",
+    "j": "êdouard, douard",
+    "e": "edward, édouard",
     "k": "edouard,douard",
     "f": "edward,edouard"
-  },
-  {
-    "j": "êdutchi jusqu'ès dents",
-    "e": "highly educated",
-    "k": "edutchijusquesdents",
-    "f": "highlyeducated"
   },
   {
     "j": "êdutchi",
     "e": "to educate",
     "k": "edutchi",
     "f": "toeducate"
+  },
+  {
+    "j": "êdutchi jusqu'ès dents",
+    "e": "highly educated",
+    "k": "edutchijusquesdents",
+    "f": "highlyeducated"
   },
   {
     "j": "êglyise",
@@ -6660,16 +7218,28 @@ export const vocabData = [
     "f": "scratch"
   },
   {
-    "j": "Êgypte",
-    "e": "Egypt",
+    "j": "êgypte",
+    "e": "egypt",
     "k": "egypte",
     "f": "egypt"
   },
   {
-    "j": "El Salvador",
-    "e": "El Salvador",
+    "j": "eh bein!",
+    "e": "well!",
+    "k": "ehbein!",
+    "f": "well!"
+  },
+  {
+    "j": "el salvador",
+    "e": "el salvador",
     "k": "elsalvador",
     "f": "elsalvador"
+  },
+  {
+    "j": "êl'ver",
+    "e": "raise",
+    "k": "elver",
+    "f": "raise"
   },
   {
     "j": "êlectoral",
@@ -6678,9 +7248,9 @@ export const vocabData = [
     "f": "electoral"
   },
   {
-    "j": "Élie, Élyie, Éyie, Laïesse",
-    "e": "Elias",
-    "k": "elie,elyie,eyie,laïesse",
+    "j": "élie, élyie, éyie, laïesse",
+    "e": "elias",
+    "k": "elie,elyie,eyie,laiesse",
     "f": "elias"
   },
   {
@@ -6696,22 +7266,10 @@ export const vocabData = [
     "f": "toshake(potatostalks)"
   },
   {
-    "j": "êl'ver",
-    "e": "raise",
-    "k": "elver",
-    "f": "raise"
-  },
-  {
     "j": "êmail",
     "e": "enamel",
     "k": "email",
     "f": "enamel"
-  },
-  {
-    "j": "e-mailer",
-    "e": "to e-mail",
-    "k": "emailer",
-    "f": "toemail"
   },
   {
     "j": "embeurré",
@@ -6720,28 +7278,28 @@ export const vocabData = [
     "f": "buttered"
   },
   {
-    "j": "emboutilyi",
-    "e": "to bottle",
-    "k": "emboutilyi",
-    "f": "tobottle"
-  },
-  {
     "j": "embout'ler",
     "e": "to bottle",
     "k": "emboutler",
     "f": "tobottle"
   },
   {
-    "j": "embraichi",
-    "e": "to kiss",
-    "k": "embraichi",
-    "f": "tokiss"
+    "j": "emboutilyi",
+    "e": "to bottle",
+    "k": "emboutilyi",
+    "f": "tobottle"
+  },
+  {
+    "j": "embrache-mé!",
+    "e": "kiss me!",
+    "k": "embracheme!",
+    "f": "kissme!"
   },
   {
     "j": "embraichi",
-    "e": "kiss",
+    "e": "kiss, to kiss",
     "k": "embraichi",
-    "f": "kiss"
+    "f": "kiss,tokiss"
   },
   {
     "j": "êmioler",
@@ -6750,8 +7308,8 @@ export const vocabData = [
     "f": "tocrumble"
   },
   {
-    "j": "Émithaux Arabes Unnis",
-    "e": "United Arab Emirates",
+    "j": "émithaux arabes unnis",
+    "e": "united arab emirates",
     "k": "emithauxarabesunnis",
     "f": "unitedarabemirates"
   },
@@ -6798,16 +7356,16 @@ export const vocabData = [
     "f": "inbulk"
   },
   {
-    "j": "en dgèrre",
-    "e": "at war",
-    "k": "endgerre",
-    "f": "atwar"
-  },
-  {
     "j": "en d'sastre",
     "e": "bankrupt",
     "k": "endsastre",
     "f": "bankrupt"
+  },
+  {
+    "j": "en dgèrre",
+    "e": "at war",
+    "k": "endgerre",
+    "f": "atwar"
   },
   {
     "j": "en lîngne",
@@ -6816,16 +7374,16 @@ export const vocabData = [
     "f": "online"
   },
   {
-    "j": "en rade",
-    "e": "in the roads",
-    "k": "enrade",
-    "f": "intheroads"
-  },
-  {
     "j": "en r'lâche",
     "e": "storm-bound",
     "k": "enrlache",
     "f": "stormbound"
+  },
+  {
+    "j": "en rade",
+    "e": "in the roads",
+    "k": "enrade",
+    "f": "intheroads"
   },
   {
     "j": "encheinte",
@@ -6912,6 +7470,12 @@ export const vocabData = [
     "f": "tobewitch,hypnotise"
   },
   {
+    "j": "entendu!",
+    "e": "ok!",
+    "k": "entendu!",
+    "f": "ok!"
+  },
+  {
     "j": "entèrrer",
     "e": "to bury",
     "k": "enterrer",
@@ -6930,6 +7494,18 @@ export const vocabData = [
     "f": "toonesface"
   },
   {
+    "j": "env'yer",
+    "e": "to send",
+    "k": "envyer",
+    "f": "tosend"
+  },
+  {
+    "j": "env'yer eune cliaque",
+    "e": "to smack",
+    "k": "envyereunecliaque",
+    "f": "tosmack"
+  },
+  {
     "j": "envahi",
     "e": "to invade",
     "k": "envahi",
@@ -6940,18 +7516,6 @@ export const vocabData = [
     "e": "drunk",
     "k": "envitoue",
     "f": "drunk"
-  },
-  {
-    "j": "env'yer eune cliaque",
-    "e": "to smack",
-    "k": "envyereunecliaque",
-    "f": "tosmack"
-  },
-  {
-    "j": "env'yer",
-    "e": "to send",
-    "k": "envyer",
-    "f": "tosend"
   },
   {
     "j": "êpais",
@@ -7014,8 +7578,8 @@ export const vocabData = [
     "f": "tostrain"
   },
   {
-    "j": "Êquateur",
-    "e": "Ecuador",
+    "j": "êquateur",
+    "e": "ecuador",
     "k": "equateur",
     "f": "ecuador"
   },
@@ -7074,6 +7638,12 @@ export const vocabData = [
     "f": "refuse"
   },
   {
+    "j": "èrgarde",
+    "e": "look",
+    "k": "ergarde",
+    "f": "look"
+  },
+  {
     "j": "èrgarder",
     "e": "to look",
     "k": "ergarder",
@@ -7092,8 +7662,8 @@ export const vocabData = [
     "f": "raise"
   },
   {
-    "j": "Eritrea",
-    "e": "Eritrea",
+    "j": "eritrea",
+    "e": "eritrea",
     "k": "eritrea",
     "f": "eritrea"
   },
@@ -7111,15 +7681,9 @@ export const vocabData = [
   },
   {
     "j": "èrmuer",
-    "e": "to move",
+    "e": "to stir, to move",
     "k": "ermuer",
-    "f": "tomove"
-  },
-  {
-    "j": "èrmuer",
-    "e": "to stir",
-    "k": "ermuer",
-    "f": "tostir"
+    "f": "tostir,tomove"
   },
   {
     "j": "èrniflier",
@@ -7188,8 +7752,8 @@ export const vocabData = [
     "f": "delay"
   },
   {
-    "j": "Èrthu",
-    "e": "Arthur",
+    "j": "èrthu",
+    "e": "arthur",
     "k": "erthu",
     "f": "arthur"
   },
@@ -7200,8 +7764,20 @@ export const vocabData = [
     "f": "comeback"
   },
   {
-    "j": "Espangne",
-    "e": "Spain",
+    "j": "es-tu mathié?",
+    "e": "are you married?",
+    "k": "estumathie?",
+    "f": "areyoumarried?"
+  },
+  {
+    "j": "es-tu sus la liste êlectorale?",
+    "e": "are you on the electoral roll?",
+    "k": "estususlalisteelectorale?",
+    "f": "areyouontheelectoralroll?"
+  },
+  {
+    "j": "espangne",
+    "e": "spain",
     "k": "espangne",
     "f": "spain"
   },
@@ -7218,14 +7794,14 @@ export const vocabData = [
     "f": "towipe"
   },
   {
-    "j": "Estèr, Stèr",
-    "e": "Esther",
+    "j": "estèr, stèr",
+    "e": "esther",
     "k": "ester,ster",
     "f": "esther"
   },
   {
-    "j": "Estonnie",
-    "e": "Estonia",
+    "j": "estonnie",
+    "e": "estonia",
     "k": "estonnie",
     "f": "estonia"
   },
@@ -7254,16 +7830,16 @@ export const vocabData = [
     "f": "tobeinmourning"
   },
   {
-    "j": "êt' sus les rangs",
-    "e": "to be a candidate",
-    "k": "etsuslesrangs",
-    "f": "tobeacandidate"
-  },
-  {
     "j": "êt' sus l'pus",
     "e": "to be at death's door",
     "k": "etsuslpus",
     "f": "tobeatdeathsdoor"
+  },
+  {
+    "j": "êt' sus les rangs",
+    "e": "to be a candidate",
+    "k": "etsuslesrangs",
+    "f": "tobeacandidate"
   },
   {
     "j": "êt' sus san mouothi",
@@ -7276,6 +7852,12 @@ export const vocabData = [
     "e": "to be all eyes",
     "k": "ettoutaiers",
     "f": "tobealleyes"
+  },
+  {
+    "j": "êt'lîn",
+    "e": "plugging tool",
+    "k": "etlin",
+    "f": "pluggingtool"
   },
   {
     "j": "êtain",
@@ -7296,8 +7878,8 @@ export const vocabData = [
     "f": "brandingiron,stamp"
   },
   {
-    "j": "Êtats Unnis d'Améthique",
-    "e": "United States of America",
+    "j": "êtats unnis d'améthique",
+    "e": "united states of america",
     "k": "etatsunnisdamethique",
     "f": "unitedstatesofamerica"
   },
@@ -7344,16 +7926,22 @@ export const vocabData = [
     "f": "tosneeze"
   },
   {
-    "j": "Êthiopie",
-    "e": "Ethiopia",
-    "k": "ethiopie",
-    "f": "ethiopia"
+    "j": "êtes-ous dé m’n avis?",
+    "e": "do you agree with me?",
+    "k": "etesousdemnavis?",
+    "f": "doyouagreewithme?"
   },
   {
-    "j": "êt'lîn",
-    "e": "plugging tool",
-    "k": "etlin",
-    "f": "pluggingtool"
+    "j": "etes-ous mathié?",
+    "e": "are you married?",
+    "k": "etesousmathie?",
+    "f": "areyoumarried?"
+  },
+  {
+    "j": "êthiopie",
+    "e": "ethiopia",
+    "k": "ethiopie",
+    "f": "ethiopia"
   },
   {
     "j": "êtonner",
@@ -7405,14 +7993,14 @@ export const vocabData = [
   },
   {
     "j": "eune achie",
-    "e": "an attack",
+    "e": "a shower, an attack",
     "k": "euneachie",
-    "f": "anattack"
+    "f": "ashower,anattack"
   },
   {
-    "j": "eune achie",
+    "j": "eune achie d’plyie",
     "e": "a shower",
-    "k": "euneachie",
+    "k": "euneachiedplyie",
     "f": "ashower"
   },
   {
@@ -7488,16 +8076,16 @@ export const vocabData = [
     "f": "freshwatereel"
   },
   {
-    "j": "eune année bissextile",
-    "e": "leap year",
-    "k": "euneanneebissextile",
-    "f": "leapyear"
-  },
-  {
     "j": "eune année",
     "e": "year",
     "k": "euneannee",
     "f": "year"
+  },
+  {
+    "j": "eune année bissextile",
+    "e": "leap year",
+    "k": "euneanneebissextile",
+    "f": "leapyear"
   },
   {
     "j": "eune apèrchévance",
@@ -7554,16 +8142,16 @@ export const vocabData = [
     "f": "ahearthful"
   },
   {
-    "j": "eune attaque",
-    "e": "an attack",
-    "k": "euneattaque",
-    "f": "anattack"
-  },
-  {
     "j": "eune att'leuse",
     "e": "carriage",
     "k": "euneattleuse",
     "f": "carriage"
+  },
+  {
+    "j": "eune attaque",
+    "e": "an attack",
+    "k": "euneattaque",
+    "f": "anattack"
   },
   {
     "j": "eune aussiéthe",
@@ -7591,7 +8179,7 @@ export const vocabData = [
   },
   {
     "j": "eune badgiole",
-    "e": "Morello or Dwarf Cherry",
+    "e": "morello or dwarf cherry",
     "k": "eunebadgiole",
     "f": "morelloordwarfcherry"
   },
@@ -7604,20 +8192,20 @@ export const vocabData = [
   {
     "j": "eune baïonnette",
     "e": "bayonet",
-    "k": "eunebaïonnette",
+    "k": "eunebaionnette",
     "f": "bayonet"
-  },
-  {
-    "j": "eune balle dé canon",
-    "e": "cannonball",
-    "k": "euneballedecanon",
-    "f": "cannonball"
   },
   {
     "j": "eune balle",
     "e": "bullet",
     "k": "euneballe",
     "f": "bullet"
+  },
+  {
+    "j": "eune balle dé canon",
+    "e": "cannonball",
+    "k": "euneballedecanon",
+    "f": "cannonball"
   },
   {
     "j": "eune bandoliéthe",
@@ -7692,6 +8280,12 @@ export const vocabData = [
     "f": "fight"
   },
   {
+    "j": "eune bat'lée",
+    "e": "a boatful",
+    "k": "eunebatlee",
+    "f": "aboatful"
+  },
+  {
     "j": "eune batée",
     "e": "a pack-saddleful",
     "k": "eunebatee",
@@ -7702,12 +8296,6 @@ export const vocabData = [
     "e": "a barrelful",
     "k": "eunebathilyie",
     "f": "abarrelful"
-  },
-  {
-    "j": "eune bat'lée",
-    "e": "a boatful",
-    "k": "eunebatlee",
-    "f": "aboatful"
   },
   {
     "j": "eune bécache",
@@ -7813,7 +8401,7 @@ export const vocabData = [
   },
   {
     "j": "eune bobbe",
-    "e": "common cockle (dans l'Est)",
+    "e": "common cockle (dans l'est)",
     "k": "eunebobbe",
     "f": "commoncockle(danslest)"
   },
@@ -7828,6 +8416,12 @@ export const vocabData = [
     "e": "dialogue box",
     "k": "euneboetededgialogue",
     "f": "dialoguebox"
+  },
+  {
+    "j": "eune boête en carton",
+    "e": "a cardboard box",
+    "k": "euneboeteencarton",
+    "f": "acardboardbox"
   },
   {
     "j": "eune boêtée",
@@ -7879,21 +8473,15 @@ export const vocabData = [
   },
   {
     "j": "eune boule dé né",
-    "e": "a snowball",
+    "e": "snowball, a snowball",
     "k": "eunebouledene",
-    "f": "asnowball"
+    "f": "snowball,asnowball"
   },
   {
     "j": "eune bouochie",
-    "e": "a mouthful",
+    "e": "snack, a mouthful",
     "k": "eunebouochie",
-    "f": "amouthful"
-  },
-  {
-    "j": "eune bouochie",
-    "e": "snack",
-    "k": "eunebouochie",
-    "f": "snack"
+    "f": "snack,amouthful"
   },
   {
     "j": "eune bourse",
@@ -7954,6 +8542,12 @@ export const vocabData = [
     "e": "bream",
     "k": "eunebreme",
     "f": "bream"
+  },
+  {
+    "j": "eune breune grand’ câsaque",
+    "e": "a brown overcoat",
+    "k": "eunebreunegrandcasaque",
+    "f": "abrownovercoat"
   },
   {
     "j": "eune brille",
@@ -8046,14 +8640,8 @@ export const vocabData = [
     "f": "carp"
   },
   {
-    "j": "eune carte dé crédit",
-    "e": "a credit card",
-    "k": "eunecartedecredit",
-    "f": "acreditcard"
-  },
-  {
-    "j": "eune carte d'Noué",
-    "e": "Christmas card",
+    "j": "eune carte d'noué",
+    "e": "christmas card",
     "k": "eunecartednoue",
     "f": "christmascard"
   },
@@ -8064,10 +8652,22 @@ export const vocabData = [
     "f": "valentinescard"
   },
   {
+    "j": "eune carte dé crédit",
+    "e": "a credit card",
+    "k": "eunecartedecredit",
+    "f": "acreditcard"
+  },
+  {
     "j": "eune cartouchiéthe",
     "e": "cartridge pouch",
     "k": "eunecartouchiethe",
     "f": "cartridgepouch"
+  },
+  {
+    "j": "eune cauminne en grannit",
+    "e": "a granite cottage",
+    "k": "eunecauminneengrannit",
+    "f": "agranitecottage"
   },
   {
     "j": "eune cause",
@@ -8130,16 +8730,16 @@ export const vocabData = [
     "f": "slap"
   },
   {
-    "j": "eune chèque",
-    "e": "a cheque",
-    "k": "eunecheque",
-    "f": "acheque"
+    "j": "eune cheintuthe en tchui",
+    "e": "a leather belt",
+    "k": "eunecheintutheentchui",
+    "f": "aleatherbelt"
   },
   {
     "j": "eune chèque",
-    "e": "cheque",
+    "e": "cheque, a cheque",
     "k": "eunecheque",
-    "f": "cheque"
+    "f": "cheque,acheque"
   },
   {
     "j": "eune chèrvette",
@@ -8179,21 +8779,9 @@ export const vocabData = [
   },
   {
     "j": "eune chorchiéthe",
-    "e": "witch",
+    "e": "witch, dog whelk",
     "k": "eunechorchiethe",
-    "f": "witch"
-  },
-  {
-    "j": "eune chorchiéthe",
-    "e": "dog whelk",
-    "k": "eunechorchiethe",
-    "f": "dogwhelk"
-  },
-  {
-    "j": "eune chorchiéthe",
-    "e": "witch",
-    "k": "eunechorchiethe",
-    "f": "witch"
+    "f": "witch,dogwhelk"
   },
   {
     "j": "eune chronique",
@@ -8203,15 +8791,9 @@ export const vocabData = [
   },
   {
     "j": "eune chuchette",
-    "e": "common cockle",
+    "e": "cockle, common cockle",
     "k": "eunechuchette",
-    "f": "commoncockle"
-  },
-  {
-    "j": "eune chuchette",
-    "e": "cockle",
-    "k": "eunechuchette",
-    "f": "cockle"
+    "f": "cockle,commoncockle"
   },
   {
     "j": "eune cliamuse",
@@ -8280,12 +8862,6 @@ export const vocabData = [
     "f": "whelk"
   },
   {
-    "j": "eune coqueluche",
-    "e": "whelk",
-    "k": "eunecoqueluche",
-    "f": "whelk"
-  },
-  {
     "j": "eune corde à lînge",
     "e": "clothes line",
     "k": "eunecordealinge",
@@ -8316,6 +8892,12 @@ export const vocabData = [
     "f": "pileofvraic"
   },
   {
+    "j": "eune crabe",
+    "e": "crab",
+    "k": "eunecrabe",
+    "f": "crab"
+  },
+  {
     "j": "eune crabe à co",
     "e": "crayfish",
     "k": "eunecrabeaco",
@@ -8328,16 +8910,22 @@ export const vocabData = [
     "f": "ladycrab"
   },
   {
-    "j": "eune crabe",
-    "e": "crab",
-    "k": "eunecrabe",
-    "f": "crab"
-  },
-  {
     "j": "eune crianche",
     "e": "a belief",
     "k": "eunecrianche",
     "f": "abelief"
+  },
+  {
+    "j": "eune d'meuthe",
+    "e": "dwelling",
+    "k": "eunedmeuthe",
+    "f": "dwelling"
+  },
+  {
+    "j": "eune d'vant'lée",
+    "e": "an apronful",
+    "k": "eunedvantlee",
+    "f": "anapronful"
   },
   {
     "j": "eune dêchèrge",
@@ -8364,6 +8952,12 @@ export const vocabData = [
     "f": "beating"
   },
   {
+    "j": "eune démi-heuthe",
+    "e": "half an hour",
+    "k": "eunedemiheuthe",
+    "f": "halfanhour"
+  },
+  {
     "j": "eune démié-clié",
     "e": "half-hitch",
     "k": "eunedemieclie",
@@ -8380,12 +8974,6 @@ export const vocabData = [
     "e": "1/2 pint",
     "k": "eunedemiepinte",
     "f": "1/2pint"
-  },
-  {
-    "j": "eune démi-heuthe",
-    "e": "half an hour",
-    "k": "eunedemiheuthe",
-    "f": "halfanhour"
   },
   {
     "j": "eune démouaîselle",
@@ -8424,22 +9012,16 @@ export const vocabData = [
     "f": "guillotine"
   },
   {
-    "j": "eune dispense dé mathiage",
-    "e": "marriage licence",
-    "k": "eunedispensedemathiage",
-    "f": "marriagelicence"
-  },
-  {
     "j": "eune dîs'resse",
     "e": "a fortune teller",
     "k": "eunedisresse",
     "f": "afortuneteller"
   },
   {
-    "j": "eune d'meuthe",
-    "e": "dwelling",
-    "k": "eunedmeuthe",
-    "f": "dwelling"
+    "j": "eune dispense dé mathiage",
+    "e": "marriage licence",
+    "k": "eunedispensedemathiage",
+    "f": "marriagelicence"
   },
   {
     "j": "eune dormiéthe",
@@ -8448,28 +9030,22 @@ export const vocabData = [
     "f": "railwaysleeper"
   },
   {
-    "j": "eune doublieuse",
-    "e": "lining",
-    "k": "eunedoublieuse",
-    "f": "lining"
-  },
-  {
     "j": "eune doubl'ye clié",
     "e": "two half-hitches",
     "k": "eunedoublyeclie",
     "f": "twohalfhitches"
   },
   {
+    "j": "eune doublieuse",
+    "e": "lining",
+    "k": "eunedoublieuse",
+    "f": "lining"
+  },
+  {
     "j": "eune dranme",
     "e": "a dram",
     "k": "eunedranme",
     "f": "adram"
-  },
-  {
-    "j": "eune d'vant'lée",
-    "e": "an apronful",
-    "k": "eunedvantlee",
-    "f": "anapronful"
   },
   {
     "j": "eune êcale",
@@ -8604,6 +9180,12 @@ export const vocabData = [
     "f": "setofshelves"
   },
   {
+    "j": "eune êtaile",
+    "e": "a star",
+    "k": "euneetaile",
+    "f": "astar"
+  },
+  {
     "j": "eune etaile dé mé",
     "e": "starfish",
     "k": "euneetailedeme",
@@ -8616,12 +9198,6 @@ export const vocabData = [
     "f": "shootingstar"
   },
   {
-    "j": "eune êtaile",
-    "e": "a star",
-    "k": "euneetaile",
-    "f": "astar"
-  },
-  {
     "j": "eune êtchipe dé quéméreu",
     "e": "camera crew",
     "k": "euneetchipedequemereu",
@@ -8632,6 +9208,12 @@ export const vocabData = [
     "e": "clothes line prop",
     "k": "euneetendperque",
     "f": "clotheslineprop"
+  },
+  {
+    "j": "eune f'nêtre",
+    "e": "window",
+    "k": "eunefnetre",
+    "f": "window"
   },
   {
     "j": "eune farche",
@@ -8674,12 +9256,6 @@ export const vocabData = [
     "e": "ray",
     "k": "eunefliee",
     "f": "ray"
-  },
-  {
-    "j": "eune f'nêtre",
-    "e": "window",
-    "k": "eunefnetre",
-    "f": "window"
   },
   {
     "j": "eune forme",
@@ -8778,16 +9354,16 @@ export const vocabData = [
     "f": "abet"
   },
   {
-    "j": "eune galette à vrai",
-    "e": "vraic bun",
-    "k": "eunegaletteavrai",
-    "f": "vraicbun"
-  },
-  {
     "j": "eune galette",
     "e": "cookie",
     "k": "eunegalette",
     "f": "cookie"
+  },
+  {
+    "j": "eune galette à vrai",
+    "e": "vraic bun",
+    "k": "eunegaletteavrai",
+    "f": "vraicbun"
   },
   {
     "j": "eune gamme dé cartes",
@@ -8864,7 +9440,7 @@ export const vocabData = [
   {
     "j": "eune haïste",
     "e": "blow",
-    "k": "eunehaïste",
+    "k": "eunehaiste",
     "f": "blow"
   },
   {
@@ -8917,9 +9493,15 @@ export const vocabData = [
   },
   {
     "j": "eune heuthe",
-    "e": "hour",
+    "e": "one o'clock, hour",
     "k": "euneheuthe",
-    "f": "hour"
+    "f": "oneoclock,hour"
+  },
+  {
+    "j": "eune heuthe un quart",
+    "e": "quarter past one",
+    "k": "euneheutheunquart",
+    "f": "quarterpastone"
   },
   {
     "j": "eune hitre",
@@ -9030,16 +9612,16 @@ export const vocabData = [
     "f": "asewingmachine"
   },
   {
-    "j": "eune machinne à laver les vaissieaux",
-    "e": "dishwasher",
-    "k": "eunemachinnealaverlesvaissieaux",
-    "f": "dishwasher"
-  },
-  {
     "j": "eune machinne à laver",
     "e": "a washing machine",
     "k": "eunemachinnealaver",
     "f": "awashingmachine"
+  },
+  {
+    "j": "eune machinne à laver les vaissieaux",
+    "e": "dishwasher",
+    "k": "eunemachinnealaverlesvaissieaux",
+    "f": "dishwasher"
   },
   {
     "j": "eune machinne à rêpondre",
@@ -9091,15 +9673,9 @@ export const vocabData = [
   },
   {
     "j": "eune mauve",
-    "e": "herring gull",
+    "e": "tree-mallow, herring gull",
     "k": "eunemauve",
-    "f": "herringgull"
-  },
-  {
-    "j": "eune mauve",
-    "e": "Tree-mallow",
-    "k": "eunemauve",
-    "f": "treemallow"
+    "f": "treemallow,herringgull"
   },
   {
     "j": "eune mêlerêsse",
@@ -9198,22 +9774,28 @@ export const vocabData = [
     "f": "moustache"
   },
   {
-    "j": "eune muthâle à pièrre secque",
-    "e": "dry stone wall",
-    "k": "eunemuthaleapierresecque",
-    "f": "drystonewall"
-  },
-  {
     "j": "eune muthâle",
     "e": "wall",
     "k": "eunemuthale",
     "f": "wall"
   },
   {
+    "j": "eune muthâle à pièrre secque",
+    "e": "dry stone wall",
+    "k": "eunemuthaleapierresecque",
+    "f": "drystonewall"
+  },
+  {
     "j": "eune néthe bête",
     "e": "ground beetle",
     "k": "eunenethebete",
     "f": "groundbeetle"
+  },
+  {
+    "j": "eune néthe câsaque en tchui",
+    "e": "a black leather jacket",
+    "k": "eunenethecasaqueentchui",
+    "f": "ablackleatherjacket"
   },
   {
     "j": "eune néthe coque",
@@ -9300,6 +9882,12 @@ export const vocabData = [
     "f": "buzzard"
   },
   {
+    "j": "eune p'tite alouette",
+    "e": "meadow pipit",
+    "k": "euneptitealouette",
+    "f": "meadowpipit"
+  },
+  {
     "j": "eune paffe",
     "e": "slap",
     "k": "eunepaffe",
@@ -9367,15 +9955,9 @@ export const vocabData = [
   },
   {
     "j": "eune pèrque",
-    "e": "a perch (=484 sq.ft.)",
+    "e": "rood, a perch (=484 sq.ft.)",
     "k": "euneperque",
-    "f": "aperch(=484sq.ft.)"
-  },
-  {
-    "j": "eune pèrque",
-    "e": "rood",
-    "k": "euneperque",
-    "f": "rood"
+    "f": "rood,aperch(=484sq.ft.)"
   },
   {
     "j": "eune pèrruque",
@@ -9487,15 +10069,9 @@ export const vocabData = [
   },
   {
     "j": "eune pliaie",
-    "e": "plaice",
+    "e": "scar, plaice",
     "k": "eunepliaie",
-    "f": "plaice"
-  },
-  {
-    "j": "eune pliaie",
-    "e": "scar",
-    "k": "eunepliaie",
-    "f": "scar"
+    "f": "scar,plaice"
   },
   {
     "j": "eune pliainte",
@@ -9570,6 +10146,12 @@ export const vocabData = [
     "f": "apotful"
   },
   {
+    "j": "eune pouch'tée",
+    "e": "a pocketful",
+    "k": "eunepouchtee",
+    "f": "apocketful"
+  },
+  {
     "j": "eune pouchette",
     "e": "pocket",
     "k": "eunepouchette",
@@ -9582,22 +10164,16 @@ export const vocabData = [
     "f": "slavoniangrebe"
   },
   {
-    "j": "eune pouch'tée",
-    "e": "a pocketful",
-    "k": "eunepouchtee",
-    "f": "apocketful"
+    "j": "eune poule d'ieau",
+    "e": "lump-sucker",
+    "k": "eunepouledieau",
+    "f": "lumpsucker"
   },
   {
     "j": "eune poule dg'ieau",
     "e": "moorhen",
     "k": "eunepouledgieau",
     "f": "moorhen"
-  },
-  {
-    "j": "eune poule d'ieau",
-    "e": "lump-sucker",
-    "k": "eunepouledieau",
-    "f": "lumpsucker"
   },
   {
     "j": "eune poule, eune glinne",
@@ -9684,12 +10260,6 @@ export const vocabData = [
     "f": "powerofattorney"
   },
   {
-    "j": "eune p'tite alouette",
-    "e": "meadow pipit",
-    "k": "euneptitealouette",
-    "f": "meadowpipit"
-  },
-  {
     "j": "eune purge",
     "e": "purgative",
     "k": "eunepurge",
@@ -9724,6 +10294,12 @@ export const vocabData = [
     "e": "hiding",
     "k": "euneracliee",
     "f": "hiding"
+  },
+  {
+    "j": "eune râfliéthie",
+    "e": "a raffle",
+    "k": "eunerafliethie",
+    "f": "araffle"
   },
   {
     "j": "eune raichinne",
@@ -9774,6 +10350,12 @@ export const vocabData = [
     "f": "adropofdrink"
   },
   {
+    "j": "eune robe en souaie",
+    "e": "a silk dress",
+    "k": "eunerobeensouaie",
+    "f": "asilkdress"
+  },
+  {
     "j": "eune rompeuse",
     "e": "hernia",
     "k": "eunerompeuse",
@@ -9781,21 +10363,15 @@ export const vocabData = [
   },
   {
     "j": "eune ronche, des mouaithes",
-    "e": "Bramble, Blackberry",
+    "e": "bramble, blackberry",
     "k": "euneronche,desmouaithes",
     "f": "bramble,blackberry"
   },
   {
     "j": "eune ronde",
-    "e": "beating",
+    "e": "hiding, beating",
     "k": "euneronde",
-    "f": "beating"
-  },
-  {
-    "j": "eune ronde",
-    "e": "hiding",
-    "k": "euneronde",
-    "f": "hiding"
+    "f": "hiding,beating"
   },
   {
     "j": "eune rosseteuse",
@@ -9838,6 +10414,18 @@ export const vocabData = [
     "e": "a hiveful",
     "k": "eunerueutchie",
     "f": "ahiveful"
+  },
+  {
+    "j": "eune s'gonde",
+    "e": "second",
+    "k": "eunesgonde",
+    "f": "second"
+  },
+  {
+    "j": "eune s'maine",
+    "e": "week",
+    "k": "eunesmaine",
+    "f": "week"
   },
   {
     "j": "eune saluette",
@@ -9912,10 +10500,10 @@ export const vocabData = [
     "f": "towel"
   },
   {
-    "j": "eune s'gonde",
-    "e": "second",
-    "k": "eunesgonde",
-    "f": "second"
+    "j": "eune séthée d’bîngo",
+    "e": "a bingo evening",
+    "k": "eunesetheedbingo",
+    "f": "abingoevening"
   },
   {
     "j": "eune slache",
@@ -9928,12 +10516,6 @@ export const vocabData = [
     "e": "belting",
     "k": "euneslindgeuse",
     "f": "belting"
-  },
-  {
-    "j": "eune s'maine",
-    "e": "week",
-    "k": "eunesmaine",
-    "f": "week"
   },
   {
     "j": "eune sole",
@@ -9972,6 +10554,12 @@ export const vocabData = [
     "f": "skeleton"
   },
   {
+    "j": "eune stchulptuthe en bronze",
+    "e": "a bronze sculpture",
+    "k": "eunestchulptutheenbronze",
+    "f": "abronzesculpture"
+  },
+  {
     "j": "eune stipanne",
     "e": "beating",
     "k": "eunestipanne",
@@ -9979,15 +10567,9 @@ export const vocabData = [
   },
   {
     "j": "eune suée",
-    "e": "beating",
+    "e": "a quantity, beating",
     "k": "eunesuee",
-    "f": "beating"
-  },
-  {
-    "j": "eune suée",
-    "e": "a quantity",
-    "k": "eunesuee",
-    "f": "aquantity"
+    "f": "aquantity,beating"
   },
   {
     "j": "eune supèrstition",
@@ -10008,10 +10590,16 @@ export const vocabData = [
     "f": "atable"
   },
   {
+    "j": "eune tabl’ye en tchêne",
+    "e": "an oak table",
+    "k": "eunetablyeentchene",
+    "f": "anoaktable"
+  },
+  {
     "j": "eune tabûle",
-    "e": "whiting pout (St. Ouën)",
+    "e": "whiting pout (st. ouën)",
     "k": "eunetabule",
-    "f": "whitingpout(st.ouën)"
+    "f": "whitingpout(st.ouen)"
   },
   {
     "j": "eune talmouse",
@@ -10212,6 +10800,18 @@ export const vocabData = [
     "f": "tile"
   },
   {
+    "j": "eune v'lique",
+    "e": "whelk",
+    "k": "eunevlique",
+    "f": "whelk"
+  },
+  {
+    "j": "eune v'lique suaïse",
+    "e": "small whelk (dans l'est)",
+    "k": "eunevliquesuaise",
+    "f": "smallwhelk(danslest)"
+  },
+  {
     "j": "eune vaile",
     "e": "sail",
     "k": "eunevaile",
@@ -10273,15 +10873,9 @@ export const vocabData = [
   },
   {
     "j": "eune vèrgue",
-    "e": "a yard",
+    "e": "cane, a yard",
     "k": "eunevergue",
-    "f": "ayard"
-  },
-  {
-    "j": "eune vèrgue",
-    "e": "cane",
-    "k": "eunevergue",
-    "f": "cane"
+    "f": "cane,ayard"
   },
   {
     "j": "eune vèrrée",
@@ -10314,18 +10908,6 @@ export const vocabData = [
     "f": "mask"
   },
   {
-    "j": "eune v'lique",
-    "e": "whelk",
-    "k": "eunevlique",
-    "f": "whelk"
-  },
-  {
-    "j": "eune v'lique suaïse",
-    "e": "small whelk (dans l'Est)",
-    "k": "eunevliquesuaïse",
-    "f": "smallwhelk(danslest)"
-  },
-  {
     "j": "eune votte",
     "e": "vault",
     "k": "eunevotte",
@@ -10344,8 +10926,8 @@ export const vocabData = [
     "f": "avergee(=40perch)"
   },
   {
-    "j": "Êve",
-    "e": "Eve",
+    "j": "êve",
+    "e": "eve",
     "k": "eve",
     "f": "eve"
   },
@@ -10362,10 +10944,46 @@ export const vocabData = [
     "f": "explain"
   },
   {
+    "j": "extchûthez-mé",
+    "e": "excuse me",
+    "k": "extchuthezme",
+    "f": "excuseme"
+  },
+  {
+    "j": "fai v'nîn lé docteu !",
+    "e": "send for the doctor !",
+    "k": "faivninledocteu!",
+    "f": "sendforthedoctor!"
+  },
+  {
     "j": "faibl'ye",
     "e": "weak",
     "k": "faiblye",
     "f": "weak"
+  },
+  {
+    "j": "fait-i' caud!",
+    "e": "how hot it is!",
+    "k": "faiticaud!",
+    "f": "howhotitis!"
+  },
+  {
+    "j": "fait-i' grand ma?",
+    "e": "does it hurt a lot?",
+    "k": "faitigrandma?",
+    "f": "doesithurtalot?"
+  },
+  {
+    "j": "fait-i’ fraid!",
+    "e": "how cold it is!",
+    "k": "faitifraid!",
+    "f": "howcolditis!"
+  },
+  {
+    "j": "faithe",
+    "e": "do, make",
+    "k": "faithe",
+    "f": "do,make"
   },
   {
     "j": "faithe banqueroute",
@@ -10482,20 +11100,14 @@ export const vocabData = [
     "f": "sendforthedoctor"
   },
   {
-    "j": "faithe",
-    "e": "do, make",
-    "k": "faithe",
-    "f": "do,make"
-  },
-  {
     "j": "faller",
     "e": "must",
     "k": "faller",
     "f": "must"
   },
   {
-    "j": "Falmue",
-    "e": "Falmouth",
+    "j": "falmue",
+    "e": "falmouth",
     "k": "falmue",
     "f": "falmouth"
   },
@@ -10512,16 +11124,16 @@ export const vocabData = [
     "f": "tomow"
   },
   {
-    "j": "faûcillon",
-    "e": "small sickle",
-    "k": "faucillon",
-    "f": "smallsickle"
-  },
-  {
     "j": "faûcil'ye",
     "e": "sickle",
     "k": "faucilye",
     "f": "sickle"
+  },
+  {
+    "j": "faûcillon",
+    "e": "small sickle",
+    "k": "faucillon",
+    "f": "smallsickle"
   },
   {
     "j": "faûfiler",
@@ -10537,27 +11149,21 @@ export const vocabData = [
   },
   {
     "j": "faux",
-    "e": "scythe",
+    "e": "false, scythe",
     "k": "faux",
-    "f": "scythe"
-  },
-  {
-    "j": "faux",
-    "e": "false",
-    "k": "faux",
-    "f": "false"
-  },
-  {
-    "j": "fé à soder",
-    "e": "soldering iron",
-    "k": "feasoder",
-    "f": "solderingiron"
+    "f": "false,scythe"
   },
   {
     "j": "fé",
     "e": "iron",
     "k": "fe",
     "f": "iron"
+  },
+  {
+    "j": "fé à soder",
+    "e": "soldering iron",
+    "k": "feasoder",
+    "f": "solderingiron"
   },
   {
     "j": "fèrmer",
@@ -10596,10 +11202,16 @@ export const vocabData = [
     "f": "tosmoke"
   },
   {
-    "j": "Févri",
-    "e": "February",
+    "j": "févri",
+    "e": "february",
     "k": "fevri",
     "f": "february"
+  },
+  {
+    "j": "fiche-mé l'camp!",
+    "e": "go away!",
+    "k": "fichemelcamp!",
+    "f": "goaway!"
   },
   {
     "j": "fidgi",
@@ -10626,8 +11238,14 @@ export const vocabData = [
     "f": "torollandfoldpastry"
   },
   {
-    "j": "Fiji",
-    "e": "Fiji",
+    "j": "figache!",
+    "e": "damn!",
+    "k": "figache!",
+    "f": "damn!"
+  },
+  {
+    "j": "fiji",
+    "e": "fiji",
     "k": "fiji",
     "f": "fiji"
   },
@@ -10638,8 +11256,8 @@ export const vocabData = [
     "f": "screwstock,drawplate"
   },
   {
-    "j": "Fînlande",
-    "e": "Finland",
+    "j": "fînlande",
+    "e": "finland",
     "k": "finlande",
     "f": "finland"
   },
@@ -10662,8 +11280,8 @@ export const vocabData = [
     "f": "flail"
   },
   {
-    "j": "Fliandres",
-    "e": "Flanders",
+    "j": "fliandres",
+    "e": "flanders",
     "k": "fliandres",
     "f": "flanders"
   },
@@ -10692,8 +11310,8 @@ export const vocabData = [
     "f": "dysentery"
   },
   {
-    "j": "Floride",
-    "e": "Florida",
+    "j": "floride",
+    "e": "florida",
     "k": "floride",
     "f": "florida"
   },
@@ -10710,16 +11328,16 @@ export const vocabData = [
     "f": "shears"
   },
   {
-    "j": "forchi la veue",
-    "e": "to strain one's eyes",
-    "k": "forchilaveue",
-    "f": "tostrainoneseyes"
-  },
-  {
     "j": "forchi",
     "e": "force",
     "k": "forchi",
     "f": "force"
+  },
+  {
+    "j": "forchi la veue",
+    "e": "to strain one's eyes",
+    "k": "forchilaveue",
+    "f": "tostrainoneseyes"
   },
   {
     "j": "forgi",
@@ -10788,8 +11406,8 @@ export const vocabData = [
     "f": "cold"
   },
   {
-    "j": "Fraînque",
-    "e": "Frank",
+    "j": "fraînque",
+    "e": "frank",
     "k": "frainque",
     "f": "frank"
   },
@@ -10800,14 +11418,14 @@ export const vocabData = [
     "f": "fresh"
   },
   {
-    "j": "France",
-    "e": "France",
+    "j": "france",
+    "e": "france",
     "k": "france",
     "f": "france"
   },
   {
-    "j": "Françouais   , Françot",
-    "e": "Francis, François",
+    "j": "françouais   , françot",
+    "e": "francis, françois",
     "k": "francouais,francot",
     "f": "francis,francois"
   },
@@ -10836,16 +11454,28 @@ export const vocabData = [
     "f": "closed"
   },
   {
-    "j": "freunmer l'yi",
-    "e": "to have a nap",
-    "k": "freunmerlyi",
-    "f": "tohaveanap"
+    "j": "freunme la porte",
+    "e": "shut the door",
+    "k": "freunmelaporte",
+    "f": "shutthedoor"
   },
   {
     "j": "freunmer",
     "e": "to close",
     "k": "freunmer",
     "f": "toclose"
+  },
+  {
+    "j": "freunmer l'yi",
+    "e": "to have a nap",
+    "k": "freunmerlyi",
+    "f": "tohaveanap"
+  },
+  {
+    "j": "freunmez la porte",
+    "e": "shut the door",
+    "k": "freunmezlaporte",
+    "f": "shutthedoor"
   },
   {
     "j": "fricachi",
@@ -10884,10 +11514,22 @@ export const vocabData = [
     "f": "fork(fordigging)"
   },
   {
-    "j": "Gabon",
-    "e": "Gabon",
+    "j": "g'ler",
+    "e": "freeze",
+    "k": "gler",
+    "f": "freeze"
+  },
+  {
+    "j": "gabon",
+    "e": "gabon",
     "k": "gabon",
     "f": "gabon"
+  },
+  {
+    "j": "gâdé-ouelle!",
+    "e": "bother!",
+    "k": "gadeouelle!",
+    "f": "bother!"
   },
   {
     "j": "gaffer",
@@ -10914,8 +11556,8 @@ export const vocabData = [
     "f": "gallivant"
   },
   {
-    "j": "Gambie",
-    "e": "The Gambia",
+    "j": "gambie",
+    "e": "the gambia",
     "k": "gambie",
     "f": "thegambia"
   },
@@ -10927,15 +11569,9 @@ export const vocabData = [
   },
   {
     "j": "gângni",
-    "e": "to earn",
+    "e": "win, to earn",
     "k": "gangni",
-    "f": "toearn"
-  },
-  {
-    "j": "gângni",
-    "e": "win",
-    "k": "gangni",
-    "f": "win"
+    "f": "win,toearn"
   },
   {
     "j": "garage",
@@ -10944,16 +11580,16 @@ export const vocabData = [
     "f": "garage"
   },
   {
-    "j": "garder les livres",
-    "e": "keep accounts",
-    "k": "garderleslivres",
-    "f": "keepaccounts"
-  },
-  {
     "j": "garder",
     "e": "keep",
     "k": "garder",
     "f": "keep"
+  },
+  {
+    "j": "garder les livres",
+    "e": "keep accounts",
+    "k": "garderleslivres",
+    "f": "keepaccounts"
   },
   {
     "j": "gardinner",
@@ -10966,6 +11602,12 @@ export const vocabData = [
     "e": "gurgle",
     "k": "gargouoilli",
     "f": "gurgle"
+  },
+  {
+    "j": "gas, don!",
+    "e": "look!",
+    "k": "gas,don!",
+    "f": "look!"
   },
   {
     "j": "gâté d'béthe",
@@ -11010,32 +11652,26 @@ export const vocabData = [
     "f": "generous"
   },
   {
-    "j": "George",
-    "e": "George, Georges",
+    "j": "george",
+    "e": "george, georges",
     "k": "george",
     "f": "george,georges"
   },
   {
-    "j": "Georgie",
-    "e": "Georgia",
+    "j": "georgie",
+    "e": "georgia (êtat d'usa), georgia",
     "k": "georgie",
-    "f": "georgia"
+    "f": "georgia(etatdusa),georgia"
   },
   {
-    "j": "Georgie",
-    "e": "Georgia (êtat d'USA)",
-    "k": "georgie",
-    "f": "georgia(etatdusa)"
-  },
-  {
-    "j": "Ghana",
-    "e": "Ghana",
+    "j": "ghana",
+    "e": "ghana",
     "k": "ghana",
     "f": "ghana"
   },
   {
-    "j": "Gibraltar",
-    "e": "Gibraltar",
+    "j": "gibraltar",
+    "e": "gibraltar",
     "k": "gibraltar",
     "f": "gibraltar"
   },
@@ -11044,12 +11680,6 @@ export const vocabData = [
     "e": "gimlet",
     "k": "gimblet",
     "f": "gimlet"
-  },
-  {
-    "j": "g'ler",
-    "e": "freeze",
-    "k": "gler",
-    "f": "freeze"
   },
   {
     "j": "gliainer des patates",
@@ -11070,8 +11700,8 @@ export const vocabData = [
     "f": "clay"
   },
   {
-    "j": "Golfe d'St. Louothains",
-    "e": "Gulf of St. Lawrence",
+    "j": "golfe d'st. louothains",
+    "e": "gulf of st. lawrence",
     "k": "golfedst.louothains",
     "f": "gulfofst.lawrence"
   },
@@ -11124,8 +11754,8 @@ export const vocabData = [
     "f": "big"
   },
   {
-    "j": "Grande Riviéthe",
-    "e": "Grande Rivière",
+    "j": "grande riviéthe",
+    "e": "grande rivière",
     "k": "granderiviethe",
     "f": "granderiviere"
   },
@@ -11166,8 +11796,8 @@ export const vocabData = [
     "f": "gravel"
   },
   {
-    "j": "Grêce",
-    "e": "Greece",
+    "j": "grêce",
+    "e": "greece",
     "k": "grece",
     "f": "greece"
   },
@@ -11178,8 +11808,8 @@ export const vocabData = [
     "f": "graftingknife"
   },
   {
-    "j": "Grenada",
-    "e": "Grenada",
+    "j": "grenada",
+    "e": "grenada",
     "k": "grenada",
     "f": "grenada"
   },
@@ -11232,8 +11862,8 @@ export const vocabData = [
     "f": "togogrey"
   },
   {
-    "j": "Groenland/Greenland",
-    "e": "Greenland",
+    "j": "groenland/greenland",
+    "e": "greenland",
     "k": "groenland/greenland",
     "f": "greenland"
   },
@@ -11244,38 +11874,38 @@ export const vocabData = [
     "f": "grunt"
   },
   {
-    "j": "Guadeloupe",
-    "e": "Guadeloupe",
+    "j": "guadeloupe",
+    "e": "guadeloupe",
     "k": "guadeloupe",
     "f": "guadeloupe"
   },
   {
-    "j": "Guam",
-    "e": "Guam",
+    "j": "guam",
+    "e": "guam",
     "k": "guam",
     "f": "guam"
   },
   {
-    "j": "Guatemala",
-    "e": "Guatemala",
+    "j": "guatemala",
+    "e": "guatemala",
     "k": "guatemala",
     "f": "guatemala"
   },
   {
-    "j": "Gudgion, Gédéon",
-    "e": "Gideon",
+    "j": "gudgion, gédéon",
+    "e": "gideon",
     "k": "gudgion,gedeon",
     "f": "gideon"
   },
   {
-    "j": "Guyana",
-    "e": "Guyana",
+    "j": "guyana",
+    "e": "guyana",
     "k": "guyana",
     "f": "guyana"
   },
   {
-    "j": "Guyane Française",
-    "e": "French Guiana",
+    "j": "guyane française",
+    "e": "french guiana",
     "k": "guyanefrancaise",
     "f": "frenchguiana"
   },
@@ -11304,8 +11934,8 @@ export const vocabData = [
     "f": "tomince,tomash"
   },
   {
-    "j": "Haiti",
-    "e": "Haiti",
+    "j": "haiti",
+    "e": "haiti",
     "k": "haiti",
     "f": "haiti"
   },
@@ -11322,6 +11952,12 @@ export const vocabData = [
     "f": "docklifter"
   },
   {
+    "j": "haler",
+    "e": "pull",
+    "k": "haler",
+    "f": "pull"
+  },
+  {
     "j": "haler en rade",
     "e": "bring into the roads",
     "k": "halerenrade",
@@ -11334,14 +11970,8 @@ export const vocabData = [
     "f": "todrawlots"
   },
   {
-    "j": "haler",
-    "e": "pull",
-    "k": "haler",
-    "f": "pull"
-  },
-  {
-    "j": "Halloween",
-    "e": "Halloween",
+    "j": "halloween",
+    "e": "halloween",
     "k": "halloween",
     "f": "halloween"
   },
@@ -11352,8 +11982,8 @@ export const vocabData = [
     "f": "tohaunt"
   },
   {
-    "j": "Hantonne",
-    "e": "Southampton",
+    "j": "hantonne",
+    "e": "southampton",
     "k": "hantonne",
     "f": "southampton"
   },
@@ -11382,8 +12012,8 @@ export const vocabData = [
     "f": "heliotrope"
   },
   {
-    "j": "Hélyi",
-    "e": "Hélier, Helier",
+    "j": "hélyi",
+    "e": "hélier, helier",
     "k": "helyi",
     "f": "helier,helier"
   },
@@ -11424,6 +12054,12 @@ export const vocabData = [
     "f": "oil"
   },
   {
+    "j": "hièr",
+    "e": "yesterday",
+    "k": "hier",
+    "f": "yesterday"
+  },
+  {
     "j": "hièr au matîn",
     "e": "yesterday morning",
     "k": "hieraumatin",
@@ -11436,10 +12072,10 @@ export const vocabData = [
     "f": "yesterdayevening"
   },
   {
-    "j": "hièr",
-    "e": "yesterday",
-    "k": "hier",
-    "f": "yesterday"
+    "j": "hièr l'arlévée",
+    "e": "yesterday afternoon",
+    "k": "hierlarlevee",
+    "f": "yesterdayafternoon"
   },
   {
     "j": "hîngni",
@@ -11460,20 +12096,26 @@ export const vocabData = [
     "f": "historic"
   },
   {
-    "j": "Honduras",
-    "e": "Honduras",
+    "j": "hôla!",
+    "e": "hey!",
+    "k": "hola!",
+    "f": "hey!"
+  },
+  {
+    "j": "honduras",
+    "e": "honduras",
     "k": "honduras",
     "f": "honduras"
   },
   {
-    "j": "Hong Kong",
-    "e": "Hong Kong",
+    "j": "hong kong",
+    "e": "hong kong",
     "k": "hongkong",
     "f": "hongkong"
   },
   {
-    "j": "Hongrie",
-    "e": "Hungary",
+    "j": "hongrie",
+    "e": "hungary",
     "k": "hongrie",
     "f": "hungary"
   },
@@ -11532,8 +12174,14 @@ export const vocabData = [
     "f": "whine"
   },
   {
-    "j": "Hubèrt, Hébèrt",
-    "e": "Hubert",
+    "j": "hourras!",
+    "e": "hurray!",
+    "k": "hourras!",
+    "f": "hurray!"
+  },
+  {
+    "j": "hubèrt, hébèrt",
+    "e": "hubert",
     "k": "hubert,hebert",
     "f": "hubert"
   },
@@ -11568,10 +12216,172 @@ export const vocabData = [
     "f": "eight"
   },
   {
+    "j": "huit heuthes",
+    "e": "eight o'clock",
+    "k": "huitheuthes",
+    "f": "eightoclock"
+  },
+  {
+    "j": "huit heuthes chînq",
+    "e": "five past eight",
+    "k": "huitheutheschinq",
+    "f": "fivepasteight"
+  },
+  {
+    "j": "huit heuthes et d’mie",
+    "e": "half-past eight",
+    "k": "huitheuthesetdmie",
+    "f": "halfpasteight"
+  },
+  {
+    "j": "i' brousse",
+    "e": "it's drizzling",
+    "k": "ibrousse",
+    "f": "itsdrizzling"
+  },
+  {
+    "j": "i' faîsait eune arsion à matîn",
+    "e": "it was sweltering  this morning",
+    "k": "ifaisaiteunearsionamatin",
+    "f": "itwasswelteringthismorning"
+  },
+  {
+    "j": "i' fait bé, achteu.",
+    "e": "it's fine, now.",
+    "k": "ifaitbe,achteu.",
+    "f": "itsfine,now."
+  },
+  {
+    "j": "i' fait bieau solé.",
+    "e": "it's fine sunny weather.",
+    "k": "ifaitbieausole.",
+    "f": "itsfinesunnyweather."
+  },
+  {
+    "j": "i' fait bieau temps.",
+    "e": "it's fine weather.",
+    "k": "ifaitbieautemps.",
+    "f": "itsfineweather."
+  },
+  {
+    "j": "i' fait caud.",
+    "e": "it's warm",
+    "k": "ifaitcaud.",
+    "f": "itswarm"
+  },
+  {
+    "j": "i' fait d'l'ôrage",
+    "e": "it’s thundering",
+    "k": "ifaitdlorage",
+    "f": "itsthundering"
+  },
+  {
+    "j": "i' fait fraid.",
+    "e": "it's cold.",
+    "k": "ifaitfraid.",
+    "f": "itscold."
+  },
+  {
+    "j": "i' fait mauvais temps.",
+    "e": "it's bad weather.",
+    "k": "ifaitmauvaistemps.",
+    "f": "itsbadweather."
+  },
+  {
+    "j": "i' m'faut...",
+    "e": "i need...",
+    "k": "imfaut...",
+    "f": "ineed..."
+  },
+  {
     "j": "i' m'faut....",
-    "e": "I need...",
+    "e": "i need...",
     "k": "imfaut....",
     "f": "ineed..."
+  },
+  {
+    "j": "i' n'y a pon d'tchi!",
+    "e": "don't mention it!",
+    "k": "inyapondtchi!",
+    "f": "dontmentionit!"
+  },
+  {
+    "j": "i' n'y pas eune aube dé vent aniet",
+    "e": "there isn’t a breath of wind today",
+    "k": "inypaseuneaubedeventaniet",
+    "f": "thereisntabreathofwindtoday"
+  },
+  {
+    "j": "i' s'en va faithe bé demain",
+    "e": "it’ll be fine tomorrow",
+    "k": "isenvafaithebedemain",
+    "f": "itllbefinetomorrow"
+  },
+  {
+    "j": "i' tchait d'la grile",
+    "e": "it’s hailing",
+    "k": "itchaitdlagrile",
+    "f": "itshailing"
+  },
+  {
+    "j": "i' tchait d'la né",
+    "e": "it's snowing",
+    "k": "itchaitdlane",
+    "f": "itssnowing"
+  },
+  {
+    "j": "i' tchait d'la né fondue",
+    "e": "it’s sleeting",
+    "k": "itchaitdlanefondue",
+    "f": "itssleeting"
+  },
+  {
+    "j": "i' tchait d'la plyie",
+    "e": "it's raining",
+    "k": "itchaitdlaplyie",
+    "f": "itsraining"
+  },
+  {
+    "j": "i' vente",
+    "e": "it’s windy",
+    "k": "ivente",
+    "f": "itswindy"
+  },
+  {
+    "j": "i' vente à êcôner un boeu",
+    "e": "it's blowing an absolute gale",
+    "k": "iventeaeconerunboeu",
+    "f": "itsblowinganabsolutegale"
+  },
+  {
+    "j": "i' vente dû",
+    "e": "it’s very windy",
+    "k": "iventedu",
+    "f": "itsverywindy"
+  },
+  {
+    "j": "i' vente eune bouonne brise",
+    "e": "it’s blowing a good breeze",
+    "k": "iventeeunebouonnebrise",
+    "f": "itsblowingagoodbreeze"
+  },
+  {
+    "j": "i' vente eune dgêle",
+    "e": "it’s blowing a gale",
+    "k": "iventeeunedgele",
+    "f": "itsblowingagale"
+  },
+  {
+    "j": "i' vente la pé d'un orîngna",
+    "e": "it's blowing an absolute gale",
+    "k": "iventelapedunoringna",
+    "f": "itsblowinganabsolutegale"
+  },
+  {
+    "j": "i' vente la pé du dgiâbl'ye à ces sé",
+    "e": "it's blowing a gale this evening",
+    "k": "iventelapedudgiablyeacesse",
+    "f": "itsblowingagalethisevening"
   },
   {
     "j": "ieau",
@@ -11580,8 +12390,8 @@ export const vocabData = [
     "f": "water"
   },
   {
-    "j": "Ièrmue, Yèrmue",
-    "e": "Yarmouth",
+    "j": "ièrmue, yèrmue",
+    "e": "yarmouth",
     "k": "iermue,yermue",
     "f": "yarmouth"
   },
@@ -11592,122 +12402,212 @@ export const vocabData = [
     "f": "one"
   },
   {
+    "j": "il a aube gélée la niet pâssée",
+    "e": "there’s been hoarfrost during the night",
+    "k": "ilaaubegeleelanietpassee",
+    "f": "theresbeenhoarfrostduringthenight"
+  },
+  {
+    "j": "il a ieu eune opéthâtion",
+    "e": "he’s had an operation",
+    "k": "ilaieueuneopethation",
+    "f": "heshadanoperation"
+  },
+  {
+    "j": "il a justément gelotchi",
+    "e": "there’s been a light frost",
+    "k": "ilajustementgelotchi",
+    "f": "theresbeenalightfrost"
+  },
+  {
+    "j": "il a l'tchoeu d'vômi",
+    "e": "he feels sick",
+    "k": "ilaltchoeudvomi",
+    "f": "hefeelssick"
+  },
+  {
+    "j": "il a ma la tête",
+    "e": "he’s got a headache",
+    "k": "ilamalatete",
+    "f": "hesgotaheadache"
+  },
+  {
+    "j": "il a mèrtchi",
+    "e": "he’s scored",
+    "k": "ilamertchi",
+    "f": "hesscored"
+  },
+  {
+    "j": "il a mîns eune pathe dé bliues braies",
+    "e": "he’s put on a pair of blue trousers",
+    "k": "ilaminseunepathedebliuesbraies",
+    "f": "hesputonapairofbluetrousers"
+  },
+  {
     "j": "il a sauté san dèrnié pas",
     "e": "he's kicked the bucket",
     "k": "ilasautesanderniepas",
     "f": "heskickedthebucket"
   },
   {
-    "j": "Île Bouvet",
-    "e": "Bouvet Island",
+    "j": "il a trente tch’iuns ans",
+    "e": "he is thirty one",
+    "k": "ilatrentetchiunsans",
+    "f": "heisthirtyone"
+  },
+  {
+    "j": "il a un yi pochi",
+    "e": "he’s got a black eye",
+    "k": "ilaunyipochi",
+    "f": "hesgotablackeye"
+  },
+  {
+    "j": "il est à l’hôpita",
+    "e": "he’s at the hospital",
+    "k": "ilestalhopita",
+    "f": "hesatthehospital"
+  },
+  {
+    "j": "il est bein pouôrrement",
+    "e": "he is very poorly",
+    "k": "ilestbeinpouorrement",
+    "f": "heisverypoorly"
+  },
+  {
+    "j": "il est hors",
+    "e": "he’s out",
+    "k": "ilesthors",
+    "f": "hesout"
+  },
+  {
+    "j": "il est mus",
+    "e": "he is better",
+    "k": "ilestmus",
+    "f": "heisbetter"
+  },
+  {
+    "j": "il est un boulandgi",
+    "e": "he’s a baker",
+    "k": "ilestunboulandgi",
+    "f": "hesabaker"
+  },
+  {
+    "j": "il' ont raison",
+    "e": "they are right",
+    "k": "ilontraison",
+    "f": "theyareright"
+  },
+  {
+    "j": "île bouvet",
+    "e": "bouvet island",
     "k": "ilebouvet",
     "f": "bouvetisland"
   },
   {
-    "j": "Île dé Norfolk",
-    "e": "Norfolk Island",
-    "k": "iledenorfolk",
-    "f": "norfolkisland"
-  },
-  {
-    "j": "Île dé Noué",
-    "e": "Christmas Island",
-    "k": "iledenoue",
-    "f": "christmasisland"
-  },
-  {
-    "j": "Île d'Rêunion",
-    "e": "Reunion Island",
+    "j": "île d'rêunion",
+    "e": "reunion island",
     "k": "iledreunion",
     "f": "reunionisland"
   },
   {
-    "j": "Île Maurice",
-    "e": "Mauritius",
+    "j": "île dé norfolk",
+    "e": "norfolk island",
+    "k": "iledenorfolk",
+    "f": "norfolkisland"
+  },
+  {
+    "j": "île dé noué",
+    "e": "christmas island",
+    "k": "iledenoue",
+    "f": "christmasisland"
+  },
+  {
+    "j": "île maurice",
+    "e": "mauritius",
     "k": "ilemaurice",
     "f": "mauritius"
   },
   {
-    "j": "Îles Cocos",
-    "e": "Cocos Islands",
+    "j": "îles cocos",
+    "e": "cocos islands",
     "k": "ilescocos",
     "f": "cocosislands"
   },
   {
-    "j": "Îles Cook",
-    "e": "Cook Islands",
+    "j": "îles cook",
+    "e": "cook islands",
     "k": "ilescook",
     "f": "cookislands"
   },
   {
-    "j": "Îles dé Cayman",
-    "e": "Cayman Islands",
+    "j": "îles dé cayman",
+    "e": "cayman islands",
     "k": "ilesdecayman",
     "f": "caymanislands"
   },
   {
-    "j": "Îles dé Heard et McDonald",
-    "e": "Heard and McDonald Islands",
+    "j": "îles dé heard et mcdonald",
+    "e": "heard and mcdonald islands",
     "k": "ilesdeheardetmcdonald",
     "f": "heardandmcdonaldislands"
   },
   {
-    "j": "Îles dé Pitcairn",
-    "e": "Pitcairn Islands",
+    "j": "îles dé pitcairn",
+    "e": "pitcairn islands",
     "k": "ilesdepitcairn",
     "f": "pitcairnislands"
   },
   {
-    "j": "Îles Dodécanèses",
-    "e": "Dodecanese",
+    "j": "îles dodécanèses",
+    "e": "dodecanese",
     "k": "ilesdodecaneses",
     "f": "dodecanese"
   },
   {
-    "j": "Îles Faeroe",
-    "e": "Faeroe Islands",
+    "j": "îles faeroe",
+    "e": "faeroe islands",
     "k": "ilesfaeroe",
     "f": "faeroeislands"
   },
   {
-    "j": "Îles Falkland",
-    "e": "Falkland Islands",
+    "j": "îles falkland",
+    "e": "falkland islands",
     "k": "ilesfalkland",
     "f": "falklandislands"
   },
   {
-    "j": "Îles Marshall",
-    "e": "Marshall Islands",
+    "j": "îles marshall",
+    "e": "marshall islands",
     "k": "ilesmarshall",
     "f": "marshallislands"
   },
   {
-    "j": "Îles Palau",
-    "e": "Palau Islands",
+    "j": "îles palau",
+    "e": "palau islands",
     "k": "ilespalau",
     "f": "palauislands"
   },
   {
-    "j": "Îles Solomon",
-    "e": "Solomon Islands",
+    "j": "îles solomon",
+    "e": "solomon islands",
     "k": "ilessolomon",
     "f": "solomonislands"
   },
   {
-    "j": "Îles Turks et Caicos",
-    "e": "Turks and Caicos islands",
+    "j": "îles turks et caicos",
+    "e": "turks and caicos islands",
     "k": "ilesturksetcaicos",
     "f": "turksandcaicosislands"
   },
   {
-    "j": "Îles Vièrges Britanniques",
-    "e": "British Virgin Islands",
+    "j": "îles vièrges britanniques",
+    "e": "british virgin islands",
     "k": "ilesviergesbritanniques",
     "f": "britishvirginislands"
   },
   {
-    "j": "Îles Vièrges d's Êtats Unnis",
-    "e": "Virgin Islands of the United States",
+    "j": "îles vièrges d's êtats unnis",
+    "e": "virgin islands of the united states",
     "k": "ilesviergesdsetatsunnis",
     "f": "virginislandsoftheunitedstates"
   },
@@ -11718,14 +12618,26 @@ export const vocabData = [
     "f": "illuminate"
   },
   {
+    "j": "il’ arrivîtent à la cauchie hièr au sé.",
+    "e": "they arrived at the harbour last night.",
+    "k": "ilarrivitentalacauchiehierause.",
+    "f": "theyarrivedattheharbourlastnight."
+  },
+  {
+    "j": "il’ ont chîn mousses",
+    "e": "they have five children",
+    "k": "ilontchinmousses",
+    "f": "theyhavefivechildren"
+  },
+  {
     "j": "împrînmer",
     "e": "to print",
     "k": "imprinmer",
     "f": "toprint"
   },
   {
-    "j": "Înde",
-    "e": "India",
+    "j": "înde",
+    "e": "india",
     "k": "inde",
     "f": "india"
   },
@@ -11736,8 +12648,8 @@ export const vocabData = [
     "f": "poorly"
   },
   {
-    "j": "Îndonésie",
-    "e": "Indonesia",
+    "j": "îndonésie",
+    "e": "indonesia",
     "k": "indonesie",
     "f": "indonesia"
   },
@@ -11766,40 +12678,58 @@ export const vocabData = [
     "f": "interesting"
   },
   {
-    "j": "Iran",
-    "e": "Iran",
+    "j": "iou dinne dgiâbl'ye?",
+    "e": "where the devil?",
+    "k": "ioudinnedgiablye?",
+    "f": "wherethedevil?"
+  },
+  {
+    "j": "ioù qu'i' va?",
+    "e": "where is he going?",
+    "k": "iouquiva?",
+    "f": "whereishegoing?"
+  },
+  {
+    "j": "iran",
+    "e": "iran",
     "k": "iran",
     "f": "iran"
   },
   {
-    "j": "Iraq",
-    "e": "Iraq",
+    "j": "iraq",
+    "e": "iraq",
     "k": "iraq",
     "f": "iraq"
   },
   {
-    "j": "Irlande",
-    "e": "Ireland",
+    "j": "irlande",
+    "e": "ireland",
     "k": "irlande",
     "f": "ireland"
   },
   {
-    "j": "Islande",
-    "e": "Iceland",
+    "j": "islande",
+    "e": "iceland",
     "k": "islande",
     "f": "iceland"
   },
   {
-    "j": "Israël",
-    "e": "Israel",
-    "k": "israël",
+    "j": "israël",
+    "e": "israel",
+    "k": "israel",
     "f": "israel"
   },
   {
-    "j": "Italie",
-    "e": "Italy",
+    "j": "italie",
+    "e": "italy",
     "k": "italie",
     "f": "italy"
+  },
+  {
+    "j": "iun d'ches quat' matîns",
+    "e": "one of these fine days",
+    "k": "iundchesquatmatins",
+    "f": "oneofthesefinedays"
   },
   {
     "j": "iviéthe",
@@ -11814,14 +12744,338 @@ export const vocabData = [
     "f": "drunk"
   },
   {
-    "j": "Jâcob",
-    "e": "Jacob",
+    "j": "i’ d’meuthe à st ouën",
+    "e": "he lives in st ouen",
+    "k": "idmeutheastouen",
+    "f": "helivesinstouen"
+  },
+  {
+    "j": "i’ d’meuthent à st louothains",
+    "e": "they live in st lawrence",
+    "k": "idmeuthentastlouothains",
+    "f": "theyliveinstlawrence"
+  },
+  {
+    "j": "i’ fait eune fraid d’tchian",
+    "e": "it’s brass monkey weather",
+    "k": "ifaiteunefraiddtchian",
+    "f": "itsbrassmonkeyweather"
+  },
+  {
+    "j": "i’ fait gros temps",
+    "e": "it’s stormy",
+    "k": "ifaitgrostemps",
+    "f": "itsstormy"
+  },
+  {
+    "j": "i’ fait un temps du bouôn dgieu",
+    "e": "the weather’s superb",
+    "k": "ifaituntempsdubouondgieu",
+    "f": "theweatherssuperb"
+  },
+  {
+    "j": "i’ faut faithe sèrvi...",
+    "e": "you need to use...",
+    "k": "ifautfaitheservi...",
+    "f": "youneedtouse..."
+  },
+  {
+    "j": "i’ faut touônner à drouaite ès veues d’trafi.",
+    "e": "you must turn right at the traffic lights.",
+    "k": "ifauttouonneradrouaiteesveuesdtrafi.",
+    "f": "youmustturnrightatthetrafficlights."
+  },
+  {
+    "j": "i’ faut touônner à gauche au carrefour.",
+    "e": "you must turn left at the crossroads.",
+    "k": "ifauttouonneragaucheaucarrefour.",
+    "f": "youmustturnleftatthecrossroads."
+  },
+  {
+    "j": "i’ fut né en angliétèrre",
+    "e": "he was born in england",
+    "k": "ifutneenanglieterre",
+    "f": "hewasborninengland"
+  },
+  {
+    "j": "i’ fut poussé",
+    "e": "he was prosecuted",
+    "k": "ifutpousse",
+    "f": "hewasprosecuted"
+  },
+  {
+    "j": "i’ fûtent nés en dgèrnésy",
+    "e": "they were born in guernsey",
+    "k": "ifutentnesendgernesy",
+    "f": "theywereborninguernsey"
+  },
+  {
+    "j": "i’ fûtent tchestchionnés",
+    "e": "they were questioned",
+    "k": "ifutenttchestchionnes",
+    "f": "theywerequestioned"
+  },
+  {
+    "j": "i’ gângnîtent",
+    "e": "they won",
+    "k": "igangnitent",
+    "f": "theywon"
+  },
+  {
+    "j": "i’ gèle à pièrre fendre",
+    "e": "it’s freezing",
+    "k": "igeleapierrefendre",
+    "f": "itsfreezing"
+  },
+  {
+    "j": "i’ géloque",
+    "e": "it’s slightly frosty",
+    "k": "igeloque",
+    "f": "itsslightlyfrosty"
+  },
+  {
+    "j": "i’ joue dans l’êtchipe",
+    "e": "he plays in the team",
+    "k": "ijouedansletchipe",
+    "f": "heplaysintheteam"
+  },
+  {
+    "j": "i’ lus dêmathyîtent y’a siêx mais",
+    "e": "they got divorced six months ago",
+    "k": "ilusdemathyitentyasiexmais",
+    "f": "theygotdivorcedsixmonthsago"
+  },
+  {
+    "j": "i’ lus sont mathiés à l’églyise pârouaîssiale",
+    "e": "they got married at the parish church",
+    "k": "ilussontmathiesaleglyiseparouaissiale",
+    "f": "theygotmarriedattheparishchurch"
+  },
+  {
+    "j": "i’ m’ faut un docteu",
+    "e": "i need a doctor",
+    "k": "imfautundocteu",
+    "f": "ineedadoctor"
+  },
+  {
+    "j": "i’ m’est avis qué...",
+    "e": "i think...",
+    "k": "imestavisque...",
+    "f": "ithink..."
+  },
+  {
+    "j": "i’ m’faut des gants",
+    "e": "i need gloves",
+    "k": "imfautdesgants",
+    "f": "ineedgloves"
+  },
+  {
+    "j": "i’ m’sembl’ye qué...",
+    "e": "it seems to me that...",
+    "k": "imsemblyeque...",
+    "f": "itseemstomethat..."
+  },
+  {
+    "j": "i’ n’a pon gelé bein dû",
+    "e": "the frost has not been hard",
+    "k": "inapongelebeindu",
+    "f": "thefrosthasnotbeenhard"
+  },
+  {
+    "j": "i’ n’démeuthent pus à grouville",
+    "e": "they no longer live in grouville",
+    "k": "indemeuthentpusagrouville",
+    "f": "theynolongerliveingrouville"
+  },
+  {
+    "j": "i’ n’fait pon dgièx-sept fais trop fraid!",
+    "e": "it’s absolutely freezing!",
+    "k": "infaitpondgiexseptfaistropfraid!",
+    "f": "itsabsolutelyfreezing!"
+  },
+  {
+    "j": "i’ n’y’a pon d’...",
+    "e": "there isn’t any..., there aren’t any...",
+    "k": "inyapond...",
+    "f": "thereisntany...,therearentany..."
+  },
+  {
+    "j": "i’ pâssit la niet à la stâtion d’police",
+    "e": "he spent the night at the police station",
+    "k": "ipassitlanietalastationdpolice",
+    "f": "hespentthenightatthepolicestation"
+  },
+  {
+    "j": "i’ pèrdîtent",
+    "e": "they lost",
+    "k": "iperditent",
+    "f": "theylost"
+  },
+  {
+    "j": "i’ porte eune grise câsaque à l’office",
+    "e": "he wears a grey jacket at the office",
+    "k": "iporteeunegrisecasaquealoffice",
+    "f": "hewearsagreyjacketattheoffice"
+  },
+  {
+    "j": "i’ sont à jouer des gammes",
+    "e": "they’re playing games",
+    "k": "isontajouerdesgammes",
+    "f": "theyreplayinggames"
+  },
+  {
+    "j": "i’ sont à toûtre",
+    "e": "they’re coughing",
+    "k": "isontatoutre",
+    "f": "theyrecoughing"
+  },
+  {
+    "j": "i’ sont des boulandgièrs",
+    "e": "they’re bakers",
+    "k": "isontdesboulandgiers",
+    "f": "theyrebakers"
+  },
+  {
+    "j": "i’ sont engagis",
+    "e": "they are engaged",
+    "k": "isontengagis",
+    "f": "theyareengaged"
+  },
+  {
+    "j": "i’ s’en va y’en dêtchèrtchi",
+    "e": "it’ll chuck it down",
+    "k": "isenvayendetchertchi",
+    "f": "itllchuckitdown"
+  },
+  {
+    "j": "i’ s’est mîns à en dêcliatchi",
+    "e": "it’s started to tip it down",
+    "k": "isestminsaendecliatchi",
+    "f": "itsstartedtotipitdown"
+  },
+  {
+    "j": "i’ tchait d’la plyie à vèrse",
+    "e": "it’s bucketing down",
+    "k": "itchaitdlaplyieaverse",
+    "f": "itsbucketingdown"
+  },
+  {
+    "j": "i’ vînt auve sa douoche",
+    "e": "he came with his girlfriend",
+    "k": "ivintauvesadouoche",
+    "f": "hecamewithhisgirlfriend"
+  },
+  {
+    "j": "j' avons ieu eune dêtchèrque",
+    "e": "we’ve had a downpour",
+    "k": "javonsieueunedetcherque",
+    "f": "wevehadadownpour"
+  },
+  {
+    "j": "j' n'comprends pon pourtchi",
+    "e": "i don't understand why",
+    "k": "jncomprendsponpourtchi",
+    "f": "idontunderstandwhy"
+  },
+  {
+    "j": "j'ai eune suée d'fraid",
+    "e": "i've got a bad cold",
+    "k": "jaieunesueedfraid",
+    "f": "ivegotabadcold"
+  },
+  {
+    "j": "j'ai ieu mal ès ouïes",
+    "e": "i've had earache",
+    "k": "jaiieumalesouies",
+    "f": "ivehadearache"
+  },
+  {
+    "j": "j'ai ma la gorge",
+    "e": "i've got a sore throat",
+    "k": "jaimalagorge",
+    "f": "ivegotasorethroat"
+  },
+  {
+    "j": "j'ai prîns du fraid",
+    "e": "i've caught a cold",
+    "k": "jaiprinsdufraid",
+    "f": "ivecaughtacold"
+  },
+  {
+    "j": "j'aime bein chenna",
+    "e": "i like that a lot",
+    "k": "jaimebeinchenna",
+    "f": "ilikethatalot"
+  },
+  {
+    "j": "j'aime pâler l'jèrriais, mé!",
+    "e": "i like to speak jèrriais, me!",
+    "k": "jaimepalerljerriais,me!",
+    "f": "iliketospeakjerriais,me!"
+  },
+  {
+    "j": "j'avons d'la bliâse",
+    "e": "it’s foggy",
+    "k": "javonsdlabliase",
+    "f": "itsfoggy"
+  },
+  {
+    "j": "j'avons du temps péthissabl'ye",
+    "e": "the weather is dreadful",
+    "k": "javonsdutempspethissablye",
+    "f": "theweatherisdreadful"
+  },
+  {
+    "j": "j'peurs-t-i' aver....",
+    "e": "can i have....",
+    "k": "jpeurstiaver....",
+    "f": "canihave...."
+  },
+  {
+    "j": "j'peux-t-i' aver...?",
+    "e": "can i have...?",
+    "k": "jpeuxtiaver...?",
+    "f": "canihave...?"
+  },
+  {
+    "j": "j'sis d'charme",
+    "e": "i'm fine",
+    "k": "jsisdcharme",
+    "f": "imfine"
+  },
+  {
+    "j": "j'ter",
+    "e": "throw",
+    "k": "jter",
+    "f": "throw"
+  },
+  {
+    "j": "j'veurs",
+    "e": "i want",
+    "k": "jveurs",
+    "f": "iwant"
+  },
+  {
+    "j": "j'veurs...",
+    "e": "i want...",
+    "k": "jveurs...",
+    "f": "iwant..."
+  },
+  {
+    "j": "j'vouos souhaite jouaie",
+    "e": "many happy returns",
+    "k": "jvouossouhaitejouaie",
+    "f": "manyhappyreturns"
+  },
+  {
+    "j": "jâcob",
+    "e": "jacob",
     "k": "jacob",
     "f": "jacob"
   },
   {
-    "j": "Jacques",
-    "e": "Jack, Jacques",
+    "j": "jacques",
+    "e": "jack, jacques",
     "k": "jacques",
     "f": "jack,jacques"
   },
@@ -11832,20 +13086,20 @@ export const vocabData = [
     "f": "jet"
   },
   {
-    "j": "Jamaïque",
-    "e": "Jamaica",
-    "k": "jamaïque",
+    "j": "jamaïque",
+    "e": "jamaica",
+    "k": "jamaique",
     "f": "jamaica"
   },
   {
-    "j": "Janvyi",
-    "e": "January",
+    "j": "janvyi",
+    "e": "january",
     "k": "janvyi",
     "f": "january"
   },
   {
-    "j": "Japon",
-    "e": "Japan",
+    "j": "japon",
+    "e": "japan",
     "k": "japon",
     "f": "japan"
   },
@@ -11856,22 +13110,118 @@ export const vocabData = [
     "f": "brass"
   },
   {
-    "j": "Jean",
-    "e": "John, Jean",
+    "j": "jé d'meuthe à st. hélyi",
+    "e": "i live in st. helier",
+    "k": "jedmeutheast.helyi",
+    "f": "iliveinst.helier"
+  },
+  {
+    "j": "jé d’meuthons à ste mathie",
+    "e": "we live in st mary",
+    "k": "jedmeuthonsastemathie",
+    "f": "weliveinstmary"
+  },
+  {
+    "j": "jé l’lius dans chu magasîn",
+    "e": "i read it in this magazine",
+    "k": "jelliusdanschumagasin",
+    "f": "ireaditinthismagazine"
+  },
+  {
+    "j": "jé l’ouïs sus l’radio.",
+    "e": "i heard it on the radio",
+    "k": "jelouissuslradio.",
+    "f": "ihearditontheradio"
+  },
+  {
+    "j": "jé l’vis dans l’papi.",
+    "e": "i saw it in the paper",
+    "k": "jelvisdanslpapi.",
+    "f": "isawitinthepaper"
+  },
+  {
+    "j": "jé m’sens malade",
+    "e": "i feel ill",
+    "k": "jemsensmalade",
+    "f": "ifeelill"
+  },
+  {
+    "j": "jé né p’tunne pon",
+    "e": "i don't smoke",
+    "k": "jeneptunnepon",
+    "f": "idontsmoke"
+  },
+  {
+    "j": "jé n’comprend pon l’allemand nitout",
+    "e": "i don’t understand german either",
+    "k": "jencomprendponlallemandnitout",
+    "f": "idontunderstandgermaneither"
+  },
+  {
+    "j": "jé n’comprends pon",
+    "e": "i don't understand",
+    "k": "jencomprendspon",
+    "f": "idontunderstand"
+  },
+  {
+    "j": "jé n’feunme pon",
+    "e": "i don't smoke",
+    "k": "jenfeunmepon",
+    "f": "idontsmoke"
+  },
+  {
+    "j": "jé n’mange pon la viande",
+    "e": "i don't eat meat",
+    "k": "jenmangeponlaviande",
+    "f": "idonteatmeat"
+  },
+  {
+    "j": "jé n’pâle pon l’espangno",
+    "e": "i don’t speak spanish",
+    "k": "jenpaleponlespangno",
+    "f": "idontspeakspanish"
+  },
+  {
+    "j": "jé n’pouvais pon stèrter la vaituthe à matîn.",
+    "e": "i couldn’t start the car this morning.",
+    "k": "jenpouvaisponsterterlavaitutheamatin.",
+    "f": "icouldntstartthecarthismorning."
+  },
+  {
+    "j": "jé n’sai pon",
+    "e": "i don't know",
+    "k": "jensaipon",
+    "f": "idontknow"
+  },
+  {
+    "j": "jé n’sis pon mathié",
+    "e": "i’m not married",
+    "k": "jensisponmathie",
+    "f": "imnotmarried"
+  },
+  {
+    "j": "jean",
+    "e": "john, jean",
     "k": "jean",
     "f": "john,jean"
   },
   {
-    "j": "Jeannot, Dgeannot",
-    "e": "Johnny",
+    "j": "jeannot, dgeannot",
+    "e": "johnny",
     "k": "jeannot,dgeannot",
     "f": "johnny"
   },
   {
-    "j": "Jénîn, Jennîn, Jeanneton   , Jeanne",
-    "e": "Jeanne, Jeanette",
+    "j": "jénîn, jennîn, jeanneton   , jeanne",
+    "e": "jeanne, jeanette",
     "k": "jenin,jennin,jeanneton,jeanne",
     "f": "jeanne,jeanette"
+  },
+  {
+    "j": "jerriais",
+    "e": "english",
+    "k": "jerriais",
+    "f": "english"
   },
   {
     "j": "jet dg'ieau",
@@ -11880,14 +13230,14 @@ export const vocabData = [
     "f": "fountain"
   },
   {
-    "j": "Jeudi",
-    "e": "Thursday",
+    "j": "jeudi",
+    "e": "thursday",
     "k": "jeudi",
     "f": "thursday"
   },
   {
-    "j": "Jînmîn, Dgémîn",
-    "e": "Jimmy",
+    "j": "jînmîn, dgémîn",
+    "e": "jimmy",
     "k": "jinmin,dgemin",
     "f": "jimmy"
   },
@@ -11910,10 +13260,22 @@ export const vocabData = [
     "f": "geegee,horsey"
   },
   {
-    "j": "Jônas",
-    "e": "Jonas",
+    "j": "jônas",
+    "e": "jonas",
     "k": "jonas",
     "f": "jonas"
+  },
+  {
+    "j": "jouaiyeux pâques",
+    "e": "happy easter",
+    "k": "jouaiyeuxpaques",
+    "f": "happyeaster"
+  },
+  {
+    "j": "jouer",
+    "e": "play",
+    "k": "jouer",
+    "f": "play"
   },
   {
     "j": "jouer ès sous",
@@ -11928,34 +13290,16 @@ export const vocabData = [
     "f": "toplayaninstrument"
   },
   {
-    "j": "jouer",
-    "e": "play",
-    "k": "jouer",
-    "f": "play"
-  },
-  {
     "j": "joui",
     "e": "enjoy",
     "k": "joui",
     "f": "enjoy"
   },
   {
-    "j": "Jourdain",
-    "e": "Jordan",
+    "j": "jourdain",
+    "e": "jordan",
     "k": "jourdain",
     "f": "jordan"
-  },
-  {
-    "j": "j'peurs-t-i' aver....",
-    "e": "can I have....",
-    "k": "jpeurstiaver....",
-    "f": "canihave...."
-  },
-  {
-    "j": "j'ter",
-    "e": "throw",
-    "k": "jter",
-    "f": "throw"
   },
   {
     "j": "jugi",
@@ -11964,22 +13308,28 @@ export const vocabData = [
     "f": "tojudge"
   },
   {
-    "j": "Juilet",
-    "e": "July",
+    "j": "juilet",
+    "e": "july",
     "k": "juilet",
     "f": "july"
   },
   {
-    "j": "Juîn",
-    "e": "June",
+    "j": "juîn",
+    "e": "june",
     "k": "juin",
     "f": "june"
   },
   {
-    "j": "Jupiter",
-    "e": "Jupiter",
+    "j": "jupiter",
+    "e": "jupiter",
     "k": "jupiter",
     "f": "jupiter"
+  },
+  {
+    "j": "jusqu'ès p'tits crapauds",
+    "e": "until late in the evening",
+    "k": "jusquesptitscrapauds",
+    "f": "untillateintheevening"
   },
   {
     "j": "jutchi",
@@ -11988,38 +13338,200 @@ export const vocabData = [
     "f": "perch"
   },
   {
-    "j": "juther coumme un tchéthtchi",
-    "e": "to swear like a ploughman",
-    "k": "juthercoummeuntchethtchi",
-    "f": "toswearlikeaploughman"
-  },
-  {
     "j": "juther",
     "e": "swear",
     "k": "juther",
     "f": "swear"
   },
   {
-    "j": "j'veurs",
-    "e": "I want",
-    "k": "jveurs",
-    "f": "iwant"
+    "j": "juther coumme un tchéthtchi",
+    "e": "to swear like a ploughman",
+    "k": "juthercoummeuntchethtchi",
+    "f": "toswearlikeaploughman"
   },
   {
-    "j": "J'vouos souhaite jouaie",
-    "e": "Many happy returns",
-    "k": "jvouossouhaitejouaie",
-    "f": "manyhappyreturns"
+    "j": "j’ai ieu eune idée",
+    "e": "i’ve had an idea",
+    "k": "jaiieueuneidee",
+    "f": "ivehadanidea"
   },
   {
-    "j": "Kazakhstan",
-    "e": "Kazakhstan",
+    "j": "j’ai les mains gliaichies",
+    "e": "my hands are frozen",
+    "k": "jailesmainsgliaichies",
+    "f": "myhandsarefrozen"
+  },
+  {
+    "j": "j’ai r’chu eune învitâtion",
+    "e": "i’ve received an invitation",
+    "k": "jairchueuneinvitation",
+    "f": "ivereceivedaninvitation"
+  },
+  {
+    "j": "j’ai sé",
+    "e": "i’m thirsty",
+    "k": "jaise",
+    "f": "imthirsty"
+  },
+  {
+    "j": "j’aime bein chu bliu blianchet",
+    "e": "i really like this blue cardigan",
+    "k": "jaimebeinchubliublianchet",
+    "f": "ireallylikethisbluecardigan"
+  },
+  {
+    "j": "j’aime les champîngnons",
+    "e": "i like mushrooms",
+    "k": "jaimeleschampingnons",
+    "f": "ilikemushrooms"
+  },
+  {
+    "j": "j’aim’thais mus m’assiéthe à côté d’la f’nêtre, s’i’ vos pliaît",
+    "e": "i'd like a window seat please",
+    "k": "jaimthaismusmassietheacotedlafnetre,sivospliait",
+    "f": "idlikeawindowseatplease"
+  },
+  {
+    "j": "j’aim’thais mus...",
+    "e": "i’d prefer...",
+    "k": "jaimthaismus...",
+    "f": "idprefer..."
+  },
+  {
+    "j": "j’allînmes à un clobe dé niet en ville",
+    "e": "we went to a nightclub in town",
+    "k": "jallinmesaunclobedenietenville",
+    "f": "wewenttoanightclubintown"
+  },
+  {
+    "j": "j’allons vaie eune pièche dé thiâtre",
+    "e": "we’re going to see a play",
+    "k": "jallonsvaieeunepiechedethiatre",
+    "f": "weregoingtoseeaplay"
+  },
+  {
+    "j": "j’crai qué...",
+    "e": "i think...",
+    "k": "jcraique...",
+    "f": "ithink..."
+  },
+  {
+    "j": "j’èrmuons à st saûveux",
+    "e": "we’re moving to st saviour",
+    "k": "jermuonsastsauveux",
+    "f": "weremovingtostsaviour"
+  },
+  {
+    "j": "j’éthons du vèrglias",
+    "e": "we’ll have black ice",
+    "k": "jethonsduverglias",
+    "f": "wellhaveblackice"
+  },
+  {
+    "j": "j’fînmes eune touônnée",
+    "e": "we did a tour",
+    "k": "jfinmeseunetouonnee",
+    "f": "wedidatour"
+  },
+  {
+    "j": "j’fus né à st martîn",
+    "e": "i was born in st martin",
+    "k": "jfusneastmartin",
+    "f": "iwasborninstmartin"
+  },
+  {
+    "j": "j’fus né en jèrri",
+    "e": "i was born in jersey",
+    "k": "jfusneenjerri",
+    "f": "iwasborninjersey"
+  },
+  {
+    "j": "j’m’en vais crier pouor té à dgiêx minnutes dé huit.",
+    "e": "i’ll call for you at ten to eight.",
+    "k": "jmenvaiscrierpouorteadgiexminnutesdehuit.",
+    "f": "illcallforyouattentoeight."
+  },
+  {
+    "j": "j’m’en vais vos r’trouver à la stâtion d’beusse.",
+    "e": "i’ll meet you at the bus station.",
+    "k": "jmenvaisvosrtrouveralastationdbeusse.",
+    "f": "illmeetyouatthebusstation."
+  },
+  {
+    "j": "j’n’aime pon lé brécolîn",
+    "e": "i don’t like broccoli",
+    "k": "jnaimeponlebrecolin",
+    "f": "idontlikebroccoli"
+  },
+  {
+    "j": "j’n’avons pus d’...",
+    "e": "we haven’t got any ... left",
+    "k": "jnavonspusd...",
+    "f": "wehaventgotany...left"
+  },
+  {
+    "j": "j’pâle lé français étout",
+    "e": "i speak french as well",
+    "k": "jpalelefrancaisetout",
+    "f": "ispeakfrenchaswell"
+  },
+  {
+    "j": "j’peux-t-i’ faithe sèrvi vot’ téléphone?",
+    "e": "may i use your phone?",
+    "k": "jpeuxtifaitheservivottelephone?",
+    "f": "mayiuseyourphone?"
+  },
+  {
+    "j": "j’peux-t-i’ vos offri un pâssage?",
+    "e": "can i give you a lift?",
+    "k": "jpeuxtivosoffriunpassage?",
+    "f": "canigiveyoualift?"
+  },
+  {
+    "j": "j’pouôrrêmes chârer un taxi.",
+    "e": "we could share a taxi.",
+    "k": "jpouorremeschareruntaxi.",
+    "f": "wecouldshareataxi."
+  },
+  {
+    "j": "j’sis en amour dé té",
+    "e": "i’m in love with you",
+    "k": "jsisenamourdete",
+    "f": "iminlovewithyou"
+  },
+  {
+    "j": "j’sis gelé",
+    "e": "i’m frozen",
+    "k": "jsisgele",
+    "f": "imfrozen"
+  },
+  {
+    "j": "j’sis un fonctionnaithe",
+    "e": "i’m a civil servant",
+    "k": "jsisunfonctionnaithe",
+    "f": "imacivilservant"
+  },
+  {
+    "j": "j’travâle en ville",
+    "e": "i work in town",
+    "k": "jtravaleenville",
+    "f": "iworkintown"
+  },
+  {
+    "j": "j’vis les nouvelles à la télévision.",
+    "e": "i saw the news on television",
+    "k": "jvislesnouvellesalatelevision.",
+    "f": "isawthenewsontelevision"
+  },
+  {
+    "j": "kazakhstan",
+    "e": "kazakhstan",
     "k": "kazakhstan",
     "f": "kazakhstan"
   },
   {
-    "j": "Kenya",
-    "e": "Kenya",
+    "j": "kenya",
+    "e": "kenya",
     "k": "kenya",
     "f": "kenya"
   },
@@ -12030,22 +13542,2638 @@ export const vocabData = [
     "f": "phonebox"
   },
   {
-    "j": "Kiribati",
-    "e": "Kiribati",
+    "j": "kiribati",
+    "e": "kiribati",
     "k": "kiribati",
     "f": "kiribati"
   },
   {
-    "j": "Kuwait",
-    "e": "Kuwait",
+    "j": "kuwait",
+    "e": "kuwait",
     "k": "kuwait",
     "f": "kuwait"
   },
   {
-    "j": "Kyrgyzstan",
-    "e": "Kyrgyzstan",
+    "j": "kyrgyzstan",
+    "e": "kyrgyzstan",
     "k": "kyrgyzstan",
     "f": "kyrgyzstan"
+  },
+  {
+    "j": "l' temps est mo",
+    "e": "the weather is mild",
+    "k": "ltempsestmo",
+    "f": "theweatherismild"
+  },
+  {
+    "j": "l'abbaye",
+    "e": "abbey",
+    "k": "labbaye",
+    "f": "abbey"
+  },
+  {
+    "j": "l'abbé",
+    "e": "abbot",
+    "k": "labbe",
+    "f": "abbot"
+  },
+  {
+    "j": "l'abbêsse",
+    "e": "abbess",
+    "k": "labbesse",
+    "f": "abbess"
+  },
+  {
+    "j": "l'abcès",
+    "e": "abcess",
+    "k": "labces",
+    "f": "abcess"
+  },
+  {
+    "j": "l'abri d'beusse",
+    "e": "bus shelter",
+    "k": "labridbeusse",
+    "f": "busshelter"
+  },
+  {
+    "j": "l'absînthe",
+    "e": "absinth",
+    "k": "labsinthe",
+    "f": "absinth"
+  },
+  {
+    "j": "l'absolution",
+    "e": "absolution",
+    "k": "labsolution",
+    "f": "absolution"
+  },
+  {
+    "j": "l'abus",
+    "e": "abuse",
+    "k": "labus",
+    "f": "abuse"
+  },
+  {
+    "j": "l'académicien",
+    "e": "academician",
+    "k": "lacademicien",
+    "f": "academician"
+  },
+  {
+    "j": "l'acateux",
+    "e": "buyer",
+    "k": "lacateux",
+    "f": "buyer"
+  },
+  {
+    "j": "l'accointance",
+    "e": "acquaintance",
+    "k": "laccointance",
+    "f": "acquaintance"
+  },
+  {
+    "j": "l'accouochement",
+    "e": "delivery",
+    "k": "laccouochement",
+    "f": "delivery"
+  },
+  {
+    "j": "l'accouocheuse",
+    "e": "midwife",
+    "k": "laccouocheuse",
+    "f": "midwife"
+  },
+  {
+    "j": "l'achocre",
+    "e": "awkward person",
+    "k": "lachocre",
+    "f": "awkwardperson"
+  },
+  {
+    "j": "l'acrobate",
+    "e": "acrobat",
+    "k": "lacrobate",
+    "f": "acrobat"
+  },
+  {
+    "j": "l'acteur",
+    "e": "actor",
+    "k": "lacteur",
+    "f": "actor"
+  },
+  {
+    "j": "l'actrice",
+    "e": "actress",
+    "k": "lactrice",
+    "f": "actress"
+  },
+  {
+    "j": "l'addiction",
+    "e": "addiction",
+    "k": "laddiction",
+    "f": "addiction"
+  },
+  {
+    "j": "l'adjudicateu",
+    "e": "adjudicator",
+    "k": "ladjudicateu",
+    "f": "adjudicator"
+  },
+  {
+    "j": "l'adminnistrateu",
+    "e": "administrator",
+    "k": "ladminnistrateu",
+    "f": "administrator"
+  },
+  {
+    "j": "l'adresse",
+    "e": "address",
+    "k": "ladresse",
+    "f": "address"
+  },
+  {
+    "j": "l'adultéthe",
+    "e": "adulterer",
+    "k": "ladultethe",
+    "f": "adulterer"
+  },
+  {
+    "j": "l'advèrsaithe",
+    "e": "adversary",
+    "k": "ladversaithe",
+    "f": "adversary"
+  },
+  {
+    "j": "l'aéroport",
+    "e": "airport",
+    "k": "laeroport",
+    "f": "airport"
+  },
+  {
+    "j": "l'affétchi",
+    "e": "snob",
+    "k": "laffetchi",
+    "f": "snob"
+  },
+  {
+    "j": "l'affliâtreux",
+    "e": "flatterer",
+    "k": "laffliatreux",
+    "f": "flatterer"
+  },
+  {
+    "j": "l'âge dé bronze",
+    "e": "bronze age",
+    "k": "lagedebronze",
+    "f": "bronzeage"
+  },
+  {
+    "j": "l'âgé dé fé",
+    "e": "iron age",
+    "k": "lagedefe",
+    "f": "ironage"
+  },
+  {
+    "j": "l'âge dé pièrre",
+    "e": "stone age",
+    "k": "lagedepierre",
+    "f": "stoneage"
+  },
+  {
+    "j": "l'agent d'asseûthance",
+    "e": "insurance agent",
+    "k": "lagentdasseuthance",
+    "f": "insuranceagent"
+  },
+  {
+    "j": "l'agent d'viage",
+    "e": "travel agent",
+    "k": "lagentdviage",
+    "f": "travelagent"
+  },
+  {
+    "j": "l'agîtant",
+    "e": "adjutant",
+    "k": "lagitant",
+    "f": "adjutant"
+  },
+  {
+    "j": "l'agravé",
+    "e": "miser",
+    "k": "lagrave",
+    "f": "miser"
+  },
+  {
+    "j": "l'agritchultuthe",
+    "e": "agriculture",
+    "k": "lagritchultuthe",
+    "f": "agriculture"
+  },
+  {
+    "j": "l'aigrefîn",
+    "e": "swindler",
+    "k": "laigrefin",
+    "f": "swindler"
+  },
+  {
+    "j": "l'ail",
+    "e": "garlic",
+    "k": "lail",
+    "f": "garlic"
+  },
+  {
+    "j": "l'ain, lé cro",
+    "e": "fishing-hook",
+    "k": "lain,lecro",
+    "f": "fishinghook"
+  },
+  {
+    "j": "l'ais",
+    "e": "shelf",
+    "k": "lais",
+    "f": "shelf"
+  },
+  {
+    "j": "l'alcool",
+    "e": "alcohol",
+    "k": "lalcool",
+    "f": "alcohol"
+  },
+  {
+    "j": "l'alcoolisme",
+    "e": "alcoholism",
+    "k": "lalcoolisme",
+    "f": "alcoholism"
+  },
+  {
+    "j": "l'allée",
+    "e": "hall",
+    "k": "lallee",
+    "f": "hall"
+  },
+  {
+    "j": "l'allémand",
+    "e": "german",
+    "k": "lallemand",
+    "f": "german"
+  },
+  {
+    "j": "l'almonnas",
+    "e": "calendar",
+    "k": "lalmonnas",
+    "f": "calendar"
+  },
+  {
+    "j": "l'ambassade",
+    "e": "embassy",
+    "k": "lambassade",
+    "f": "embassy"
+  },
+  {
+    "j": "l'ambassadeu",
+    "e": "ambassador",
+    "k": "lambassadeu",
+    "f": "ambassador"
+  },
+  {
+    "j": "l'ambulance",
+    "e": "ambulance",
+    "k": "lambulance",
+    "f": "ambulance"
+  },
+  {
+    "j": "l'amitha",
+    "e": "flagship, admiral",
+    "k": "lamitha",
+    "f": "flagship,admiral"
+  },
+  {
+    "j": "l'amithauté",
+    "e": "admiralty",
+    "k": "lamithaute",
+    "f": "admiralty"
+  },
+  {
+    "j": "l'amouotheuse",
+    "e": "lover (f)",
+    "k": "lamouotheuse",
+    "f": "lover(f)"
+  },
+  {
+    "j": "l'amouotheux",
+    "e": "lover (m)",
+    "k": "lamouotheux",
+    "f": "lover(m)"
+  },
+  {
+    "j": "l'amour",
+    "e": "love",
+    "k": "lamour",
+    "f": "love"
+  },
+  {
+    "j": "l'anarchiste",
+    "e": "anarchist",
+    "k": "lanarchiste",
+    "f": "anarchist"
+  },
+  {
+    "j": "l'anchêtre",
+    "e": "ancestor",
+    "k": "lanchetre",
+    "f": "ancestor"
+  },
+  {
+    "j": "l'ancienneté",
+    "e": "ancient times",
+    "k": "lanciennete",
+    "f": "ancienttimes"
+  },
+  {
+    "j": "l'ancre",
+    "e": "anchor",
+    "k": "lancre",
+    "f": "anchor"
+  },
+  {
+    "j": "l'anémône (f) d'la sînmie",
+    "e": "anemones",
+    "k": "lanemone(f)dlasinmie",
+    "f": "anemones"
+  },
+  {
+    "j": "l'angliais",
+    "e": "english",
+    "k": "langliais",
+    "f": "english"
+  },
+  {
+    "j": "l'angné",
+    "e": "lamb",
+    "k": "langne",
+    "f": "lamb"
+  },
+  {
+    "j": "l'anis",
+    "e": "aniseed",
+    "k": "lanis",
+    "f": "aniseed"
+  },
+  {
+    "j": "l'anmîn",
+    "e": "friend",
+    "k": "lanmin",
+    "f": "friend"
+  },
+  {
+    "j": "l'année pâssée",
+    "e": "last year",
+    "k": "lanneepassee",
+    "f": "lastyear"
+  },
+  {
+    "j": "l'année tchi veint",
+    "e": "next year",
+    "k": "lanneetchiveint",
+    "f": "nextyear"
+  },
+  {
+    "j": "l'annonceux",
+    "e": "announcer, presenter",
+    "k": "lannonceux",
+    "f": "announcer,presenter"
+  },
+  {
+    "j": "l'ântchie",
+    "e": "pillowcase",
+    "k": "lantchie",
+    "f": "pillowcase"
+  },
+  {
+    "j": "l'apoplexie",
+    "e": "apoplexy",
+    "k": "lapoplexie",
+    "f": "apoplexy"
+  },
+  {
+    "j": "l'apotiqu'sie",
+    "e": "chemist",
+    "k": "lapotiqusie",
+    "f": "chemist"
+  },
+  {
+    "j": "l'apotitchi",
+    "e": "chemist",
+    "k": "lapotitchi",
+    "f": "chemist"
+  },
+  {
+    "j": "l'apôtre",
+    "e": "apostle",
+    "k": "lapotre",
+    "f": "apostle"
+  },
+  {
+    "j": "l'appartément",
+    "e": "flat, room",
+    "k": "lappartement",
+    "f": "flat,room"
+  },
+  {
+    "j": "l'appentis",
+    "e": "lean-to",
+    "k": "lappentis",
+    "f": "leanto"
+  },
+  {
+    "j": "l'applyitchant",
+    "e": "applicant",
+    "k": "lapplyitchant",
+    "f": "applicant"
+  },
+  {
+    "j": "l'arche",
+    "e": "arch",
+    "k": "larche",
+    "f": "arch"
+  },
+  {
+    "j": "l'archéologie",
+    "e": "archaeology",
+    "k": "larcheologie",
+    "f": "archaeology"
+  },
+  {
+    "j": "l'architecte",
+    "e": "architect",
+    "k": "larchitecte",
+    "f": "architect"
+  },
+  {
+    "j": "l'ardouaise",
+    "e": "slate",
+    "k": "lardouaise",
+    "f": "slate"
+  },
+  {
+    "j": "l'argentchi",
+    "e": "silversmith",
+    "k": "largentchi",
+    "f": "silversmith"
+  },
+  {
+    "j": "l'arlévée",
+    "e": "afternoon",
+    "k": "larlevee",
+    "f": "afternoon"
+  },
+  {
+    "j": "l'armée",
+    "e": "army",
+    "k": "larmee",
+    "f": "army"
+  },
+  {
+    "j": "l'armément",
+    "e": "armament",
+    "k": "larmement",
+    "f": "armament"
+  },
+  {
+    "j": "l'armistie",
+    "e": "armistice",
+    "k": "larmistie",
+    "f": "armistice"
+  },
+  {
+    "j": "l'armouaithe",
+    "e": "cupboard",
+    "k": "larmouaithe",
+    "f": "cupboard"
+  },
+  {
+    "j": "l'arpenteux",
+    "e": "land surveyor",
+    "k": "larpenteux",
+    "f": "landsurveyor"
+  },
+  {
+    "j": "l'arrêt d'beusse",
+    "e": "bus stop",
+    "k": "larretdbeusse",
+    "f": "busstop"
+  },
+  {
+    "j": "l'arriéthe",
+    "e": "stern",
+    "k": "larriethe",
+    "f": "stern"
+  },
+  {
+    "j": "l'arriéthe-pétit-fis",
+    "e": "great-grandson",
+    "k": "larriethepetitfis",
+    "f": "greatgrandson"
+  },
+  {
+    "j": "l'arriéthe-petite-fil' ye",
+    "e": "great-granddaughter",
+    "k": "larriethepetitefilye",
+    "f": "greatgranddaughter"
+  },
+  {
+    "j": "l'arrouôsage",
+    "e": "watering",
+    "k": "larrouosage",
+    "f": "watering"
+  },
+  {
+    "j": "l'arsénîn",
+    "e": "arsenic",
+    "k": "larsenin",
+    "f": "arsenic"
+  },
+  {
+    "j": "l'art",
+    "e": "art",
+    "k": "lart",
+    "f": "art"
+  },
+  {
+    "j": "l'artichaut vèrt",
+    "e": "globe artichoke",
+    "k": "lartichautvert",
+    "f": "globeartichoke"
+  },
+  {
+    "j": "l'artill'lie",
+    "e": "artillery",
+    "k": "lartilllie",
+    "f": "artillery"
+  },
+  {
+    "j": "l'artill'lie d'pid",
+    "e": "heavy artillery",
+    "k": "lartillliedpid",
+    "f": "heavyartillery"
+  },
+  {
+    "j": "l'artiste",
+    "e": "artist",
+    "k": "lartiste",
+    "f": "artist"
+  },
+  {
+    "j": "l'as",
+    "e": "ace",
+    "k": "las",
+    "f": "ace"
+  },
+  {
+    "j": "l'as dé trêfl'ye",
+    "e": "the ace of clubs",
+    "k": "lasdetreflye",
+    "f": "theaceofclubs"
+  },
+  {
+    "j": "l'ascenseux",
+    "e": "lift",
+    "k": "lascenseux",
+    "f": "lift"
+  },
+  {
+    "j": "l'ascension",
+    "e": "ascension",
+    "k": "lascension",
+    "f": "ascension"
+  },
+  {
+    "j": "l'aspèrge",
+    "e": "asparagus",
+    "k": "lasperge",
+    "f": "asparagus"
+  },
+  {
+    "j": "l'assâsîn",
+    "e": "assassin",
+    "k": "lassasin",
+    "f": "assassin"
+  },
+  {
+    "j": "l'assâsinâtion",
+    "e": "assassination",
+    "k": "lassasination",
+    "f": "assassination"
+  },
+  {
+    "j": "l'assembliée d'pâraîsse",
+    "e": "parish assembly",
+    "k": "lassemblieedparaisse",
+    "f": "parishassembly"
+  },
+  {
+    "j": "l'assèrmentâtion",
+    "e": "swearing in",
+    "k": "lassermentation",
+    "f": "swearingin"
+  },
+  {
+    "j": "l'asseûthance",
+    "e": "insurance",
+    "k": "lasseuthance",
+    "f": "insurance"
+  },
+  {
+    "j": "l'assistant",
+    "e": "assistant",
+    "k": "lassistant",
+    "f": "assistant"
+  },
+  {
+    "j": "l'asthma",
+    "e": "asthma",
+    "k": "lasthma",
+    "f": "asthma"
+  },
+  {
+    "j": "l'astronomie",
+    "e": "astronomy",
+    "k": "lastronomie",
+    "f": "astronomy"
+  },
+  {
+    "j": "l'atchusâtion",
+    "e": "accusation",
+    "k": "latchusation",
+    "f": "accusation"
+  },
+  {
+    "j": "l'atchusé",
+    "e": "accused",
+    "k": "latchuse",
+    "f": "accused"
+  },
+  {
+    "j": "l'atchuseux",
+    "e": "accuser",
+    "k": "latchuseux",
+    "f": "accuser"
+  },
+  {
+    "j": "l'âtelle en jaune tchuivre",
+    "e": "brass ring",
+    "k": "latelleenjaunetchuivre",
+    "f": "brassring"
+  },
+  {
+    "j": "l'athée",
+    "e": "atheist",
+    "k": "lathee",
+    "f": "atheist"
+  },
+  {
+    "j": "l'atmosphéthe",
+    "e": "atmosphere",
+    "k": "latmosphethe",
+    "f": "atmosphere"
+  },
+  {
+    "j": "l'âtre",
+    "e": "hearth",
+    "k": "latre",
+    "f": "hearth"
+  },
+  {
+    "j": "l'att'lage",
+    "e": "harness",
+    "k": "lattlage",
+    "f": "harness"
+  },
+  {
+    "j": "l'attrapeux",
+    "e": "trickster",
+    "k": "lattrapeux",
+    "f": "trickster"
+  },
+  {
+    "j": "l'aubèrginne",
+    "e": "aubergine",
+    "k": "lauberginne",
+    "f": "aubergine"
+  },
+  {
+    "j": "l'aubèrgiste",
+    "e": "pub landlord",
+    "k": "laubergiste",
+    "f": "publandlord"
+  },
+  {
+    "j": "l'auditeu",
+    "e": "auditor",
+    "k": "lauditeu",
+    "f": "auditor"
+  },
+  {
+    "j": "l'aûgni",
+    "e": "owner",
+    "k": "laugni",
+    "f": "owner"
+  },
+  {
+    "j": "l'aûmathe, l'aûmathe dé baté, lé codîn",
+    "e": "locker, cuddy",
+    "k": "laumathe,laumathedebate,lecodin",
+    "f": "locker,cuddy"
+  },
+  {
+    "j": "l'aumônyi",
+    "e": "chaplain",
+    "k": "laumonyi",
+    "f": "chaplain"
+  },
+  {
+    "j": "l'aussiéthe",
+    "e": "hawser",
+    "k": "laussiethe",
+    "f": "hawser"
+  },
+  {
+    "j": "l'aut' sé",
+    "e": "the other evening",
+    "k": "lautse",
+    "f": "theotherevening"
+  },
+  {
+    "j": "l'autel",
+    "e": "altar",
+    "k": "lautel",
+    "f": "altar"
+  },
+  {
+    "j": "l'auteu",
+    "e": "writer",
+    "k": "lauteu",
+    "f": "writer"
+  },
+  {
+    "j": "l'av'née",
+    "e": "straw of oats",
+    "k": "lavnee",
+    "f": "strawofoats"
+  },
+  {
+    "j": "l'avaine",
+    "e": "oats",
+    "k": "lavaine",
+    "f": "oats"
+  },
+  {
+    "j": "l'avanchon",
+    "e": "hook for collar chain",
+    "k": "lavanchon",
+    "f": "hookforcollarchain"
+  },
+  {
+    "j": "l'avant",
+    "e": "bow",
+    "k": "lavant",
+    "f": "bow"
+  },
+  {
+    "j": "l'avare",
+    "e": "miser",
+    "k": "lavare",
+    "f": "miser"
+  },
+  {
+    "j": "l'avé",
+    "e": "child",
+    "k": "lave",
+    "f": "child"
+  },
+  {
+    "j": "l'aveugliément",
+    "e": "con",
+    "k": "laveugliement",
+    "f": "con"
+  },
+  {
+    "j": "l'aveugliéthie",
+    "e": "con",
+    "k": "laveugliethie",
+    "f": "con"
+  },
+  {
+    "j": "l'avion",
+    "e": "plane",
+    "k": "lavion",
+    "f": "plane"
+  },
+  {
+    "j": "l'avion à réaction",
+    "e": "jet",
+    "k": "lavionareaction",
+    "f": "jet"
+  },
+  {
+    "j": "l'avocat, l'homme d'affaithes",
+    "e": "barrister",
+    "k": "lavocat,lhommedaffaithes",
+    "f": "barrister"
+  },
+  {
+    "j": "l'avouortément",
+    "e": "abortion",
+    "k": "lavouortement",
+    "f": "abortion"
+  },
+  {
+    "j": "l'avouôt'rêsse",
+    "e": "harvest moon",
+    "k": "lavouotresse",
+    "f": "harvestmoon"
+  },
+  {
+    "j": "l'avouôteux",
+    "e": "harvester",
+    "k": "lavouoteux",
+    "f": "harvester"
+  },
+  {
+    "j": "l'avoût",
+    "e": "harvest",
+    "k": "lavout",
+    "f": "harvest"
+  },
+  {
+    "j": "l'ayant-drouait",
+    "e": "beneficiary",
+    "k": "layantdrouait",
+    "f": "beneficiary"
+  },
+  {
+    "j": "l'caticème",
+    "e": "catechism",
+    "k": "lcaticeme",
+    "f": "catechism"
+  },
+  {
+    "j": "l'ciel",
+    "e": "sky",
+    "k": "lciel",
+    "f": "sky"
+  },
+  {
+    "j": "l'cliochi",
+    "e": "spire",
+    "k": "lcliochi",
+    "f": "spire"
+  },
+  {
+    "j": "l'côffre",
+    "e": "coffin",
+    "k": "lcoffre",
+    "f": "coffin"
+  },
+  {
+    "j": "l'conmèrce des drogues",
+    "e": "drug trafficking",
+    "k": "lconmercedesdrogues",
+    "f": "drugtrafficking"
+  },
+  {
+    "j": "l'dotchûment",
+    "e": "document",
+    "k": "ldotchument",
+    "f": "document"
+  },
+  {
+    "j": "l'e-mail",
+    "e": "e-mail",
+    "k": "lemail",
+    "f": "email"
+  },
+  {
+    "j": "l'êcadîn",
+    "e": "stone chippings",
+    "k": "lecadin",
+    "f": "stonechippings"
+  },
+  {
+    "j": "l'êcale",
+    "e": "shell",
+    "k": "lecale",
+    "f": "shell"
+  },
+  {
+    "j": "l'êcalyi",
+    "e": "staircase",
+    "k": "lecalyi",
+    "f": "staircase"
+  },
+  {
+    "j": "l'êcalyi touônnant",
+    "e": "newel staircase",
+    "k": "lecalyitouonnant",
+    "f": "newelstaircase"
+  },
+  {
+    "j": "l'êcarlate",
+    "e": "red admiral",
+    "k": "lecarlate",
+    "f": "redadmiral"
+  },
+  {
+    "j": "l'êcaudeuse",
+    "e": "sunburn",
+    "k": "lecaudeuse",
+    "f": "sunburn"
+  },
+  {
+    "j": "l'êcharpe, lé mouoché",
+    "e": "scarf",
+    "k": "lecharpe,lemouoche",
+    "f": "scarf"
+  },
+  {
+    "j": "l'êcliuse",
+    "e": "mill-pond",
+    "k": "lecliuse",
+    "f": "millpond"
+  },
+  {
+    "j": "l'êclon",
+    "e": "the plough",
+    "k": "leclon",
+    "f": "theplough"
+  },
+  {
+    "j": "l'êclyipse",
+    "e": "eclipse",
+    "k": "leclyipse",
+    "f": "eclipse"
+  },
+  {
+    "j": "l'êcolage",
+    "e": "schooling",
+    "k": "lecolage",
+    "f": "schooling"
+  },
+  {
+    "j": "l'êcole",
+    "e": "school",
+    "k": "lecole",
+    "f": "school"
+  },
+  {
+    "j": "l'êcole du dînmanche",
+    "e": "sunday school",
+    "k": "lecoledudinmanche",
+    "f": "sundayschool"
+  },
+  {
+    "j": "l'êcolyi",
+    "e": "pupil",
+    "k": "lecolyi",
+    "f": "pupil"
+  },
+  {
+    "j": "l'êconomie",
+    "e": "economy",
+    "k": "leconomie",
+    "f": "economy"
+  },
+  {
+    "j": "l'êcopi",
+    "e": "saliva",
+    "k": "lecopi",
+    "f": "saliva"
+  },
+  {
+    "j": "l'êcorche",
+    "e": "bark",
+    "k": "lecorche",
+    "f": "bark"
+  },
+  {
+    "j": "l'êcorcheuse",
+    "e": "graze",
+    "k": "lecorcheuse",
+    "f": "graze"
+  },
+  {
+    "j": "l'êcouêson",
+    "e": "quoin",
+    "k": "lecoueson",
+    "f": "quoin"
+  },
+  {
+    "j": "l'êcoute d'eune vaile",
+    "e": "sheet of a sail",
+    "k": "lecoutedeunevaile",
+    "f": "sheetofasail"
+  },
+  {
+    "j": "l'êcoute, dé la vaile",
+    "e": "sheet, of sail",
+    "k": "lecoute,delavaile",
+    "f": "sheet,ofsail"
+  },
+  {
+    "j": "l'êcoute-pathai",
+    "e": "eavesdropper",
+    "k": "lecoutepathai",
+    "f": "eavesdropper"
+  },
+  {
+    "j": "l'êcouteux",
+    "e": "eavesdropper, listener",
+    "k": "lecouteux",
+    "f": "eavesdropper,listener"
+  },
+  {
+    "j": "l'êcoutil'ye",
+    "e": "hatchway",
+    "k": "lecoutilye",
+    "f": "hatchway"
+  },
+  {
+    "j": "l'êcran",
+    "e": "screen",
+    "k": "lecran",
+    "f": "screen"
+  },
+  {
+    "j": "l'êcrède",
+    "e": "scale",
+    "k": "lecrede",
+    "f": "scale"
+  },
+  {
+    "j": "l'êcrithie",
+    "e": "writing",
+    "k": "lecrithie",
+    "f": "writing"
+  },
+  {
+    "j": "l'êcritouaithe",
+    "e": "desk",
+    "k": "lecritouaithe",
+    "f": "desk"
+  },
+  {
+    "j": "l'êcrituthe",
+    "e": "handwriting",
+    "k": "lecrituthe",
+    "f": "handwriting"
+  },
+  {
+    "j": "l'êducâtion",
+    "e": "education",
+    "k": "leducation",
+    "f": "education"
+  },
+  {
+    "j": "l'êfant",
+    "e": "child",
+    "k": "lefant",
+    "f": "child"
+  },
+  {
+    "j": "l'êfant d'galiotage",
+    "e": "bastard",
+    "k": "lefantdgaliotage",
+    "f": "bastard"
+  },
+  {
+    "j": "l'êffet",
+    "e": "effect",
+    "k": "leffet",
+    "f": "effect"
+  },
+  {
+    "j": "l'êgalité",
+    "e": "equality",
+    "k": "legalite",
+    "f": "equality"
+  },
+  {
+    "j": "l'êglyise",
+    "e": "church",
+    "k": "leglyise",
+    "f": "church"
+  },
+  {
+    "j": "l'êgoutteux",
+    "e": "draining-board",
+    "k": "legoutteux",
+    "f": "drainingboard"
+  },
+  {
+    "j": "l'êlecteu",
+    "e": "elector",
+    "k": "lelecteu",
+    "f": "elector"
+  },
+  {
+    "j": "l'êléphant",
+    "e": "elephant",
+    "k": "lelephant",
+    "f": "elephant"
+  },
+  {
+    "j": "l'êleveux",
+    "e": "cattle-breeder",
+    "k": "leleveux",
+    "f": "cattlebreeder"
+  },
+  {
+    "j": "l'êlîndgi",
+    "e": "lanky person",
+    "k": "lelindgi",
+    "f": "lankyperson"
+  },
+  {
+    "j": "l'embête",
+    "e": "bore",
+    "k": "lembete",
+    "f": "bore"
+  },
+  {
+    "j": "l'emboutil'lie",
+    "e": "bottling",
+    "k": "lemboutillie",
+    "f": "bottling"
+  },
+  {
+    "j": "l'embraich'chie",
+    "e": "kissing",
+    "k": "lembraichchie",
+    "f": "kissing"
+  },
+  {
+    "j": "l'êmigrant",
+    "e": "emigrant",
+    "k": "lemigrant",
+    "f": "emigrant"
+  },
+  {
+    "j": "l'emmèrde",
+    "e": "nuisance",
+    "k": "lemmerde",
+    "f": "nuisance"
+  },
+  {
+    "j": "l'empéreur",
+    "e": "emperor",
+    "k": "lempereur",
+    "f": "emperor"
+  },
+  {
+    "j": "l'empiègne d'un soulié",
+    "e": "uppers of shoe",
+    "k": "lempiegnedunsoulie",
+    "f": "uppersofshoe"
+  },
+  {
+    "j": "l'emprunteux",
+    "e": "borrower",
+    "k": "lemprunteux",
+    "f": "borrower"
+  },
+  {
+    "j": "l'enâgement",
+    "e": "coming of age",
+    "k": "lenagement",
+    "f": "comingofage"
+  },
+  {
+    "j": "l'encanteux",
+    "e": "auctioneer",
+    "k": "lencanteux",
+    "f": "auctioneer"
+  },
+  {
+    "j": "l'enchens",
+    "e": "incense",
+    "k": "lenchens",
+    "f": "incense"
+  },
+  {
+    "j": "l'enchorchell'lie",
+    "e": "sorcery",
+    "k": "lenchorchelllie",
+    "f": "sorcery"
+  },
+  {
+    "j": "l'encre",
+    "e": "ink",
+    "k": "lencre",
+    "f": "ink"
+  },
+  {
+    "j": "l'encriyi",
+    "e": "inkwell",
+    "k": "lencriyi",
+    "f": "inkwell"
+  },
+  {
+    "j": "l'enfé",
+    "e": "hell",
+    "k": "lenfe",
+    "f": "hell"
+  },
+  {
+    "j": "l'enfliammâtion d'ponmons",
+    "e": "pneumonia",
+    "k": "lenfliammationdponmons",
+    "f": "pneumonia"
+  },
+  {
+    "j": "l'enflieunme",
+    "e": "swelling",
+    "k": "lenflieunme",
+    "f": "swelling"
+  },
+  {
+    "j": "l'enfuntchi",
+    "e": "simpleton",
+    "k": "lenfuntchi",
+    "f": "simpleton"
+  },
+  {
+    "j": "l'engagement",
+    "e": "engagement",
+    "k": "lengagement",
+    "f": "engagement"
+  },
+  {
+    "j": "l'engîn",
+    "e": "motor",
+    "k": "lengin",
+    "f": "motor"
+  },
+  {
+    "j": "l'engoulême",
+    "e": "estuary",
+    "k": "lengouleme",
+    "f": "estuary"
+  },
+  {
+    "j": "l'engrais",
+    "e": "fertilizer",
+    "k": "lengrais",
+    "f": "fertilizer"
+  },
+  {
+    "j": "l'enn'mîn",
+    "e": "enemy",
+    "k": "lennmin",
+    "f": "enemy"
+  },
+  {
+    "j": "l'ens'mench'chie",
+    "e": "sowing",
+    "k": "lensmenchchie",
+    "f": "sowing"
+  },
+  {
+    "j": "l'ensîngnant",
+    "e": "teacher",
+    "k": "lensingnant",
+    "f": "teacher"
+  },
+  {
+    "j": "l'entré-panné",
+    "e": "mullion",
+    "k": "lentrepanne",
+    "f": "mullion"
+  },
+  {
+    "j": "l'entrépranneux",
+    "e": "undertaker",
+    "k": "lentrepranneux",
+    "f": "undertaker"
+  },
+  {
+    "j": "l'entrinneux",
+    "e": "stubborn person",
+    "k": "lentrinneux",
+    "f": "stubbornperson"
+  },
+  {
+    "j": "l'env'yêthie",
+    "e": "sending",
+    "k": "lenvyethie",
+    "f": "sending"
+  },
+  {
+    "j": "l'env'yeux",
+    "e": "sender",
+    "k": "lenvyeux",
+    "f": "sender"
+  },
+  {
+    "j": "l'êpart",
+    "e": "lightning",
+    "k": "lepart",
+    "f": "lightning"
+  },
+  {
+    "j": "l'êpaule",
+    "e": "shoulder",
+    "k": "lepaule",
+    "f": "shoulder"
+  },
+  {
+    "j": "l'êpicyi, lé grôssyi",
+    "e": "grocer",
+    "k": "lepicyi,legrossyi",
+    "f": "grocer"
+  },
+  {
+    "j": "l'êpidémie",
+    "e": "epidemic",
+    "k": "lepidemie",
+    "f": "epidemic"
+  },
+  {
+    "j": "l'êpieux",
+    "e": "spy",
+    "k": "lepieux",
+    "f": "spy"
+  },
+  {
+    "j": "l'êpîle à iînge",
+    "e": "clothes peg",
+    "k": "lepileaiinge",
+    "f": "clothespeg"
+  },
+  {
+    "j": "l'épilepsie",
+    "e": "epilepsy",
+    "k": "lepilepsie",
+    "f": "epilepsy"
+  },
+  {
+    "j": "l'êpîndgi",
+    "e": "needle-case",
+    "k": "lepindgi",
+    "f": "needlecase"
+  },
+  {
+    "j": "l'êpousseteux",
+    "e": "duster",
+    "k": "lepousseteux",
+    "f": "duster"
+  },
+  {
+    "j": "l'êprouvette",
+    "e": "wine taster",
+    "k": "leprouvette",
+    "f": "winetaster"
+  },
+  {
+    "j": "l'êpu",
+    "e": "manure (liquid)",
+    "k": "lepu",
+    "f": "manure(liquid)"
+  },
+  {
+    "j": "l'êquathisseux",
+    "e": "knacker",
+    "k": "lequathisseux",
+    "f": "knacker"
+  },
+  {
+    "j": "l'èrchelle",
+    "e": "cursor",
+    "k": "lerchelle",
+    "f": "cursor"
+  },
+  {
+    "j": "l'èrchéveux",
+    "e": "recipient",
+    "k": "lercheveux",
+    "f": "recipient"
+  },
+  {
+    "j": "l'èrfrain",
+    "e": "chorus",
+    "k": "lerfrain",
+    "f": "chorus"
+  },
+  {
+    "j": "l'èrpathe",
+    "e": "coping",
+    "k": "lerpathe",
+    "f": "coping"
+  },
+  {
+    "j": "l'èrré",
+    "e": "distracted person",
+    "k": "lerre",
+    "f": "distractedperson"
+  },
+  {
+    "j": "l'èrsîn des louêmes",
+    "e": "ebb (of waves)",
+    "k": "lersindeslouemes",
+    "f": "ebb(ofwaves)"
+  },
+  {
+    "j": "l'èrtithant",
+    "e": "ebb tide, ebb",
+    "k": "lertithant",
+    "f": "ebbtide,ebb"
+  },
+  {
+    "j": "l'èrtithe-tout",
+    "e": "lumber-room",
+    "k": "lertithetout",
+    "f": "lumberroom"
+  },
+  {
+    "j": "l'èrtûnfîn",
+    "e": "after-effects",
+    "k": "lertunfin",
+    "f": "aftereffects"
+  },
+  {
+    "j": "l'espace",
+    "e": "space",
+    "k": "lespace",
+    "f": "space"
+  },
+  {
+    "j": "l'espangno",
+    "e": "spanish",
+    "k": "lespangno",
+    "f": "spanish"
+  },
+  {
+    "j": "l'espion",
+    "e": "spy",
+    "k": "lespion",
+    "f": "spy"
+  },
+  {
+    "j": "l'esprit d'vîn",
+    "e": "spirits",
+    "k": "lespritdvin",
+    "f": "spirits"
+  },
+  {
+    "j": "l'esseu",
+    "e": "axle",
+    "k": "lesseu",
+    "f": "axle"
+  },
+  {
+    "j": "l'êssuie-tâsses",
+    "e": "teatowel, cloth (tea)",
+    "k": "lessuietasses",
+    "f": "teatowel,cloth(tea)"
+  },
+  {
+    "j": "l'estonma",
+    "e": "chest",
+    "k": "lestonma",
+    "f": "chest"
+  },
+  {
+    "j": "l'êtabl'yie",
+    "e": "workbench",
+    "k": "letablyie",
+    "f": "workbench"
+  },
+  {
+    "j": "l'êtablyie ès rouelles",
+    "e": "the wheelwright's stand",
+    "k": "letablyieesrouelles",
+    "f": "thewheelwrightsstand"
+  },
+  {
+    "j": "l'êtai, l'êtai du grand mât",
+    "e": "stay",
+    "k": "letai,letaidugrandmat",
+    "f": "stay"
+  },
+  {
+    "j": "l'êtaile",
+    "e": "star",
+    "k": "letaile",
+    "f": "star"
+  },
+  {
+    "j": "l'êtaile au tchian",
+    "e": "dog star",
+    "k": "letaileautchian",
+    "f": "dogstar"
+  },
+  {
+    "j": "l'êtaile du jour",
+    "e": "venus",
+    "k": "letailedujour",
+    "f": "venus"
+  },
+  {
+    "j": "l'êtaile du nord",
+    "e": "pole star",
+    "k": "letailedunord",
+    "f": "polestar"
+  },
+  {
+    "j": "l'êtaile du sé",
+    "e": "venus",
+    "k": "letaileduse",
+    "f": "venus"
+  },
+  {
+    "j": "l'êtailes",
+    "e": "the stars",
+    "k": "letailes",
+    "f": "thestars"
+  },
+  {
+    "j": "l'êtalage",
+    "e": "display, stall",
+    "k": "letalage",
+    "f": "display,stall"
+  },
+  {
+    "j": "l'êtalon, lé j'val entchi",
+    "e": "stallion",
+    "k": "letalon,lejvalentchi",
+    "f": "stallion"
+  },
+  {
+    "j": "l'êtane",
+    "e": "stem, stem-post",
+    "k": "letane",
+    "f": "stem,stempost"
+  },
+  {
+    "j": "l'êtché",
+    "e": "reef",
+    "k": "letche",
+    "f": "reef"
+  },
+  {
+    "j": "l'êtchelle",
+    "e": "ladder",
+    "k": "letchelle",
+    "f": "ladder"
+  },
+  {
+    "j": "l'êtchèrbot, lé bourdon",
+    "e": "dor-beetle",
+    "k": "letcherbot,lebourdon",
+    "f": "dorbeetle"
+  },
+  {
+    "j": "l'êtchèrre",
+    "e": "set square",
+    "k": "letcherre",
+    "f": "setsquare"
+  },
+  {
+    "j": "l'êtcheunme",
+    "e": "foam",
+    "k": "letcheunme",
+    "f": "foam"
+  },
+  {
+    "j": "l'êtchinnée (d'lard)",
+    "e": "chine",
+    "k": "letchinnee(dlard)",
+    "f": "chine"
+  },
+  {
+    "j": "l'êtchipage",
+    "e": "fishing tackle",
+    "k": "letchipage",
+    "f": "fishingtackle"
+  },
+  {
+    "j": "l'êtchuelle",
+    "e": "bowl",
+    "k": "letchuelle",
+    "f": "bowl"
+  },
+  {
+    "j": "l'êtibotcheux",
+    "e": "stirrer",
+    "k": "letibotcheux",
+    "f": "stirrer"
+  },
+  {
+    "j": "l'êtoffe",
+    "e": "material",
+    "k": "letoffe",
+    "f": "material"
+  },
+  {
+    "j": "l'étole",
+    "e": "stole",
+    "k": "letole",
+    "f": "stole"
+  },
+  {
+    "j": "l'êtouinne",
+    "e": "scudding-sail, studding-sail",
+    "k": "letouinne",
+    "f": "scuddingsail,studdingsail"
+  },
+  {
+    "j": "l'êtourdissaison",
+    "e": "dizziness",
+    "k": "letourdissaison",
+    "f": "dizziness"
+  },
+  {
+    "j": "l'êtrain",
+    "e": "straw",
+    "k": "letrain",
+    "f": "straw"
+  },
+  {
+    "j": "l'êtraiteûthe",
+    "e": "coping stone",
+    "k": "letraiteuthe",
+    "f": "copingstone"
+  },
+  {
+    "j": "l'êtrangi",
+    "e": "stranger, foreigner",
+    "k": "letrangi",
+    "f": "stranger,foreigner"
+  },
+  {
+    "j": "l'êtrangliéthie",
+    "e": "strangling",
+    "k": "letrangliethie",
+    "f": "strangling"
+  },
+  {
+    "j": "l'êtude",
+    "e": "study",
+    "k": "letude",
+    "f": "study"
+  },
+  {
+    "j": "l'êtudgiant",
+    "e": "student",
+    "k": "letudgiant",
+    "f": "student"
+  },
+  {
+    "j": "l'êtui à leunettes",
+    "e": "spectacle-case",
+    "k": "letuialeunettes",
+    "f": "spectaclecase"
+  },
+  {
+    "j": "l'êtuivée",
+    "e": "stew",
+    "k": "letuivee",
+    "f": "stew"
+  },
+  {
+    "j": "l'euche",
+    "e": "axle-pin",
+    "k": "leuche",
+    "f": "axlepin"
+  },
+  {
+    "j": "l'eunanînmité",
+    "e": "unanimity",
+    "k": "leunaninmite",
+    "f": "unanimity"
+  },
+  {
+    "j": "l'êvangile",
+    "e": "gospel",
+    "k": "levangile",
+    "f": "gospel"
+  },
+  {
+    "j": "l'êvêque",
+    "e": "bishop",
+    "k": "leveque",
+    "f": "bishop"
+  },
+  {
+    "j": "l'êvidence",
+    "e": "evidence",
+    "k": "levidence",
+    "f": "evidence"
+  },
+  {
+    "j": "l'êvilement",
+    "e": "embrasure",
+    "k": "levilement",
+    "f": "embrasure"
+  },
+  {
+    "j": "l'êvyi",
+    "e": "sink",
+    "k": "levyi",
+    "f": "sink"
+  },
+  {
+    "j": "l'examen",
+    "e": "exam",
+    "k": "lexamen",
+    "f": "exam"
+  },
+  {
+    "j": "l'examinneux",
+    "e": "examiner",
+    "k": "lexaminneux",
+    "f": "examiner"
+  },
+  {
+    "j": "l'excommunicâtion",
+    "e": "excommunication",
+    "k": "lexcommunication",
+    "f": "excommunication"
+  },
+  {
+    "j": "l'exèrcice",
+    "e": "exercise",
+    "k": "lexercice",
+    "f": "exercise"
+  },
+  {
+    "j": "l'expèrt",
+    "e": "rate assessor, expert",
+    "k": "lexpert",
+    "f": "rateassessor,expert"
+  },
+  {
+    "j": "l'granit",
+    "e": "granite",
+    "k": "lgranit",
+    "f": "granite"
+  },
+  {
+    "j": "l'gravi",
+    "e": "gravel",
+    "k": "lgravi",
+    "f": "gravel"
+  },
+  {
+    "j": "l'habitant",
+    "e": "inhabitant",
+    "k": "lhabitant",
+    "f": "inhabitant"
+  },
+  {
+    "j": "l'hèrbe",
+    "e": "grass",
+    "k": "lherbe",
+    "f": "grass"
+  },
+  {
+    "j": "l'hèrbe à la reine",
+    "e": "petty spurge",
+    "k": "lherbealareine",
+    "f": "pettyspurge"
+  },
+  {
+    "j": "l'héthèque",
+    "e": "fishbone",
+    "k": "lhetheque",
+    "f": "fishbone"
+  },
+  {
+    "j": "l'héthique",
+    "e": "haddock",
+    "k": "lhethique",
+    "f": "haddock"
+  },
+  {
+    "j": "l'héthitage",
+    "e": "heritage",
+    "k": "lhethitage",
+    "f": "heritage"
+  },
+  {
+    "j": "l'hielle d'olives",
+    "e": "olive oil",
+    "k": "lhielledolives",
+    "f": "oliveoil"
+  },
+  {
+    "j": "l'hièrredouais",
+    "e": "heartburn",
+    "k": "lhierredouais",
+    "f": "heartburn"
+  },
+  {
+    "j": "l'histouaithe",
+    "e": "history",
+    "k": "lhistouaithe",
+    "f": "history"
+  },
+  {
+    "j": "l'histouaithe dé fanmil'ye",
+    "e": "family history",
+    "k": "lhistouaithedefanmilye",
+    "f": "familyhistory"
+  },
+  {
+    "j": "l'hôlouoge",
+    "e": "clock",
+    "k": "lholouoge",
+    "f": "clock"
+  },
+  {
+    "j": "l'hôlouogi",
+    "e": "clockmaker",
+    "k": "lholouogi",
+    "f": "clockmaker"
+  },
+  {
+    "j": "l'homicide",
+    "e": "homicide",
+    "k": "lhomicide",
+    "f": "homicide"
+  },
+  {
+    "j": "l'homme à tout faithe",
+    "e": "jack of all trades",
+    "k": "lhommeatoutfaithe",
+    "f": "jackofalltrades"
+  },
+  {
+    "j": "l'hôpita",
+    "e": "hospital",
+    "k": "lhopita",
+    "f": "hospital"
+  },
+  {
+    "j": "l'horizon",
+    "e": "horizon",
+    "k": "lhorizon",
+    "f": "horizon"
+  },
+  {
+    "j": "l'hortitchultuthe",
+    "e": "horticulture",
+    "k": "lhortitchultuthe",
+    "f": "horticulture"
+  },
+  {
+    "j": "l'hôtelyi",
+    "e": "hôtelier",
+    "k": "lhotelyi",
+    "f": "hotelier"
+  },
+  {
+    "j": "l'houmme dans la leune",
+    "e": "man in the moon",
+    "k": "lhoummedanslaleune",
+    "f": "maninthemoon"
+  },
+  {
+    "j": "l'hysope",
+    "e": "hyssop",
+    "k": "lhysope",
+    "f": "hyssop"
+  },
+  {
+    "j": "l'idolâtrie",
+    "e": "idolatry",
+    "k": "lidolatrie",
+    "f": "idolatry"
+  },
+  {
+    "j": "l'ieau d'câle",
+    "e": "bilge-water",
+    "k": "lieaudcale",
+    "f": "bilgewater"
+  },
+  {
+    "j": "l'ieau d'la mé",
+    "e": "seawater",
+    "k": "lieaudlame",
+    "f": "seawater"
+  },
+  {
+    "j": "l'ieau d'orge",
+    "e": "barley water",
+    "k": "lieaudorge",
+    "f": "barleywater"
+  },
+  {
+    "j": "l'ieau-d'vie d'cidre",
+    "e": "apple brandy, calvados",
+    "k": "lieaudviedcidre",
+    "f": "applebrandy,calvados"
+  },
+  {
+    "j": "l'iérrîn",
+    "e": "ladder-rope",
+    "k": "lierrin",
+    "f": "ladderrope"
+  },
+  {
+    "j": "l'île",
+    "e": "island",
+    "k": "lile",
+    "f": "island"
+  },
+  {
+    "j": "l'îlet",
+    "e": "islet",
+    "k": "lilet",
+    "f": "islet"
+  },
+  {
+    "j": "l'îmbécile",
+    "e": "imbecile",
+    "k": "limbecile",
+    "f": "imbecile"
+  },
+  {
+    "j": "l'împrînm'thie",
+    "e": "printing",
+    "k": "limprinmthie",
+    "f": "printing"
+  },
+  {
+    "j": "l'împrînmeux",
+    "e": "printer",
+    "k": "limprinmeux",
+    "f": "printer"
+  },
+  {
+    "j": "l'înconnu",
+    "e": "stranger",
+    "k": "linconnu",
+    "f": "stranger"
+  },
+  {
+    "j": "l'îndividu",
+    "e": "individual",
+    "k": "lindividu",
+    "f": "individual"
+  },
+  {
+    "j": "l'înginnieux",
+    "e": "engineer",
+    "k": "linginnieux",
+    "f": "engineer"
+  },
+  {
+    "j": "l'îngnot",
+    "e": "ignoramus",
+    "k": "lingnot",
+    "f": "ignoramus"
+  },
+  {
+    "j": "l'înjecteux",
+    "e": "injector",
+    "k": "linjecteux",
+    "f": "injector"
+  },
+  {
+    "j": "l'înjection",
+    "e": "injection",
+    "k": "linjection",
+    "f": "injection"
+  },
+  {
+    "j": "l'înmeubl'ye",
+    "e": "building",
+    "k": "linmeublye",
+    "f": "building"
+  },
+  {
+    "j": "l'înmigrant",
+    "e": "immigrant",
+    "k": "linmigrant",
+    "f": "immigrant"
+  },
+  {
+    "j": "l'înnotchulâtion",
+    "e": "innoculation",
+    "k": "linnotchulation",
+    "f": "innoculation"
+  },
+  {
+    "j": "l'însensé",
+    "e": "mad person",
+    "k": "linsense",
+    "f": "madperson"
+  },
+  {
+    "j": "l'înspecteux",
+    "e": "inspector",
+    "k": "linspecteux",
+    "f": "inspector"
+  },
+  {
+    "j": "l'înternet",
+    "e": "internet",
+    "k": "linternet",
+    "f": "internet"
+  },
+  {
+    "j": "l'întèrprète",
+    "e": "interpreter",
+    "k": "linterprete",
+    "f": "interpreter"
+  },
+  {
+    "j": "l'întethêt",
+    "e": "interest",
+    "k": "lintethet",
+    "f": "interest"
+  },
+  {
+    "j": "l'întroducteur",
+    "e": "introducer",
+    "k": "lintroducteur",
+    "f": "introducer"
+  },
+  {
+    "j": "l'întrus",
+    "e": "intruder",
+    "k": "lintrus",
+    "f": "intruder"
+  },
+  {
+    "j": "l'învâsion",
+    "e": "invasion",
+    "k": "linvasion",
+    "f": "invasion"
+  },
+  {
+    "j": "l'înventeux",
+    "e": "inventor",
+    "k": "linventeux",
+    "f": "inventor"
+  },
+  {
+    "j": "l'învité",
+    "e": "guest",
+    "k": "linvite",
+    "f": "guest"
+  },
+  {
+    "j": "l'ithangnie",
+    "e": "cobweb, the web",
+    "k": "lithangnie",
+    "f": "cobweb,theweb"
+  },
+  {
+    "j": "l'ivrouongn'nie",
+    "e": "drunkenness",
+    "k": "livrouongnnie",
+    "f": "drunkenness"
+  },
+  {
+    "j": "l'maréchal",
+    "e": "field marshal",
+    "k": "lmarechal",
+    "f": "fieldmarshal"
+  },
+  {
+    "j": "l'minnistre dêssèrvant",
+    "e": "priest-in-charge",
+    "k": "lminnistredesservant",
+    "f": "priestincharge"
+  },
+  {
+    "j": "l'moniteu",
+    "e": "monitor",
+    "k": "lmoniteu",
+    "f": "monitor"
+  },
+  {
+    "j": "l'mouoyen âge",
+    "e": "middle ages",
+    "k": "lmouoyenage",
+    "f": "middleages"
+  },
+  {
+    "j": "l'noeud papillote",
+    "e": "bow tie",
+    "k": "lnoeudpapillote",
+    "f": "bowtie"
+  },
+  {
+    "j": "l'océan",
+    "e": "ocean",
+    "k": "locean",
+    "f": "ocean"
+  },
+  {
+    "j": "l'océan atlantique",
+    "e": "atlantic ocean",
+    "k": "loceanatlantique",
+    "f": "atlanticocean"
+  },
+  {
+    "j": "l'océan îndgien",
+    "e": "indian ocean",
+    "k": "loceanindgien",
+    "f": "indianocean"
+  },
+  {
+    "j": "l'océan pacifique",
+    "e": "pacific ocean",
+    "k": "loceanpacifique",
+    "f": "pacificocean"
+  },
+  {
+    "j": "l'oeu",
+    "e": "egg",
+    "k": "loeu",
+    "f": "egg"
+  },
+  {
+    "j": "l'oeuvre",
+    "e": "knitting",
+    "k": "loeuvre",
+    "f": "knitting"
+  },
+  {
+    "j": "l'office",
+    "e": "office",
+    "k": "loffice",
+    "f": "office"
+  },
+  {
+    "j": "l'offici",
+    "e": "officer",
+    "k": "loffici",
+    "f": "officer"
+  },
+  {
+    "j": "l'offici d'connêtabl'ye",
+    "e": "constable's officer",
+    "k": "lofficidconnetablye",
+    "f": "constablesofficer"
+  },
+  {
+    "j": "l'oncl'ye",
+    "e": "uncle",
+    "k": "lonclye",
+    "f": "uncle"
+  },
+  {
+    "j": "l'ongl'ye",
+    "e": "nail",
+    "k": "longlye",
+    "f": "nail"
+  },
+  {
+    "j": "l'onguent",
+    "e": "ointment",
+    "k": "longuent",
+    "f": "ointment"
+  },
+  {
+    "j": "l'opinnion",
+    "e": "opinion",
+    "k": "lopinnion",
+    "f": "opinion"
+  },
+  {
+    "j": "l'opposition",
+    "e": "opposition",
+    "k": "lopposition",
+    "f": "opposition"
+  },
+  {
+    "j": "l'opticien",
+    "e": "optician",
+    "k": "lopticien",
+    "f": "optician"
+  },
+  {
+    "j": "l'orâge",
+    "e": "thunder",
+    "k": "lorage",
+    "f": "thunder"
+  },
+  {
+    "j": "l'ôrage a clièrgi l'temps",
+    "e": "the thunder has cleared the weather",
+    "k": "lorageacliergiltemps",
+    "f": "thethunderhasclearedtheweather"
+  },
+  {
+    "j": "l'orateur",
+    "e": "orator",
+    "k": "lorateur",
+    "f": "orator"
+  },
+  {
+    "j": "l'ordinnateu",
+    "e": "computer",
+    "k": "lordinnateu",
+    "f": "computer"
+  },
+  {
+    "j": "l'ordre",
+    "e": "order",
+    "k": "lordre",
+    "f": "order"
+  },
+  {
+    "j": "l'organiste",
+    "e": "organist",
+    "k": "lorganiste",
+    "f": "organist"
+  },
+  {
+    "j": "l'orgue",
+    "e": "organ",
+    "k": "lorgue",
+    "f": "organ"
+  },
+  {
+    "j": "l'orîngna",
+    "e": "moose",
+    "k": "loringna",
+    "f": "moose"
+  },
+  {
+    "j": "l'orphélîn",
+    "e": "orphan",
+    "k": "lorphelin",
+    "f": "orphan"
+  },
+  {
+    "j": "l'orvet",
+    "e": "blind worm",
+    "k": "lorvet",
+    "f": "blindworm"
+  },
+  {
+    "j": "l'os",
+    "e": "bone",
+    "k": "los",
+    "f": "bone"
+  },
+  {
+    "j": "l'otchuliste",
+    "e": "oculist",
+    "k": "lotchuliste",
+    "f": "oculist"
+  },
+  {
+    "j": "l'otchupant",
+    "e": "occupier",
+    "k": "lotchupant",
+    "f": "occupier"
+  },
+  {
+    "j": "l'otchupâtion",
+    "e": "the occupation",
+    "k": "lotchupation",
+    "f": "theoccupation"
+  },
+  {
+    "j": "l'ouadgîn",
+    "e": "truck",
+    "k": "louadgin",
+    "f": "truck"
+  },
+  {
+    "j": "l'ouaîrage, lé vârage",
+    "e": "flotsam and jetsam",
+    "k": "louairage,levarage",
+    "f": "flotsamandjetsam"
+  },
+  {
+    "j": "l'ouaîsé du r'nouvé",
+    "e": "wryneck",
+    "k": "louaisedurnouve",
+    "f": "wryneck"
+  },
+  {
+    "j": "l'ouaiyou",
+    "e": "hooligan",
+    "k": "louaiyou",
+    "f": "hooligan"
+  },
+  {
+    "j": "l'ouïe d'l'us",
+    "e": "peephole (in door)",
+    "k": "louiedlus",
+    "f": "peephole(indoor)"
+  },
+  {
+    "j": "l'ouognon",
+    "e": "onion",
+    "k": "louognon",
+    "f": "onion"
+  },
+  {
+    "j": "l'ouôlet",
+    "e": "hem",
+    "k": "louolet",
+    "f": "hem"
+  },
+  {
+    "j": "l'ouôlet, l'ouôlîn",
+    "e": "hem",
+    "k": "louolet,louolin",
+    "f": "hem"
+  },
+  {
+    "j": "l'ouongnon",
+    "e": "onion",
+    "k": "louongnon",
+    "f": "onion"
+  },
+  {
+    "j": "l'ouothilyi",
+    "e": "pillow",
+    "k": "louothilyi",
+    "f": "pillow"
+  },
+  {
+    "j": "l'ouotho",
+    "e": "playful spirit, werewolf",
+    "k": "louotho",
+    "f": "playfulspirit,werewolf"
+  },
+  {
+    "j": "l'ours",
+    "e": "bear",
+    "k": "lours",
+    "f": "bear"
+  },
+  {
+    "j": "l'oursas",
+    "e": "bilge-channel",
+    "k": "loursas",
+    "f": "bilgechannel"
+  },
+  {
+    "j": "l'ouvriyi",
+    "e": "worker",
+    "k": "louvriyi",
+    "f": "worker"
+  },
+  {
+    "j": "l'paîvre",
+    "e": "pepper",
+    "k": "lpaivre",
+    "f": "pepper"
+  },
+  {
+    "j": "l'pâssé",
+    "e": "past",
+    "k": "lpasse",
+    "f": "past"
+  },
+  {
+    "j": "l's ahans",
+    "e": "aches and pains",
+    "k": "lsahans",
+    "f": "achesandpains"
+  },
+  {
+    "j": "l's alpes",
+    "e": "the alps",
+    "k": "lsalpes",
+    "f": "thealps"
+  },
+  {
+    "j": "l's annonces",
+    "e": "banns",
+    "k": "lsannonces",
+    "f": "banns"
+  },
+  {
+    "j": "l's apparténances",
+    "e": "outhouses",
+    "k": "lsappartenances",
+    "f": "outhouses"
+  },
+  {
+    "j": "l's arriéthages",
+    "e": "arrears",
+    "k": "lsarriethages",
+    "f": "arrears"
+  },
+  {
+    "j": "l's assiettes",
+    "e": "plates, the round stones",
+    "k": "lsassiettes",
+    "f": "plates,theroundstones"
+  },
+  {
+    "j": "l's aubes",
+    "e": "propeller",
+    "k": "lsaubes",
+    "f": "propeller"
+  },
+  {
+    "j": "l's êclons",
+    "e": "hay ladders",
+    "k": "lseclons",
+    "f": "hayladders"
+  },
+  {
+    "j": "l's êcouards",
+    "e": "rear uprights",
+    "k": "lsecouards",
+    "f": "rearuprights"
+  },
+  {
+    "j": "l's êpées",
+    "e": "stanchions",
+    "k": "lsepees",
+    "f": "stanchions"
+  },
+  {
+    "j": "l's êpices",
+    "e": "spices",
+    "k": "lsepices",
+    "f": "spices"
+  },
+  {
+    "j": "l's estrandes",
+    "e": "vraic",
+    "k": "lsestrandes",
+    "f": "vraic"
+  },
+  {
+    "j": "l's êtats d'jèrri",
+    "e": "states of jersey",
+    "k": "lsetatsdjerri",
+    "f": "statesofjersey"
+  },
+  {
+    "j": "l's êtouailes dé tèrre",
+    "e": "starflower, winter-green",
+    "k": "lsetouailesdeterre",
+    "f": "starflower,wintergreen"
+  },
+  {
+    "j": "l's êtudes èrligieuses",
+    "e": "religious studies",
+    "k": "lsetudeserligieuses",
+    "f": "religiousstudies"
+  },
+  {
+    "j": "l's habits dé d'ssous, lé lînge dé corps, lé lînge dé d'ssous",
+    "e": "underwear",
+    "k": "lshabitsdedssous,lelingedecorps,lelingededssous",
+    "f": "underwear"
+  },
+  {
+    "j": "l's hèrbes",
+    "e": "herbs",
+    "k": "lsherbes",
+    "f": "herbs"
+  },
+  {
+    "j": "l's hèrpies",
+    "e": "herpes",
+    "k": "lsherpies",
+    "f": "herpes"
+  },
+  {
+    "j": "l's heuthes d'ouvèrtuthe",
+    "e": "opening hours",
+    "k": "lsheuthesdouvertuthe",
+    "f": "openinghours"
+  },
+  {
+    "j": "l's îles du vent",
+    "e": "windward isles",
+    "k": "lsilesduvent",
+    "f": "windwardisles"
+  },
+  {
+    "j": "l's îles souos l'vent",
+    "e": "leeward isles",
+    "k": "lsilessouoslvent",
+    "f": "leewardisles"
+  },
+  {
+    "j": "l's offices",
+    "e": "outhouses",
+    "k": "lsoffices",
+    "f": "outhouses"
+  },
+  {
+    "j": "l's ortés",
+    "e": "toes",
+    "k": "lsortes",
+    "f": "toes"
+  },
+  {
+    "j": "l's ouothelles d'eune arche",
+    "e": "shoulder stones",
+    "k": "lsouothellesdeunearche",
+    "f": "shoulderstones"
+  },
+  {
+    "j": "l's ouothipieaux",
+    "e": "mumps",
+    "k": "lsouothipieaux",
+    "f": "mumps"
+  },
+  {
+    "j": "l'sang d'navet",
+    "e": "anaemia",
+    "k": "lsangdnavet",
+    "f": "anaemia"
+  },
+  {
+    "j": "l'sang porté à la tête",
+    "e": "blood pressure",
+    "k": "lsangportealatete",
+    "f": "bloodpressure"
+  },
+  {
+    "j": "l'solé",
+    "e": "sun",
+    "k": "lsole",
+    "f": "sun"
+  },
+  {
+    "j": "l'ulcéthe",
+    "e": "ulcer",
+    "k": "lulcethe",
+    "f": "ulcer"
+  },
+  {
+    "j": "l'unniforme",
+    "e": "uniform",
+    "k": "lunniforme",
+    "f": "uniform"
+  },
+  {
+    "j": "l'unniforme d'êcole",
+    "e": "school uniform",
+    "k": "lunniformedecole",
+    "f": "schooluniform"
+  },
+  {
+    "j": "l'unnivèrsité",
+    "e": "university",
+    "k": "lunniversite",
+    "f": "university"
+  },
+  {
+    "j": "l'urne du scrutîn",
+    "e": "ballot box",
+    "k": "lurneduscrutin",
+    "f": "ballotbox"
+  },
+  {
+    "j": "l'usage",
+    "e": "usage",
+    "k": "lusage",
+    "f": "usage"
+  },
+  {
+    "j": "l'uss'sie",
+    "e": "doorway",
+    "k": "lusssie",
+    "f": "doorway"
+  },
+  {
+    "j": "l'vent a tchée à ces sé",
+    "e": "the wind has fallen this evening",
+    "k": "lventatcheeacesse",
+    "f": "thewindhasfallenthisevening"
+  },
+  {
+    "j": "l'ver l'coute",
+    "e": "to drink heavily",
+    "k": "lverlcoute",
+    "f": "todrinkheavily"
+  },
+  {
+    "j": "l'veste",
+    "e": "waistcoat",
+    "k": "lveste",
+    "f": "waistcoat"
+  },
+  {
+    "j": "la b'lette",
+    "e": "stoat",
+    "k": "lablette",
+    "f": "stoat"
+  },
+  {
+    "j": "la bague",
+    "e": "ring",
+    "k": "labague",
+    "f": "ring"
   },
   {
     "j": "la bague dé fianchailles, la bague d'engagement",
@@ -12058,12 +16186,6 @@ export const vocabData = [
     "e": "wedding ring",
     "k": "labaguedeneuches",
     "f": "weddingring"
-  },
-  {
-    "j": "la bague",
-    "e": "ring",
-    "k": "labague",
-    "f": "ring"
   },
   {
     "j": "la baie",
@@ -12088,6 +16210,12 @@ export const vocabData = [
     "e": "balustrade",
     "k": "labalustrade",
     "f": "balustrade"
+  },
+  {
+    "j": "la ban'se",
+    "e": "bun",
+    "k": "labanse",
+    "f": "bun"
   },
   {
     "j": "la banane",
@@ -12120,12 +16248,6 @@ export const vocabData = [
     "f": "bankruptcy"
   },
   {
-    "j": "la ban'se",
-    "e": "bun",
-    "k": "labanse",
-    "f": "bun"
-  },
-  {
     "j": "la bantchie",
     "e": "hedge",
     "k": "labantchie",
@@ -12139,19 +16261,13 @@ export const vocabData = [
   },
   {
     "j": "la barbe",
-    "e": "beard",
+    "e": "eaves, beard",
     "k": "labarbe",
-    "f": "beard"
-  },
-  {
-    "j": "la barbe",
-    "e": "eaves",
-    "k": "labarbe",
-    "f": "eaves"
+    "f": "eaves,beard"
   },
   {
     "j": "la baronmette ès pouôrres gens, la piprénelle, lé mouéthon",
-    "e": "Scarlet Pimpernel",
+    "e": "scarlet pimpernel",
     "k": "labaronmetteespouorresgens,lapiprenelle,lemouethon",
     "f": "scarletpimpernel"
   },
@@ -12163,15 +16279,9 @@ export const vocabData = [
   },
   {
     "j": "la barre",
-    "e": "helm",
+    "e": "reef, helm",
     "k": "labarre",
-    "f": "helm"
-  },
-  {
-    "j": "la barre",
-    "e": "reef",
-    "k": "labarre",
-    "f": "reef"
+    "f": "reef,helm"
   },
   {
     "j": "la barrique à cidre",
@@ -12186,46 +16296,34 @@ export const vocabData = [
     "f": "themanurebarrel"
   },
   {
+    "j": "la bâsse",
+    "e": "skirting, bass",
+    "k": "labasse",
+    "f": "skirting,bass"
+  },
+  {
     "j": "la bâsse dé viole",
     "e": "cello",
     "k": "labassedeviole",
     "f": "cello"
   },
   {
-    "j": "la bâsse",
-    "e": "bass",
-    "k": "labasse",
-    "f": "bass"
-  },
-  {
-    "j": "la bâsse",
-    "e": "skirting",
-    "k": "labasse",
-    "f": "skirting"
-  },
-  {
     "j": "la batâle",
     "e": "battle",
     "k": "labatale",
     "f": "battle"
   },
   {
-    "j": "la Batâle dé Hastings",
-    "e": "Battle of Hastings",
+    "j": "la batâle dé hastings",
+    "e": "battle of hastings",
     "k": "labataledehastings",
     "f": "battleofhastings"
   },
   {
-    "j": "la Batâle dé Jèrri",
-    "e": "Battle of Jersey",
+    "j": "la batâle dé jèrri",
+    "e": "battle of jersey",
     "k": "labataledejerri",
     "f": "battleofjersey"
-  },
-  {
-    "j": "la batâle",
-    "e": "battle",
-    "k": "labatale",
-    "f": "battle"
   },
   {
     "j": "la bathette",
@@ -12234,16 +16332,16 @@ export const vocabData = [
     "f": "butterchurn"
   },
   {
-    "j": "la batt'tie d'tchuîsinne",
-    "e": "kitchen utensils",
-    "k": "labatttiedtchuisinne",
-    "f": "kitchenutensils"
-  },
-  {
     "j": "la batt'tie",
     "e": "battery",
     "k": "labatttie",
     "f": "battery"
+  },
+  {
+    "j": "la batt'tie d'tchuîsinne",
+    "e": "kitchen utensils",
+    "k": "labatttiedtchuisinne",
+    "f": "kitchenutensils"
   },
   {
     "j": "la bav'thette",
@@ -12300,6 +16398,12 @@ export const vocabData = [
     "f": "lullaby"
   },
   {
+    "j": "la bète",
+    "e": "bait",
+    "k": "labete",
+    "f": "bait"
+  },
+  {
     "j": "la bête à chent pids",
     "e": "centipede",
     "k": "labeteachentpids",
@@ -12310,12 +16414,6 @@ export const vocabData = [
     "e": "pig",
     "k": "labeteasaie",
     "f": "pig"
-  },
-  {
-    "j": "la bète",
-    "e": "bait",
-    "k": "labete",
-    "f": "bait"
   },
   {
     "j": "la béthie",
@@ -12348,22 +16446,16 @@ export const vocabData = [
     "f": "busking"
   },
   {
-    "j": "la bibliothèque",
-    "e": "bookcase",
-    "k": "labibliotheque",
-    "f": "bookcase"
-  },
-  {
-    "j": "la bibliothèque",
-    "e": "library",
-    "k": "labibliotheque",
-    "f": "library"
-  },
-  {
-    "j": "la Bibl'ye",
-    "e": "Bible",
+    "j": "la bibl'ye",
+    "e": "bible",
     "k": "labiblye",
     "f": "bible"
+  },
+  {
+    "j": "la bibliothèque",
+    "e": "library, bookcase",
+    "k": "labibliotheque",
+    "f": "library,bookcase"
   },
   {
     "j": "la biche",
@@ -12394,12 +16486,6 @@ export const vocabData = [
     "e": "bison",
     "k": "labison",
     "f": "bison"
-  },
-  {
-    "j": "la b'lette",
-    "e": "stoat",
-    "k": "lablette",
-    "f": "stoat"
   },
   {
     "j": "la blianche danme",
@@ -12433,15 +16519,9 @@ export const vocabData = [
   },
   {
     "j": "la bliouque",
-    "e": "bow",
+    "e": "buckle, bow",
     "k": "labliouque",
-    "f": "bow"
-  },
-  {
-    "j": "la bliouque",
-    "e": "buckle",
-    "k": "labliouque",
-    "f": "buckle"
+    "f": "buckle,bow"
   },
   {
     "j": "la blouse, la c'mînsole dé molleton",
@@ -12504,16 +16584,16 @@ export const vocabData = [
     "f": "drunkenness"
   },
   {
-    "j": "la boucl'ye dé bouton",
-    "e": "nipple ring",
-    "k": "labouclyedebouton",
-    "f": "nipplering"
-  },
-  {
     "j": "la boucl'ye d'ouothelle",
     "e": "earring",
     "k": "labouclyedouothelle",
     "f": "earring"
+  },
+  {
+    "j": "la boucl'ye dé bouton",
+    "e": "nipple ring",
+    "k": "labouclyedebouton",
+    "f": "nipplering"
   },
   {
     "j": "la boue",
@@ -12576,6 +16656,18 @@ export const vocabData = [
     "f": "cowdung"
   },
   {
+    "j": "la boutiqu'sie",
+    "e": "shopping",
+    "k": "laboutiqusie",
+    "f": "shopping"
+  },
+  {
+    "j": "la boutique",
+    "e": "shop",
+    "k": "laboutique",
+    "f": "shop"
+  },
+  {
     "j": "la boutique à bottes",
     "e": "shoe shop",
     "k": "laboutiqueabottes",
@@ -12606,16 +16698,10 @@ export const vocabData = [
     "f": "clothesshop"
   },
   {
-    "j": "la boutique",
-    "e": "shop",
-    "k": "laboutique",
-    "f": "shop"
-  },
-  {
-    "j": "la boutiqu'sie",
-    "e": "shopping",
-    "k": "laboutiqusie",
-    "f": "shopping"
+    "j": "la boutiqu’sie en lîngne",
+    "e": "online shopping",
+    "k": "laboutiqusieenlingne",
+    "f": "onlineshopping"
   },
   {
     "j": "la boutonniéthe",
@@ -12660,16 +16746,16 @@ export const vocabData = [
     "f": "brig"
   },
   {
-    "j": "la brînge à main",
-    "e": "brush",
-    "k": "labringeamain",
-    "f": "brush"
-  },
-  {
     "j": "la brînge",
     "e": "broom",
     "k": "labringe",
     "f": "broom"
+  },
+  {
+    "j": "la brînge à main",
+    "e": "brush",
+    "k": "labringeamain",
+    "f": "brush"
   },
   {
     "j": "la brique",
@@ -12700,6 +16786,18 @@ export const vocabData = [
     "e": "hillock",
     "k": "labutchiethe",
     "f": "hillock"
+  },
+  {
+    "j": "la c'mînse",
+    "e": "shirt",
+    "k": "lacminse",
+    "f": "shirt"
+  },
+  {
+    "j": "la c'mînsole",
+    "e": "nightshirt, nightie",
+    "k": "lacminsole",
+    "f": "nightshirt,nightie"
   },
   {
     "j": "la cabanne",
@@ -12786,8 +16884,8 @@ export const vocabData = [
     "f": "cinnamon"
   },
   {
-    "j": "la Cannitchule",
-    "e": "Dog Star",
+    "j": "la cannitchule",
+    "e": "dog star",
     "k": "lacannitchule",
     "f": "dogstar"
   },
@@ -12834,22 +16932,22 @@ export const vocabData = [
     "f": "ray"
   },
   {
+    "j": "la carte d'valentinne",
+    "e": "valentine card",
+    "k": "lacartedvalentinne",
+    "f": "valentinecard"
+  },
+  {
     "j": "la carte dé crédit",
     "e": "credit card",
     "k": "lacartedecredit",
     "f": "creditcard"
   },
   {
-    "j": "la carte dé Noué",
-    "e": "Christmas card",
+    "j": "la carte dé noué",
+    "e": "christmas card",
     "k": "lacartedenoue",
     "f": "christmascard"
-  },
-  {
-    "j": "la carte d'Valentinne",
-    "e": "Valentine card",
-    "k": "lacartedvalentinne",
-    "f": "valentinecard"
   },
   {
     "j": "la carte postale",
@@ -12858,16 +16956,16 @@ export const vocabData = [
     "f": "postcard"
   },
   {
-    "j": "la câsaque à coue d'héthonde",
-    "e": "tail coat",
-    "k": "lacasaqueacouedhethonde",
-    "f": "tailcoat"
-  },
-  {
     "j": "la câsaque",
     "e": "coat",
     "k": "lacasaque",
     "f": "coat"
+  },
+  {
+    "j": "la câsaque à coue d'héthonde",
+    "e": "tail coat",
+    "k": "lacasaqueacouedhethonde",
+    "f": "tailcoat"
   },
   {
     "j": "la câsse",
@@ -12912,28 +17010,16 @@ export const vocabData = [
     "f": "tigermothcaterpillar"
   },
   {
-    "j": "la cauche dé Noué",
-    "e": "Christmas stocking",
+    "j": "la cauche dé noué",
+    "e": "christmas stocking",
     "k": "lacauchedenoue",
     "f": "christmasstocking"
   },
   {
     "j": "la caûchie",
-    "e": "breakwater",
+    "e": "jetty, harbour, breakwater",
     "k": "lacauchie",
-    "f": "breakwater"
-  },
-  {
-    "j": "la caûchie",
-    "e": "harbour",
-    "k": "lacauchie",
-    "f": "harbour"
-  },
-  {
-    "j": "la caûchie",
-    "e": "jetty",
-    "k": "lacauchie",
-    "f": "jetty"
+    "f": "jetty,harbour,breakwater"
   },
   {
     "j": "la caûmiéthe",
@@ -12961,15 +17047,9 @@ export const vocabData = [
   },
   {
     "j": "la cave",
-    "e": "cave",
+    "e": "cellar, cave",
     "k": "lacave",
-    "f": "cave"
-  },
-  {
-    "j": "la cave",
-    "e": "cellar",
-    "k": "lacave",
-    "f": "cellar"
+    "f": "cellar,cave"
   },
   {
     "j": "la ceingl'ye",
@@ -13027,13 +17107,13 @@ export const vocabData = [
   },
   {
     "j": "la charmille",
-    "e": "Hornbeam",
+    "e": "hornbeam",
     "k": "lacharmille",
     "f": "hornbeam"
   },
   {
     "j": "la chaûdgiéthe",
-    "e": "boiler (Jersey cooking)",
+    "e": "boiler (jersey cooking)",
     "k": "lachaudgiethe",
     "f": "boiler(jerseycooking)"
   },
@@ -13044,16 +17124,16 @@ export const vocabData = [
     "f": "sock"
   },
   {
-    "j": "la cheintuthe au dgiâbl'ye",
-    "e": "shingles",
-    "k": "lacheintutheaudgiablye",
-    "f": "shingles"
-  },
-  {
     "j": "la cheintuthe",
     "e": "belt",
     "k": "lacheintuthe",
     "f": "belt"
+  },
+  {
+    "j": "la cheintuthe au dgiâbl'ye",
+    "e": "shingles",
+    "k": "lacheintutheaudgiablye",
+    "f": "shingles"
   },
   {
     "j": "la chèrch'rêsse",
@@ -13099,27 +17179,15 @@ export const vocabData = [
   },
   {
     "j": "la chiviéthe",
-    "e": "the wheelbarrow",
+    "e": "wheelbarrow, the wheelbarrow",
     "k": "lachiviethe",
-    "f": "thewheelbarrow"
+    "f": "wheelbarrow,thewheelbarrow"
   },
   {
     "j": "la chiviéthe à bras",
-    "e": "stretcher",
+    "e": "the handbarrow, stretcher",
     "k": "lachivietheabras",
-    "f": "stretcher"
-  },
-  {
-    "j": "la chiviéthe à bras",
-    "e": "the handbarrow",
-    "k": "lachivietheabras",
-    "f": "thehandbarrow"
-  },
-  {
-    "j": "la chiviéthe",
-    "e": "wheelbarrow",
-    "k": "lachiviethe",
-    "f": "wheelbarrow"
+    "f": "thehandbarrow,stretcher"
   },
   {
     "j": "la chorchell'lie",
@@ -13129,7 +17197,7 @@ export const vocabData = [
   },
   {
     "j": "la chrêtchienneté",
-    "e": "Christianity",
+    "e": "christianity",
     "k": "lachretchiennete",
     "f": "christianity"
   },
@@ -13180,24 +17248,6 @@ export const vocabData = [
     "e": "blinking",
     "k": "laclyinntethie",
     "f": "blinking"
-  },
-  {
-    "j": "la c'mînse",
-    "e": "shirt",
-    "k": "lacminse",
-    "f": "shirt"
-  },
-  {
-    "j": "la c'mînsole",
-    "e": "nightie",
-    "k": "lacminsole",
-    "f": "nightie"
-  },
-  {
-    "j": "la c'mînsole",
-    "e": "nightshirt",
-    "k": "lacminsole",
-    "f": "nightshirt"
   },
   {
     "j": "la cocangne",
@@ -13291,7 +17341,7 @@ export const vocabData = [
   },
   {
     "j": "la conseunmtion",
-    "e": "TB",
+    "e": "tb",
     "k": "laconseunmtion",
     "f": "tb"
   },
@@ -13302,14 +17352,14 @@ export const vocabData = [
     "f": "constipation"
   },
   {
-    "j": "la Constitution",
+    "j": "la constitution",
     "e": "constitution",
     "k": "laconstitution",
     "f": "constitution"
   },
   {
-    "j": "la Contchête",
-    "e": "the Conquest",
+    "j": "la contchête",
+    "e": "the conquest",
     "k": "lacontchete",
     "f": "theconquest"
   },
@@ -13369,33 +17419,15 @@ export const vocabData = [
   },
   {
     "j": "la côte",
-    "e": "coast",
+    "e": "rib, gaspé, coast",
     "k": "lacote",
-    "f": "coast"
-  },
-  {
-    "j": "La Côte",
-    "e": "Gaspé",
-    "k": "lacote",
-    "f": "gaspe"
-  },
-  {
-    "j": "la côte",
-    "e": "rib",
-    "k": "lacote",
-    "f": "rib"
+    "f": "rib,gaspe,coast"
   },
   {
     "j": "la côtelette",
-    "e": "chop",
+    "e": "cutlet, chop",
     "k": "lacotelette",
-    "f": "chop"
-  },
-  {
-    "j": "la côtelette",
-    "e": "cutlet",
-    "k": "lacotelette",
-    "f": "cutlet"
+    "f": "cutlet,chop"
   },
   {
     "j": "la cotelle, lé cotillon",
@@ -13405,21 +17437,15 @@ export const vocabData = [
   },
   {
     "j": "la cotonniéthe",
-    "e": "Jersey Cudweed",
+    "e": "jersey cudweed",
     "k": "lacotonniethe",
     "f": "jerseycudweed"
   },
   {
     "j": "la cotte",
-    "e": "pigsty",
+    "e": "cave, pigsty",
     "k": "lacotte",
-    "f": "pigsty"
-  },
-  {
-    "j": "la cotte",
-    "e": "cave",
-    "k": "lacotte",
-    "f": "cave"
+    "f": "cave,pigsty"
   },
   {
     "j": "la couche",
@@ -13452,16 +17478,16 @@ export const vocabData = [
     "f": "crackling"
   },
   {
-    "j": "la couleu",
-    "e": "flag",
-    "k": "lacouleu",
-    "f": "flag"
-  },
-  {
     "j": "la coul'rêsse",
     "e": "colander",
     "k": "lacoulresse",
     "f": "colander"
+  },
+  {
+    "j": "la couleu",
+    "e": "flag",
+    "k": "lacouleu",
+    "f": "flag"
   },
   {
     "j": "la couoche",
@@ -13477,15 +17503,9 @@ export const vocabData = [
   },
   {
     "j": "la couôtuthe",
-    "e": "scar",
+    "e": "needlework, scar",
     "k": "lacouotuthe",
-    "f": "scar"
-  },
-  {
-    "j": "la couôtuthe",
-    "e": "needlework",
-    "k": "lacouotuthe",
-    "f": "needlework"
+    "f": "needlework,scar"
   },
   {
     "j": "la couôtuthiéthe",
@@ -13500,16 +17520,16 @@ export const vocabData = [
     "f": "chalice"
   },
   {
-    "j": "la Cour Rouoyale",
-    "e": "the Royal Court",
-    "k": "lacourrouoyale",
-    "f": "theroyalcourt"
-  },
-  {
     "j": "la cour",
     "e": "court",
     "k": "lacour",
     "f": "court"
+  },
+  {
+    "j": "la cour rouoyale",
+    "e": "the royal court",
+    "k": "lacourrouoyale",
+    "f": "theroyalcourt"
   },
   {
     "j": "la courge, lé m'lon",
@@ -13644,22 +17664,40 @@ export const vocabData = [
     "f": "shell"
   },
   {
+    "j": "la d'fense",
+    "e": "defence",
+    "k": "ladfense",
+    "f": "defence"
+  },
+  {
+    "j": "la d'mié-r'traite",
+    "e": "half-ebb",
+    "k": "ladmiertraite",
+    "f": "halfebb"
+  },
+  {
+    "j": "la d'mié-soeu",
+    "e": "half-sister, stepsister",
+    "k": "ladmiesoeu",
+    "f": "halfsister,stepsister"
+  },
+  {
+    "j": "la d'vantuthe",
+    "e": "shop window",
+    "k": "ladvantuthe",
+    "f": "shopwindow"
+  },
+  {
+    "j": "la danme",
+    "e": "queen, lady",
+    "k": "ladanme",
+    "f": "queen,lady"
+  },
+  {
     "j": "la danme dé tchoeu",
     "e": "the queen of hearts",
     "k": "ladanmedetchoeu",
     "f": "thequeenofhearts"
-  },
-  {
-    "j": "la danme",
-    "e": "lady",
-    "k": "ladanme",
-    "f": "lady"
-  },
-  {
-    "j": "la danme",
-    "e": "queen",
-    "k": "ladanme",
-    "f": "queen"
   },
   {
     "j": "la dêdgèrpie",
@@ -13686,22 +17724,16 @@ export const vocabData = [
     "f": "gums"
   },
   {
-    "j": "la dent d'sagesse",
-    "e": "wisdom tooth",
-    "k": "ladentdsagesse",
-    "f": "wisdomtooth"
-  },
-  {
     "j": "la dent",
     "e": "tooth",
     "k": "ladent",
     "f": "tooth"
   },
   {
-    "j": "la dêpense",
-    "e": "spending",
-    "k": "ladepense",
-    "f": "spending"
+    "j": "la dent d'sagesse",
+    "e": "wisdom tooth",
+    "k": "ladentdsagesse",
+    "f": "wisdomtooth"
   },
   {
     "j": "la dêpens'sie",
@@ -13710,8 +17742,14 @@ export const vocabData = [
     "f": "spending"
   },
   {
-    "j": "la Dêroute",
-    "e": "Déroute",
+    "j": "la dêpense",
+    "e": "spending",
+    "k": "ladepense",
+    "f": "spending"
+  },
+  {
+    "j": "la dêroute",
+    "e": "déroute",
     "k": "laderoute",
     "f": "deroute"
   },
@@ -13728,16 +17766,10 @@ export const vocabData = [
     "f": "debt"
   },
   {
-    "j": "la Deuxième Dgèrre Mondiale",
-    "e": "Second World War",
+    "j": "la deuxième dgèrre mondiale",
+    "e": "second world war",
     "k": "ladeuxiemedgerremondiale",
     "f": "secondworldwar"
-  },
-  {
-    "j": "la d'fense",
-    "e": "defence",
-    "k": "ladfense",
-    "f": "defence"
   },
   {
     "j": "la dgèrbeuse",
@@ -13752,16 +17784,16 @@ export const vocabData = [
     "f": "garrison"
   },
   {
-    "j": "la Dgèrre Civile",
-    "e": "Civil War",
-    "k": "ladgerrecivile",
-    "f": "civilwar"
-  },
-  {
     "j": "la dgèrre",
     "e": "war",
     "k": "ladgerre",
     "f": "war"
+  },
+  {
+    "j": "la dgèrre civile",
+    "e": "civil war",
+    "k": "ladgerrecivile",
+    "f": "civilwar"
   },
   {
     "j": "la dgèrtchiéthe",
@@ -13824,40 +17856,28 @@ export const vocabData = [
     "f": "discussion"
   },
   {
-    "j": "la distillâtion",
-    "e": "distillation",
-    "k": "ladistillation",
-    "f": "distillation"
-  },
-  {
     "j": "la distil'lie",
     "e": "distillery",
     "k": "ladistillie",
     "f": "distillery"
   },
   {
-    "j": "la d'mié-r'traite",
-    "e": "half-ebb",
-    "k": "ladmiertraite",
-    "f": "halfebb"
-  },
-  {
-    "j": "la d'mié-soeu",
-    "e": "half-sister, stepsister",
-    "k": "ladmiesoeu",
-    "f": "halfsister,stepsister"
-  },
-  {
-    "j": "la doctrinne",
-    "e": "doctrine",
-    "k": "ladoctrinne",
-    "f": "doctrine"
+    "j": "la distillâtion",
+    "e": "distillation",
+    "k": "ladistillation",
+    "f": "distillation"
   },
   {
     "j": "la doctrinn'nie",
     "e": "first aid, self-treatment",
     "k": "ladoctrinnnie",
     "f": "firstaid,selftreatment"
+  },
+  {
+    "j": "la doctrinne",
+    "e": "doctrine",
+    "k": "ladoctrinne",
+    "f": "doctrine"
   },
   {
     "j": "la donzelle",
@@ -13902,16 +17922,16 @@ export const vocabData = [
     "f": "ladle"
   },
   {
-    "j": "la drogue",
-    "e": "drug",
-    "k": "ladrogue",
-    "f": "drug"
-  },
-  {
     "j": "la drogu'thie",
     "e": "drugtaking",
     "k": "ladroguthie",
     "f": "drugtaking"
+  },
+  {
+    "j": "la drogue",
+    "e": "drug",
+    "k": "ladrogue",
+    "f": "drug"
   },
   {
     "j": "la drouaite",
@@ -13926,16 +17946,28 @@ export const vocabData = [
     "f": "duchess"
   },
   {
-    "j": "la d'vantuthe",
-    "e": "shop window",
-    "k": "ladvantuthe",
-    "f": "shopwindow"
-  },
-  {
     "j": "la dysenterie",
     "e": "dysentery",
     "k": "ladysenterie",
     "f": "dysentery"
+  },
+  {
+    "j": "la f'naison",
+    "e": "haymaking",
+    "k": "lafnaison",
+    "f": "haymaking"
+  },
+  {
+    "j": "la f'nêt'",
+    "e": "window",
+    "k": "lafnet",
+    "f": "window"
+  },
+  {
+    "j": "la f'nêt' à mansarde",
+    "e": "dormer window",
+    "k": "lafnetamansarde",
+    "f": "dormerwindow"
   },
   {
     "j": "la fache",
@@ -13962,8 +17994,8 @@ export const vocabData = [
     "f": "shirtfront"
   },
   {
-    "j": "la Fanmil'ye Rouoyale",
-    "e": "the Royal Family",
+    "j": "la fanmil'ye rouoyale",
+    "e": "the royal family",
     "k": "lafanmilyerouoyale",
     "f": "theroyalfamily"
   },
@@ -14034,14 +18066,14 @@ export const vocabData = [
     "f": "buttock"
   },
   {
-    "j": "la Fête dé Noué",
-    "e": "Christmas festival",
+    "j": "la fête dé noué",
+    "e": "christmas festival",
     "k": "lafetedenoue",
     "f": "christmasfestival"
   },
   {
-    "j": "la Fête des Méthes",
-    "e": "Mothers' Day",
+    "j": "la fête des méthes",
+    "e": "mothers' day",
     "k": "lafetedesmethes",
     "f": "mothersday"
   },
@@ -14058,16 +18090,16 @@ export const vocabData = [
     "f": "fiancee"
   },
   {
-    "j": "la fielle dé zîn",
-    "e": "corrugated iron",
-    "k": "lafielledezin",
-    "f": "corrugatediron"
-  },
-  {
     "j": "la fielle",
     "e": "leaf",
     "k": "lafielle",
     "f": "leaf"
+  },
+  {
+    "j": "la fielle dé zîn",
+    "e": "corrugated iron",
+    "k": "lafielledezin",
+    "f": "corrugatediron"
   },
   {
     "j": "la fièvre",
@@ -14094,18 +18126,6 @@ export const vocabData = [
     "f": "ague"
   },
   {
-    "j": "la filieuthe",
-    "e": "goddaughter",
-    "k": "lafilieuthe",
-    "f": "goddaughter"
-  },
-  {
-    "j": "la filieuthe",
-    "e": "goddaughter",
-    "k": "lafilieuthe",
-    "f": "goddaughter"
-  },
-  {
     "j": "la fil'ye d'honneu",
     "e": "bridesmaid",
     "k": "lafilyedhonneu",
@@ -14116,6 +18136,12 @@ export const vocabData = [
     "e": "daughter",
     "k": "lafilye,fille",
     "f": "daughter"
+  },
+  {
+    "j": "la filieuthe",
+    "e": "goddaughter",
+    "k": "lafilieuthe",
+    "f": "goddaughter"
   },
   {
     "j": "la fliandre",
@@ -14137,7 +18163,7 @@ export const vocabData = [
   },
   {
     "j": "la flieur au veuvyi",
-    "e": "Scabious",
+    "e": "scabious",
     "k": "laflieurauveuvyi",
     "f": "scabious"
   },
@@ -14158,24 +18184,6 @@ export const vocabData = [
     "e": "twaite shad",
     "k": "laflyinte",
     "f": "twaiteshad"
-  },
-  {
-    "j": "la f'naison",
-    "e": "haymaking",
-    "k": "lafnaison",
-    "f": "haymaking"
-  },
-  {
-    "j": "la f'nêt' à mansarde",
-    "e": "dormer window",
-    "k": "lafnetamansarde",
-    "f": "dormerwindow"
-  },
-  {
-    "j": "la f'nêt'",
-    "e": "window",
-    "k": "lafnet",
-    "f": "window"
   },
   {
     "j": "la folle",
@@ -14262,8 +18270,8 @@ export const vocabData = [
     "f": "fork"
   },
   {
-    "j": "la Fraide Dgèrre",
-    "e": "Cold War",
+    "j": "la fraide dgèrre",
+    "e": "cold war",
     "k": "lafraidedgerre",
     "f": "coldwar"
   },
@@ -14328,6 +18336,24 @@ export const vocabData = [
     "f": "thevraicfork"
   },
   {
+    "j": "la g'linne",
+    "e": "hen",
+    "k": "laglinne",
+    "f": "hen"
+  },
+  {
+    "j": "la g'vil'ye",
+    "e": "ankle",
+    "k": "lagvilye",
+    "f": "ankle"
+  },
+  {
+    "j": "la gâche",
+    "e": "cake",
+    "k": "lagache",
+    "f": "cake"
+  },
+  {
     "j": "la gâche à chucre",
     "e": "sugar-iced cake",
     "k": "lagacheachucre",
@@ -14364,12 +18390,6 @@ export const vocabData = [
     "f": "applecake"
   },
   {
-    "j": "la gâche",
-    "e": "cake",
-    "k": "lagache",
-    "f": "cake"
-  },
-  {
     "j": "la gag'gie",
     "e": "betting",
     "k": "lagaggie",
@@ -14383,15 +18403,9 @@ export const vocabData = [
   },
   {
     "j": "la galette",
-    "e": "thrashing",
+    "e": "biscuit, thrashing",
     "k": "lagalette",
-    "f": "thrashing"
-  },
-  {
-    "j": "la galette",
-    "e": "biscuit",
-    "k": "lagalette",
-    "f": "biscuit"
+    "f": "biscuit,thrashing"
   },
   {
     "j": "la galiche",
@@ -14490,12 +18504,6 @@ export const vocabData = [
     "f": "ice"
   },
   {
-    "j": "la g'linne",
-    "e": "hen",
-    "k": "laglinne",
-    "f": "hen"
-  },
-  {
     "j": "la gode",
     "e": "shearwater",
     "k": "lagode",
@@ -14532,22 +18540,22 @@ export const vocabData = [
     "f": "harness"
   },
   {
-    "j": "la grainelle dé café",
-    "e": "coffee-bean",
-    "k": "lagrainelledecafe",
-    "f": "coffeebean"
-  },
-  {
     "j": "la grain'nie",
     "e": "granary",
     "k": "lagrainnie",
     "f": "granary"
   },
   {
+    "j": "la grainelle dé café",
+    "e": "coffee-bean",
+    "k": "lagrainelledecafe",
+    "f": "coffeebean"
+  },
+  {
     "j": "la graisse",
-    "e": "dung",
+    "e": "fat, dung",
     "k": "lagraisse",
-    "f": "dung"
+    "f": "fat,dung"
   },
   {
     "j": "la graisse dé boeuf",
@@ -14560,12 +18568,6 @@ export const vocabData = [
     "e": "suet",
     "k": "lagraissederingnon",
     "f": "suet"
-  },
-  {
-    "j": "la graisse",
-    "e": "fat",
-    "k": "lagraisse",
-    "f": "fat"
   },
   {
     "j": "la grammaithe",
@@ -14610,34 +18612,10 @@ export const vocabData = [
     "f": "mainyard"
   },
   {
-    "j": "la grande boutique",
-    "e": "department store",
-    "k": "lagrandeboutique",
-    "f": "departmentstore"
-  },
-  {
-    "j": "la grandeu",
-    "e": "size",
-    "k": "lagrandeu",
-    "f": "size"
-  },
-  {
-    "j": "la grand-grand-méthe",
-    "e": "great-grandmother",
-    "k": "lagrandgrandmethe",
-    "f": "greatgrandmother"
-  },
-  {
     "j": "la grand'manman",
     "e": "great-grandmother",
     "k": "lagrandmanman",
     "f": "greatgrandmother"
-  },
-  {
-    "j": "la grand-méthe",
-    "e": "grandmother",
-    "k": "lagrandmethe",
-    "f": "grandmother"
   },
   {
     "j": "la grand'tante",
@@ -14656,6 +18634,30 @@ export const vocabData = [
     "e": "dining-room",
     "k": "lagrandtchuisinne",
     "f": "diningroom"
+  },
+  {
+    "j": "la grand-grand-méthe",
+    "e": "great-grandmother",
+    "k": "lagrandgrandmethe",
+    "f": "greatgrandmother"
+  },
+  {
+    "j": "la grand-méthe",
+    "e": "grandmother",
+    "k": "lagrandmethe",
+    "f": "grandmother"
+  },
+  {
+    "j": "la grande boutique",
+    "e": "department store",
+    "k": "lagrandeboutique",
+    "f": "departmentstore"
+  },
+  {
+    "j": "la grandeu",
+    "e": "size",
+    "k": "lagrandeu",
+    "f": "size"
   },
   {
     "j": "la grange",
@@ -14718,20 +18720,14 @@ export const vocabData = [
     "f": "slut"
   },
   {
-    "j": "la g'vil'ye",
-    "e": "ankle",
-    "k": "lagvilye",
-    "f": "ankle"
-  },
-  {
     "j": "la hachie",
     "e": "stew",
     "k": "lahachie",
     "f": "stew"
   },
   {
-    "j": "La Hague",
-    "e": "The Hague",
+    "j": "la hague",
+    "e": "the hague",
     "k": "lahague",
     "f": "thehague"
   },
@@ -14743,15 +18739,9 @@ export const vocabData = [
   },
   {
     "j": "la hanque",
-    "e": "high rafter",
+    "e": "hip, high rafter",
     "k": "lahanque",
-    "f": "highrafter"
-  },
-  {
-    "j": "la hanque",
-    "e": "hip",
-    "k": "lahanque",
-    "f": "hip"
+    "f": "hip,highrafter"
   },
   {
     "j": "la hardelle",
@@ -14814,16 +18804,16 @@ export const vocabData = [
     "f": "swift"
   },
   {
-    "j": "la heune d'artimon",
-    "e": "mizzen top",
-    "k": "laheunedartimon",
-    "f": "mizzentop"
-  },
-  {
     "j": "la heune",
     "e": "crow's-nest",
     "k": "laheune",
     "f": "crowsnest"
+  },
+  {
+    "j": "la heune d'artimon",
+    "e": "mizzen top",
+    "k": "laheunedartimon",
+    "f": "mizzentop"
   },
   {
     "j": "la heune, la heuniéthe ou la tâp-sèle",
@@ -14832,16 +18822,16 @@ export const vocabData = [
     "f": "topsail"
   },
   {
-    "j": "la heuniéthe du mât d'avant",
-    "e": "foremast top",
-    "k": "laheuniethedumatdavant",
-    "f": "foremasttop"
-  },
-  {
     "j": "la heuniéthe",
     "e": "top",
     "k": "laheuniethe",
     "f": "top"
+  },
+  {
+    "j": "la heuniéthe du mât d'avant",
+    "e": "foremast top",
+    "k": "laheuniethedumatdavant",
+    "f": "foremasttop"
   },
   {
     "j": "la houette à houetter",
@@ -14850,14 +18840,14 @@ export const vocabData = [
     "f": "thebankinghoe"
   },
   {
-    "j": "la Iîngne dé pêque",
+    "j": "la iîngne dé pêque",
     "e": "fishing-line",
     "k": "laiingnedepeque",
     "f": "fishingline"
   },
   {
     "j": "la jalousie, la girofliée",
-    "e": "Sweet William",
+    "e": "sweet william",
     "k": "lajalousie,lagirofliee",
     "f": "sweetwilliam"
   },
@@ -14887,15 +18877,9 @@ export const vocabData = [
   },
   {
     "j": "la lache",
-    "e": "lash",
+    "e": "bollard, lash",
     "k": "lalache",
-    "f": "lash"
-  },
-  {
-    "j": "la lache",
-    "e": "bollard",
-    "k": "lalache",
-    "f": "bollard"
+    "f": "bollard,lash"
   },
   {
     "j": "la lachefraie",
@@ -14952,10 +18936,10 @@ export const vocabData = [
     "f": "lash"
   },
   {
-    "j": "la lantèrne des pouôrres gens",
-    "e": "moon",
-    "k": "lalanternedespouorresgens",
-    "f": "moon"
+    "j": "la lantèrne",
+    "e": "stupid person",
+    "k": "lalanterne",
+    "f": "stupidperson"
   },
   {
     "j": "la lantèrne d'pâraîsse",
@@ -14964,10 +18948,10 @@ export const vocabData = [
     "f": "moon"
   },
   {
-    "j": "la lantèrne",
-    "e": "stupid person",
-    "k": "lalanterne",
-    "f": "stupidperson"
+    "j": "la lantèrne des pouôrres gens",
+    "e": "moon",
+    "k": "lalanternedespouorresgens",
+    "f": "moon"
   },
   {
     "j": "la lâque",
@@ -15018,6 +19002,12 @@ export const vocabData = [
     "f": "letter"
   },
   {
+    "j": "la leune",
+    "e": "moon",
+    "k": "laleune",
+    "f": "moon"
+  },
+  {
     "j": "la leune d'avoût",
     "e": "harvest moon",
     "k": "laleunedavout",
@@ -15030,22 +19020,16 @@ export const vocabData = [
     "f": "honeymoon"
   },
   {
-    "j": "la leune",
-    "e": "moon",
-    "k": "laleune",
-    "f": "moon"
+    "j": "la lêzarde",
+    "e": "lizard",
+    "k": "lalezarde",
+    "f": "lizard"
   },
   {
     "j": "la lêzarde dg'ieau",
     "e": "newt",
     "k": "lalezardedgieau",
     "f": "newt"
-  },
-  {
-    "j": "la lêzarde",
-    "e": "lizard",
-    "k": "lalezarde",
-    "f": "lizard"
   },
   {
     "j": "la libèrté",
@@ -15060,8 +19044,8 @@ export const vocabData = [
     "f": "bookshop"
   },
   {
-    "j": "la Lîngne",
-    "e": "Equator",
+    "j": "la lîngne",
+    "e": "equator",
     "k": "lalingne",
     "f": "equator"
   },
@@ -15120,6 +19104,12 @@ export const vocabData = [
     "f": "telescope"
   },
   {
+    "j": "la lot’tie",
+    "e": "the lottery",
+    "k": "lalottie",
+    "f": "thelottery"
+  },
+  {
     "j": "la louai",
     "e": "law",
     "k": "lalouai",
@@ -15142,6 +19132,18 @@ export const vocabData = [
     "e": "roof light",
     "k": "lalutcherne",
     "f": "rooflight"
+  },
+  {
+    "j": "la m'lasse",
+    "e": "treacle",
+    "k": "lamlasse",
+    "f": "treacle"
+  },
+  {
+    "j": "la m'suthe",
+    "e": "measure",
+    "k": "lamsuthe",
+    "f": "measure"
   },
   {
     "j": "la machacréthie",
@@ -15180,16 +19182,16 @@ export const vocabData = [
     "f": "thepowdersprayer"
   },
   {
-    "j": "la machinne à sou",
-    "e": "cash machine",
-    "k": "lamachinneasou",
-    "f": "cashmachine"
-  },
-  {
     "j": "la machinne à s'pather",
     "e": "the milk separator",
     "k": "lamachinneaspather",
     "f": "themilkseparator"
+  },
+  {
+    "j": "la machinne à sou",
+    "e": "cash machine",
+    "k": "lamachinneasou",
+    "f": "cashmachine"
   },
   {
     "j": "la machonn'nie",
@@ -15265,7 +19267,7 @@ export const vocabData = [
   },
   {
     "j": "la maladie d'rîngnons",
-    "e": "Bright's disease",
+    "e": "bright's disease",
     "k": "lamaladiedringnons",
     "f": "brightsdisease"
   },
@@ -15306,8 +19308,8 @@ export const vocabData = [
     "f": "simpleton"
   },
   {
-    "j": "la Marinne",
-    "e": "Navy",
+    "j": "la marinne",
+    "e": "navy",
     "k": "lamarinne",
     "f": "navy"
   },
@@ -15336,8 +19338,8 @@ export const vocabData = [
     "f": "marten"
   },
   {
-    "j": "la Mâsse",
-    "e": "Mace",
+    "j": "la mâsse",
+    "e": "mace",
     "k": "lamasse",
     "f": "mace"
   },
@@ -15372,16 +19374,16 @@ export const vocabData = [
     "f": "matron"
   },
   {
-    "j": "la mauve à maq'thé",
-    "e": "gannet",
-    "k": "lamauveamaqthe",
-    "f": "gannet"
-  },
-  {
     "j": "la mauve",
     "e": "seagull",
     "k": "lamauve",
     "f": "seagull"
+  },
+  {
+    "j": "la mauve à maq'thé",
+    "e": "gannet",
+    "k": "lamauveamaqthe",
+    "f": "gannet"
   },
   {
     "j": "la maûvette",
@@ -15396,32 +19398,32 @@ export const vocabData = [
     "f": "sea"
   },
   {
-    "j": "la Mé Arabe",
-    "e": "Arabian Sea",
+    "j": "la mé arabe",
+    "e": "arabian sea",
     "k": "lamearabe",
     "f": "arabiansea"
   },
   {
-    "j": "la Mé Baltique",
-    "e": "Baltic Sea",
+    "j": "la mé baltique",
+    "e": "baltic sea",
     "k": "lamebaltique",
     "f": "balticsea"
   },
   {
-    "j": "la Mé du Nord",
-    "e": "North Sea",
+    "j": "la mé du nord",
+    "e": "north sea",
     "k": "lamedunord",
     "f": "northsea"
   },
   {
-    "j": "la Mé Ionienne",
-    "e": "Ionian Sea",
+    "j": "la mé ionienne",
+    "e": "ionian sea",
     "k": "lameionienne",
     "f": "ioniansea"
   },
   {
-    "j": "la Mé Irlandaise",
-    "e": "Irish Sea",
+    "j": "la mé irlandaise",
+    "e": "irish sea",
     "k": "lameirlandaise",
     "f": "irishsea"
   },
@@ -15432,8 +19434,8 @@ export const vocabData = [
     "f": "risingtide"
   },
   {
-    "j": "la Mé Morte",
-    "e": "Dead Sea",
+    "j": "la mé morte",
+    "e": "dead sea",
     "k": "lamemorte",
     "f": "deadsea"
   },
@@ -15444,10 +19446,10 @@ export const vocabData = [
     "f": "fallingtide"
   },
   {
-    "j": "la mé",
-    "e": "sea",
-    "k": "lame",
-    "f": "sea"
+    "j": "la méd'cinn'nie",
+    "e": "medecine",
+    "k": "lamedcinnnie",
+    "f": "medecine"
   },
   {
     "j": "la méd'cinne",
@@ -15456,14 +19458,8 @@ export const vocabData = [
     "f": "medecine"
   },
   {
-    "j": "la méd'cinn'nie",
-    "e": "medecine",
-    "k": "lamedcinnnie",
-    "f": "medecine"
-  },
-  {
-    "j": "la Méditerrannée",
-    "e": "Mediterranean",
+    "j": "la méditerrannée",
+    "e": "mediterranean",
     "k": "lamediterrannee",
     "f": "mediterranean"
   },
@@ -15493,13 +19489,13 @@ export const vocabData = [
   },
   {
     "j": "la mèrvelle",
-    "e": "Jersey 'wonder'",
+    "e": "jersey 'wonder'",
     "k": "lamervelle",
     "f": "jerseywonder"
   },
   {
     "j": "la mêsse",
-    "e": "Mass",
+    "e": "mass",
     "k": "lamesse",
     "f": "mass"
   },
@@ -15558,16 +19554,10 @@ export const vocabData = [
     "f": "ploughedsoil"
   },
   {
-    "j": "la mielle",
-    "e": "dune",
-    "k": "lamielle",
-    "f": "dune"
-  },
-  {
-    "j": "la mielle",
-    "e": "dune",
-    "k": "lamielle",
-    "f": "dune"
+    "j": "la mié-mai",
+    "e": "mid-may",
+    "k": "lamiemai",
+    "f": "midmay"
   },
   {
     "j": "la mié-mathée",
@@ -15576,8 +19566,14 @@ export const vocabData = [
     "f": "halftide"
   },
   {
-    "j": "la Milice",
-    "e": "Militia",
+    "j": "la mielle",
+    "e": "dune",
+    "k": "lamielle",
+    "f": "dune"
+  },
+  {
+    "j": "la milice",
+    "e": "militia",
     "k": "lamilice",
     "f": "militia"
   },
@@ -15604,12 +19600,6 @@ export const vocabData = [
     "e": "party ownership",
     "k": "lamitouoyennete",
     "f": "partyownership"
-  },
-  {
-    "j": "la m'lasse",
-    "e": "treacle",
-    "k": "lamlasse",
-    "f": "treacle"
   },
   {
     "j": "la mobilisâtion",
@@ -15642,28 +19632,28 @@ export const vocabData = [
     "f": "lard"
   },
   {
-    "j": "la montangne dé gliaiche",
-    "e": "iceberg",
-    "k": "lamontangnedegliaiche",
-    "f": "iceberg"
-  },
-  {
     "j": "la montangne",
     "e": "mountain",
     "k": "lamontangne",
     "f": "mountain"
   },
   {
-    "j": "la montée en touothelle",
-    "e": "newel staircase",
-    "k": "lamonteeentouothelle",
-    "f": "newelstaircase"
+    "j": "la montangne dé gliaiche",
+    "e": "iceberg",
+    "k": "lamontangnedegliaiche",
+    "f": "iceberg"
   },
   {
     "j": "la montée",
     "e": "staircase",
     "k": "lamontee",
     "f": "staircase"
+  },
+  {
+    "j": "la montée en touothelle",
+    "e": "newel staircase",
+    "k": "lamonteeentouothelle",
+    "f": "newelstaircase"
   },
   {
     "j": "la mort",
@@ -15726,6 +19716,12 @@ export const vocabData = [
     "f": "plague"
   },
   {
+    "j": "la moûque",
+    "e": "fly",
+    "k": "lamouque",
+    "f": "fly"
+  },
+  {
     "j": "la moûque à boûse",
     "e": "dungfly",
     "k": "lamouqueabouse",
@@ -15756,22 +19752,16 @@ export const vocabData = [
     "f": "bluebottle"
   },
   {
-    "j": "la moûque dé tchuîsinne",
-    "e": "housefly",
-    "k": "lamouquedetchuisinne",
-    "f": "housefly"
-  },
-  {
     "j": "la moûque d'un jour",
     "e": "may-fly",
     "k": "lamouquedunjour",
     "f": "mayfly"
   },
   {
-    "j": "la moûque",
-    "e": "fly",
-    "k": "lamouque",
-    "f": "fly"
+    "j": "la moûque dé tchuîsinne",
+    "e": "housefly",
+    "k": "lamouquedetchuisinne",
+    "f": "housefly"
   },
   {
     "j": "la mousselinne",
@@ -15796,12 +19786,6 @@ export const vocabData = [
     "e": "stirrer",
     "k": "lamouvette",
     "f": "stirrer"
-  },
-  {
-    "j": "la m'suthe",
-    "e": "measure",
-    "k": "lamsuthe",
-    "f": "measure"
   },
   {
     "j": "la mucreu",
@@ -15846,6 +19830,12 @@ export const vocabData = [
     "f": "nationality"
   },
   {
+    "j": "la natte",
+    "e": "mat",
+    "k": "lanatte",
+    "f": "mat"
+  },
+  {
     "j": "la natte à souothis",
     "e": "mouse mat",
     "k": "lanatteasouothis",
@@ -15858,10 +19848,10 @@ export const vocabData = [
     "f": "touchpad"
   },
   {
-    "j": "la natte",
-    "e": "mat",
-    "k": "lanatte",
-    "f": "mat"
+    "j": "la né",
+    "e": "snow",
+    "k": "lane",
+    "f": "snow"
   },
   {
     "j": "la né fondue",
@@ -15870,20 +19860,14 @@ export const vocabData = [
     "f": "sleet"
   },
   {
-    "j": "la né",
-    "e": "snow",
-    "k": "lane",
-    "f": "snow"
-  },
-  {
     "j": "la néthe êpîngne, lé preunellyi",
-    "e": "Blackthorn",
+    "e": "blackthorn",
     "k": "lanetheepingne,lepreunellyi",
     "f": "blackthorn"
   },
   {
-    "j": "La Néthe Forêt",
-    "e": "Black Forest",
+    "j": "la néthe forêt",
+    "e": "black forest",
     "k": "lanetheforet",
     "f": "blackforest"
   },
@@ -15900,8 +19884,8 @@ export const vocabData = [
     "f": "greatblackbackedgull"
   },
   {
-    "j": "la Néthe Mé",
-    "e": "Black Sea",
+    "j": "la néthe mé",
+    "e": "black sea",
     "k": "lanetheme",
     "f": "blacksea"
   },
@@ -15928,6 +19912,12 @@ export const vocabData = [
     "e": "niece",
     "k": "lanieche",
     "f": "niece"
+  },
+  {
+    "j": "la niet pâssée",
+    "e": "last night",
+    "k": "lanietpassee",
+    "f": "lastnight"
   },
   {
     "j": "la nonminnâtion",
@@ -15966,6 +19956,48 @@ export const vocabData = [
     "f": "cottonwool"
   },
   {
+    "j": "la p'liche",
+    "e": "peel",
+    "k": "lapliche",
+    "f": "peel"
+  },
+  {
+    "j": "la p'liche dé bouais",
+    "e": "bark",
+    "k": "laplichedebouais",
+    "f": "bark"
+  },
+  {
+    "j": "la p'lisse",
+    "e": "surplice",
+    "k": "laplisse",
+    "f": "surplice"
+  },
+  {
+    "j": "la p'tite bécachinne",
+    "e": "jack snipe",
+    "k": "laptitebecachinne",
+    "f": "jacksnipe"
+  },
+  {
+    "j": "la p'tite caûvette",
+    "e": "jackdaw",
+    "k": "laptitecauvette",
+    "f": "jackdaw"
+  },
+  {
+    "j": "la p'tite maîson, la chiotte, la tchiêrêsse",
+    "e": "toilet",
+    "k": "laptitemaison,lachiotte,latchieresse",
+    "f": "toilet"
+  },
+  {
+    "j": "la p'tite-fil'ye",
+    "e": "granddaughter",
+    "k": "laptitefilye",
+    "f": "granddaughter"
+  },
+  {
     "j": "la pâcienche",
     "e": "patience",
     "k": "lapacienche",
@@ -15990,16 +20022,16 @@ export const vocabData = [
     "f": "straw"
   },
   {
-    "j": "la paithe dé tèrre",
-    "e": "Jerusalem artichoke",
-    "k": "lapaithedeterre",
-    "f": "jerusalemartichoke"
-  },
-  {
     "j": "la paithe",
     "e": "pear",
     "k": "lapaithe",
     "f": "pear"
+  },
+  {
+    "j": "la paithe dé tèrre",
+    "e": "jerusalem artichoke",
+    "k": "lapaithedeterre",
+    "f": "jerusalemartichoke"
   },
   {
     "j": "la pâle",
@@ -16045,15 +20077,9 @@ export const vocabData = [
   },
   {
     "j": "la papet'tie",
-    "e": "stationer's",
+    "e": "stationery, stationer's",
     "k": "lapapettie",
-    "f": "stationers"
-  },
-  {
-    "j": "la papet'tie",
-    "e": "stationery",
-    "k": "lapapettie",
-    "f": "stationery"
+    "f": "stationery,stationers"
   },
   {
     "j": "la papillote",
@@ -16062,16 +20088,16 @@ export const vocabData = [
     "f": "butterfly"
   },
   {
-    "j": "la Pâque flieuthie",
-    "e": "Palm Sunday",
-    "k": "lapaqueflieuthie",
-    "f": "palmsunday"
-  },
-  {
     "j": "la paqu'nôte",
     "e": "ladybird",
     "k": "lapaqunote",
     "f": "ladybird"
+  },
+  {
+    "j": "la pâque flieuthie",
+    "e": "palm sunday",
+    "k": "lapaqueflieuthie",
+    "f": "palmsunday"
   },
   {
     "j": "la pâraisse",
@@ -16080,8 +20106,8 @@ export const vocabData = [
     "f": "diningtable"
   },
   {
-    "j": "la Pâraîsse",
-    "e": "Parish",
+    "j": "la pâraîsse",
+    "e": "parish",
     "k": "laparaisse",
     "f": "parish"
   },
@@ -16093,7 +20119,7 @@ export const vocabData = [
   },
   {
     "j": "la pâsse-rose",
-    "e": "Peony",
+    "e": "peony",
     "k": "lapasserose",
     "f": "peony"
   },
@@ -16177,21 +20203,15 @@ export const vocabData = [
   },
   {
     "j": "la pensée, des faches dé cat",
-    "e": "Pansy",
+    "e": "pansy",
     "k": "lapensee,desfachesdecat",
     "f": "pansy"
   },
   {
     "j": "la pentecôte",
-    "e": "lady's mantle",
+    "e": "whitsun, lady's mantle",
     "k": "lapentecote",
-    "f": "ladysmantle"
-  },
-  {
-    "j": "la Pentecôte",
-    "e": "Whitsun",
-    "k": "lapentecote",
-    "f": "whitsun"
+    "f": "whitsun,ladysmantle"
   },
   {
     "j": "la pèrche",
@@ -16225,7 +20245,7 @@ export const vocabData = [
   },
   {
     "j": "la pèrvenche, la bliuette",
-    "e": "Periwinkle",
+    "e": "periwinkle",
     "k": "lapervenche,labliuette",
     "f": "periwinkle"
   },
@@ -16332,34 +20352,22 @@ export const vocabData = [
     "f": "planet"
   },
   {
-    "j": "la pliante",
-    "e": "plant",
-    "k": "lapliante",
-    "f": "plant"
-  },
-  {
     "j": "la pliant'tie",
     "e": "planting",
     "k": "laplianttie",
     "f": "planting"
   },
   {
+    "j": "la pliante",
+    "e": "plant",
+    "k": "lapliante",
+    "f": "plant"
+  },
+  {
     "j": "la pliataine en fé",
     "e": "iron plating",
     "k": "lapliataineenfe",
     "f": "ironplating"
-  },
-  {
-    "j": "la p'liche",
-    "e": "peel",
-    "k": "lapliche",
-    "f": "peel"
-  },
-  {
-    "j": "la p'liche dé bouais",
-    "e": "bark",
-    "k": "laplichedebouais",
-    "f": "bark"
   },
   {
     "j": "la plieine mé",
@@ -16381,15 +20389,9 @@ export const vocabData = [
   },
   {
     "j": "la plîse",
-    "e": "grass-wrack, Zostera marina, small vraic washed up",
+    "e": "grass-wrack, zostera marina, small vraic washed up",
     "k": "laplise",
     "f": "grasswrack,zosteramarina,smallvraicwashedup"
-  },
-  {
-    "j": "la p'lisse",
-    "e": "surplice",
-    "k": "laplisse",
-    "f": "surplice"
   },
   {
     "j": "la plyie",
@@ -16404,16 +20406,22 @@ export const vocabData = [
     "f": "reefingpoint"
   },
   {
-    "j": "la Police Honorifique",
-    "e": "Honorary Police",
-    "k": "lapolicehonorifique",
-    "f": "honorarypolice"
-  },
-  {
     "j": "la police",
     "e": "police",
     "k": "lapolice",
     "f": "police"
+  },
+  {
+    "j": "la police arrêtit l’voleux",
+    "e": "the police arrested the thief",
+    "k": "lapolicearretitlvoleux",
+    "f": "thepolicearrestedthethief"
+  },
+  {
+    "j": "la police honorifique",
+    "e": "honorary police",
+    "k": "lapolicehonorifique",
+    "f": "honorarypolice"
   },
   {
     "j": "la politique",
@@ -16494,8 +20502,8 @@ export const vocabData = [
     "f": "hen"
   },
   {
-    "j": "la Pouochinniéthe",
-    "e": "Pleiades",
+    "j": "la pouochinniéthe",
+    "e": "pleiades",
     "k": "lapouochinniethe",
     "f": "pleiades"
   },
@@ -16560,16 +20568,16 @@ export const vocabData = [
     "f": "priesthood"
   },
   {
-    "j": "la preune dé Damas",
-    "e": "damson",
-    "k": "lapreunededamas",
-    "f": "damson"
-  },
-  {
     "j": "la preune",
     "e": "plum",
     "k": "lapreune",
     "f": "plum"
+  },
+  {
+    "j": "la preune dé damas",
+    "e": "damson",
+    "k": "lapreunededamas",
+    "f": "damson"
   },
   {
     "j": "la preunelle dé l'yi",
@@ -16578,8 +20586,8 @@ export const vocabData = [
     "f": "pupil"
   },
   {
-    "j": "la Preunmié Dgèrre Mondiale",
-    "e": "First World War",
+    "j": "la preunmié dgèrre mondiale",
+    "e": "first world war",
     "k": "lapreunmiedgerremondiale",
     "f": "firstworldwar"
   },
@@ -16644,40 +20652,16 @@ export const vocabData = [
     "f": "property"
   },
   {
-    "j": "la p'tite bécachinne",
-    "e": "jack snipe",
-    "k": "laptitebecachinne",
-    "f": "jacksnipe"
-  },
-  {
-    "j": "la p'tite caûvette",
-    "e": "jackdaw",
-    "k": "laptitecauvette",
-    "f": "jackdaw"
-  },
-  {
-    "j": "la p'tite maîson, la chiotte, la tchiêrêsse",
-    "e": "toilet",
-    "k": "laptitemaison,lachiotte,latchieresse",
-    "f": "toilet"
-  },
-  {
-    "j": "la p'tite-fil'ye",
-    "e": "granddaughter",
-    "k": "laptitefilye",
-    "f": "granddaughter"
+    "j": "la puche",
+    "e": "flea",
+    "k": "lapuche",
+    "f": "flea"
   },
   {
     "j": "la puche dé tèrre",
     "e": "flea-beetle",
     "k": "lapuchedeterre",
     "f": "fleabeetle"
-  },
-  {
-    "j": "la puche",
-    "e": "flea",
-    "k": "lapuche",
-    "f": "flea"
   },
   {
     "j": "la putain",
@@ -16692,6 +20676,12 @@ export const vocabData = [
     "f": "puree"
   },
   {
+    "j": "la p’tite cour",
+    "e": "the magistrate’s court",
+    "k": "laptitecour",
+    "f": "themagistratescourt"
+  },
+  {
     "j": "la quétote",
     "e": "sow",
     "k": "laquetote",
@@ -16702,6 +20692,54 @@ export const vocabData = [
     "e": "sow",
     "k": "laquette",
     "f": "sow"
+  },
+  {
+    "j": "la r'formâtion",
+    "e": "reformation",
+    "k": "larformation",
+    "f": "reformation"
+  },
+  {
+    "j": "la r'forme",
+    "e": "reform",
+    "k": "larforme",
+    "f": "reform"
+  },
+  {
+    "j": "la r'miède",
+    "e": "remedy",
+    "k": "larmiede",
+    "f": "remedy"
+  },
+  {
+    "j": "la r'naîssance",
+    "e": "renaissance",
+    "k": "larnaissance",
+    "f": "renaissance"
+  },
+  {
+    "j": "la r'source",
+    "e": "spring",
+    "k": "larsource",
+    "f": "spring"
+  },
+  {
+    "j": "la r'traite, l'èrtithant",
+    "e": "ebb-tide",
+    "k": "lartraite,lertithant",
+    "f": "ebbtide"
+  },
+  {
+    "j": "la r'vêche",
+    "e": "ratteen",
+    "k": "larveche",
+    "f": "ratteen"
+  },
+  {
+    "j": "la r'venge",
+    "e": "revenge",
+    "k": "larvenge",
+    "f": "revenge"
   },
   {
     "j": "la radiche",
@@ -16728,28 +20766,22 @@ export const vocabData = [
     "f": "furrow"
   },
   {
-    "j": "la raînotte dé mé",
-    "e": "angler-fish",
-    "k": "larainottedeme",
-    "f": "anglerfish"
-  },
-  {
     "j": "la raînotte",
     "e": "frog",
     "k": "larainotte",
     "f": "frog"
   },
   {
-    "j": "la râlîngue",
-    "e": "fin",
-    "k": "laralingue",
-    "f": "fin"
+    "j": "la raînotte dé mé",
+    "e": "angler-fish",
+    "k": "larainottedeme",
+    "f": "anglerfish"
   },
   {
     "j": "la râlîngue",
-    "e": "bolt-rope",
+    "e": "bolt-rope, fin",
     "k": "laralingue",
-    "f": "boltrope"
+    "f": "boltrope,fin"
   },
   {
     "j": "la rampe",
@@ -16776,8 +20808,8 @@ export const vocabData = [
     "f": "reception"
   },
   {
-    "j": "la Réformâtion",
-    "e": "Reformation",
+    "j": "la réformâtion",
+    "e": "reformation",
     "k": "lareformation",
     "f": "reformation"
   },
@@ -16789,25 +20821,25 @@ export const vocabData = [
   },
   {
     "j": "la reine des prés",
-    "e": "Meadow sweet",
+    "e": "meadow sweet",
     "k": "lareinedespres",
     "f": "meadowsweet"
   },
   {
-    "j": "La Reine Lîzabé II",
-    "e": "Queen Elizabeth II",
+    "j": "la reine lîzabé ii",
+    "e": "queen elizabeth ii",
     "k": "lareinelizabeii",
     "f": "queenelizabethii"
   },
   {
-    "j": "la Reine Méthe",
-    "e": "the Queen Mother",
+    "j": "la reine méthe",
+    "e": "the queen mother",
     "k": "lareinemethe",
     "f": "thequeenmother"
   },
   {
-    "j": "la Reine, not' Duc",
-    "e": "the Queen, our Duke",
+    "j": "la reine, not' duc",
+    "e": "the queen, our duke",
     "k": "lareine,notduc",
     "f": "thequeen,ourduke"
   },
@@ -16842,16 +20874,16 @@ export const vocabData = [
     "f": "resurrection"
   },
   {
-    "j": "la reue d'avo",
-    "e": "steering wheel",
-    "k": "lareuedavo",
-    "f": "steeringwheel"
-  },
-  {
     "j": "la reue",
     "e": "wheel",
     "k": "lareue",
     "f": "wheel"
+  },
+  {
+    "j": "la reue d'avo",
+    "e": "steering wheel",
+    "k": "lareuedavo",
+    "f": "steeringwheel"
   },
   {
     "j": "la rêunion",
@@ -16860,22 +20892,10 @@ export const vocabData = [
     "f": "meeting"
   },
   {
-    "j": "la Révolution Îndustrielle",
-    "e": "Industrial Revolution",
+    "j": "la révolution îndustrielle",
+    "e": "industrial revolution",
     "k": "larevolutionindustrielle",
     "f": "industrialrevolution"
-  },
-  {
-    "j": "la R'formâtion",
-    "e": "Reformation",
-    "k": "larformation",
-    "f": "reformation"
-  },
-  {
-    "j": "la r'forme",
-    "e": "reform",
-    "k": "larforme",
-    "f": "reform"
   },
   {
     "j": "la rîle des g'veux",
@@ -16896,28 +20916,16 @@ export const vocabData = [
     "f": "river"
   },
   {
-    "j": "la Riviéthe dé Londres",
-    "e": "Thames",
+    "j": "la riviéthe dé londres",
+    "e": "thames",
     "k": "lariviethedelondres",
     "f": "thames"
   },
   {
-    "j": "la Riviéthe ès R'nards",
-    "e": "Rivière au Renard",
+    "j": "la riviéthe ès r'nards",
+    "e": "rivière au renard",
     "k": "larivietheesrnards",
     "f": "riviereaurenard"
-  },
-  {
-    "j": "la r'miède",
-    "e": "remedy",
-    "k": "larmiede",
-    "f": "remedy"
-  },
-  {
-    "j": "la R'naîssance",
-    "e": "Renaissance",
-    "k": "larnaissance",
-    "f": "renaissance"
   },
   {
     "j": "la robe",
@@ -16950,14 +20958,14 @@ export const vocabData = [
     "f": "bramble"
   },
   {
-    "j": "la rose dé Noué",
-    "e": "Hellebore (black)",
+    "j": "la rose dé noué",
+    "e": "hellebore (black)",
     "k": "larosedenoue",
     "f": "hellebore(black)"
   },
   {
     "j": "la rose en bâton",
-    "e": "Hollyhock",
+    "e": "hollyhock",
     "k": "laroseenbaton",
     "f": "hollyhock"
   },
@@ -16974,8 +20982,8 @@ export const vocabData = [
     "f": "nastyperson"
   },
   {
-    "j": "la Rouoge Mé",
-    "e": "Red Sea",
+    "j": "la rouoge mé",
+    "e": "red sea",
     "k": "larouogeme",
     "f": "redsea"
   },
@@ -16992,8 +21000,8 @@ export const vocabData = [
     "f": "scabies"
   },
   {
-    "j": "la Rouoyale",
-    "e": "Jersey Royal",
+    "j": "la rouoyale",
+    "e": "jersey royal",
     "k": "larouoyale",
     "f": "jerseyroyal"
   },
@@ -17004,34 +21012,16 @@ export const vocabData = [
     "f": "royalty"
   },
   {
-    "j": "la route (d'un navithe)",
-    "e": "course (of ship)",
-    "k": "laroute(dunnavithe)",
-    "f": "course(ofship)"
-  },
-  {
     "j": "la route",
     "e": "road",
     "k": "laroute",
     "f": "road"
   },
   {
-    "j": "la r'source",
-    "e": "spring",
-    "k": "larsource",
-    "f": "spring"
-  },
-  {
-    "j": "la r'traite, l'èrtithant",
-    "e": "ebb-tide",
-    "k": "lartraite,lertithant",
-    "f": "ebbtide"
-  },
-  {
-    "j": "la rue pavée",
-    "e": "pedestrian street",
-    "k": "laruepavee",
-    "f": "pedestrianstreet"
+    "j": "la route (d'un navithe)",
+    "e": "course (of ship)",
+    "k": "laroute(dunnavithe)",
+    "f": "course(ofship)"
   },
   {
     "j": "la rue",
@@ -17040,22 +21030,52 @@ export const vocabData = [
     "f": "street"
   },
   {
+    "j": "la rue est bliotchie à bieaumont.",
+    "e": "the road is blocked at beaumont.",
+    "k": "larueestbliotchieabieaumont.",
+    "f": "theroadisblockedatbeaumont."
+  },
+  {
+    "j": "la rue pavée",
+    "e": "pedestrian street",
+    "k": "laruepavee",
+    "f": "pedestrianstreet"
+  },
+  {
     "j": "la rueûque",
     "e": "hive",
     "k": "larueuque",
     "f": "hive"
   },
   {
-    "j": "la r'vêche",
-    "e": "ratteen",
-    "k": "larveche",
-    "f": "ratteen"
+    "j": "la s'gonde",
+    "e": "contralto",
+    "k": "lasgonde",
+    "f": "contralto"
   },
   {
-    "j": "la r'venge",
-    "e": "revenge",
-    "k": "larvenge",
-    "f": "revenge"
+    "j": "la s'maine pâssée",
+    "e": "last week",
+    "k": "lasmainepassee",
+    "f": "lastweek"
+  },
+  {
+    "j": "la s'maine tchi veint",
+    "e": "next week",
+    "k": "lasmainetchiveint",
+    "f": "nextweek"
+  },
+  {
+    "j": "la s'melle (du soulié)",
+    "e": "sole of shoe",
+    "k": "lasmelle(dusoulie)",
+    "f": "soleofshoe"
+  },
+  {
+    "j": "la s'meuse, lé s'meux",
+    "e": "sowing-machine",
+    "k": "lasmeuse,lesmeux",
+    "f": "sowingmachine"
   },
   {
     "j": "la sage-femme",
@@ -17064,14 +21084,14 @@ export const vocabData = [
     "f": "midwife"
   },
   {
-    "j": "la Saint Swithin",
-    "e": "St. Swithin's",
+    "j": "la saint swithin",
+    "e": "st. swithin's",
     "k": "lasaintswithin",
     "f": "st.swithins"
   },
   {
-    "j": "la Saint Valentîn",
-    "e": "St. Valentine's Day",
+    "j": "la saint valentîn",
+    "e": "st. valentine's day",
     "k": "lasaintvalentin",
     "f": "st.valentinesday"
   },
@@ -17083,7 +21103,7 @@ export const vocabData = [
   },
   {
     "j": "la sale maladie",
-    "e": "VD",
+    "e": "vd",
     "k": "lasalemaladie",
     "f": "vd"
   },
@@ -17112,8 +21132,8 @@ export const vocabData = [
     "f": "bathroom"
   },
   {
-    "j": "la Salle Pârouaîssiale",
-    "e": "Parish Hall",
+    "j": "la salle pârouaîssiale",
+    "e": "parish hall",
     "k": "lasalleparouaissiale",
     "f": "parishhall"
   },
@@ -17160,16 +21180,16 @@ export const vocabData = [
     "f": "shavingbrush"
   },
   {
-    "j": "la scabelle à traithe",
-    "e": "milking stool",
-    "k": "lascabelleatraithe",
-    "f": "milkingstool"
-  },
-  {
     "j": "la scabelle",
     "e": "stool",
     "k": "lascabelle",
     "f": "stool"
+  },
+  {
+    "j": "la scabelle à traithe",
+    "e": "milking stool",
+    "k": "lascabelleatraithe",
+    "f": "milkingstool"
   },
   {
     "j": "la sciatique",
@@ -17202,6 +21222,18 @@ export const vocabData = [
     "f": "sashwindow"
   },
   {
+    "j": "la sell'lie",
+    "e": "saddlery",
+    "k": "laselllie",
+    "f": "saddlery"
+  },
+  {
+    "j": "la selle",
+    "e": "saddle",
+    "k": "laselle",
+    "f": "saddle"
+  },
+  {
     "j": "la selle à beurre",
     "e": "the butter churn",
     "k": "laselleabeurre",
@@ -17220,28 +21252,16 @@ export const vocabData = [
     "f": "packsaddle"
   },
   {
-    "j": "la selle",
-    "e": "saddle",
-    "k": "laselle",
-    "f": "saddle"
-  },
-  {
-    "j": "la sell'lie",
-    "e": "saddlery",
-    "k": "laselllie",
-    "f": "saddlery"
+    "j": "la sèm'rêsse",
+    "e": "the seed drill",
+    "k": "lasemresse",
+    "f": "theseeddrill"
   },
   {
     "j": "la sèmethie",
     "e": "sowing",
     "k": "lasemethie",
     "f": "sowing"
-  },
-  {
-    "j": "la sèm'rêsse",
-    "e": "the seed drill",
-    "k": "lasemresse",
-    "f": "theseeddrill"
   },
   {
     "j": "la sente",
@@ -17256,28 +21276,22 @@ export const vocabData = [
     "f": "tomb"
   },
   {
-    "j": "la sèrcliéresse",
-    "e": "the weeder",
-    "k": "laserclieresse",
-    "f": "theweeder"
-  },
-  {
     "j": "la sèrcl'ye",
     "e": "weed",
     "k": "laserclye",
     "f": "weed"
   },
   {
+    "j": "la sèrcliéresse",
+    "e": "the weeder",
+    "k": "laserclieresse",
+    "f": "theweeder"
+  },
+  {
     "j": "la sérîngue",
     "e": "syringe",
     "k": "laseringue",
     "f": "syringe"
-  },
-  {
-    "j": "la sèrpe",
-    "e": "billhook",
-    "k": "laserpe",
-    "f": "billhook"
   },
   {
     "j": "la sèrpe",
@@ -17298,21 +21312,15 @@ export const vocabData = [
     "f": "greenhouse"
   },
   {
-    "j": "la sèrre",
-    "e": "greenhouse",
-    "k": "laserre",
-    "f": "greenhouse"
-  },
-  {
-    "j": "la Sèrvelle dé Noué",
-    "e": "Christmas Eve",
-    "k": "laservelledenoue",
+    "j": "la sèrvelle d'noué",
+    "e": "christmas eve",
+    "k": "laservellednoue",
     "f": "christmaseve"
   },
   {
-    "j": "la sèrvelle d'Noué",
-    "e": "Christmas Eve",
-    "k": "laservellednoue",
+    "j": "la sèrvelle dé noué",
+    "e": "christmas eve",
+    "k": "laservelledenoue",
     "f": "christmaseve"
   },
   {
@@ -17322,28 +21330,22 @@ export const vocabData = [
     "f": "serviette"
   },
   {
-    "j": "la Séthée d'Guy Fawkes",
-    "e": "Guy Fawkes Night, Bonfire Night",
-    "k": "lasetheedguyfawkes",
-    "f": "guyfawkesnight,bonfirenight"
-  },
-  {
     "j": "la séthée",
     "e": "evening",
     "k": "lasethee",
     "f": "evening"
   },
   {
-    "j": "la s'gonde",
-    "e": "contralto",
-    "k": "lasgonde",
-    "f": "contralto"
+    "j": "la séthée d'guy fawkes",
+    "e": "guy fawkes night, bonfire night",
+    "k": "lasetheedguyfawkes",
+    "f": "guyfawkesnight,bonfirenight"
   },
   {
-    "j": "la sîle",
-    "e": "window sill",
-    "k": "lasile",
-    "f": "windowsill"
+    "j": "la sî-tchête",
+    "e": "caraway-cake",
+    "k": "lasitchete",
+    "f": "carawaycake"
   },
   {
     "j": "la sîle",
@@ -17374,36 +21376,6 @@ export const vocabData = [
     "e": "siren",
     "k": "lasirene",
     "f": "siren"
-  },
-  {
-    "j": "la sî-tchête",
-    "e": "caraway-cake",
-    "k": "lasitchete",
-    "f": "carawaycake"
-  },
-  {
-    "j": "la s'maine pâssée",
-    "e": "last week",
-    "k": "lasmainepassee",
-    "f": "lastweek"
-  },
-  {
-    "j": "la s'maine tchi veint",
-    "e": "next week",
-    "k": "lasmainetchiveint",
-    "f": "nextweek"
-  },
-  {
-    "j": "la s'melle (du soulié)",
-    "e": "sole of shoe",
-    "k": "lasmelle(dusoulie)",
-    "f": "soleofshoe"
-  },
-  {
-    "j": "la s'meuse, lé s'meux",
-    "e": "sowing-machine",
-    "k": "lasmeuse,lesmeux",
-    "f": "sowingmachine"
   },
   {
     "j": "la sociêté",
@@ -17521,9 +21493,21 @@ export const vocabData = [
   },
   {
     "j": "la sûthe-ieau, lé pavet",
-    "e": "Marshwort",
+    "e": "marshwort",
     "k": "lasutheieau,lepavet",
     "f": "marshwort"
+  },
+  {
+    "j": "la s’maine tchi veint",
+    "e": "next week",
+    "k": "lasmainetchiveint",
+    "f": "nextweek"
+  },
+  {
+    "j": "la tabl'ye",
+    "e": "table",
+    "k": "latablye",
+    "f": "table"
   },
   {
     "j": "la tabl'ye à beurre",
@@ -17542,12 +21526,6 @@ export const vocabData = [
     "e": "kitchen table",
     "k": "latablyedtchuisinne",
     "f": "kitchentable"
-  },
-  {
-    "j": "la tabl'ye",
-    "e": "table",
-    "k": "latablye",
-    "f": "table"
   },
   {
     "j": "la taillaison",
@@ -17634,16 +21612,16 @@ export const vocabData = [
     "f": "cartshed"
   },
   {
-    "j": "la tchéthette à fain",
-    "e": "haycart",
-    "k": "latchethetteafain",
-    "f": "haycart"
-  },
-  {
     "j": "la tchéthette",
     "e": "light cart",
     "k": "latchethette",
     "f": "lightcart"
+  },
+  {
+    "j": "la tchéthette à fain",
+    "e": "haycart",
+    "k": "latchethetteafain",
+    "f": "haycart"
   },
   {
     "j": "la tchéthiole",
@@ -17688,7 +21666,7 @@ export const vocabData = [
     "f": "windfall"
   },
   {
-    "j": "la Tcheût'tie dé Halloween",
+    "j": "la tcheût'tie dé halloween",
     "e": "trick or treat",
     "k": "latcheuttiedehalloween",
     "f": "trickortreat"
@@ -17736,6 +21714,12 @@ export const vocabData = [
     "f": "cooking"
   },
   {
+    "j": "la tchulyi",
+    "e": "spoon",
+    "k": "latchulyi",
+    "f": "spoon"
+  },
+  {
     "j": "la tchulyi à beurre",
     "e": "butter spoon",
     "k": "latchulyiabeurre",
@@ -17746,12 +21730,6 @@ export const vocabData = [
     "e": "teaspoon",
     "k": "latchulyiathee",
     "f": "teaspoon"
-  },
-  {
-    "j": "la tchulyi",
-    "e": "spoon",
-    "k": "latchulyi",
-    "f": "spoon"
   },
   {
     "j": "la teigne",
@@ -17778,6 +21756,12 @@ export const vocabData = [
     "f": "thetemperature"
   },
   {
+    "j": "la tempéthatuthe est pus haute aniet",
+    "e": "the temperature is higher today",
+    "k": "latempethatutheestpushauteaniet",
+    "f": "thetemperatureishighertoday"
+  },
+  {
     "j": "la tenvril'ye",
     "e": "thin person",
     "k": "latenvrilye",
@@ -17785,27 +21769,15 @@ export const vocabData = [
   },
   {
     "j": "la tèrre",
-    "e": "soil",
+    "e": "earth, soil",
     "k": "laterre",
-    "f": "soil"
+    "f": "earth,soil"
   },
   {
     "j": "la tèrre friabl'ye",
     "e": "friable soil",
     "k": "laterrefriablye",
     "f": "friablesoil"
-  },
-  {
-    "j": "la tèrre",
-    "e": "earth",
-    "k": "laterre",
-    "f": "earth"
-  },
-  {
-    "j": "la Tèrre",
-    "e": "Earth",
-    "k": "laterre",
-    "f": "earth"
   },
   {
     "j": "la tête",
@@ -17818,12 +21790,6 @@ export const vocabData = [
     "e": "peaked cap",
     "k": "lateunette",
     "f": "peakedcap"
-  },
-  {
-    "j": "la teunique",
-    "e": "tunic",
-    "k": "lateunique",
-    "f": "tunic"
   },
   {
     "j": "la teunique",
@@ -17898,8 +21864,8 @@ export const vocabData = [
     "f": "ploughing"
   },
   {
-    "j": "la Toussaint",
-    "e": "All Saints",
+    "j": "la toussaint",
+    "e": "all saints",
     "k": "latoussaint",
     "f": "allsaints"
   },
@@ -17958,8 +21924,8 @@ export const vocabData = [
     "f": "sow"
   },
   {
-    "j": "la Trinn'té",
-    "e": "Trinity",
+    "j": "la trinn'té",
+    "e": "trinity",
     "k": "latrinnte",
     "f": "trinity"
   },
@@ -17968,12 +21934,6 @@ export const vocabData = [
     "e": "tripe",
     "k": "latripe",
     "f": "tripe"
-  },
-  {
-    "j": "la tripselle dé la montée",
-    "e": "landing",
-    "k": "latripselledelamontee",
-    "f": "landing"
   },
   {
     "j": "la tripselle dé la montée",
@@ -18001,15 +21961,21 @@ export const vocabData = [
   },
   {
     "j": "la tulipe pèrpétuelle",
-    "e": "California poppy",
+    "e": "california poppy",
     "k": "latulipeperpetuelle",
     "f": "californiapoppy"
   },
   {
     "j": "la typhoïde",
     "e": "typhoid",
-    "k": "latyphoïde",
+    "k": "latyphoide",
     "f": "typhoid"
+  },
+  {
+    "j": "la vaile",
+    "e": "sail",
+    "k": "lavaile",
+    "f": "sail"
   },
   {
     "j": "la vaile d'artimon, la mîsaine",
@@ -18036,22 +22002,16 @@ export const vocabData = [
     "f": "spritsail"
   },
   {
-    "j": "la vaile",
-    "e": "sail",
-    "k": "lavaile",
-    "f": "sail"
+    "j": "la vaisselle",
+    "e": "crockery",
+    "k": "lavaisselle",
+    "f": "crockery"
   },
   {
     "j": "la vaisselle dé porcélaine",
     "e": "china",
     "k": "lavaisselledeporcelaine",
     "f": "china"
-  },
-  {
-    "j": "la vaisselle",
-    "e": "crockery",
-    "k": "lavaisselle",
-    "f": "crockery"
   },
   {
     "j": "la valeu",
@@ -18084,8 +22044,8 @@ export const vocabData = [
     "f": "cow"
   },
   {
-    "j": "la vaque Jèrriaise",
-    "e": "Jersey cow",
+    "j": "la vaque jèrriaise",
+    "e": "jersey cow",
     "k": "lavaquejerriaise",
     "f": "jerseycow"
   },
@@ -18108,16 +22068,10 @@ export const vocabData = [
     "f": "vehicle"
   },
   {
-    "j": "la Veil'ye d'la Toussaint",
-    "e": "Halloween",
+    "j": "la veil'ye d'la toussaint",
+    "e": "halloween",
     "k": "laveilyedlatoussaint",
     "f": "halloween"
-  },
-  {
-    "j": "la veine varice",
-    "e": "varicose vein",
-    "k": "laveinevarice",
-    "f": "varicosevein"
   },
   {
     "j": "la veine",
@@ -18126,16 +22080,22 @@ export const vocabData = [
     "f": "vein"
   },
   {
+    "j": "la veine varice",
+    "e": "varicose vein",
+    "k": "laveinevarice",
+    "f": "varicosevein"
+  },
+  {
     "j": "la vèrdgette",
     "e": "cane, switch",
     "k": "laverdgette",
     "f": "cane,switch"
   },
   {
-    "j": "la vèrgue dé cacatouais",
-    "e": "royal-yard",
-    "k": "laverguedecacatouais",
-    "f": "royalyard"
+    "j": "la vèrgue",
+    "e": "yard",
+    "k": "lavergue",
+    "f": "yard"
   },
   {
     "j": "la vèrgue d'heune",
@@ -18156,10 +22116,10 @@ export const vocabData = [
     "f": "topgallantyard"
   },
   {
-    "j": "la vèrgue",
-    "e": "yard",
-    "k": "lavergue",
-    "f": "yard"
+    "j": "la vèrgue dé cacatouais",
+    "e": "royal-yard",
+    "k": "laverguedecacatouais",
+    "f": "royalyard"
   },
   {
     "j": "la vèrveine",
@@ -18169,15 +22129,9 @@ export const vocabData = [
   },
   {
     "j": "la vessie",
-    "e": "blister",
+    "e": "bladder, blister",
     "k": "lavessie",
-    "f": "blister"
-  },
-  {
-    "j": "la vessie",
-    "e": "bladder",
-    "k": "lavessie",
-    "f": "bladder"
+    "f": "bladder,blister"
   },
   {
     "j": "la vétheule",
@@ -18205,21 +22159,9 @@ export const vocabData = [
   },
   {
     "j": "la veue",
-    "e": "eyesight",
+    "e": "lighthouse, light, eyesight",
     "k": "laveue",
-    "f": "eyesight"
-  },
-  {
-    "j": "la veue",
-    "e": "light",
-    "k": "laveue",
-    "f": "light"
-  },
-  {
-    "j": "la veue",
-    "e": "lighthouse",
-    "k": "laveue",
-    "f": "lighthouse"
+    "f": "lighthouse,light,eyesight"
   },
   {
     "j": "la veuve",
@@ -18252,16 +22194,10 @@ export const vocabData = [
     "f": "queenbee"
   },
   {
-    "j": "la Vièrge",
-    "e": "the Virgin",
-    "k": "lavierge",
-    "f": "thevirgin"
-  },
-  {
     "j": "la vièrge",
-    "e": "virgin",
+    "e": "virgin, the virgin",
     "k": "lavierge",
-    "f": "virgin"
+    "f": "virgin,thevirgin"
   },
   {
     "j": "la vîngne dé patate",
@@ -18318,88 +22254,10 @@ export const vocabData = [
     "f": "vergee"
   },
   {
-    "j": "l'abbaye",
-    "e": "abbey",
-    "k": "labbaye",
-    "f": "abbey"
-  },
-  {
-    "j": "l'abbé",
-    "e": "abbot",
-    "k": "labbe",
-    "f": "abbot"
-  },
-  {
-    "j": "l'abbêsse",
-    "e": "abbess",
-    "k": "labbesse",
-    "f": "abbess"
-  },
-  {
-    "j": "l'abcès",
-    "e": "abcess",
-    "k": "labces",
-    "f": "abcess"
-  },
-  {
     "j": "labouother",
     "e": "to work land",
     "k": "labouother",
     "f": "toworkland"
-  },
-  {
-    "j": "l'abri d'beusse",
-    "e": "bus shelter",
-    "k": "labridbeusse",
-    "f": "busshelter"
-  },
-  {
-    "j": "l'absînthe",
-    "e": "absinth",
-    "k": "labsinthe",
-    "f": "absinth"
-  },
-  {
-    "j": "l'absolution",
-    "e": "absolution",
-    "k": "labsolution",
-    "f": "absolution"
-  },
-  {
-    "j": "l'abus",
-    "e": "abuse",
-    "k": "labus",
-    "f": "abuse"
-  },
-  {
-    "j": "l'académicien",
-    "e": "academician",
-    "k": "lacademicien",
-    "f": "academician"
-  },
-  {
-    "j": "l'acateux",
-    "e": "buyer",
-    "k": "lacateux",
-    "f": "buyer"
-  },
-  {
-    "j": "l'accointance",
-    "e": "acquaintance",
-    "k": "laccointance",
-    "f": "acquaintance"
-  },
-  {
-    "j": "l'accouochement",
-    "e": "delivery",
-    "k": "laccouochement",
-    "f": "delivery"
-  },
-  {
-    "j": "l'accouocheuse",
-    "e": "midwife",
-    "k": "laccouocheuse",
-    "f": "midwife"
   },
   {
     "j": "lâche",
@@ -18409,141 +22267,9 @@ export const vocabData = [
   },
   {
     "j": "lachi",
-    "e": "to lash",
+    "e": "lace, to lash",
     "k": "lachi",
-    "f": "tolash"
-  },
-  {
-    "j": "lachi",
-    "e": "lace",
-    "k": "lachi",
-    "f": "lace"
-  },
-  {
-    "j": "l'achocre",
-    "e": "awkward person",
-    "k": "lachocre",
-    "f": "awkwardperson"
-  },
-  {
-    "j": "l'acrobate",
-    "e": "acrobat",
-    "k": "lacrobate",
-    "f": "acrobat"
-  },
-  {
-    "j": "l'acteur",
-    "e": "actor",
-    "k": "lacteur",
-    "f": "actor"
-  },
-  {
-    "j": "l'actrice",
-    "e": "actress",
-    "k": "lactrice",
-    "f": "actress"
-  },
-  {
-    "j": "l'addiction",
-    "e": "addiction",
-    "k": "laddiction",
-    "f": "addiction"
-  },
-  {
-    "j": "l'adjudicateu",
-    "e": "adjudicator",
-    "k": "ladjudicateu",
-    "f": "adjudicator"
-  },
-  {
-    "j": "l'adminnistrateu",
-    "e": "administrator",
-    "k": "ladminnistrateu",
-    "f": "administrator"
-  },
-  {
-    "j": "l'adresse",
-    "e": "address",
-    "k": "ladresse",
-    "f": "address"
-  },
-  {
-    "j": "l'adultéthe",
-    "e": "adulterer",
-    "k": "ladultethe",
-    "f": "adulterer"
-  },
-  {
-    "j": "l'advèrsaithe",
-    "e": "adversary",
-    "k": "ladversaithe",
-    "f": "adversary"
-  },
-  {
-    "j": "l'aéroport",
-    "e": "airport",
-    "k": "laeroport",
-    "f": "airport"
-  },
-  {
-    "j": "l'affétchi",
-    "e": "snob",
-    "k": "laffetchi",
-    "f": "snob"
-  },
-  {
-    "j": "l'affliâtreux",
-    "e": "flatterer",
-    "k": "laffliatreux",
-    "f": "flatterer"
-  },
-  {
-    "j": "l'âge dé bronze",
-    "e": "bronze age",
-    "k": "lagedebronze",
-    "f": "bronzeage"
-  },
-  {
-    "j": "l'âgé dé fé",
-    "e": "iron age",
-    "k": "lagedefe",
-    "f": "ironage"
-  },
-  {
-    "j": "l'âge dé pièrre",
-    "e": "stone age",
-    "k": "lagedepierre",
-    "f": "stoneage"
-  },
-  {
-    "j": "l'agent d'asseûthance",
-    "e": "insurance agent",
-    "k": "lagentdasseuthance",
-    "f": "insuranceagent"
-  },
-  {
-    "j": "l'agent d'viage",
-    "e": "travel agent",
-    "k": "lagentdviage",
-    "f": "travelagent"
-  },
-  {
-    "j": "l'agîtant",
-    "e": "adjutant",
-    "k": "lagitant",
-    "f": "adjutant"
-  },
-  {
-    "j": "l'agravé",
-    "e": "miser",
-    "k": "lagrave",
-    "f": "miser"
-  },
-  {
-    "j": "l'agritchultuthe",
-    "e": "agriculture",
-    "k": "lagritchultuthe",
-    "f": "agriculture"
+    "f": "lace,tolash"
   },
   {
     "j": "laid",
@@ -18554,38 +22280,14 @@ export const vocabData = [
   {
     "j": "laïesse",
     "e": "hard limestone",
-    "k": "laïesse",
+    "k": "laiesse",
     "f": "hardlimestone"
-  },
-  {
-    "j": "l'aigrefîn",
-    "e": "swindler",
-    "k": "laigrefin",
-    "f": "swindler"
-  },
-  {
-    "j": "l'ail",
-    "e": "garlic",
-    "k": "lail",
-    "f": "garlic"
-  },
-  {
-    "j": "l'ain, lé cro",
-    "e": "fishing-hook",
-    "k": "lain,lecro",
-    "f": "fishinghook"
   },
   {
     "j": "laine",
     "e": "wool",
     "k": "laine",
     "f": "wool"
-  },
-  {
-    "j": "l'ais",
-    "e": "shelf",
-    "k": "lais",
-    "f": "shelf"
   },
   {
     "j": "laîssi",
@@ -18600,100 +22302,10 @@ export const vocabData = [
     "f": "milky"
   },
   {
-    "j": "l'alcool",
-    "e": "alcohol",
-    "k": "lalcool",
-    "f": "alcohol"
-  },
-  {
-    "j": "l'alcoolisme",
-    "e": "alcoholism",
-    "k": "lalcoolisme",
-    "f": "alcoholism"
-  },
-  {
-    "j": "l'allée",
-    "e": "hall",
-    "k": "lallee",
-    "f": "hall"
-  },
-  {
-    "j": "l'Allémand",
-    "e": "German",
-    "k": "lallemand",
-    "f": "german"
-  },
-  {
-    "j": "l'almonnas",
-    "e": "calendar",
-    "k": "lalmonnas",
-    "f": "calendar"
-  },
-  {
-    "j": "l'ambassade",
-    "e": "embassy",
-    "k": "lambassade",
-    "f": "embassy"
-  },
-  {
-    "j": "l'ambassadeu",
-    "e": "ambassador",
-    "k": "lambassadeu",
-    "f": "ambassador"
-  },
-  {
-    "j": "l'ambulance",
-    "e": "ambulance",
-    "k": "lambulance",
-    "f": "ambulance"
-  },
-  {
-    "j": "l'amitha",
-    "e": "admiral",
-    "k": "lamitha",
-    "f": "admiral"
-  },
-  {
-    "j": "l'amitha",
-    "e": "flagship",
-    "k": "lamitha",
-    "f": "flagship"
-  },
-  {
-    "j": "l'amithauté",
-    "e": "admiralty",
-    "k": "lamithaute",
-    "f": "admiralty"
-  },
-  {
-    "j": "l'amouotheuse",
-    "e": "lover (f)",
-    "k": "lamouotheuse",
-    "f": "lover(f)"
-  },
-  {
-    "j": "l'amouotheux",
-    "e": "lover (m)",
-    "k": "lamouotheux",
-    "f": "lover(m)"
-  },
-  {
-    "j": "l'amour",
-    "e": "love",
-    "k": "lamour",
-    "f": "love"
-  },
-  {
-    "j": "l'anarchiste",
-    "e": "anarchist",
-    "k": "lanarchiste",
-    "f": "anarchist"
-  },
-  {
-    "j": "l'anchêtre",
-    "e": "ancestor",
-    "k": "lanchetre",
-    "f": "ancestor"
+    "j": "lanchi",
+    "e": "throw",
+    "k": "lanchi",
+    "f": "throw"
   },
   {
     "j": "lanchi eune pathe dg'ièrs",
@@ -18702,86 +22314,14 @@ export const vocabData = [
     "f": "tothrowaglance"
   },
   {
-    "j": "lanchi",
-    "e": "throw",
-    "k": "lanchi",
-    "f": "throw"
-  },
-  {
     "j": "lanchi, affliouer",
     "e": "launch",
     "k": "lanchi,affliouer",
     "f": "launch"
   },
   {
-    "j": "l'ancienneté",
-    "e": "ancient times",
-    "k": "lanciennete",
-    "f": "ancienttimes"
-  },
-  {
-    "j": "l'ancre",
-    "e": "anchor",
-    "k": "lancre",
-    "f": "anchor"
-  },
-  {
-    "j": "l'anémône (f) d'la sînmie",
-    "e": "Anemones",
-    "k": "lanemone(f)dlasinmie",
-    "f": "anemones"
-  },
-  {
-    "j": "l'Angliais",
-    "e": "English",
-    "k": "langliais",
-    "f": "english"
-  },
-  {
-    "j": "l'angné",
-    "e": "lamb",
-    "k": "langne",
-    "f": "lamb"
-  },
-  {
-    "j": "l'anis",
-    "e": "aniseed",
-    "k": "lanis",
-    "f": "aniseed"
-  },
-  {
-    "j": "l'anmîn",
-    "e": "friend",
-    "k": "lanmin",
-    "f": "friend"
-  },
-  {
-    "j": "l'année pâssée",
-    "e": "last year",
-    "k": "lanneepassee",
-    "f": "lastyear"
-  },
-  {
-    "j": "l'année tchi veint",
-    "e": "next year",
-    "k": "lanneetchiveint",
-    "f": "nextyear"
-  },
-  {
-    "j": "l'annonceux",
-    "e": "announcer, presenter",
-    "k": "lannonceux",
-    "f": "announcer,presenter"
-  },
-  {
-    "j": "l'ântchie",
-    "e": "pillowcase",
-    "k": "lantchie",
-    "f": "pillowcase"
-  },
-  {
-    "j": "Laos",
-    "e": "Laos",
+    "j": "laos",
+    "e": "laos",
     "k": "laos",
     "f": "laos"
   },
@@ -18792,76 +22332,16 @@ export const vocabData = [
     "f": "tostone"
   },
   {
-    "j": "l'apoplexie",
-    "e": "apoplexy",
-    "k": "lapoplexie",
-    "f": "apoplexy"
-  },
-  {
-    "j": "l'apotiqu'sie",
-    "e": "chemist",
-    "k": "lapotiqusie",
-    "f": "chemist"
-  },
-  {
-    "j": "l'apotitchi",
-    "e": "chemist",
-    "k": "lapotitchi",
-    "f": "chemist"
-  },
-  {
-    "j": "l'apôtre",
-    "e": "apostle",
-    "k": "lapotre",
-    "f": "apostle"
-  },
-  {
-    "j": "l'appartément",
-    "e": "flat, room",
-    "k": "lappartement",
-    "f": "flat,room"
-  },
-  {
-    "j": "l'appentis",
-    "e": "lean-to",
-    "k": "lappentis",
-    "f": "leanto"
-  },
-  {
     "j": "lapper",
     "e": "lap",
     "k": "lapper",
     "f": "lap"
   },
   {
-    "j": "l'applyitchant",
-    "e": "applicant",
-    "k": "lapplyitchant",
-    "f": "applicant"
-  },
-  {
-    "j": "l'arche",
-    "e": "arch",
-    "k": "larche",
-    "f": "arch"
-  },
-  {
-    "j": "l'archéologie",
-    "e": "archaeology",
-    "k": "larcheologie",
-    "f": "archaeology"
-  },
-  {
-    "j": "l'architecte",
-    "e": "architect",
-    "k": "larchitecte",
-    "f": "architect"
-  },
-  {
-    "j": "l'ardouaise",
-    "e": "slate",
-    "k": "lardouaise",
-    "f": "slate"
+    "j": "large",
+    "e": "wide",
+    "k": "large",
+    "f": "wide"
   },
   {
     "j": "large d'bord",
@@ -18876,172 +22356,10 @@ export const vocabData = [
     "f": "broadinthebeam"
   },
   {
-    "j": "large",
-    "e": "wide",
-    "k": "large",
-    "f": "wide"
-  },
-  {
-    "j": "l'argentchi",
-    "e": "silversmith",
-    "k": "largentchi",
-    "f": "silversmith"
-  },
-  {
-    "j": "l'arlévée",
-    "e": "afternoon",
-    "k": "larlevee",
-    "f": "afternoon"
-  },
-  {
-    "j": "l'armée",
-    "e": "army",
-    "k": "larmee",
-    "f": "army"
-  },
-  {
-    "j": "l'armément",
-    "e": "armament",
-    "k": "larmement",
-    "f": "armament"
-  },
-  {
-    "j": "l'armistie",
-    "e": "armistice",
-    "k": "larmistie",
-    "f": "armistice"
-  },
-  {
-    "j": "l'armouaithe",
-    "e": "cupboard",
-    "k": "larmouaithe",
-    "f": "cupboard"
-  },
-  {
-    "j": "l'arpenteux",
-    "e": "land surveyor",
-    "k": "larpenteux",
-    "f": "landsurveyor"
-  },
-  {
-    "j": "l'arrêt d'beusse",
-    "e": "bus stop",
-    "k": "larretdbeusse",
-    "f": "busstop"
-  },
-  {
-    "j": "l'arriéthe",
-    "e": "stern",
-    "k": "larriethe",
-    "f": "stern"
-  },
-  {
-    "j": "l'arriéthe-petite-fil' ye",
-    "e": "great-granddaughter",
-    "k": "larriethepetitefilye",
-    "f": "greatgranddaughter"
-  },
-  {
-    "j": "l'arriéthe-pétit-fis",
-    "e": "great-grandson",
-    "k": "larriethepetitfis",
-    "f": "greatgrandson"
-  },
-  {
     "j": "lârron",
     "e": "thief",
     "k": "larron",
     "f": "thief"
-  },
-  {
-    "j": "l'arrouôsage",
-    "e": "watering",
-    "k": "larrouosage",
-    "f": "watering"
-  },
-  {
-    "j": "l'arsénîn",
-    "e": "arsenic",
-    "k": "larsenin",
-    "f": "arsenic"
-  },
-  {
-    "j": "l'art",
-    "e": "art",
-    "k": "lart",
-    "f": "art"
-  },
-  {
-    "j": "l'artichaut vèrt",
-    "e": "globe artichoke",
-    "k": "lartichautvert",
-    "f": "globeartichoke"
-  },
-  {
-    "j": "l'artill'lie d'pid",
-    "e": "heavy artillery",
-    "k": "lartillliedpid",
-    "f": "heavyartillery"
-  },
-  {
-    "j": "l'artill'lie",
-    "e": "artillery",
-    "k": "lartilllie",
-    "f": "artillery"
-  },
-  {
-    "j": "l'artiste",
-    "e": "artist",
-    "k": "lartiste",
-    "f": "artist"
-  },
-  {
-    "j": "l'as dé trêfl'ye",
-    "e": "the ace of clubs",
-    "k": "lasdetreflye",
-    "f": "theaceofclubs"
-  },
-  {
-    "j": "l'as",
-    "e": "ace",
-    "k": "las",
-    "f": "ace"
-  },
-  {
-    "j": "l'ascenseux",
-    "e": "lift",
-    "k": "lascenseux",
-    "f": "lift"
-  },
-  {
-    "j": "l'Ascension",
-    "e": "Ascension",
-    "k": "lascension",
-    "f": "ascension"
-  },
-  {
-    "j": "l'aspèrge",
-    "e": "asparagus",
-    "k": "lasperge",
-    "f": "asparagus"
-  },
-  {
-    "j": "l'assâsîn",
-    "e": "assassin",
-    "k": "lassasin",
-    "f": "assassin"
-  },
-  {
-    "j": "l'assâsinâtion",
-    "e": "assassination",
-    "k": "lassasination",
-    "f": "assassination"
-  },
-  {
-    "j": "l'assembliée d'pâraîsse",
-    "e": "parish assembly",
-    "k": "lassemblieedparaisse",
-    "f": "parishassembly"
   },
   {
     "j": "lâsser",
@@ -19050,184 +22368,10 @@ export const vocabData = [
     "f": "tire"
   },
   {
-    "j": "l'assèrmentâtion",
-    "e": "swearing in",
-    "k": "lassermentation",
-    "f": "swearingin"
-  },
-  {
-    "j": "l'asseûthance",
-    "e": "insurance",
-    "k": "lasseuthance",
-    "f": "insurance"
-  },
-  {
-    "j": "l'assistant",
-    "e": "assistant",
-    "k": "lassistant",
-    "f": "assistant"
-  },
-  {
-    "j": "l'asthma",
-    "e": "asthma",
-    "k": "lasthma",
-    "f": "asthma"
-  },
-  {
-    "j": "l'astronomie",
-    "e": "astronomy",
-    "k": "lastronomie",
-    "f": "astronomy"
-  },
-  {
-    "j": "l'atchusâtion",
-    "e": "accusation",
-    "k": "latchusation",
-    "f": "accusation"
-  },
-  {
-    "j": "l'atchusé",
-    "e": "accused",
-    "k": "latchuse",
-    "f": "accused"
-  },
-  {
-    "j": "l'atchuseux",
-    "e": "accuser",
-    "k": "latchuseux",
-    "f": "accuser"
-  },
-  {
-    "j": "l'âtelle en jaune tchuivre",
-    "e": "brass ring",
-    "k": "latelleenjaunetchuivre",
-    "f": "brassring"
-  },
-  {
-    "j": "l'athée",
-    "e": "atheist",
-    "k": "lathee",
-    "f": "atheist"
-  },
-  {
-    "j": "l'atmosphéthe",
-    "e": "atmosphere",
-    "k": "latmosphethe",
-    "f": "atmosphere"
-  },
-  {
-    "j": "l'âtre",
-    "e": "hearth",
-    "k": "latre",
-    "f": "hearth"
-  },
-  {
     "j": "latter",
     "e": "to beat, to spank, to cane",
     "k": "latter",
     "f": "tobeat,tospank,tocane"
-  },
-  {
-    "j": "l'att'lage",
-    "e": "harness",
-    "k": "lattlage",
-    "f": "harness"
-  },
-  {
-    "j": "l'attrapeux",
-    "e": "trickster",
-    "k": "lattrapeux",
-    "f": "trickster"
-  },
-  {
-    "j": "l'aubèrginne",
-    "e": "aubergine",
-    "k": "lauberginne",
-    "f": "aubergine"
-  },
-  {
-    "j": "l'aubèrgiste",
-    "e": "pub landlord",
-    "k": "laubergiste",
-    "f": "publandlord"
-  },
-  {
-    "j": "l'auditeu",
-    "e": "auditor",
-    "k": "lauditeu",
-    "f": "auditor"
-  },
-  {
-    "j": "l'aûgni",
-    "e": "owner",
-    "k": "laugni",
-    "f": "owner"
-  },
-  {
-    "j": "l'aûmathe, l'aûmathe dé baté, lé codîn",
-    "e": "locker, cuddy",
-    "k": "laumathe,laumathedebate,lecodin",
-    "f": "locker,cuddy"
-  },
-  {
-    "j": "l'aumônyi",
-    "e": "chaplain",
-    "k": "laumonyi",
-    "f": "chaplain"
-  },
-  {
-    "j": "l'aussiéthe",
-    "e": "hawser",
-    "k": "laussiethe",
-    "f": "hawser"
-  },
-  {
-    "j": "l'autel",
-    "e": "altar",
-    "k": "lautel",
-    "f": "altar"
-  },
-  {
-    "j": "l'auteu",
-    "e": "writer",
-    "k": "lauteu",
-    "f": "writer"
-  },
-  {
-    "j": "l'avaine",
-    "e": "oats",
-    "k": "lavaine",
-    "f": "oats"
-  },
-  {
-    "j": "l'avanchon",
-    "e": "hook for collar chain",
-    "k": "lavanchon",
-    "f": "hookforcollarchain"
-  },
-  {
-    "j": "l'avant",
-    "e": "bow",
-    "k": "lavant",
-    "f": "bow"
-  },
-  {
-    "j": "l'avare",
-    "e": "miser",
-    "k": "lavare",
-    "f": "miser"
-  },
-  {
-    "j": "l'avé",
-    "e": "child",
-    "k": "lave",
-    "f": "child"
-  },
-  {
-    "j": "laver les vaissieaux",
-    "e": "to do the washing up",
-    "k": "laverlesvaissieaux",
-    "f": "todothewashingup"
   },
   {
     "j": "laver",
@@ -19236,106 +22380,10 @@ export const vocabData = [
     "f": "wash"
   },
   {
-    "j": "l'aveugliément",
-    "e": "con",
-    "k": "laveugliement",
-    "f": "con"
-  },
-  {
-    "j": "l'aveugliéthie",
-    "e": "con",
-    "k": "laveugliethie",
-    "f": "con"
-  },
-  {
-    "j": "l'avion",
-    "e": "plane",
-    "k": "lavion",
-    "f": "plane"
-  },
-  {
-    "j": "l'avion à réaction",
-    "e": "jet",
-    "k": "lavionareaction",
-    "f": "jet"
-  },
-  {
-    "j": "l'av'née",
-    "e": "straw of oats",
-    "k": "lavnee",
-    "f": "strawofoats"
-  },
-  {
-    "j": "l'avocat, l'homme d'affaithes",
-    "e": "barrister",
-    "k": "lavocat,lhommedaffaithes",
-    "f": "barrister"
-  },
-  {
-    "j": "l'avouortément",
-    "e": "abortion",
-    "k": "lavouortement",
-    "f": "abortion"
-  },
-  {
-    "j": "l'avouôteux",
-    "e": "harvester",
-    "k": "lavouoteux",
-    "f": "harvester"
-  },
-  {
-    "j": "l'avouôt'rêsse",
-    "e": "harvest moon",
-    "k": "lavouotresse",
-    "f": "harvestmoon"
-  },
-  {
-    "j": "l'avoût",
-    "e": "harvest",
-    "k": "lavout",
-    "f": "harvest"
-  },
-  {
-    "j": "l'ayant-drouait",
-    "e": "beneficiary",
-    "k": "layantdrouait",
-    "f": "beneficiary"
-  },
-  {
-    "j": "l'Caticème",
-    "e": "catechism",
-    "k": "lcaticeme",
-    "f": "catechism"
-  },
-  {
-    "j": "l'ciel",
-    "e": "sky",
-    "k": "lciel",
-    "f": "sky"
-  },
-  {
-    "j": "l'cliochi",
-    "e": "spire",
-    "k": "lcliochi",
-    "f": "spire"
-  },
-  {
-    "j": "l'côffre",
-    "e": "coffin",
-    "k": "lcoffre",
-    "f": "coffin"
-  },
-  {
-    "j": "l'conmèrce des drogues",
-    "e": "drug trafficking",
-    "k": "lconmercedesdrogues",
-    "f": "drugtrafficking"
-  },
-  {
-    "j": "l'dotchûment",
-    "e": "document",
-    "k": "ldotchument",
-    "f": "document"
+    "j": "laver les vaissieaux",
+    "e": "to do the washing up",
+    "k": "laverlesvaissieaux",
+    "f": "todothewashingup"
   },
   {
     "j": "lé babord, à babord",
@@ -19362,8 +22410,8 @@ export const vocabData = [
     "f": "chatterbox"
   },
   {
-    "j": "lé Bailli",
-    "e": "Bailiff",
+    "j": "lé bailli",
+    "e": "bailiff",
     "k": "lebailli",
     "f": "bailiff"
   },
@@ -19488,6 +22536,12 @@ export const vocabData = [
     "f": "helmsman"
   },
   {
+    "j": "lé bas",
+    "e": "ground floor",
+    "k": "lebas",
+    "f": "groundfloor"
+  },
+  {
     "j": "lé bas d'sé",
     "e": "anus",
     "k": "lebasdse",
@@ -19506,12 +22560,6 @@ export const vocabData = [
     "f": "lowermast(s)"
   },
   {
-    "j": "lé bas",
-    "e": "ground floor",
-    "k": "lebas",
-    "f": "groundfloor"
-  },
-  {
     "j": "lé bas-dg'ieau",
     "e": "low water",
     "k": "lebasdgieau",
@@ -19522,6 +22570,12 @@ export const vocabData = [
     "e": "spaniel",
     "k": "lebasset",
     "f": "spaniel"
+  },
+  {
+    "j": "lé bat-les-banques",
+    "e": "lazybones",
+    "k": "lebatlesbanques",
+    "f": "lazybones"
   },
   {
     "j": "lé bataillon",
@@ -19560,28 +22614,22 @@ export const vocabData = [
     "f": "rubbishbin"
   },
   {
-    "j": "lé bâtisse à stâtionner",
-    "e": "multi-storey car park",
-    "k": "lebatisseastationner",
-    "f": "multistoreycarpark"
-  },
-  {
     "j": "lé bâtisse",
     "e": "building",
     "k": "lebatisse",
     "f": "building"
   },
   {
+    "j": "lé bâtisse à stâtionner",
+    "e": "multi-storey car park",
+    "k": "lebatisseastationner",
+    "f": "multistoreycarpark"
+  },
+  {
     "j": "lé bâtisseux",
     "e": "builder",
     "k": "lebatisseux",
     "f": "builder"
-  },
-  {
-    "j": "lé bat-les-banques",
-    "e": "lazybones",
-    "k": "lebatlesbanques",
-    "f": "lazybones"
   },
   {
     "j": "lé battement",
@@ -19591,7 +22639,7 @@ export const vocabData = [
   },
   {
     "j": "lé baûmyi",
-    "e": "Balsam Poplar",
+    "e": "balsam poplar",
     "k": "lebaumyi",
     "f": "balsampoplar"
   },
@@ -19621,27 +22669,15 @@ export const vocabData = [
   },
   {
     "j": "lé bel",
-    "e": "courtyard",
+    "e": "courtyard, farmyard",
     "k": "lebel",
-    "f": "courtyard"
+    "f": "courtyard,farmyard"
   },
   {
-    "j": "lé bel",
-    "e": "farmyard",
-    "k": "lebel",
-    "f": "farmyard"
-  },
-  {
-    "j": "lé Bel Rouoya",
-    "e": "Bel Royal",
+    "j": "lé bel rouoya",
+    "e": "bel royal",
     "k": "lebelrouoya",
     "f": "belroyal"
-  },
-  {
-    "j": "lé bel",
-    "e": "courtyard",
-    "k": "lebel",
-    "f": "courtyard"
   },
   {
     "j": "lé bélengi",
@@ -19650,16 +22686,16 @@ export const vocabData = [
     "f": "willothewisp"
   },
   {
-    "j": "lé bèr à vrai",
-    "e": "vraic cradle",
-    "k": "leberavrai",
-    "f": "vraiccradle"
-  },
-  {
     "j": "lé bèr",
     "e": "cradle",
     "k": "leber",
     "f": "cradle"
+  },
+  {
+    "j": "lé bèr à vrai",
+    "e": "vraic cradle",
+    "k": "leberavrai",
+    "f": "vraiccradle"
   },
   {
     "j": "lé bestchias",
@@ -19675,15 +22711,9 @@ export const vocabData = [
   },
   {
     "j": "lé betchet",
-    "e": "chunk of bread",
+    "e": "small plot of land, chunk of bread",
     "k": "lebetchet",
-    "f": "chunkofbread"
-  },
-  {
-    "j": "lé betchet",
-    "e": "small plot of land",
-    "k": "lebetchet",
-    "f": "smallplotofland"
+    "f": "smallplotofland,chunkofbread"
   },
   {
     "j": "lé beurre",
@@ -19723,15 +22753,9 @@ export const vocabData = [
   },
   {
     "j": "lé bieau-fis",
-    "e": "son-in-law",
+    "e": "stepson, son-in-law",
     "k": "lebieaufis",
-    "f": "soninlaw"
-  },
-  {
-    "j": "lé bieau-fis",
-    "e": "stepson",
-    "k": "lebieaufis",
-    "f": "stepson"
+    "f": "stepson,soninlaw"
   },
   {
     "j": "lé bieau-fréthe",
@@ -19789,21 +22813,21 @@ export const vocabData = [
   },
   {
     "j": "lé blianc-bouais",
-    "e": "White Poplar",
+    "e": "white poplar",
     "k": "lebliancbouais",
     "f": "whitepoplar"
-  },
-  {
-    "j": "lé blianchet",
-    "e": "cardigan",
-    "k": "leblianchet",
-    "f": "cardigan"
   },
   {
     "j": "lé blianc-ours",
     "e": "polar bear",
     "k": "lebliancours",
     "f": "polarbear"
+  },
+  {
+    "j": "lé blianchet",
+    "e": "cardigan",
+    "k": "leblianchet",
+    "f": "cardigan"
   },
   {
     "j": "lé bliâsîn",
@@ -19818,8 +22842,8 @@ export const vocabData = [
     "f": "shoepolish"
   },
   {
-    "j": "lé bliu lis, lé lis d'Afrique",
-    "e": "African lily",
+    "j": "lé bliu lis, lé lis d'afrique",
+    "e": "african lily",
     "k": "lebliulis,lelisdafrique",
     "f": "africanlily"
   },
@@ -19831,15 +22855,9 @@ export const vocabData = [
   },
   {
     "j": "lé boeu",
-    "e": "ox",
+    "e": "bullock, ox",
     "k": "leboeu",
-    "f": "ox"
-  },
-  {
-    "j": "lé boeu",
-    "e": "bullock",
-    "k": "leboeu",
-    "f": "bullock"
+    "f": "bullock,ox"
   },
   {
     "j": "lé boeu, lé touathé",
@@ -19858,6 +22876,12 @@ export const vocabData = [
     "e": "bombardment",
     "k": "lebombardement",
     "f": "bombardment"
+  },
+  {
+    "j": "lé bord",
+    "e": "board, side of ship",
+    "k": "lebord",
+    "f": "board,sideofship"
   },
   {
     "j": "lé bord à tèrre",
@@ -19884,25 +22908,13 @@ export const vocabData = [
     "f": "leeward"
   },
   {
-    "j": "lé bord",
-    "e": "board, side of ship",
-    "k": "lebord",
-    "f": "board,sideofship"
-  },
-  {
     "j": "lé bordage, la bordaille, du bord dé baté",
     "e": "planking",
     "k": "lebordage,labordaille,duborddebate",
     "f": "planking"
   },
   {
-    "j": "lé Bordgieaux",
-    "e": "claret",
-    "k": "lebordgieaux",
-    "f": "claret"
-  },
-  {
-    "j": "lé Bordgieaux",
+    "j": "lé bordgieaux",
     "e": "claret",
     "k": "lebordgieaux",
     "f": "claret"
@@ -19940,13 +22952,13 @@ export const vocabData = [
   {
     "j": "lé bouët",
     "e": "bull-calf",
-    "k": "lebouët",
+    "k": "lebouet",
     "f": "bullcalf"
   },
   {
     "j": "lé bouët-bouteux",
     "e": "simpleton",
-    "k": "lebouëtbouteux",
+    "k": "lebouetbouteux",
     "f": "simpleton"
   },
   {
@@ -19993,15 +23005,9 @@ export const vocabData = [
   },
   {
     "j": "lé bouoillon",
-    "e": "broth",
+    "e": "spring, broth",
     "k": "lebouoillon",
-    "f": "broth"
-  },
-  {
-    "j": "lé bouoillon",
-    "e": "spring",
-    "k": "lebouoillon",
-    "f": "spring"
+    "f": "spring,broth"
   },
   {
     "j": "lé bouolîngni",
@@ -20046,22 +23052,10 @@ export const vocabData = [
     "f": "button"
   },
   {
-    "j": "lé bouton",
-    "e": "button",
-    "k": "lebouton",
-    "f": "button"
-  },
-  {
     "j": "lé brâcelet",
     "e": "bracelet",
     "k": "lebracelet",
     "f": "bracelet"
-  },
-  {
-    "j": "lé bracheux",
-    "e": "brewer",
-    "k": "lebracheux",
-    "f": "brewer"
   },
   {
     "j": "lé bracheux",
@@ -20082,22 +23076,10 @@ export const vocabData = [
     "f": "branchage"
   },
   {
-    "j": "lé brancage",
-    "e": "branchage",
-    "k": "lebrancage",
-    "f": "branchage"
-  },
-  {
     "j": "lé bras",
     "e": "arm",
     "k": "lebras",
     "f": "arm"
-  },
-  {
-    "j": "lé brécolîn",
-    "e": "broccoli",
-    "k": "lebrecolin",
-    "f": "broccoli"
   },
   {
     "j": "lé brécolîn",
@@ -20119,15 +23101,9 @@ export const vocabData = [
   },
   {
     "j": "lé brouoillon",
-    "e": "draft",
+    "e": "rough, draft",
     "k": "lebrouoillon",
-    "f": "draft"
-  },
-  {
-    "j": "lé brouoillon",
-    "e": "rough",
-    "k": "lebrouoillon",
-    "f": "rough"
+    "f": "rough,draft"
   },
   {
     "j": "lé broussîn",
@@ -20160,6 +23136,30 @@ export const vocabData = [
     "f": "leat"
   },
   {
+    "j": "lé c'menchant",
+    "e": "beginner",
+    "k": "lecmenchant",
+    "f": "beginner"
+  },
+  {
+    "j": "lé c'mîn",
+    "e": "path",
+    "k": "lecmin",
+    "f": "path"
+  },
+  {
+    "j": "lé c'mîn à bike",
+    "e": "cycle path",
+    "k": "lecminabike",
+    "f": "cyclepath"
+  },
+  {
+    "j": "lé c'mîn d'fé",
+    "e": "railway",
+    "k": "lecmindfe",
+    "f": "railway"
+  },
+  {
     "j": "lé câbl'ye",
     "e": "cable",
     "k": "lecablye",
@@ -20178,16 +23178,16 @@ export const vocabData = [
     "f": "driver"
   },
   {
-    "j": "lé cadâvre",
-    "e": "corpse",
-    "k": "lecadavre",
-    "f": "corpse"
-  },
-  {
     "j": "lé cad'lîn",
     "e": "spoilt person",
     "k": "lecadlin",
     "f": "spoiltperson"
+  },
+  {
+    "j": "lé cadâvre",
+    "e": "corpse",
+    "k": "lecadavre",
+    "f": "corpse"
   },
   {
     "j": "lé café",
@@ -20196,8 +23196,8 @@ export const vocabData = [
     "f": "coffee"
   },
   {
-    "j": "Lé Caire",
-    "e": "Cairo",
+    "j": "lé caire",
+    "e": "cairo",
     "k": "lecaire",
     "f": "cairo"
   },
@@ -20208,16 +23208,16 @@ export const vocabData = [
     "f": "calendar"
   },
   {
-    "j": "lé caltchul du sens d'sa tête",
-    "e": "mental arithmetic",
-    "k": "lecaltchuldusensdsatete",
-    "f": "mentalarithmetic"
-  },
-  {
     "j": "lé caltchul",
     "e": "arithmetic",
     "k": "lecaltchul",
     "f": "arithmetic"
+  },
+  {
+    "j": "lé caltchul du sens d'sa tête",
+    "e": "mental arithmetic",
+    "k": "lecaltchuldusensdsatete",
+    "f": "mentalarithmetic"
   },
   {
     "j": "lé caltchuleux",
@@ -20292,28 +23292,22 @@ export const vocabData = [
     "f": "cannon"
   },
   {
-    "j": "lé cantique d'Noué",
-    "e": "Christmas carol",
-    "k": "lecantiquednoue",
-    "f": "christmascarol"
-  },
-  {
     "j": "lé cantique",
     "e": "hymn",
     "k": "lecantique",
     "f": "hymn"
   },
   {
+    "j": "lé cantique d'noué",
+    "e": "christmas carol",
+    "k": "lecantiquednoue",
+    "f": "christmascarol"
+  },
+  {
     "j": "lé cap' taine",
     "e": "captain",
     "k": "lecaptaine",
     "f": "captain"
-  },
-  {
-    "j": "lé capeste, lé vitheveau",
-    "e": "capstan",
-    "k": "lecapeste,levitheveau",
-    "f": "capstan"
   },
   {
     "j": "lé cap'taine à la course",
@@ -20328,6 +23322,12 @@ export const vocabData = [
     "f": "captain"
   },
   {
+    "j": "lé capeste, lé vitheveau",
+    "e": "capstan",
+    "k": "lecapeste,levitheveau",
+    "f": "capstan"
+  },
+  {
     "j": "lé caqu'teux",
     "e": "chatterbox",
     "k": "lecaquteux",
@@ -20340,8 +23340,8 @@ export const vocabData = [
     "f": "caraway"
   },
   {
-    "j": "lé Cardinna",
-    "e": "Cardinal",
+    "j": "lé cardinna",
+    "e": "cardinal",
     "k": "lecardinna",
     "f": "cardinal"
   },
@@ -20400,16 +23400,28 @@ export const vocabData = [
     "f": "celeriac"
   },
   {
-    "j": "lé chabot",
-    "e": "brake",
-    "k": "lechabot",
-    "f": "brake"
+    "j": "lé ch'lyi",
+    "e": "cellar",
+    "k": "lechlyi",
+    "f": "cellar"
+  },
+  {
+    "j": "lé ch'na",
+    "e": "channel",
+    "k": "lechna",
+    "f": "channel"
+  },
+  {
+    "j": "lé ch'napan",
+    "e": "rogue",
+    "k": "lechnapan",
+    "f": "rogue"
   },
   {
     "j": "lé chabot",
-    "e": "clog",
+    "e": "clog, brake",
     "k": "lechabot",
-    "f": "clog"
+    "f": "clog,brake"
   },
   {
     "j": "lé champangne",
@@ -20431,15 +23443,9 @@ export const vocabData = [
   },
   {
     "j": "lé change",
-    "e": "change",
+    "e": "the exchange rate, change",
     "k": "lechange",
-    "f": "change"
-  },
-  {
-    "j": "lé change",
-    "e": "the exchange rate",
-    "k": "lechange",
-    "f": "theexchangerate"
+    "f": "theexchangerate,change"
   },
   {
     "j": "lé changlyi",
@@ -20460,6 +23466,12 @@ export const vocabData = [
     "f": "storeroom"
   },
   {
+    "j": "lé chapé",
+    "e": "helmet of orion, hat",
+    "k": "lechape",
+    "f": "helmetoforion,hat"
+  },
+  {
     "j": "lé chapé du pot' à thée",
     "e": "tea-cosy",
     "k": "lechapedupotathee",
@@ -20470,18 +23482,6 @@ export const vocabData = [
     "e": "floppy hat",
     "k": "lechapegorneux",
     "f": "floppyhat"
-  },
-  {
-    "j": "lé chapé",
-    "e": "hat",
-    "k": "lechape",
-    "f": "hat"
-  },
-  {
-    "j": "lé Chapé",
-    "e": "Helmet of Orion",
-    "k": "lechape",
-    "f": "helmetoforion"
   },
   {
     "j": "lé chapon",
@@ -20502,16 +23502,16 @@ export const vocabData = [
     "f": "wheelwright"
   },
   {
-    "j": "lé châté dé sablion",
-    "e": "sandcastle",
-    "k": "lechatedesablion",
-    "f": "sandcastle"
-  },
-  {
     "j": "lé châté",
     "e": "castle",
     "k": "lechate",
     "f": "castle"
+  },
+  {
+    "j": "lé châté dé sablion",
+    "e": "sandcastle",
+    "k": "lechatedesablion",
+    "f": "sandcastle"
   },
   {
     "j": "lé châté, lé gaillard d'avant",
@@ -20538,6 +23538,12 @@ export const vocabData = [
     "f": "threshold"
   },
   {
+    "j": "lé chef",
+    "e": "chief",
+    "k": "lechef",
+    "f": "chief"
+  },
+  {
     "j": "lé chef dé deu",
     "e": "chief mourner",
     "k": "lechefdedeu",
@@ -20550,14 +23556,8 @@ export const vocabData = [
     "f": "conductor"
   },
   {
-    "j": "lé chef",
-    "e": "chief",
-    "k": "lechef",
-    "f": "chief"
-  },
-  {
-    "j": "lé Chent'nyi",
-    "e": "Centenier",
+    "j": "lé chent'nyi",
+    "e": "centenier",
     "k": "lechentnyi",
     "f": "centenier"
   },
@@ -20598,46 +23598,22 @@ export const vocabData = [
     "f": "bun"
   },
   {
-    "j": "lé chînment",
-    "e": "cement",
-    "k": "lechinment",
-    "f": "cement"
-  },
-  {
     "j": "lé chînm'tchiéthe",
     "e": "cemetery",
     "k": "lechinmtchiethe",
     "f": "cemetery"
   },
   {
+    "j": "lé chînment",
+    "e": "cement",
+    "k": "lechinment",
+    "f": "cement"
+  },
+  {
     "j": "lé chinneux",
     "e": "hawker",
     "k": "lechinneux",
     "f": "hawker"
-  },
-  {
-    "j": "lé ch'lyi",
-    "e": "cellar",
-    "k": "lechlyi",
-    "f": "cellar"
-  },
-  {
-    "j": "lé ch'na",
-    "e": "channel",
-    "k": "lechna",
-    "f": "channel"
-  },
-  {
-    "j": "Lé Ch'na",
-    "e": "Channel",
-    "k": "lechna",
-    "f": "channel"
-  },
-  {
-    "j": "lé ch'napan",
-    "e": "rogue",
-    "k": "lechnapan",
-    "f": "rogue"
   },
   {
     "j": "lé chocolat",
@@ -20653,13 +23629,13 @@ export const vocabData = [
   },
   {
     "j": "lé chour",
-    "e": "Jersey cabbage",
+    "e": "jersey cabbage",
     "k": "lechour",
     "f": "jerseycabbage"
   },
   {
-    "j": "lé Christ",
-    "e": "Christ",
+    "j": "lé christ",
+    "e": "christ",
     "k": "lechrist",
     "f": "christ"
   },
@@ -20668,6 +23644,12 @@ export const vocabData = [
     "e": "whisperer",
     "k": "lechuchoteux",
     "f": "whisperer"
+  },
+  {
+    "j": "lé chucre",
+    "e": "sugar",
+    "k": "lechucre",
+    "f": "sugar"
   },
   {
     "j": "lé chucre d'orge",
@@ -20682,22 +23664,10 @@ export const vocabData = [
     "f": "castersugar"
   },
   {
-    "j": "lé chucre",
-    "e": "sugar",
-    "k": "lechucre",
-    "f": "sugar"
-  },
-  {
     "j": "lé chucriyi",
     "e": "sugar-bowl",
     "k": "lechucriyi",
     "f": "sugarbowl"
-  },
-  {
-    "j": "lé cidre",
-    "e": "cider",
-    "k": "lecidre",
-    "f": "cider"
   },
   {
     "j": "lé cidre",
@@ -20754,40 +23724,16 @@ export const vocabData = [
     "f": "billposter"
   },
   {
-    "j": "lé c'menchant",
-    "e": "beginner",
-    "k": "lecmenchant",
-    "f": "beginner"
-  },
-  {
-    "j": "lé c'mîn à bike",
-    "e": "cycle path",
-    "k": "lecminabike",
-    "f": "cyclepath"
-  },
-  {
-    "j": "lé c'mîn d'fé",
-    "e": "railway",
-    "k": "lecmindfe",
-    "f": "railway"
-  },
-  {
-    "j": "lé c'mîn",
-    "e": "path",
-    "k": "lecmin",
-    "f": "path"
-  },
-  {
     "j": "lé co",
-    "e": "cock",
+    "e": "neck, cock",
     "k": "leco",
-    "f": "cock"
+    "f": "neck,cock"
   },
   {
-    "j": "lé co",
-    "e": "neck",
-    "k": "leco",
-    "f": "neck"
+    "j": "lé co-ordînateu",
+    "e": "co-ordinator",
+    "k": "lecoordinateu",
+    "f": "coordinator"
   },
   {
     "j": "lé cocotchi",
@@ -20851,15 +23797,9 @@ export const vocabData = [
   },
   {
     "j": "lé collet",
-    "e": "collar",
+    "e": "oar-weed, laminaria digitata, laminaria saccharina, collar",
     "k": "lecollet",
-    "f": "collar"
-  },
-  {
-    "j": "lé collet",
-    "e": "oar-weed, Laminaria digitata, Laminaria saccharina",
-    "k": "lecollet",
-    "f": "oarweed,laminariadigitata,laminariasaccharina"
+    "f": "oarweed,laminariadigitata,laminariasaccharina,collar"
   },
   {
     "j": "lé colporteux",
@@ -20958,20 +23898,20 @@ export const vocabData = [
     "f": "comedian"
   },
   {
-    "j": "lé Conmité des C'mîns",
-    "e": "Roads Committee",
-    "k": "leconmitedescmins",
-    "f": "roadscommittee"
-  },
-  {
     "j": "lé conmité",
     "e": "committee",
     "k": "leconmite",
     "f": "committee"
   },
   {
-    "j": "lé Connêtabl'ye",
-    "e": "Constable",
+    "j": "lé conmité des c'mîns",
+    "e": "roads committee",
+    "k": "leconmitedescmins",
+    "f": "roadscommittee"
+  },
+  {
+    "j": "lé connêtabl'ye",
+    "e": "constable",
     "k": "leconnetablye",
     "f": "constable"
   },
@@ -21028,12 +23968,6 @@ export const vocabData = [
     "e": "contingent",
     "k": "lecontigent",
     "f": "contingent"
-  },
-  {
-    "j": "lé co-ordînateu",
-    "e": "co-ordinator",
-    "k": "lecoordinateu",
-    "f": "coordinator"
   },
   {
     "j": "lé copeux dé g'veux, lé pèrrutchi",
@@ -21096,6 +24030,12 @@ export const vocabData = [
     "f": "corporal"
   },
   {
+    "j": "lé corps d'la vainne",
+    "e": "van box",
+    "k": "lecorpsdlavainne",
+    "f": "vanbox"
+  },
+  {
     "j": "lé corps dé garde",
     "e": "guardhouse",
     "k": "lecorpsdegarde",
@@ -21106,12 +24046,6 @@ export const vocabData = [
     "e": "cart body",
     "k": "lecorpsdehernais",
     "f": "cartbody"
-  },
-  {
-    "j": "lé corps d'la vainne",
-    "e": "van box",
-    "k": "lecorpsdlavainne",
-    "f": "vanbox"
   },
   {
     "j": "lé correspondant",
@@ -21162,7 +24096,7 @@ export const vocabData = [
     "f": "sunset"
   },
   {
-    "j": "lé couochon d'la Dginnée",
+    "j": "lé couochon d'la dginnée",
     "e": "guinea pig",
     "k": "lecouochondladginnee",
     "f": "guineapig"
@@ -21223,7 +24157,7 @@ export const vocabData = [
   },
   {
     "j": "lé couothage, lé tèrrêtre",
-    "e": "Speedwell",
+    "e": "speedwell",
     "k": "lecouothage,leterretre",
     "f": "speedwell"
   },
@@ -21264,18 +24198,6 @@ export const vocabData = [
     "f": "currency"
   },
   {
-    "j": "lé couté à fain",
-    "e": "the chaff cutter",
-    "k": "lecouteafain",
-    "f": "thechaffcutter"
-  },
-  {
-    "j": "lé couté à viande",
-    "e": "carving-knife",
-    "k": "lecouteaviande",
-    "f": "carvingknife"
-  },
-  {
     "j": "lé coute",
     "e": "elbow",
     "k": "lecoute",
@@ -21286,6 +24208,18 @@ export const vocabData = [
     "e": "knife",
     "k": "lecoute",
     "f": "knife"
+  },
+  {
+    "j": "lé couté à fain",
+    "e": "the chaff cutter",
+    "k": "lecouteafain",
+    "f": "thechaffcutter"
+  },
+  {
+    "j": "lé couté à viande",
+    "e": "carving-knife",
+    "k": "lecouteaviande",
+    "f": "carvingknife"
   },
   {
     "j": "lé crachîn",
@@ -21312,16 +24246,16 @@ export const vocabData = [
     "f": "springtoothharrow"
   },
   {
-    "j": "lé craque-nouaix",
-    "e": "nut-cracker",
-    "k": "lecraquenouaix",
-    "f": "nutcracker"
-  },
-  {
     "j": "lé craqu'lîn",
     "e": "crackling",
     "k": "lecraqulin",
     "f": "crackling"
+  },
+  {
+    "j": "lé craque-nouaix",
+    "e": "nut-cracker",
+    "k": "lecraquenouaix",
+    "f": "nutcracker"
   },
   {
     "j": "lé cratcheux",
@@ -21342,8 +24276,8 @@ export const vocabData = [
     "f": "wagtail"
   },
   {
-    "j": "lé Créateu",
-    "e": "the Creator",
+    "j": "lé créateu",
+    "e": "the creator",
     "k": "lecreateu",
     "f": "thecreator"
   },
@@ -21354,16 +24288,16 @@ export const vocabData = [
     "f": "watercress"
   },
   {
-    "j": "lé creux à tchèrbon",
-    "e": "coal cellar",
-    "k": "lecreuxatcherbon",
-    "f": "coalcellar"
-  },
-  {
     "j": "lé creux",
     "e": "hollow",
     "k": "lecreux",
     "f": "hollow"
+  },
+  {
+    "j": "lé creux à tchèrbon",
+    "e": "coal cellar",
+    "k": "lecreuxatcherbon",
+    "f": "coalcellar"
   },
   {
     "j": "lé crévon",
@@ -21396,16 +24330,22 @@ export const vocabData = [
     "f": "crime"
   },
   {
-    "j": "lé critchet d'âtre",
-    "e": "house cricket",
-    "k": "lecritchetdatre",
-    "f": "housecricket"
+    "j": "lé crînme né paie pon",
+    "e": "crime doesn’t pay",
+    "k": "lecrinmenepaiepon",
+    "f": "crimedoesntpay"
   },
   {
     "j": "lé critchet",
     "e": "grasshopper",
     "k": "lecritchet",
     "f": "grasshopper"
+  },
+  {
+    "j": "lé critchet d'âtre",
+    "e": "house cricket",
+    "k": "lecritchetdatre",
+    "f": "housecricket"
   },
   {
     "j": "lé cro d'la tchulasse",
@@ -21456,28 +24396,88 @@ export const vocabData = [
     "f": "cursor"
   },
   {
-    "j": "lé cyprès d'chînm'tchiéthe",
-    "e": "Weeping Cypress",
-    "k": "lecypresdchinmtchiethe",
-    "f": "weepingcypress"
-  },
-  {
     "j": "lé cyprès",
-    "e": "Cypress",
+    "e": "cypress",
     "k": "lecypres",
     "f": "cypress"
   },
   {
-    "j": "lé dalot",
-    "e": "scupper",
-    "k": "ledalot",
-    "f": "scupper"
+    "j": "lé cyprès d'chînm'tchiéthe",
+    "e": "weeping cypress",
+    "k": "lecypresdchinmtchiethe",
+    "f": "weepingcypress"
   },
   {
     "j": "lé d'bat",
     "e": "debate",
     "k": "ledbat",
     "f": "debate"
+  },
+  {
+    "j": "lé d'ganneux",
+    "e": "mimic",
+    "k": "ledganneux",
+    "f": "mimic"
+  },
+  {
+    "j": "lé d'gré",
+    "e": "staircase",
+    "k": "ledgre",
+    "f": "staircase"
+  },
+  {
+    "j": "lé d'mié-bas",
+    "e": "low axle cart, bowler-hat",
+    "k": "ledmiebas",
+    "f": "lowaxlecart,bowlerhat"
+  },
+  {
+    "j": "lé d'mié-fréthe, lé mié-fréthe",
+    "e": "half-brother, stepbrother",
+    "k": "ledmiefrethe,lemiefrethe",
+    "f": "halfbrother,stepbrother"
+  },
+  {
+    "j": "lé d'sastre",
+    "e": "bankruptcy",
+    "k": "ledsastre",
+    "f": "bankruptcy"
+  },
+  {
+    "j": "lé d'scendant",
+    "e": "descendant",
+    "k": "ledscendant",
+    "f": "descendant"
+  },
+  {
+    "j": "lé d'sèrt",
+    "e": "desert",
+    "k": "ledsert",
+    "f": "desert"
+  },
+  {
+    "j": "lé d'vant",
+    "e": "prow",
+    "k": "ledvant",
+    "f": "prow"
+  },
+  {
+    "j": "lé d'vanté",
+    "e": "apron",
+    "k": "ledvante",
+    "f": "apron"
+  },
+  {
+    "j": "lé d'ver",
+    "e": "homework",
+    "k": "ledver",
+    "f": "homework"
+  },
+  {
+    "j": "lé dalot",
+    "e": "scupper",
+    "k": "ledalot",
+    "f": "scupper"
   },
   {
     "j": "lé dêbaûcheux",
@@ -21528,8 +24528,8 @@ export const vocabData = [
     "f": "spendthrift"
   },
   {
-    "j": "lé Député",
-    "e": "Deputy",
+    "j": "lé député",
+    "e": "deputy",
     "k": "ledepute",
     "f": "deputy"
   },
@@ -21540,34 +24540,16 @@ export const vocabData = [
     "f": "offhandedperson"
   },
   {
-    "j": "lé Dêtrait",
-    "e": "Mediterranean",
-    "k": "ledetrait",
-    "f": "mediterranean"
-  },
-  {
-    "j": "lé Dêtrait",
-    "e": "River Detroit",
-    "k": "ledetrait",
-    "f": "riverdetroit"
-  },
-  {
     "j": "lé dêtrait",
-    "e": "strait",
+    "e": "strait, river detroit, mediterranean",
     "k": "ledetrait",
-    "f": "strait"
+    "f": "strait,riverdetroit,mediterranean"
   },
   {
     "j": "lé deux dé picl'ye",
     "e": "the two of spades",
     "k": "ledeuxdepiclye",
     "f": "thetwoofspades"
-  },
-  {
-    "j": "lé d'ganneux",
-    "e": "mimic",
-    "k": "ledganneux",
-    "f": "mimic"
   },
   {
     "j": "lé dgêne",
@@ -21619,21 +24601,15 @@ export const vocabData = [
   },
   {
     "j": "lé dgiâbl'ye",
-    "e": "the devil",
+    "e": "stag-beetle, the devil",
     "k": "ledgiablye",
-    "f": "thedevil"
+    "f": "stagbeetle,thedevil"
   },
   {
     "j": "lé dgiâbl'ye en brousse, ou dgiâbl'ye dans la brousse, la barbe d'la reine",
-    "e": "Love-in-a-mist",
+    "e": "love-in-a-mist",
     "k": "ledgiablyeenbrousse,oudgiablyedanslabrousse,labarbedlareine",
     "f": "loveinamist"
-  },
-  {
-    "j": "lé dgiâbl'ye",
-    "e": "stag-beetle",
-    "k": "ledgiablye",
-    "f": "stagbeetle"
   },
   {
     "j": "lé dgichon",
@@ -21672,10 +24648,10 @@ export const vocabData = [
     "f": "thetenofdiamonds"
   },
   {
-    "j": "lé d'gré",
-    "e": "staircase",
-    "k": "ledgre",
-    "f": "staircase"
+    "j": "lé dgix d’août",
+    "e": "the tenth of august",
+    "k": "ledgixdaout",
+    "f": "thetenthofaugust"
   },
   {
     "j": "lé diacre",
@@ -21696,8 +24672,8 @@ export const vocabData = [
     "f": "dictator"
   },
   {
-    "j": "lé Dînmanche des Rameaux",
-    "e": "Palm Sunday",
+    "j": "lé dînmanche des rameaux",
+    "e": "palm sunday",
     "k": "ledinmanchedesrameaux",
     "f": "palmsunday"
   },
@@ -21738,40 +24714,22 @@ export const vocabData = [
     "f": "speech"
   },
   {
-    "j": "lé disque dû",
-    "e": "hard disk",
-    "k": "ledisquedu",
-    "f": "harddisk"
-  },
-  {
     "j": "lé disque",
     "e": "drive",
     "k": "ledisque",
     "f": "drive"
   },
   {
+    "j": "lé disque dû",
+    "e": "hard disk",
+    "k": "ledisquedu",
+    "f": "harddisk"
+  },
+  {
     "j": "lé district",
     "e": "district",
     "k": "ledistrict",
     "f": "district"
-  },
-  {
-    "j": "lé d'mié-bas",
-    "e": "bowler-hat",
-    "k": "ledmiebas",
-    "f": "bowlerhat"
-  },
-  {
-    "j": "lé d'mié-bas",
-    "e": "low axle cart",
-    "k": "ledmiebas",
-    "f": "lowaxlecart"
-  },
-  {
-    "j": "lé d'mié-fréthe, lé mié-fréthe",
-    "e": "half-brother, stepbrother",
-    "k": "ledmiefrethe,lemiefrethe",
-    "f": "halfbrother,stepbrother"
   },
   {
     "j": "lé docteu",
@@ -21799,15 +24757,9 @@ export const vocabData = [
   },
   {
     "j": "lé dôssyi",
-    "e": "file",
+    "e": "folder, file",
     "k": "ledossyi",
-    "f": "file"
-  },
-  {
-    "j": "lé dôssyi",
-    "e": "folder",
-    "k": "ledossyi",
-    "f": "folder"
+    "f": "folder,file"
   },
   {
     "j": "lé dotchûment",
@@ -21834,8 +24786,8 @@ export const vocabData = [
     "f": "tablecloth"
   },
   {
-    "j": "lé Douoyen",
-    "e": "the Dean",
+    "j": "lé douoyen",
+    "e": "the dean",
     "k": "ledouoyen",
     "f": "thedean"
   },
@@ -21883,15 +24835,9 @@ export const vocabData = [
   },
   {
     "j": "lé driéthe",
-    "e": "backside",
+    "e": "tail-board, backside",
     "k": "ledriethe",
-    "f": "backside"
-  },
-  {
-    "j": "lé driéthe",
-    "e": "tail-board",
-    "k": "ledriethe",
-    "f": "tailboard"
+    "f": "tailboard,backside"
   },
   {
     "j": "lé drîn",
@@ -21906,24 +24852,6 @@ export const vocabData = [
     "f": "dromedary"
   },
   {
-    "j": "lé d'sastre",
-    "e": "bankruptcy",
-    "k": "ledsastre",
-    "f": "bankruptcy"
-  },
-  {
-    "j": "lé d'scendant",
-    "e": "descendant",
-    "k": "ledscendant",
-    "f": "descendant"
-  },
-  {
-    "j": "lé d'sèrt",
-    "e": "desert",
-    "k": "ledsert",
-    "f": "desert"
-  },
-  {
     "j": "lé duc",
     "e": "duke",
     "k": "leduc",
@@ -21936,22 +24864,10 @@ export const vocabData = [
     "f": "duvet"
   },
   {
-    "j": "lé d'vant",
-    "e": "prow",
-    "k": "ledvant",
-    "f": "prow"
-  },
-  {
-    "j": "lé d'vanté",
-    "e": "apron",
-    "k": "ledvante",
-    "f": "apron"
-  },
-  {
-    "j": "lé d'ver",
-    "e": "homework",
-    "k": "ledver",
-    "f": "homework"
+    "j": "lé f'nîn",
+    "e": "hayloft",
+    "k": "lefnin",
+    "f": "hayloft"
   },
   {
     "j": "lé fa, lé suit",
@@ -22026,16 +24942,16 @@ export const vocabData = [
     "f": "fax"
   },
   {
-    "j": "lé fé à j'va",
-    "e": "horse shoe",
-    "k": "lefeajva",
-    "f": "horseshoe"
-  },
-  {
     "j": "lé fé",
     "e": "iron",
     "k": "lefe",
     "f": "iron"
+  },
+  {
+    "j": "lé fé à j'va",
+    "e": "horse shoe",
+    "k": "lefeajva",
+    "f": "horseshoe"
   },
   {
     "j": "lé fèrmyi",
@@ -22074,12 +24990,6 @@ export const vocabData = [
     "f": "manure"
   },
   {
-    "j": "lé feunmyi",
-    "e": "manure",
-    "k": "lefeunmyi",
-    "f": "manure"
-  },
-  {
     "j": "lé fi patcheux",
     "e": "parcel string",
     "k": "lefipatcheux",
@@ -22104,22 +25014,10 @@ export const vocabData = [
     "f": "godson"
   },
   {
-    "j": "lé filieu",
-    "e": "godson",
-    "k": "lefilieu",
-    "f": "godson"
-  },
-  {
     "j": "lé filou",
-    "e": "pickpocket",
+    "e": "rogue, pickpocket",
     "k": "lefilou",
-    "f": "pickpocket"
-  },
-  {
-    "j": "lé filou",
-    "e": "rogue",
-    "k": "lefilou",
-    "f": "rogue"
+    "f": "rogue,pickpocket"
   },
   {
     "j": "lé finnailli",
@@ -22174,12 +25072,6 @@ export const vocabData = [
     "e": "herd",
     "k": "lefliotchet",
     "f": "herd"
-  },
-  {
-    "j": "lé f'nîn",
-    "e": "hayloft",
-    "k": "lefnin",
-    "f": "hayloft"
   },
   {
     "j": "lé fo",
@@ -22278,16 +25170,16 @@ export const vocabData = [
     "f": "cold"
   },
   {
-    "j": "lé Français",
-    "e": "French",
-    "k": "lefrancais",
-    "f": "french"
-  },
-  {
     "j": "lé franc-machon",
     "e": "freemason",
     "k": "lefrancmachon",
     "f": "freemason"
+  },
+  {
+    "j": "lé français",
+    "e": "french",
+    "k": "lefrancais",
+    "f": "french"
   },
   {
     "j": "lé fraudeux",
@@ -22344,16 +25236,22 @@ export const vocabData = [
     "f": "thefront"
   },
   {
+    "j": "lé futh'teux",
+    "e": "nosey parker",
+    "k": "lefuthteux",
+    "f": "noseyparker"
+  },
+  {
     "j": "lé futhet",
     "e": "ferret",
     "k": "lefuthet",
     "f": "ferret"
   },
   {
-    "j": "lé futh'teux",
-    "e": "nosey parker",
-    "k": "lefuthteux",
-    "f": "noseyparker"
+    "j": "lé g'nou",
+    "e": "knee",
+    "k": "legnou",
+    "f": "knee"
   },
   {
     "j": "lé gabé (du navithe)",
@@ -22428,6 +25326,12 @@ export const vocabData = [
     "f": "warden,keeper"
   },
   {
+    "j": "lé gardîn",
+    "e": "garden",
+    "k": "legardin",
+    "f": "garden"
+  },
+  {
     "j": "lé gardîn à flieurs",
     "e": "flower garden",
     "k": "legardinaflieurs",
@@ -22438,12 +25342,6 @@ export const vocabData = [
     "e": "vegetable garden",
     "k": "legardinaledgeunmes",
     "f": "vegetablegarden"
-  },
-  {
-    "j": "lé gardîn",
-    "e": "garden",
-    "k": "legardin",
-    "f": "garden"
   },
   {
     "j": "lé gardinnage",
@@ -22531,15 +25429,9 @@ export const vocabData = [
   },
   {
     "j": "lé gliajeu, lé bliajeu",
-    "e": "Yellow Flag",
+    "e": "yellow flag",
     "k": "legliajeu,lebliajeu",
     "f": "yellowflag"
-  },
-  {
-    "j": "lé g'nou",
-    "e": "knee",
-    "k": "legnou",
-    "f": "knee"
   },
   {
     "j": "lé gobîn",
@@ -22602,7 +25494,7 @@ export const vocabData = [
     "f": "kitchenrange"
   },
   {
-    "j": "lé grand Albèrt",
+    "j": "lé grand albèrt",
     "e": "a grimoire",
     "k": "legrandalbert",
     "f": "agrimoire"
@@ -22669,15 +25561,9 @@ export const vocabData = [
   },
   {
     "j": "lé gratteux",
-    "e": "miser",
+    "e": "roadsweeper, miser",
     "k": "legratteux",
-    "f": "miser"
-  },
-  {
-    "j": "lé gratteux",
-    "e": "roadsweeper",
-    "k": "legratteux",
-    "f": "roadsweeper"
+    "f": "roadsweeper,miser"
   },
   {
     "j": "lé grénadgi",
@@ -22807,15 +25693,9 @@ export const vocabData = [
   },
   {
     "j": "lé hanneton",
-    "e": "cockchafer",
+    "e": "may-bug, cockchafer",
     "k": "lehanneton",
-    "f": "cockchafer"
-  },
-  {
-    "j": "lé hanneton",
-    "e": "may-bug",
-    "k": "lehanneton",
-    "f": "maybug"
+    "f": "maybug,cockchafer"
   },
   {
     "j": "lé happe-lourdard",
@@ -22879,9 +25759,9 @@ export const vocabData = [
   },
   {
     "j": "lé hèrnais",
-    "e": "the cart",
+    "e": "two-wheeled cart, the cart",
     "k": "lehernais",
-    "f": "thecart"
+    "f": "twowheeledcart,thecart"
   },
   {
     "j": "lé hèrnais à bannieaux",
@@ -22900,12 +25780,6 @@ export const vocabData = [
     "e": "haycart",
     "k": "lehernaisaeclon",
     "f": "haycart"
-  },
-  {
-    "j": "lé hèrnais",
-    "e": "two-wheeled cart",
-    "k": "lehernais",
-    "f": "twowheeledcart"
   },
   {
     "j": "lé héthan feunmé",
@@ -22944,6 +25818,18 @@ export const vocabData = [
     "f": "crybaby"
   },
   {
+    "j": "lé j'va",
+    "e": "horse",
+    "k": "lejva",
+    "f": "horse"
+  },
+  {
+    "j": "lé j'va d'st george",
+    "e": "great green grasshopper",
+    "k": "lejvadstgeorge",
+    "f": "greatgreengrasshopper"
+  },
+  {
     "j": "lé jambon feunmé",
     "e": "bacon",
     "k": "lejambonfeunme",
@@ -22974,8 +25860,8 @@ export const vocabData = [
     "f": "jaundice"
   },
   {
-    "j": "lé Jèrriais",
-    "e": "Jèrriais",
+    "j": "lé jèrriais",
+    "e": "jèrriais",
     "k": "lejerriais",
     "f": "jerriais"
   },
@@ -23004,14 +25890,20 @@ export const vocabData = [
     "f": "gambler"
   },
   {
-    "j": "lé Jour dé l'An",
-    "e": "New Year's Day",
+    "j": "lé jour d'la libéthâtion",
+    "e": "liberation day",
+    "k": "lejourdlalibethation",
+    "f": "liberationday"
+  },
+  {
+    "j": "lé jour dé l'an",
+    "e": "new year's day",
     "k": "lejourdelan",
     "f": "newyearsday"
   },
   {
-    "j": "lé Jour d'la Libéthâtion",
-    "e": "Liberation Day",
+    "j": "lé jour d’la libéthâtion",
+    "e": "liberation day",
     "k": "lejourdlalibethation",
     "f": "liberationday"
   },
@@ -23040,18 +25932,6 @@ export const vocabData = [
     "f": "jury"
   },
   {
-    "j": "lé j'va d'St George",
-    "e": "great green grasshopper",
-    "k": "lejvadstgeorge",
-    "f": "greatgreengrasshopper"
-  },
-  {
-    "j": "lé j'va",
-    "e": "horse",
-    "k": "lejva",
-    "f": "horse"
-  },
-  {
     "j": "lé kaki",
     "e": "khaki",
     "k": "lekaki",
@@ -23074,6 +25954,12 @@ export const vocabData = [
     "e": "kohlrabi",
     "k": "lekohlrabi",
     "f": "kohlrabi"
+  },
+  {
+    "j": "lé l'vant du solé",
+    "e": "sunrise",
+    "k": "lelvantdusole",
+    "f": "sunrise"
   },
   {
     "j": "lé lac",
@@ -23106,16 +25992,16 @@ export const vocabData = [
     "f": "milkontheturn"
   },
   {
-    "j": "lé lait cailli êputhé",
-    "e": "curd",
-    "k": "lelaitcaillieputhe",
-    "f": "curd"
-  },
-  {
     "j": "lé lait cailli",
     "e": "curdled milk",
     "k": "lelaitcailli",
     "f": "curdledmilk"
+  },
+  {
+    "j": "lé lait cailli êputhé",
+    "e": "curd",
+    "k": "lelaitcaillieputhe",
+    "f": "curd"
   },
   {
     "j": "lé lait d'beurre",
@@ -23134,12 +26020,6 @@ export const vocabData = [
     "e": "sour milk",
     "k": "lelaitsu",
     "f": "sourmilk"
-  },
-  {
-    "j": "lé lait",
-    "e": "milk",
-    "k": "lelait",
-    "f": "milk"
   },
   {
     "j": "lé laitchi",
@@ -23166,8 +26046,8 @@ export const vocabData = [
     "f": "opensea"
   },
   {
-    "j": "Lé Latîn",
-    "e": "Latin",
+    "j": "lé latîn",
+    "e": "latin",
     "k": "lelatin",
     "f": "latin"
   },
@@ -23232,22 +26112,16 @@ export const vocabData = [
     "f": "hoopnet"
   },
   {
+    "j": "lé lief",
+    "e": "roof",
+    "k": "lelief",
+    "f": "roof"
+  },
+  {
     "j": "lé lief en glyi",
     "e": "thatched roof",
     "k": "leliefenglyi",
     "f": "thatchedroof"
-  },
-  {
-    "j": "lé lief",
-    "e": "roof",
-    "k": "lelief",
-    "f": "roof"
-  },
-  {
-    "j": "lé lief",
-    "e": "roof",
-    "k": "lelief",
-    "f": "roof"
   },
   {
     "j": "lé liège, la fliotte",
@@ -23256,20 +26130,20 @@ export const vocabData = [
     "f": "float"
   },
   {
-    "j": "lé liet d'pathai",
-    "e": "bunk",
-    "k": "lelietdpathai",
-    "f": "bunk"
-  },
-  {
     "j": "lé liet",
     "e": "bed",
     "k": "leliet",
     "f": "bed"
   },
   {
-    "j": "lé Lieut'nant-Gouvèrneux",
-    "e": "Lieutenant-Governor",
+    "j": "lé liet d'pathai",
+    "e": "bunk",
+    "k": "lelietdpathai",
+    "f": "bunk"
+  },
+  {
+    "j": "lé lieut'nant-gouvèrneux",
+    "e": "lieutenant-governor",
     "k": "lelieutnantgouverneux",
     "f": "lieutenantgovernor"
   },
@@ -23287,13 +26161,13 @@ export const vocabData = [
   },
   {
     "j": "lé limongni",
-    "e": "Lemon tree",
+    "e": "lemon tree",
     "k": "lelimongni",
     "f": "lemontree"
   },
   {
-    "j": "lé lis d'Dgèrnésy",
-    "e": "Guernsey lily",
+    "j": "lé lis d'dgèrnésy",
+    "e": "guernsey lily",
     "k": "lelisddgernesy",
     "f": "guernseylily"
   },
@@ -23316,6 +26190,12 @@ export const vocabData = [
     "f": "wrestler"
   },
   {
+    "j": "lé livre",
+    "e": "the book",
+    "k": "lelivre",
+    "f": "thebook"
+  },
+  {
     "j": "lé livre d'exèrcice",
     "e": "exercise book",
     "k": "lelivredexercice",
@@ -23326,12 +26206,6 @@ export const vocabData = [
     "e": "prayer book",
     "k": "lelivredpriethes",
     "f": "prayerbook"
-  },
-  {
-    "j": "lé livre",
-    "e": "the book",
-    "k": "lelivre",
-    "f": "thebook"
   },
   {
     "j": "lé locataithe",
@@ -23376,10 +26250,22 @@ export const vocabData = [
     "f": "slowcoach"
   },
   {
-    "j": "lé l'vant du solé",
-    "e": "sunrise",
-    "k": "lelvantdusole",
-    "f": "sunrise"
+    "j": "lé m'lon",
+    "e": "melon, marrow, pumpkin",
+    "k": "lemlon",
+    "f": "melon,marrow,pumpkin"
+  },
+  {
+    "j": "lé m'nu",
+    "e": "menu",
+    "k": "lemnu",
+    "f": "menu"
+  },
+  {
+    "j": "lé m'nu tchiyant",
+    "e": "drop-down menu",
+    "k": "lemnutchiyant",
+    "f": "dropdownmenu"
   },
   {
     "j": "lé ma d'la mé",
@@ -23406,16 +26292,16 @@ export const vocabData = [
     "f": "stonemason"
   },
   {
-    "j": "lé mâclieux",
-    "e": "shoddy workman",
-    "k": "lemaclieux",
-    "f": "shoddyworkman"
-  },
-  {
     "j": "lé mâcl'ye",
     "e": "bad workman",
     "k": "lemaclye",
     "f": "badworkman"
+  },
+  {
+    "j": "lé mâclieux",
+    "e": "shoddy workman",
+    "k": "lemaclieux",
+    "f": "shoddyworkman"
   },
   {
     "j": "lé madère",
@@ -23455,8 +26341,8 @@ export const vocabData = [
   },
   {
     "j": "lé maïs",
-    "e": "Indian corn",
-    "k": "lemaïs",
+    "e": "indian corn",
+    "k": "lemais",
     "f": "indiancorn"
   },
   {
@@ -23498,7 +26384,7 @@ export const vocabData = [
   {
     "j": "lé mal ès ouïes",
     "e": "earache",
-    "k": "lemalesouïes",
+    "k": "lemalesouies",
     "f": "earache"
   },
   {
@@ -23532,7 +26418,7 @@ export const vocabData = [
     "f": "wrongdoer"
   },
   {
-    "j": "lé Malîn",
+    "j": "lé malîn",
     "e": "the evil one",
     "k": "lemalin",
     "f": "theevilone"
@@ -23575,15 +26461,9 @@ export const vocabData = [
   },
   {
     "j": "lé marchi",
-    "e": "market",
+    "e": "the market, market",
     "k": "lemarchi",
-    "f": "market"
-  },
-  {
-    "j": "lé marchi",
-    "e": "the market",
-    "k": "lemarchi",
-    "f": "themarket"
+    "f": "themarket,market"
   },
   {
     "j": "lé marmot",
@@ -23611,15 +26491,9 @@ export const vocabData = [
   },
   {
     "j": "lé marté",
-    "e": "blackcap",
+    "e": "spotted flycatcher, blackcap",
     "k": "lemarte",
-    "f": "blackcap"
-  },
-  {
-    "j": "lé marté",
-    "e": "spotted flycatcher",
-    "k": "lemarte",
-    "f": "spottedflycatcher"
+    "f": "spottedflycatcher,blackcap"
   },
   {
     "j": "lé martel",
@@ -23689,15 +26563,9 @@ export const vocabData = [
   },
   {
     "j": "lé mathiage",
-    "e": "wardrobe",
+    "e": "marriage, wedding, wardrobe",
     "k": "lemathiage",
-    "f": "wardrobe"
-  },
-  {
-    "j": "lé mathiage",
-    "e": "marriage, wedding",
-    "k": "lemathiage",
-    "f": "marriage,wedding"
+    "f": "marriage,wedding,wardrobe"
   },
   {
     "j": "lé mathié",
@@ -23713,15 +26581,9 @@ export const vocabData = [
   },
   {
     "j": "lé mauvais yi",
-    "e": "evil eye",
+    "e": "the evil eye, evil eye",
     "k": "lemauvaisyi",
-    "f": "evileye"
-  },
-  {
-    "j": "lé mauvais yi",
-    "e": "the evil eye",
-    "k": "lemauvaisyi",
-    "f": "theevileye"
+    "f": "theevileye,evileye"
   },
   {
     "j": "lé maûvi",
@@ -23731,7 +26593,7 @@ export const vocabData = [
   },
   {
     "j": "lé méaguinné, l'acajou",
-    "e": "Mahogany",
+    "e": "mahogany",
     "k": "lemeaguinne,lacajou",
     "f": "mahogany"
   },
@@ -23764,12 +26626,6 @@ export const vocabData = [
     "e": "ring-ouzel",
     "k": "lemeleablianchegorge",
     "f": "ringouzel"
-  },
-  {
-    "j": "lé membre",
-    "e": "member",
-    "k": "lemembre",
-    "f": "member"
   },
   {
     "j": "lé membre",
@@ -23844,16 +26700,10 @@ export const vocabData = [
     "f": "messenger"
   },
   {
-    "j": "lé Messie",
-    "e": "Messiah",
+    "j": "lé messie",
+    "e": "messiah",
     "k": "lemessie",
     "f": "messiah"
-  },
-  {
-    "j": "lé meurtre",
-    "e": "murder",
-    "k": "lemeurtre",
-    "f": "murder"
   },
   {
     "j": "lé meurtre",
@@ -23923,21 +26773,9 @@ export const vocabData = [
   },
   {
     "j": "lé minnistre",
-    "e": "clergyman",
+    "e": "priest, minister, clergyman",
     "k": "leminnistre",
-    "f": "clergyman"
-  },
-  {
-    "j": "lé minnistre",
-    "e": "minister",
-    "k": "leminnistre",
-    "f": "minister"
-  },
-  {
-    "j": "lé minnistre",
-    "e": "priest",
-    "k": "leminnistre",
-    "f": "priest"
+    "f": "priest,minister,clergyman"
   },
   {
     "j": "lé missionnaithe",
@@ -23959,39 +26797,9 @@ export const vocabData = [
   },
   {
     "j": "lé mixeu",
-    "e": "mixer",
+    "e": "the mixer, mixer",
     "k": "lemixeu",
-    "f": "mixer"
-  },
-  {
-    "j": "lé mixeu",
-    "e": "the mixer",
-    "k": "lemixeu",
-    "f": "themixer"
-  },
-  {
-    "j": "lé m'lon",
-    "e": "marrow, pumpkin",
-    "k": "lemlon",
-    "f": "marrow,pumpkin"
-  },
-  {
-    "j": "lé m'lon",
-    "e": "melon",
-    "k": "lemlon",
-    "f": "melon"
-  },
-  {
-    "j": "lé m'nu tchiyant",
-    "e": "drop-down menu",
-    "k": "lemnutchiyant",
-    "f": "dropdownmenu"
-  },
-  {
-    "j": "lé m'nu",
-    "e": "menu",
-    "k": "lemnu",
-    "f": "menu"
+    "f": "themixer,mixer"
   },
   {
     "j": "lé modem",
@@ -24067,15 +26875,9 @@ export const vocabData = [
   },
   {
     "j": "lé moueu",
-    "e": "axle",
+    "e": "hub, axle",
     "k": "lemoueu",
-    "f": "axle"
-  },
-  {
-    "j": "lé moueu",
-    "e": "hub",
-    "k": "lemoueu",
-    "f": "hub"
+    "f": "hub,axle"
   },
   {
     "j": "lé moûle",
@@ -24091,15 +26893,9 @@ export const vocabData = [
   },
   {
     "j": "lé mousse",
-    "e": "cabin-boy",
+    "e": "child, cabin-boy",
     "k": "lemousse",
-    "f": "cabinboy"
-  },
-  {
-    "j": "lé mousse",
-    "e": "child",
-    "k": "lemousse",
-    "f": "child"
+    "f": "child,cabinboy"
   },
   {
     "j": "lé moutardgi",
@@ -24121,7 +26917,7 @@ export const vocabData = [
   },
   {
     "j": "lé mulot",
-    "e": "Jersey bank-vole",
+    "e": "jersey bank-vole",
     "k": "lemulot",
     "f": "jerseybankvole"
   },
@@ -24148,6 +26944,12 @@ export const vocabData = [
     "e": "honey",
     "k": "lemyi",
     "f": "honey"
+  },
+  {
+    "j": "lé n'veu",
+    "e": "nephew",
+    "k": "lenveu",
+    "f": "nephew"
   },
   {
     "j": "lé nâdgeux",
@@ -24186,22 +26988,10 @@ export const vocabData = [
     "f": "turnip"
   },
   {
-    "j": "lé navet",
-    "e": "turnip",
-    "k": "lenavet",
-    "f": "turnip"
-  },
-  {
     "j": "lé navidgant",
     "e": "sailor",
     "k": "lenavidgant",
     "f": "sailor"
-  },
-  {
-    "j": "lé navithe à vailes",
-    "e": "sailing-ship",
-    "k": "lenavitheavailes",
-    "f": "sailingship"
   },
   {
     "j": "lé navithe",
@@ -24210,16 +27000,16 @@ export const vocabData = [
     "f": "ship"
   },
   {
-    "j": "lé nèr",
-    "e": "gristle",
-    "k": "lener",
-    "f": "gristle"
+    "j": "lé navithe à vailes",
+    "e": "sailing-ship",
+    "k": "lenavitheavailes",
+    "f": "sailingship"
   },
   {
     "j": "lé nèr",
-    "e": "nerve",
+    "e": "nerve, gristle",
     "k": "lener",
-    "f": "nerve"
+    "f": "nerve,gristle"
   },
   {
     "j": "lé nettisseux",
@@ -24228,13 +27018,19 @@ export const vocabData = [
     "f": "cleaner"
   },
   {
-    "j": "Lé Neuchâté",
-    "e": "Newcastle",
+    "j": "lé neuchâté",
+    "e": "newcastle",
     "k": "leneuchate",
     "f": "newcastle"
   },
   {
-    "j": "lé Nic",
+    "j": "lé neuf d’mai",
+    "e": "the ninth of may",
+    "k": "leneufdmai",
+    "f": "theninthofmay"
+  },
+  {
+    "j": "lé nic",
     "e": "the devil",
     "k": "lenic",
     "f": "thedevil"
@@ -24270,8 +27066,8 @@ export const vocabData = [
     "f": "notary"
   },
   {
-    "j": "Lé Nouvel An",
-    "e": "New Year",
+    "j": "lé nouvel an",
+    "e": "new year",
     "k": "lenouvelan",
     "f": "newyear"
   },
@@ -24282,16 +27078,100 @@ export const vocabData = [
     "f": "novice"
   },
   {
-    "j": "lé n'veu",
-    "e": "nephew",
-    "k": "lenveu",
-    "f": "nephew"
-  },
-  {
     "j": "lé ouadinne",
     "e": "cottonwool",
     "k": "leouadinne",
     "f": "cottonwool"
+  },
+  {
+    "j": "lé p'ré",
+    "e": "perry",
+    "k": "lepre",
+    "f": "perry"
+  },
+  {
+    "j": "lé p'tit albèrt",
+    "e": "an abridged grimoire",
+    "k": "leptitalbert",
+    "f": "anabridgedgrimoire"
+  },
+  {
+    "j": "lé p'tit bathi",
+    "e": "the little barrel",
+    "k": "leptitbathi",
+    "f": "thelittlebarrel"
+  },
+  {
+    "j": "lé p'tit bichot, la bichette",
+    "e": "kid",
+    "k": "leptitbichot,labichette",
+    "f": "kid"
+  },
+  {
+    "j": "lé p'tit compiuteu",
+    "e": "laptop",
+    "k": "leptitcompiuteu",
+    "f": "laptop"
+  },
+  {
+    "j": "lé p'tit crapaud",
+    "e": "tadpole",
+    "k": "leptitcrapaud",
+    "f": "tadpole"
+  },
+  {
+    "j": "lé p'tit êté",
+    "e": "indian summer",
+    "k": "leptitete",
+    "f": "indiansummer"
+  },
+  {
+    "j": "lé p'tit hèrnais à lait",
+    "e": "the milk cart",
+    "k": "leptithernaisalait",
+    "f": "themilkcart"
+  },
+  {
+    "j": "lé p'tit j'va, lé pônîn, lé bidet",
+    "e": "pony",
+    "k": "leptitjva,leponin,lebidet",
+    "f": "pony"
+  },
+  {
+    "j": "lé p'tit moussieu",
+    "e": "bluetit",
+    "k": "leptitmoussieu",
+    "f": "bluetit"
+  },
+  {
+    "j": "lé p'tit pain",
+    "e": "roll (of bread)",
+    "k": "leptitpain",
+    "f": "roll(ofbread)"
+  },
+  {
+    "j": "lé p'tit pèrrotchet",
+    "e": "fore topgallant-sail",
+    "k": "leptitperrotchet",
+    "f": "foretopgallantsail"
+  },
+  {
+    "j": "lé p'tit-fis",
+    "e": "grandson",
+    "k": "leptitfis",
+    "f": "grandson"
+  },
+  {
+    "j": "lé p'tit-mêle",
+    "e": "an abridged grimoire",
+    "k": "leptitmele",
+    "f": "anabridgedgrimoire"
+  },
+  {
+    "j": "lé p'tit-n'veu",
+    "e": "great-nephew",
+    "k": "leptitnveu",
+    "f": "greatnephew"
   },
   {
     "j": "lé paids",
@@ -24312,6 +27192,12 @@ export const vocabData = [
     "f": "tramp"
   },
   {
+    "j": "lé pain",
+    "e": "bread",
+    "k": "lepain",
+    "f": "bread"
+  },
+  {
     "j": "lé pain d'êpice",
     "e": "gingerbread",
     "k": "lepaindepice",
@@ -24324,10 +27210,10 @@ export const vocabData = [
     "f": "toast"
   },
   {
-    "j": "lé pain",
-    "e": "bread",
-    "k": "lepain",
-    "f": "bread"
+    "j": "lé pais",
+    "e": "pea",
+    "k": "lepais",
+    "f": "pea"
   },
   {
     "j": "lé pais rond",
@@ -24336,10 +27222,10 @@ export const vocabData = [
     "f": "pea"
   },
   {
-    "j": "lé pais",
-    "e": "pea",
-    "k": "lepais",
-    "f": "pea"
+    "j": "lé paîsson",
+    "e": "fish",
+    "k": "lepaisson",
+    "f": "fish"
   },
   {
     "j": "lé paîsson à pouchettes",
@@ -24348,16 +27234,10 @@ export const vocabData = [
     "f": "anglerfish"
   },
   {
-    "j": "lé paîsson d'Avri",
-    "e": "April Fool",
+    "j": "lé paîsson d'avri",
+    "e": "april fool",
     "k": "lepaissondavri",
     "f": "aprilfool"
-  },
-  {
-    "j": "lé paîsson",
-    "e": "fish",
-    "k": "lepaisson",
-    "f": "fish"
   },
   {
     "j": "lé paîssonnyi",
@@ -24366,8 +27246,8 @@ export const vocabData = [
     "f": "fishmonger"
   },
   {
-    "j": "lé paîvre d'Cayenne",
-    "e": "Cayenne pepper",
+    "j": "lé paîvre d'cayenne",
+    "e": "cayenne pepper",
     "k": "lepaivredcayenne",
     "f": "cayennepepper"
   },
@@ -24426,10 +27306,16 @@ export const vocabData = [
     "f": "grandfather"
   },
   {
-    "j": "lé Pape",
-    "e": "the Pope",
+    "j": "lé pape",
+    "e": "the pope",
     "k": "lepape",
     "f": "thepope"
+  },
+  {
+    "j": "lé papi",
+    "e": "paper",
+    "k": "lepapi",
+    "f": "paper"
   },
   {
     "j": "lé papi à beurre",
@@ -24456,12 +27342,6 @@ export const vocabData = [
     "f": "nominationpaper"
   },
   {
-    "j": "lé papi",
-    "e": "paper",
-    "k": "lepapi",
-    "f": "paper"
-  },
-  {
     "j": "lé par à bikes",
     "e": "bike rack",
     "k": "leparabikes",
@@ -24474,8 +27354,8 @@ export const vocabData = [
     "f": "carpark"
   },
   {
-    "j": "lé Paradis",
-    "e": "Heaven",
+    "j": "lé paradis",
+    "e": "heaven",
     "k": "leparadis",
     "f": "heaven"
   },
@@ -24564,10 +27444,10 @@ export const vocabData = [
     "f": "parcel"
   },
   {
-    "j": "lé pâté dé faie",
-    "e": "liver pâté",
-    "k": "lepatedefaie",
-    "f": "liverpate"
+    "j": "lé pâté",
+    "e": "pie",
+    "k": "lepate",
+    "f": "pie"
   },
   {
     "j": "lé pâté d'pommes",
@@ -24576,10 +27456,10 @@ export const vocabData = [
     "f": "tart(apple)"
   },
   {
-    "j": "lé pâté",
-    "e": "pie",
-    "k": "lepate",
-    "f": "pie"
+    "j": "lé pâté dé faie",
+    "e": "liver pâté",
+    "k": "lepatedefaie",
+    "f": "liverpate"
   },
   {
     "j": "lé pâtichi",
@@ -24619,7 +27499,7 @@ export const vocabData = [
   },
   {
     "j": "lé pêchi",
-    "e": "Peach tree",
+    "e": "peach tree",
     "k": "lepechi",
     "f": "peachtree"
   },
@@ -24691,7 +27571,7 @@ export const vocabData = [
   },
   {
     "j": "lé pet d'nonne, la vêne-dé-loup",
-    "e": "Puff-ball",
+    "e": "puff-ball",
     "k": "lepetdnonne,lavenedeloup",
     "f": "puffball"
   },
@@ -24714,6 +27594,12 @@ export const vocabData = [
     "f": "queenbee"
   },
   {
+    "j": "lé pêtre",
+    "e": "spider",
+    "k": "lepetre",
+    "f": "spider"
+  },
+  {
     "j": "lé pêtre à sou",
     "e": "money-spider",
     "k": "lepetreasou",
@@ -24724,12 +27610,6 @@ export const vocabData = [
     "e": "harvest-spider",
     "k": "lepetredavout,lepretre,lecouosin",
     "f": "harvestspider"
-  },
-  {
-    "j": "lé pêtre",
-    "e": "spider",
-    "k": "lepetre",
-    "f": "spider"
   },
   {
     "j": "lé peurchon",
@@ -24774,6 +27654,12 @@ export const vocabData = [
     "f": "turkey"
   },
   {
+    "j": "lé pid",
+    "e": "foot",
+    "k": "lepid",
+    "f": "foot"
+  },
+  {
     "j": "lé pid d'pomme",
     "e": "stalk",
     "k": "lepiddpomme",
@@ -24786,13 +27672,7 @@ export const vocabData = [
     "f": "steporheel,ofmast"
   },
   {
-    "j": "lé pid",
-    "e": "foot",
-    "k": "lepid",
-    "f": "foot"
-  },
-  {
-    "j": "lé Pid-fourtchu",
+    "j": "lé pid-fourtchu",
     "e": "the devil",
     "k": "lepidfourtchu",
     "f": "thedevil"
@@ -24835,18 +27715,12 @@ export const vocabData = [
   },
   {
     "j": "lé piment",
-    "e": "pepper",
+    "e": "pimento, balm, pepper",
     "k": "lepiment",
-    "f": "pepper"
+    "f": "pimento,balm,pepper"
   },
   {
-    "j": "lé piment",
-    "e": "pimento, balm",
-    "k": "lepiment",
-    "f": "pimento,balm"
-  },
-  {
-    "j": "lé pînchon d'France",
+    "j": "lé pînchon d'france",
     "e": "brambling",
     "k": "lepinchondfrance",
     "f": "brambling"
@@ -24900,16 +27774,16 @@ export const vocabData = [
     "f": "planner"
   },
   {
-    "j": "lé pliat vrai",
-    "e": "Fucus vesiculosus, Fucus serratus, Fucus nodosus",
-    "k": "lepliatvrai",
-    "f": "fucusvesiculosus,fucusserratus,fucusnodosus"
-  },
-  {
     "j": "lé pliat",
     "e": "dish",
     "k": "lepliat",
     "f": "dish"
+  },
+  {
+    "j": "lé pliat vrai",
+    "e": "fucus vesiculosus, fucus serratus, fucus nodosus",
+    "k": "lepliatvrai",
+    "f": "fucusvesiculosus,fucusserratus,fucusnodosus"
   },
   {
     "j": "lé pliat-bord",
@@ -24937,7 +27811,7 @@ export const vocabData = [
   },
   {
     "j": "lé plieuthant, des chabots",
-    "e": "Laburnum",
+    "e": "laburnum",
     "k": "leplieuthant,deschabots",
     "f": "laburnum"
   },
@@ -24948,16 +27822,16 @@ export const vocabData = [
     "f": "plumber"
   },
   {
-    "j": "lé podîn d'Noué",
-    "e": "Christmas pudding",
-    "k": "lepodindnoue",
-    "f": "christmaspudding"
-  },
-  {
     "j": "lé podîn",
     "e": "pudding",
     "k": "lepodin",
     "f": "pudding"
+  },
+  {
+    "j": "lé podîn d'noué",
+    "e": "christmas pudding",
+    "k": "lepodindnoue",
+    "f": "christmaspudding"
   },
   {
     "j": "lé poète",
@@ -25008,12 +27882,6 @@ export const vocabData = [
     "f": "bridge"
   },
   {
-    "j": "lé pont",
-    "e": "bridge",
-    "k": "lepont",
-    "f": "bridge"
-  },
-  {
     "j": "lé por, lé gronneux, lé moussieu",
     "e": "pig",
     "k": "lepor,legronneux,lemoussieu",
@@ -25038,16 +27906,16 @@ export const vocabData = [
     "f": "colourbearer"
   },
   {
-    "j": "lé portélet",
-    "e": "inlet",
-    "k": "leportelet",
-    "f": "inlet"
-  },
-  {
     "j": "lé porte-limon",
     "e": "\"traveller\" - shaft harness attachment",
     "k": "leportelimon",
     "f": "\"traveller\"shaftharnessattachment"
+  },
+  {
+    "j": "lé portélet",
+    "e": "inlet",
+    "k": "leportelet",
+    "f": "inlet"
   },
   {
     "j": "lé porteur",
@@ -25062,8 +27930,8 @@ export const vocabData = [
     "f": "postman"
   },
   {
-    "j": "lé Portundgais",
-    "e": "Portuguese",
+    "j": "lé portundgais",
+    "e": "portuguese",
     "k": "leportundgais",
     "f": "portuguese"
   },
@@ -25074,28 +27942,22 @@ export const vocabData = [
     "f": "possessor"
   },
   {
-    "j": "lé pot à thée",
-    "e": "teapot",
-    "k": "lepotathee",
-    "f": "teapot"
-  },
-  {
     "j": "lé pot",
     "e": "cove",
     "k": "lepot",
     "f": "cove"
   },
   {
-    "j": "lé potithon",
-    "e": "black beetle",
-    "k": "lepotithon",
-    "f": "blackbeetle"
+    "j": "lé pot à thée",
+    "e": "teapot",
+    "k": "lepotathee",
+    "f": "teapot"
   },
   {
     "j": "lé potithon",
-    "e": "cockroach",
+    "e": "cockroach, black beetle",
     "k": "lepotithon",
-    "f": "cockroach"
+    "f": "cockroach,blackbeetle"
   },
   {
     "j": "lé poudre à laver",
@@ -25146,18 +28008,6 @@ export const vocabData = [
     "f": "leek"
   },
   {
-    "j": "lé pouothé",
-    "e": "leek",
-    "k": "lepouothe",
-    "f": "leek"
-  },
-  {
-    "j": "lé pouothé",
-    "e": "leek",
-    "k": "lepouothe",
-    "f": "leek"
-  },
-  {
     "j": "lé pouqu'teux",
     "e": "beggar",
     "k": "lepouquteux",
@@ -25188,12 +28038,6 @@ export const vocabData = [
     "f": "louse"
   },
   {
-    "j": "lé p'ré",
-    "e": "perry",
-    "k": "lepre",
-    "f": "perry"
-  },
-  {
     "j": "lé pré",
     "e": "water meadow",
     "k": "lepre",
@@ -25201,15 +28045,9 @@ export const vocabData = [
   },
   {
     "j": "lé preinseu",
-    "e": "the cider press",
+    "e": "cider press, press house, the cider press",
     "k": "lepreinseu",
-    "f": "theciderpress"
-  },
-  {
-    "j": "lé preinseu",
-    "e": "cider press, press house",
-    "k": "lepreinseu",
-    "f": "ciderpress,presshouse"
+    "f": "ciderpress,presshouse,theciderpress"
   },
   {
     "j": "lé président",
@@ -25219,13 +28057,19 @@ export const vocabData = [
   },
   {
     "j": "lé prêtre",
-    "e": "priest (Catholic)",
+    "e": "priest (catholic)",
     "k": "lepretre",
     "f": "priest(catholic)"
   },
   {
+    "j": "lé preunmyi d’avri",
+    "e": "the first of april",
+    "k": "lepreunmyidavri",
+    "f": "thefirstofapril"
+  },
+  {
     "j": "lé preunyi",
-    "e": "Plum tree",
+    "e": "plum tree",
     "k": "lepreunyi",
     "f": "plumtree"
   },
@@ -25243,15 +28087,9 @@ export const vocabData = [
   },
   {
     "j": "lé prix",
-    "e": "price",
+    "e": "the price, price",
     "k": "leprix",
-    "f": "price"
-  },
-  {
-    "j": "lé prix",
-    "e": "the price",
-    "k": "leprix",
-    "f": "theprice"
+    "f": "theprice,price"
   },
   {
     "j": "lé probytaithe",
@@ -25302,100 +28140,16 @@ export const vocabData = [
     "f": "outlaw"
   },
   {
-    "j": "lé Protchuleux du Bein Publ'yic",
-    "e": "Procureur du Bien Public",
-    "k": "leprotchuleuxdubeinpublyic",
-    "f": "procureurdubienpublic"
-  },
-  {
     "j": "lé protchuleux",
     "e": "attorney",
     "k": "leprotchuleux",
     "f": "attorney"
   },
   {
-    "j": "lé p'tit Albèrt",
-    "e": "an abridged grimoire",
-    "k": "leptitalbert",
-    "f": "anabridgedgrimoire"
-  },
-  {
-    "j": "lé p'tit bathi",
-    "e": "the little barrel",
-    "k": "leptitbathi",
-    "f": "thelittlebarrel"
-  },
-  {
-    "j": "lé p'tit bichot, la bichette",
-    "e": "kid",
-    "k": "leptitbichot,labichette",
-    "f": "kid"
-  },
-  {
-    "j": "lé p'tit compiuteu",
-    "e": "laptop",
-    "k": "leptitcompiuteu",
-    "f": "laptop"
-  },
-  {
-    "j": "lé p'tit crapaud",
-    "e": "tadpole",
-    "k": "leptitcrapaud",
-    "f": "tadpole"
-  },
-  {
-    "j": "lé p'tit êté",
-    "e": "Indian summer",
-    "k": "leptitete",
-    "f": "indiansummer"
-  },
-  {
-    "j": "lé p'tit hèrnais à lait",
-    "e": "the milk cart",
-    "k": "leptithernaisalait",
-    "f": "themilkcart"
-  },
-  {
-    "j": "lé p'tit j'va, lé pônîn, lé bidet",
-    "e": "pony",
-    "k": "leptitjva,leponin,lebidet",
-    "f": "pony"
-  },
-  {
-    "j": "lé p'tit moussieu",
-    "e": "bluetit",
-    "k": "leptitmoussieu",
-    "f": "bluetit"
-  },
-  {
-    "j": "lé p'tit pain",
-    "e": "roll (of bread)",
-    "k": "leptitpain",
-    "f": "roll(ofbread)"
-  },
-  {
-    "j": "lé p'tit pèrrotchet",
-    "e": "fore topgallant-sail",
-    "k": "leptitperrotchet",
-    "f": "foretopgallantsail"
-  },
-  {
-    "j": "lé p'tit-fis",
-    "e": "grandson",
-    "k": "leptitfis",
-    "f": "grandson"
-  },
-  {
-    "j": "lé p'tit-mêle",
-    "e": "an abridged grimoire",
-    "k": "leptitmele",
-    "f": "anabridgedgrimoire"
-  },
-  {
-    "j": "lé p'tit-n'veu",
-    "e": "great-nephew",
-    "k": "leptitnveu",
-    "f": "greatnephew"
+    "j": "lé protchuleux du bein publ'yic",
+    "e": "procureur du bien public",
+    "k": "leprotchuleuxdubeinpublyic",
+    "f": "procureurdubienpublic"
   },
   {
     "j": "lé quart",
@@ -25432,6 +28186,60 @@ export const vocabData = [
     "e": "quiz",
     "k": "lequiz",
     "f": "quiz"
+  },
+  {
+    "j": "lé r'doteux",
+    "e": "dotard",
+    "k": "lerdoteux",
+    "f": "dotard"
+  },
+  {
+    "j": "lé r'fugié",
+    "e": "refugee",
+    "k": "lerfugie",
+    "f": "refugee"
+  },
+  {
+    "j": "lé r'nard",
+    "e": "fox",
+    "k": "lernard",
+    "f": "fox"
+  },
+  {
+    "j": "lé r'sîn",
+    "e": "surf",
+    "k": "lersin",
+    "f": "surf"
+  },
+  {
+    "j": "lé r'tardataithe",
+    "e": "latecomer",
+    "k": "lertardataithe",
+    "f": "latecomer"
+  },
+  {
+    "j": "lé r'tchîngneux",
+    "e": "sourface",
+    "k": "lertchingneux",
+    "f": "sourface"
+  },
+  {
+    "j": "lé r'tchiyant",
+    "e": "neaping",
+    "k": "lertchiyant",
+    "f": "neaping"
+  },
+  {
+    "j": "lé r'vendeux",
+    "e": "middle man",
+    "k": "lervendeux",
+    "f": "middleman"
+  },
+  {
+    "j": "lé r'vénu",
+    "e": "income",
+    "k": "lervenu",
+    "f": "income"
   },
   {
     "j": "lé rabâcheux",
@@ -25512,6 +28320,18 @@ export const vocabData = [
     "f": "miser"
   },
   {
+    "j": "lé rât",
+    "e": "rates",
+    "k": "lerat",
+    "f": "rates"
+  },
+  {
+    "j": "lé rat",
+    "e": "rat",
+    "k": "lerat",
+    "f": "rat"
+  },
+  {
     "j": "lé rat dg'ieau",
     "e": "water-vole",
     "k": "leratdgieau",
@@ -25524,28 +28344,16 @@ export const vocabData = [
     "f": "muskrat"
   },
   {
-    "j": "lé rat",
-    "e": "rat",
-    "k": "lerat",
-    "f": "rat"
-  },
-  {
-    "j": "lé rât",
-    "e": "rates",
-    "k": "lerat",
-    "f": "rates"
+    "j": "lé râté",
+    "e": "rake",
+    "k": "lerate",
+    "f": "rake"
   },
   {
     "j": "lé râté à fain",
     "e": "hayrake",
     "k": "lerateafain",
     "f": "hayrake"
-  },
-  {
-    "j": "lé râté",
-    "e": "rake",
-    "k": "lerate",
-    "f": "rake"
   },
   {
     "j": "lé ravaûd",
@@ -25560,18 +28368,6 @@ export const vocabData = [
     "f": "rayon"
   },
   {
-    "j": "lé r'doteux",
-    "e": "dotard",
-    "k": "lerdoteux",
-    "f": "dotard"
-  },
-  {
-    "j": "lé Recteu",
-    "e": "Rector",
-    "k": "lerecteu",
-    "f": "rector"
-  },
-  {
     "j": "lé recteu",
     "e": "rector",
     "k": "lerecteu",
@@ -25584,8 +28380,8 @@ export const vocabData = [
     "f": "rectory"
   },
   {
-    "j": "lé Redempteu",
-    "e": "Redeemer",
+    "j": "lé redempteu",
+    "e": "redeemer",
     "k": "leredempteu",
     "f": "redeemer"
   },
@@ -25644,6 +28440,12 @@ export const vocabData = [
     "f": "manofmeans"
   },
   {
+    "j": "lé restaurant n’est pon bein liain d’ichîn.",
+    "e": "the restaurant isn’t far from here.",
+    "k": "lerestaurantnestponbeinliaindichin.",
+    "f": "therestaurantisntfarfromhere."
+  },
+  {
     "j": "lé rêvacheux",
     "e": "daydreamer",
     "k": "lerevacheux",
@@ -25662,12 +28464,6 @@ export const vocabData = [
     "f": "rebel"
   },
   {
-    "j": "lé r'fugié",
-    "e": "refugee",
-    "k": "lerfugie",
-    "f": "refugee"
-  },
-  {
     "j": "lé rhinocéros",
     "e": "rhinoceros",
     "k": "lerhinoceros",
@@ -25678,12 +28474,6 @@ export const vocabData = [
     "e": "rum",
     "k": "lerhonme",
     "f": "rum"
-  },
-  {
-    "j": "lé riban",
-    "e": "ribbon",
-    "k": "leriban",
-    "f": "ribbon"
   },
   {
     "j": "lé riban",
@@ -25746,12 +28536,6 @@ export const vocabData = [
     "f": "row(ofliftedpotatoes)"
   },
   {
-    "j": "lé r'nard",
-    "e": "fox",
-    "k": "lernard",
-    "f": "fox"
-  },
-  {
     "j": "lé romathîn",
     "e": "rosemary",
     "k": "leromathin",
@@ -25794,8 +28578,8 @@ export const vocabData = [
     "f": "theking"
   },
   {
-    "j": "Lé rouai est mort, lé rouai vit!",
-    "e": "The king is dead, long live the king!",
+    "j": "lé rouai est mort, lé rouai vit!",
+    "e": "the king is dead, long live the king!",
     "k": "lerouaiestmort,lerouaivit!",
     "f": "thekingisdead,longlivetheking!"
   },
@@ -25807,7 +28591,7 @@ export const vocabData = [
   },
   {
     "j": "lé rouoge lis",
-    "e": "Tiger-lily",
+    "e": "tiger-lily",
     "k": "lerouogelis",
     "f": "tigerlily"
   },
@@ -25848,46 +28632,22 @@ export const vocabData = [
     "f": "kingdom"
   },
   {
-    "j": "lé Rouoyaume Unni",
-    "e": "United Kingdom",
+    "j": "lé rouoyaume unni",
+    "e": "united kingdom",
     "k": "lerouoyaumeunni",
     "f": "unitedkingdom"
-  },
-  {
-    "j": "lé r'sîn",
-    "e": "surf",
-    "k": "lersin",
-    "f": "surf"
-  },
-  {
-    "j": "lé r'tardataithe",
-    "e": "latecomer",
-    "k": "lertardataithe",
-    "f": "latecomer"
-  },
-  {
-    "j": "lé r'tchîngneux",
-    "e": "sourface",
-    "k": "lertchingneux",
-    "f": "sourface"
-  },
-  {
-    "j": "lé r'tchiyant",
-    "e": "neaping",
-    "k": "lertchiyant",
-    "f": "neaping"
-  },
-  {
-    "j": "lé run à pouochîns",
-    "e": "chicken-run",
-    "k": "lerunapouochins",
-    "f": "chickenrun"
   },
   {
     "j": "lé run",
     "e": "beam",
     "k": "lerun",
     "f": "beam"
+  },
+  {
+    "j": "lé run à pouochîns",
+    "e": "chicken-run",
+    "k": "lerunapouochins",
+    "f": "chickenrun"
   },
   {
     "j": "lé runguement",
@@ -25902,16 +28662,34 @@ export const vocabData = [
     "f": "stream"
   },
   {
-    "j": "lé r'vendeux",
-    "e": "middle man",
-    "k": "lervendeux",
-    "f": "middleman"
+    "j": "lé s'gondant",
+    "e": "seconder",
+    "k": "lesgondant",
+    "f": "seconder"
   },
   {
-    "j": "lé r'vénu",
-    "e": "income",
-    "k": "lervenu",
-    "f": "income"
+    "j": "lé s'grétaithe",
+    "e": "secretary",
+    "k": "lesgretaithe",
+    "f": "secretary"
+  },
+  {
+    "j": "lé s'meux",
+    "e": "sower",
+    "k": "lesmeux",
+    "f": "sower"
+  },
+  {
+    "j": "lé s'tchage du lînge",
+    "e": "drying laundry",
+    "k": "lestchagedulinge",
+    "f": "dryinglaundry"
+  },
+  {
+    "j": "lé s'tcheux",
+    "e": "dryer",
+    "k": "lestcheux",
+    "f": "dryer"
   },
   {
     "j": "lé sabbat",
@@ -25927,21 +28705,9 @@ export const vocabData = [
   },
   {
     "j": "lé sâbre",
-    "e": "cart sword",
+    "e": "sword of orion, sword, cart sword",
     "k": "lesabre",
-    "f": "cartsword"
-  },
-  {
-    "j": "lé sâbre",
-    "e": "sword",
-    "k": "lesabre",
-    "f": "sword"
-  },
-  {
-    "j": "lé Sâbre",
-    "e": "Sword of Orion",
-    "k": "lesabre",
-    "f": "swordoforion"
+    "f": "swordoforion,sword,cartsword"
   },
   {
     "j": "lé saccageux",
@@ -25956,8 +28722,8 @@ export const vocabData = [
     "f": "saffron"
   },
   {
-    "j": "lé Saint-Esprit",
-    "e": "Holy Spirit",
+    "j": "lé saint-esprit",
+    "e": "holy spirit",
     "k": "lesaintesprit",
     "f": "holyspirit"
   },
@@ -26005,7 +28771,7 @@ export const vocabData = [
   },
   {
     "j": "lé sapîn",
-    "e": "Fir, Spruce",
+    "e": "fir, spruce",
     "k": "lesapin",
     "f": "fir,spruce"
   },
@@ -26028,8 +28794,8 @@ export const vocabData = [
     "f": "satin"
   },
   {
-    "j": "lé Sauveur",
-    "e": "Saviour",
+    "j": "lé sauveur",
+    "e": "saviour",
     "k": "lesauveur",
     "f": "saviour"
   },
@@ -26095,15 +28861,9 @@ export const vocabData = [
   },
   {
     "j": "lé sé",
-    "e": "evening",
+    "e": "salt, evening",
     "k": "lese",
-    "f": "evening"
-  },
-  {
-    "j": "lé sé",
-    "e": "salt",
-    "k": "lese",
-    "f": "salt"
+    "f": "salt,evening"
   },
   {
     "j": "lé sectîn",
@@ -26130,8 +28890,8 @@ export const vocabData = [
     "f": "saddler"
   },
   {
-    "j": "lé Sénateu",
-    "e": "Senator",
+    "j": "lé sénateu",
+    "e": "senator",
     "k": "lesenateu",
     "f": "senator"
   },
@@ -26178,28 +28938,16 @@ export const vocabData = [
     "f": "service"
   },
   {
-    "j": "lé seurvillant d'l'Êglyise",
+    "j": "lé seurvillant d'l'êglyise",
     "e": "churchwarden",
     "k": "leseurvillantdleglyise",
     "f": "churchwarden"
-  },
-  {
-    "j": "lé s'gondant",
-    "e": "seconder",
-    "k": "lesgondant",
-    "f": "seconder"
   },
   {
     "j": "lé sgorneux",
     "e": "scornful person",
     "k": "lesgorneux",
     "f": "scornfulperson"
-  },
-  {
-    "j": "lé s'grétaithe",
-    "e": "secretary",
-    "k": "lesgretaithe",
-    "f": "secretary"
   },
   {
     "j": "lé sieaume",
@@ -26215,7 +28963,7 @@ export const vocabData = [
   },
   {
     "j": "lé sînm'né",
-    "e": "Jersey 'simnel'",
+    "e": "jersey 'simnel'",
     "k": "lesinmne",
     "f": "jerseysimnel"
   },
@@ -26224,12 +28972,6 @@ export const vocabData = [
     "e": "syrup, cough mixture",
     "k": "lesitho",
     "f": "syrup,coughmixture"
-  },
-  {
-    "j": "lé s'meux",
-    "e": "sower",
-    "k": "lesmeux",
-    "f": "sower"
   },
   {
     "j": "lé snîtcheux",
@@ -26280,22 +29022,34 @@ export const vocabData = [
     "f": "thesun"
   },
   {
+    "j": "lé solé lit à ch't' arlévée",
+    "e": "the sun is shining this afternoon",
+    "k": "lesolelitachtarlevee",
+    "f": "thesunisshiningthisafternoon"
+  },
+  {
+    "j": "lé solé lit. met eune castchette!",
+    "e": "the sun’s shining. put a cap on!",
+    "k": "lesolelit.meteunecastchette!",
+    "f": "thesunsshining.putacapon!"
+  },
+  {
     "j": "lé solo",
     "e": "solo",
     "k": "lesolo",
     "f": "solo"
   },
   {
-    "j": "lé solyi à fain",
-    "e": "hayloft",
-    "k": "lesolyiafain",
-    "f": "hayloft"
-  },
-  {
     "j": "lé solyi",
     "e": "loft (over out-buildings)",
     "k": "lesolyi",
     "f": "loft(overoutbuildings)"
+  },
+  {
+    "j": "lé solyi à fain",
+    "e": "hayloft",
+    "k": "lesolyiafain",
+    "f": "hayloft"
   },
   {
     "j": "lé songe-mitaine",
@@ -26359,7 +29113,7 @@ export const vocabData = [
   },
   {
     "j": "lé souos-officyi",
-    "e": "NCO",
+    "e": "nco",
     "k": "lesouosofficyi",
     "f": "nco"
   },
@@ -26383,27 +29137,15 @@ export const vocabData = [
   },
   {
     "j": "lé spruche",
-    "e": "Spruce",
+    "e": "spruce",
     "k": "lespruche",
     "f": "spruce"
   },
   {
-    "j": "lé St. Louothains",
-    "e": "St. Lawrence River",
+    "j": "lé st. louothains",
+    "e": "st. lawrence river",
     "k": "lest.louothains",
     "f": "st.lawrenceriver"
-  },
-  {
-    "j": "lé s'tchage du lînge",
-    "e": "drying laundry",
-    "k": "lestchagedulinge",
-    "f": "dryinglaundry"
-  },
-  {
-    "j": "lé s'tcheux",
-    "e": "dryer",
-    "k": "lestcheux",
-    "f": "dryer"
   },
   {
     "j": "lé stchilet",
@@ -26472,10 +29214,16 @@ export const vocabData = [
     "f": "sweatshirt"
   },
   {
-    "j": "lé Symbole",
+    "j": "lé symbole",
     "e": "creed",
     "k": "lesymbole",
     "f": "creed"
+  },
+  {
+    "j": "lé t-corset",
+    "e": "t-shirt",
+    "k": "letcorset",
+    "f": "tshirt"
   },
   {
     "j": "lé tabouothet",
@@ -26539,15 +29287,9 @@ export const vocabData = [
   },
   {
     "j": "lé tchèrbon",
-    "e": "anthrax",
+    "e": "coal, anthrax",
     "k": "letcherbon",
-    "f": "anthrax"
-  },
-  {
-    "j": "lé tchèrbon",
-    "e": "coal",
-    "k": "letcherbon",
-    "f": "coal"
+    "f": "coal,anthrax"
   },
   {
     "j": "lé tchèrbonnyi",
@@ -26580,16 +29322,10 @@ export const vocabData = [
     "f": "ploughman"
   },
   {
-    "j": "lé tchian dé driéthe",
-    "e": "back cross-beam",
-    "k": "letchiandedriethe",
-    "f": "backcrossbeam"
-  },
-  {
-    "j": "lé tchian dé d'vant",
-    "e": "front cross-beam",
-    "k": "letchiandedvant",
-    "f": "frontcrossbeam"
+    "j": "lé tchian",
+    "e": "dog",
+    "k": "letchian",
+    "f": "dog"
   },
   {
     "j": "lé tchian d'mé",
@@ -26604,22 +29340,28 @@ export const vocabData = [
     "f": "pedigreedog"
   },
   {
-    "j": "lé tchian d'St Mâlo",
+    "j": "lé tchian d'st mâlo",
     "e": "poodle",
     "k": "letchiandstmalo",
     "f": "poodle"
+  },
+  {
+    "j": "lé tchian dé d'vant",
+    "e": "front cross-beam",
+    "k": "letchiandedvant",
+    "f": "frontcrossbeam"
+  },
+  {
+    "j": "lé tchian dé driéthe",
+    "e": "back cross-beam",
+    "k": "letchiandedriethe",
+    "f": "backcrossbeam"
   },
   {
     "j": "lé tchian mêlé",
     "e": "mongrel dog",
     "k": "letchianmele",
     "f": "mongreldog"
-  },
-  {
-    "j": "lé tchian",
-    "e": "dog",
-    "k": "letchian",
-    "f": "dog"
   },
   {
     "j": "lé tchico",
@@ -26640,8 +29382,8 @@ export const vocabData = [
     "f": "ironmonger"
   },
   {
-    "j": "lé Tchithême",
-    "e": "Lent",
+    "j": "lé tchithême",
+    "e": "lent",
     "k": "letchitheme",
     "f": "lent"
   },
@@ -26653,15 +29395,9 @@ export const vocabData = [
   },
   {
     "j": "lé tchoeu",
-    "e": "choir",
+    "e": "heart, choir",
     "k": "letchoeu",
-    "f": "choir"
-  },
-  {
-    "j": "lé tchoeu",
-    "e": "heart",
-    "k": "letchoeu",
-    "f": "heart"
+    "f": "heart,choir"
   },
   {
     "j": "lé tchoeur",
@@ -26706,12 +29442,6 @@ export const vocabData = [
     "f": "hose"
   },
   {
-    "j": "lé t-corset",
-    "e": "t-shirt",
-    "k": "letcorset",
-    "f": "tshirt"
-  },
-  {
     "j": "lé télégramme",
     "e": "telegram",
     "k": "letelegramme",
@@ -26746,6 +29476,66 @@ export const vocabData = [
     "e": "temple",
     "k": "letemplye",
     "f": "temple"
+  },
+  {
+    "j": "lé temps est cliai comme un vèrre",
+    "e": "the weather is clear as a bell",
+    "k": "letempsestcliaicommeunverre",
+    "f": "theweatherisclearasabell"
+  },
+  {
+    "j": "lé temps est couvèrt",
+    "e": "it’s overcast",
+    "k": "letempsestcouvert",
+    "f": "itsovercast"
+  },
+  {
+    "j": "lé temps est gelif",
+    "e": "it’s frosty",
+    "k": "letempsestgelif",
+    "f": "itsfrosty"
+  },
+  {
+    "j": "lé temps est mucre",
+    "e": "the weather is wet",
+    "k": "letempsestmucre",
+    "f": "theweatheriswet"
+  },
+  {
+    "j": "lé temps est pouffre",
+    "e": "it’s close/muggy",
+    "k": "letempsestpouffre",
+    "f": "itsclose/muggy"
+  },
+  {
+    "j": "lé temps m'niche à la plyie",
+    "e": "there’s a threat of rain",
+    "k": "letempsmnichealaplyie",
+    "f": "theresathreatofrain"
+  },
+  {
+    "j": "lé temps pathaît fait.",
+    "e": "the weather seems settled.",
+    "k": "letempspathaitfait.",
+    "f": "theweatherseemssettled."
+  },
+  {
+    "j": "lé temps s'clièrgit",
+    "e": "the weather is clearing",
+    "k": "letempsscliergit",
+    "f": "theweatherisclearing"
+  },
+  {
+    "j": "lé temps s'gâte",
+    "e": "the weather's getting worse",
+    "k": "letempssgate",
+    "f": "theweathersgettingworse"
+  },
+  {
+    "j": "lé temps s’en va s'amender",
+    "e": "the weather will improve",
+    "k": "letempssenvasamender",
+    "f": "theweatherwillimprove"
   },
   {
     "j": "lé teurt-co",
@@ -26791,7 +29581,7 @@ export const vocabData = [
   },
   {
     "j": "lé tique",
-    "e": "Teak",
+    "e": "teak",
     "k": "letique",
     "f": "teak"
   },
@@ -26863,15 +29653,9 @@ export const vocabData = [
   },
   {
     "j": "lé tracteu",
-    "e": "the tractor",
+    "e": "tractor, the tractor",
     "k": "letracteu",
-    "f": "thetractor"
-  },
-  {
-    "j": "lé tracteu",
-    "e": "tractor",
-    "k": "letracteu",
-    "f": "tractor"
+    "f": "tractor,thetractor"
   },
   {
     "j": "lé traducteux",
@@ -26880,16 +29664,22 @@ export const vocabData = [
     "f": "translator"
   },
   {
+    "j": "lé trafi",
+    "e": "traffic",
+    "k": "letrafi",
+    "f": "traffic"
+  },
+  {
     "j": "lé trafi des drogues",
     "e": "drug trafficking",
     "k": "letrafidesdrogues",
     "f": "drugtrafficking"
   },
   {
-    "j": "lé trafi",
-    "e": "traffic",
-    "k": "letrafi",
-    "f": "traffic"
+    "j": "lé trafi est încriyabl’ye à matîn.",
+    "e": "the traffic is unbelievable this morning.",
+    "k": "letrafiestincriyablyeamatin.",
+    "f": "thetrafficisunbelievablethismorning."
   },
   {
     "j": "lé train",
@@ -26929,7 +29719,7 @@ export const vocabData = [
   },
   {
     "j": "lé trêflye dg'ieau",
-    "e": "Trefoil (marsh)",
+    "e": "trefoil (marsh)",
     "k": "letreflyedgieau",
     "f": "trefoil(marsh)"
   },
@@ -27012,6 +29802,12 @@ export const vocabData = [
     "f": "tyrant"
   },
   {
+    "j": "lé v'nîn",
+    "e": "venom",
+    "k": "levnin",
+    "f": "venom"
+  },
+  {
     "j": "lé vacâbond",
     "e": "vagabond",
     "k": "levacabond",
@@ -27042,16 +29838,16 @@ export const vocabData = [
     "f": "vessel"
   },
   {
-    "j": "lé valet d'fèrme",
-    "e": "farmhand",
-    "k": "levaletdferme",
-    "f": "farmhand"
-  },
-  {
     "j": "lé valet",
     "e": "jack",
     "k": "levalet",
     "f": "jack"
+  },
+  {
+    "j": "lé valet d'fèrme",
+    "e": "farmhand",
+    "k": "levaletdferme",
+    "f": "farmhand"
   },
   {
     "j": "lé vanné",
@@ -27073,13 +29869,13 @@ export const vocabData = [
   },
   {
     "j": "lé vée",
-    "e": "V-crosspiece",
+    "e": "v-crosspiece",
     "k": "levee",
     "f": "vcrosspiece"
   },
   {
-    "j": "lé Véndrédi Saint",
-    "e": "Good Friday",
+    "j": "lé véndrédi saint",
+    "e": "good friday",
     "k": "levendredisaint",
     "f": "goodfriday"
   },
@@ -27102,22 +29898,28 @@ export const vocabData = [
     "f": "thewinnower"
   },
   {
-    "j": "lé ventre des limons",
-    "e": "belly of shafts",
-    "k": "leventredeslimons",
-    "f": "bellyofshafts"
-  },
-  {
     "j": "lé ventre",
     "e": "stomach",
     "k": "leventre",
     "f": "stomach"
   },
   {
+    "j": "lé ventre des limons",
+    "e": "belly of shafts",
+    "k": "leventredeslimons",
+    "f": "bellyofshafts"
+  },
+  {
     "j": "lé vêpre",
     "e": "wasp",
     "k": "levepre",
     "f": "wasp"
+  },
+  {
+    "j": "lé vèr",
+    "e": "worm",
+    "k": "lever",
+    "f": "worm"
   },
   {
     "j": "lé vèr à souaie",
@@ -27136,12 +29938,6 @@ export const vocabData = [
     "e": "tapeworm",
     "k": "leversolitaithe",
     "f": "tapeworm"
-  },
-  {
-    "j": "lé vèr",
-    "e": "worm",
-    "k": "lever",
-    "f": "worm"
   },
   {
     "j": "lé verdgé",
@@ -27163,15 +29959,9 @@ export const vocabData = [
   },
   {
     "j": "lé verglias",
-    "e": "black ice",
+    "e": "sleet, black ice",
     "k": "leverglias",
-    "f": "blackice"
-  },
-  {
-    "j": "lé verglias",
-    "e": "sleet",
-    "k": "leverglias",
-    "f": "sleet"
+    "f": "sleet,blackice"
   },
   {
     "j": "lé vèrjus",
@@ -27222,40 +30012,22 @@ export const vocabData = [
     "f": "cameraman"
   },
   {
-    "j": "lé vidgo",
-    "e": "video",
-    "k": "levidgo",
-    "f": "video"
-  },
-  {
     "j": "lé vidg'o",
     "e": "the video",
     "k": "levidgo",
     "f": "thevideo"
   },
   {
-    "j": "lé vieau",
-    "e": "calf",
-    "k": "levieau",
-    "f": "calf"
+    "j": "lé vidgo",
+    "e": "video",
+    "k": "levidgo",
+    "f": "video"
   },
   {
     "j": "lé vieau",
-    "e": "veal",
+    "e": "veal, calf",
     "k": "levieau",
-    "f": "veal"
-  },
-  {
-    "j": "lé vîn brûlé",
-    "e": "mulled wine",
-    "k": "levinbrule",
-    "f": "mulledwine"
-  },
-  {
-    "j": "lé vîn d'Porto",
-    "e": "port",
-    "k": "levindporto",
-    "f": "port"
+    "f": "veal,calf"
   },
   {
     "j": "lé vîn",
@@ -27264,8 +30036,20 @@ export const vocabData = [
     "f": "wine"
   },
   {
-    "j": "lé Vîngtn'yi",
-    "e": "Vingtenier",
+    "j": "lé vîn brûlé",
+    "e": "mulled wine",
+    "k": "levinbrule",
+    "f": "mulledwine"
+  },
+  {
+    "j": "lé vîn d'porto",
+    "e": "port",
+    "k": "levindporto",
+    "f": "port"
+  },
+  {
+    "j": "lé vîngtn'yi",
+    "e": "vingtenier",
     "k": "levingtnyi",
     "f": "vingtenier"
   },
@@ -27318,12 +30102,6 @@ export const vocabData = [
     "f": "mead"
   },
   {
-    "j": "lé v'nîn",
-    "e": "venom",
-    "k": "levnin",
-    "f": "venom"
-  },
-  {
     "j": "lé vocabulaithe",
     "e": "vocabulary",
     "k": "levocabulaithe",
@@ -27342,16 +30120,16 @@ export const vocabData = [
     "f": "volunteer"
   },
   {
-    "j": "lé voleux d'grand'cmîn",
-    "e": "highwayman",
-    "k": "levoleuxdgrandcmin",
-    "f": "highwayman"
-  },
-  {
     "j": "lé voleux",
     "e": "thief",
     "k": "levoleux",
     "f": "thief"
+  },
+  {
+    "j": "lé voleux d'grand'cmîn",
+    "e": "highwayman",
+    "k": "levoleuxdgrandcmin",
+    "f": "highwayman"
   },
   {
     "j": "lé vote",
@@ -27366,28 +30144,28 @@ export const vocabData = [
     "f": "voter"
   },
   {
-    "j": "lé vouaile d'eune mathiée",
-    "e": "bride's veil",
-    "k": "levouailedeunemathiee",
-    "f": "bridesveil"
-  },
-  {
     "j": "lé vouaile",
     "e": "veil",
     "k": "levouaile",
     "f": "veil"
   },
   {
-    "j": "lé vrai d'vivyi",
-    "e": "Pondweed",
-    "k": "levraidvivyi",
-    "f": "pondweed"
+    "j": "lé vouaile d'eune mathiée",
+    "e": "bride's veil",
+    "k": "levouailedeunemathiee",
+    "f": "bridesveil"
   },
   {
     "j": "lé vrai",
     "e": "seaweed",
     "k": "levrai",
     "f": "seaweed"
+  },
+  {
+    "j": "lé vrai d'vivyi",
+    "e": "pondweed",
+    "k": "levraidvivyi",
+    "f": "pondweed"
   },
   {
     "j": "lé whisky",
@@ -27408,424 +30186,10 @@ export const vocabData = [
     "f": "zodiac"
   },
   {
-    "j": "l'êcadîn",
-    "e": "stone chippings",
-    "k": "lecadin",
-    "f": "stonechippings"
-  },
-  {
-    "j": "l'êcale",
-    "e": "shell",
-    "k": "lecale",
-    "f": "shell"
-  },
-  {
-    "j": "l'êcalyi touônnant",
-    "e": "newel staircase",
-    "k": "lecalyitouonnant",
-    "f": "newelstaircase"
-  },
-  {
-    "j": "l'êcalyi",
-    "e": "staircase",
-    "k": "lecalyi",
-    "f": "staircase"
-  },
-  {
-    "j": "l'êcarlate",
-    "e": "red admiral",
-    "k": "lecarlate",
-    "f": "redadmiral"
-  },
-  {
-    "j": "l'êcaudeuse",
-    "e": "sunburn",
-    "k": "lecaudeuse",
-    "f": "sunburn"
-  },
-  {
-    "j": "l'êcharpe, lé mouoché",
-    "e": "scarf",
-    "k": "lecharpe,lemouoche",
-    "f": "scarf"
-  },
-  {
-    "j": "l'êcliuse",
-    "e": "mill-pond",
-    "k": "lecliuse",
-    "f": "millpond"
-  },
-  {
-    "j": "l'Êclon",
-    "e": "the Plough",
-    "k": "leclon",
-    "f": "theplough"
-  },
-  {
-    "j": "l'êclyipse",
-    "e": "eclipse",
-    "k": "leclyipse",
-    "f": "eclipse"
-  },
-  {
-    "j": "l'êcolage",
-    "e": "schooling",
-    "k": "lecolage",
-    "f": "schooling"
-  },
-  {
-    "j": "l'êcole du Dînmanche",
-    "e": "Sunday school",
-    "k": "lecoledudinmanche",
-    "f": "sundayschool"
-  },
-  {
-    "j": "l'êcole du Dînmanche",
-    "e": "Sunday school",
-    "k": "lecoledudinmanche",
-    "f": "sundayschool"
-  },
-  {
-    "j": "l'êcole",
-    "e": "school",
-    "k": "lecole",
-    "f": "school"
-  },
-  {
-    "j": "l'êcolyi",
-    "e": "pupil",
-    "k": "lecolyi",
-    "f": "pupil"
-  },
-  {
-    "j": "l'êconomie",
-    "e": "economy",
-    "k": "leconomie",
-    "f": "economy"
-  },
-  {
-    "j": "l'êcopi",
-    "e": "saliva",
-    "k": "lecopi",
-    "f": "saliva"
-  },
-  {
-    "j": "l'êcorche",
-    "e": "bark",
-    "k": "lecorche",
-    "f": "bark"
-  },
-  {
-    "j": "l'êcorcheuse",
-    "e": "graze",
-    "k": "lecorcheuse",
-    "f": "graze"
-  },
-  {
-    "j": "l'êcouêson",
-    "e": "quoin",
-    "k": "lecoueson",
-    "f": "quoin"
-  },
-  {
-    "j": "l'êcoute d'eune vaile",
-    "e": "sheet of a sail",
-    "k": "lecoutedeunevaile",
-    "f": "sheetofasail"
-  },
-  {
-    "j": "l'êcoute, dé la vaile",
-    "e": "sheet, of sail",
-    "k": "lecoute,delavaile",
-    "f": "sheet,ofsail"
-  },
-  {
-    "j": "l'êcoute-pathai",
-    "e": "eavesdropper",
-    "k": "lecoutepathai",
-    "f": "eavesdropper"
-  },
-  {
-    "j": "l'êcouteux",
-    "e": "listener",
-    "k": "lecouteux",
-    "f": "listener"
-  },
-  {
-    "j": "l'êcouteux",
-    "e": "eavesdropper",
-    "k": "lecouteux",
-    "f": "eavesdropper"
-  },
-  {
-    "j": "l'êcoutil'ye",
-    "e": "hatchway",
-    "k": "lecoutilye",
-    "f": "hatchway"
-  },
-  {
-    "j": "l'êcran",
-    "e": "screen",
-    "k": "lecran",
-    "f": "screen"
-  },
-  {
-    "j": "l'êcrède",
-    "e": "scale",
-    "k": "lecrede",
-    "f": "scale"
-  },
-  {
-    "j": "l'êcrithie",
-    "e": "writing",
-    "k": "lecrithie",
-    "f": "writing"
-  },
-  {
-    "j": "l'êcritouaithe",
-    "e": "desk",
-    "k": "lecritouaithe",
-    "f": "desk"
-  },
-  {
-    "j": "l'êcrituthe",
-    "e": "handwriting",
-    "k": "lecrituthe",
-    "f": "handwriting"
-  },
-  {
-    "j": "l'êducâtion",
-    "e": "education",
-    "k": "leducation",
-    "f": "education"
-  },
-  {
-    "j": "l'êfant d'galiotage",
-    "e": "bastard",
-    "k": "lefantdgaliotage",
-    "f": "bastard"
-  },
-  {
-    "j": "l'êfant",
-    "e": "child",
-    "k": "lefant",
-    "f": "child"
-  },
-  {
-    "j": "l'êffet",
-    "e": "effect",
-    "k": "leffet",
-    "f": "effect"
-  },
-  {
     "j": "légal",
     "e": "legal",
     "k": "legal",
     "f": "legal"
-  },
-  {
-    "j": "l'êgalité",
-    "e": "equality",
-    "k": "legalite",
-    "f": "equality"
-  },
-  {
-    "j": "l'êglyise",
-    "e": "church",
-    "k": "leglyise",
-    "f": "church"
-  },
-  {
-    "j": "l'êgoutteux",
-    "e": "draining-board",
-    "k": "legoutteux",
-    "f": "drainingboard"
-  },
-  {
-    "j": "l'êlecteu",
-    "e": "elector",
-    "k": "lelecteu",
-    "f": "elector"
-  },
-  {
-    "j": "l'êléphant",
-    "e": "elephant",
-    "k": "lelephant",
-    "f": "elephant"
-  },
-  {
-    "j": "l'êleveux",
-    "e": "cattle-breeder",
-    "k": "leleveux",
-    "f": "cattlebreeder"
-  },
-  {
-    "j": "l'êlîndgi",
-    "e": "lanky person",
-    "k": "lelindgi",
-    "f": "lankyperson"
-  },
-  {
-    "j": "l'e-mail",
-    "e": "e-mail",
-    "k": "lemail",
-    "f": "email"
-  },
-  {
-    "j": "l'embête",
-    "e": "bore",
-    "k": "lembete",
-    "f": "bore"
-  },
-  {
-    "j": "l'emboutil'lie",
-    "e": "bottling",
-    "k": "lemboutillie",
-    "f": "bottling"
-  },
-  {
-    "j": "l'embraich'chie",
-    "e": "kissing",
-    "k": "lembraichchie",
-    "f": "kissing"
-  },
-  {
-    "j": "l'êmigrant",
-    "e": "emigrant",
-    "k": "lemigrant",
-    "f": "emigrant"
-  },
-  {
-    "j": "l'emmèrde",
-    "e": "nuisance",
-    "k": "lemmerde",
-    "f": "nuisance"
-  },
-  {
-    "j": "l'empéreur",
-    "e": "emperor",
-    "k": "lempereur",
-    "f": "emperor"
-  },
-  {
-    "j": "l'empiègne d'un soulié",
-    "e": "uppers of shoe",
-    "k": "lempiegnedunsoulie",
-    "f": "uppersofshoe"
-  },
-  {
-    "j": "l'emprunteux",
-    "e": "borrower",
-    "k": "lemprunteux",
-    "f": "borrower"
-  },
-  {
-    "j": "l'enâgement",
-    "e": "coming of age",
-    "k": "lenagement",
-    "f": "comingofage"
-  },
-  {
-    "j": "l'encanteux",
-    "e": "auctioneer",
-    "k": "lencanteux",
-    "f": "auctioneer"
-  },
-  {
-    "j": "l'enchens",
-    "e": "incense",
-    "k": "lenchens",
-    "f": "incense"
-  },
-  {
-    "j": "l'enchorchell'lie",
-    "e": "sorcery",
-    "k": "lenchorchelllie",
-    "f": "sorcery"
-  },
-  {
-    "j": "l'encre",
-    "e": "ink",
-    "k": "lencre",
-    "f": "ink"
-  },
-  {
-    "j": "l'encriyi",
-    "e": "inkwell",
-    "k": "lencriyi",
-    "f": "inkwell"
-  },
-  {
-    "j": "l'encriyi",
-    "e": "inkwell",
-    "k": "lencriyi",
-    "f": "inkwell"
-  },
-  {
-    "j": "l'Enfé",
-    "e": "Hell",
-    "k": "lenfe",
-    "f": "hell"
-  },
-  {
-    "j": "l'enfliammâtion d'ponmons",
-    "e": "pneumonia",
-    "k": "lenfliammationdponmons",
-    "f": "pneumonia"
-  },
-  {
-    "j": "l'enflieunme",
-    "e": "swelling",
-    "k": "lenflieunme",
-    "f": "swelling"
-  },
-  {
-    "j": "l'enfuntchi",
-    "e": "simpleton",
-    "k": "lenfuntchi",
-    "f": "simpleton"
-  },
-  {
-    "j": "l'engagement",
-    "e": "engagement",
-    "k": "lengagement",
-    "f": "engagement"
-  },
-  {
-    "j": "l'engîn",
-    "e": "motor",
-    "k": "lengin",
-    "f": "motor"
-  },
-  {
-    "j": "l'engoulême",
-    "e": "estuary",
-    "k": "lengouleme",
-    "f": "estuary"
-  },
-  {
-    "j": "l'engrais",
-    "e": "fertilizer",
-    "k": "lengrais",
-    "f": "fertilizer"
-  },
-  {
-    "j": "l'enn'mîn",
-    "e": "enemy",
-    "k": "lennmin",
-    "f": "enemy"
-  },
-  {
-    "j": "l'ensîngnant",
-    "e": "teacher",
-    "k": "lensingnant",
-    "f": "teacher"
-  },
-  {
-    "j": "l'ens'mench'chie",
-    "e": "sowing",
-    "k": "lensmenchchie",
-    "f": "sowing"
   },
   {
     "j": "lent",
@@ -27834,172 +30198,16 @@ export const vocabData = [
     "f": "slow"
   },
   {
-    "j": "l'entré-panné",
-    "e": "mullion",
-    "k": "lentrepanne",
-    "f": "mullion"
-  },
-  {
-    "j": "l'entrépranneux",
-    "e": "undertaker",
-    "k": "lentrepranneux",
-    "f": "undertaker"
-  },
-  {
-    "j": "l'entrinneux",
-    "e": "stubborn person",
-    "k": "lentrinneux",
-    "f": "stubbornperson"
-  },
-  {
-    "j": "l'env'yêthie",
-    "e": "sending",
-    "k": "lenvyethie",
-    "f": "sending"
-  },
-  {
-    "j": "l'env'yeux",
-    "e": "sender",
-    "k": "lenvyeux",
-    "f": "sender"
-  },
-  {
-    "j": "l'êpart",
-    "e": "lightning",
-    "k": "lepart",
-    "f": "lightning"
-  },
-  {
-    "j": "l'êpaule",
-    "e": "shoulder",
-    "k": "lepaule",
-    "f": "shoulder"
-  },
-  {
-    "j": "l'êpicyi, lé grôssyi",
-    "e": "grocer",
-    "k": "lepicyi,legrossyi",
-    "f": "grocer"
-  },
-  {
-    "j": "l'êpidémie",
-    "e": "epidemic",
-    "k": "lepidemie",
-    "f": "epidemic"
-  },
-  {
-    "j": "l'êpieux",
-    "e": "spy",
-    "k": "lepieux",
-    "f": "spy"
-  },
-  {
-    "j": "l'êpîle à Iînge",
-    "e": "clothes peg",
-    "k": "lepileaiinge",
-    "f": "clothespeg"
-  },
-  {
-    "j": "l'épilepsie",
-    "e": "epilepsy",
-    "k": "lepilepsie",
-    "f": "epilepsy"
-  },
-  {
-    "j": "l'êpîndgi",
-    "e": "needle-case",
-    "k": "lepindgi",
-    "f": "needlecase"
-  },
-  {
-    "j": "l'êpousseteux",
-    "e": "duster",
-    "k": "lepousseteux",
-    "f": "duster"
-  },
-  {
-    "j": "l'êprouvette",
-    "e": "wine taster",
-    "k": "leprouvette",
-    "f": "winetaster"
-  },
-  {
-    "j": "l'êpu",
-    "e": "manure (liquid)",
-    "k": "lepu",
-    "f": "manure(liquid)"
-  },
-  {
-    "j": "l'êquathisseux",
-    "e": "knacker",
-    "k": "lequathisseux",
-    "f": "knacker"
-  },
-  {
-    "j": "l'èrchelle",
-    "e": "cursor",
-    "k": "lerchelle",
-    "f": "cursor"
-  },
-  {
-    "j": "l'èrchéveux",
-    "e": "recipient",
-    "k": "lercheveux",
-    "f": "recipient"
-  },
-  {
-    "j": "l'èrfrain",
-    "e": "chorus",
-    "k": "lerfrain",
-    "f": "chorus"
-  },
-  {
-    "j": "l'èrpathe",
-    "e": "coping",
-    "k": "lerpathe",
-    "f": "coping"
-  },
-  {
-    "j": "l'èrré",
-    "e": "distracted person",
-    "k": "lerre",
-    "f": "distractedperson"
-  },
-  {
-    "j": "l'èrsîn des louêmes",
-    "e": "ebb (of waves)",
-    "k": "lersindeslouemes",
-    "f": "ebb(ofwaves)"
-  },
-  {
-    "j": "l'èrtithant",
-    "e": "ebb",
-    "k": "lertithant",
-    "f": "ebb"
-  },
-  {
-    "j": "l'èrtithant",
-    "e": "ebb tide",
-    "k": "lertithant",
-    "f": "ebbtide"
-  },
-  {
-    "j": "l'èrtithe-tout",
-    "e": "lumber-room",
-    "k": "lertithetout",
-    "f": "lumberroom"
-  },
-  {
-    "j": "l'èrtûnfîn",
-    "e": "after-effects",
-    "k": "lertunfin",
-    "f": "aftereffects"
-  },
-  {
     "j": "les avanchons",
     "e": "chains hooked to horse collar",
     "k": "lesavanchons",
     "f": "chainshookedtohorsecollar"
+  },
+  {
+    "j": "les avions sont r’tèrgis par la bliâse.",
+    "e": "the planes are held up by the fog.",
+    "k": "lesavionssontrtergisparlabliase.",
+    "f": "theplanesareheldupbythefog."
   },
   {
     "j": "les bancs",
@@ -28033,15 +30241,9 @@ export const vocabData = [
   },
   {
     "j": "les bétchil'yes",
-    "e": "crutches",
+    "e": "props, crutches",
     "k": "lesbetchilyes",
-    "f": "crutches"
-  },
-  {
-    "j": "les bétchil'yes",
-    "e": "props",
-    "k": "lesbetchilyes",
-    "f": "props"
+    "f": "props,crutches"
   },
   {
     "j": "les bêtes à cornes",
@@ -28066,12 +30268,6 @@ export const vocabData = [
     "e": "hobnailed boots",
     "k": "lesbottesacliou",
     "f": "hobnailedboots"
-  },
-  {
-    "j": "les boulets",
-    "e": "pills",
-    "k": "lesboulets",
-    "f": "pills"
   },
   {
     "j": "les boulets",
@@ -28110,8 +30306,20 @@ export const vocabData = [
     "f": "reins"
   },
   {
-    "j": "Les Canâries",
-    "e": "Canaries",
+    "j": "les c'mandes",
+    "e": "reins",
+    "k": "lescmandes",
+    "f": "reins"
+  },
+  {
+    "j": "les c'mîns d'st. jacques",
+    "e": "milky way",
+    "k": "lescminsdst.jacques",
+    "f": "milkyway"
+  },
+  {
+    "j": "les canâries",
+    "e": "canaries",
     "k": "lescanaries",
     "f": "canaries"
   },
@@ -28176,8 +30384,8 @@ export const vocabData = [
     "f": "chocks"
   },
   {
-    "j": "les chours d'Bruxelles",
-    "e": "Brussels sprouts",
+    "j": "les chours d'bruxelles",
+    "e": "brussels sprouts",
     "k": "leschoursdbruxelles",
     "f": "brusselssprouts"
   },
@@ -28186,18 +30394,6 @@ export const vocabData = [
     "e": "clasps",
     "k": "lesclianques",
     "f": "clasps"
-  },
-  {
-    "j": "les c'mandes",
-    "e": "reins",
-    "k": "lescmandes",
-    "f": "reins"
-  },
-  {
-    "j": "les C'mîns d'St. Jacques",
-    "e": "Milky Way",
-    "k": "lescminsdst.jacques",
-    "f": "milkyway"
   },
   {
     "j": "les cônettes",
@@ -28236,8 +30432,8 @@ export const vocabData = [
     "f": "eyes(childrensword)"
   },
   {
-    "j": "les Crouaîsades",
-    "e": "the Crusades",
+    "j": "les crouaîsades",
+    "e": "the crusades",
     "k": "lescrouaisades",
     "f": "thecrusades"
   },
@@ -28284,16 +30480,16 @@ export const vocabData = [
     "f": "softdrugs"
   },
   {
-    "j": "les drouaits d'l'houmme",
-    "e": "human rights",
-    "k": "lesdrouaitsdlhoumme",
-    "f": "humanrights"
-  },
-  {
     "j": "les drouaits",
     "e": "rights",
     "k": "lesdrouaits",
     "f": "rights"
+  },
+  {
+    "j": "les drouaits d'l'houmme",
+    "e": "human rights",
+    "k": "lesdrouaitsdlhoumme",
+    "f": "humanrights"
   },
   {
     "j": "les êpices",
@@ -28350,6 +30546,12 @@ export const vocabData = [
     "f": "chips"
   },
   {
+    "j": "les g'veux",
+    "e": "hair",
+    "k": "lesgveux",
+    "f": "hair"
+  },
+  {
     "j": "les gambes",
     "e": "legs",
     "k": "lesgambes",
@@ -28374,7 +30576,7 @@ export const vocabData = [
     "f": "peoplefromwitchfamilies"
   },
   {
-    "j": "les gens du Vendrédi",
+    "j": "les gens du vendrédi",
     "e": "witches",
     "k": "lesgensduvendredi",
     "f": "witches"
@@ -28402,18 +30604,6 @@ export const vocabData = [
     "e": "braces",
     "k": "lesguelesses",
     "f": "braces"
-  },
-  {
-    "j": "les g'veux",
-    "e": "hair",
-    "k": "lesgveux",
-    "f": "hair"
-  },
-  {
-    "j": "les g'veux",
-    "e": "hair",
-    "k": "lesgveux",
-    "f": "hair"
   },
   {
     "j": "les habits, les hardes",
@@ -28488,16 +30678,16 @@ export const vocabData = [
     "f": "tears"
   },
   {
-    "j": "les leunettes d'solé",
-    "e": "sunglasses",
-    "k": "lesleunettesdsole",
-    "f": "sunglasses"
-  },
-  {
     "j": "les leunettes",
     "e": "spectacles",
     "k": "lesleunettes",
     "f": "spectacles"
+  },
+  {
+    "j": "les leunettes d'solé",
+    "e": "sunglasses",
+    "k": "lesleunettesdsole",
+    "f": "sunglasses"
   },
   {
     "j": "les libres êglyises",
@@ -28530,6 +30720,12 @@ export const vocabData = [
     "f": "binoculars"
   },
   {
+    "j": "les m'nottes",
+    "e": "handcuffs",
+    "k": "lesmnottes",
+    "f": "handcuffs"
+  },
+  {
     "j": "les manchelles",
     "e": "handlebars",
     "k": "lesmanchelles",
@@ -28548,8 +30744,8 @@ export const vocabData = [
     "f": "maths"
   },
   {
-    "j": "les Mathionnettes",
-    "e": "Northern Lights",
+    "j": "les mathionnettes",
+    "e": "northern lights",
     "k": "lesmathionnettes",
     "f": "northernlights"
   },
@@ -28576,12 +30772,6 @@ export const vocabData = [
     "e": "smithereens",
     "k": "lesminchons",
     "f": "smithereens"
-  },
-  {
-    "j": "les m'nottes",
-    "e": "handcuffs",
-    "k": "lesmnottes",
-    "f": "handcuffs"
   },
   {
     "j": "les montants",
@@ -28626,6 +30816,12 @@ export const vocabData = [
     "f": "news"
   },
   {
+    "j": "les nouvelles et l’ji",
+    "e": "news and entertainment",
+    "k": "lesnouvellesetlji",
+    "f": "newsandentertainment"
+  },
+  {
     "j": "les ouôlins",
     "e": "garboard",
     "k": "lesouolins",
@@ -28636,6 +30832,18 @@ export const vocabData = [
     "e": "ears",
     "k": "lesouothelles",
     "f": "ears"
+  },
+  {
+    "j": "les p'tites îles d's êtats unnis",
+    "e": "united states minor outlying islands",
+    "k": "lesptitesilesdsetatsunnis",
+    "f": "unitedstatesminoroutlyingislands"
+  },
+  {
+    "j": "les p'tits faît'tchieaux",
+    "e": "the little people, fairies",
+    "k": "lesptitsfaittchieaux",
+    "f": "thelittlepeople,fairies"
   },
   {
     "j": "les pais au fou",
@@ -28651,7 +30859,7 @@ export const vocabData = [
   },
   {
     "j": "les pais d'mai",
-    "e": "French beans",
+    "e": "french beans",
     "k": "lespaisdmai",
     "f": "frenchbeans"
   },
@@ -28686,16 +30894,16 @@ export const vocabData = [
     "f": "period"
   },
   {
+    "j": "les pids",
+    "e": "feet of orion",
+    "k": "lespids",
+    "f": "feetoforion"
+  },
+  {
     "j": "les pids d'tas",
     "e": "the support stones",
     "k": "lespidsdtas",
     "f": "thesupportstones"
-  },
-  {
-    "j": "les Pids",
-    "e": "Feet of Orion",
-    "k": "lespids",
-    "f": "feetoforion"
   },
   {
     "j": "les pièrres dé haûgard",
@@ -28705,15 +30913,9 @@ export const vocabData = [
   },
   {
     "j": "les pièrres dé votte",
-    "e": "archstones",
+    "e": "arch stone, archstones",
     "k": "lespierresdevotte",
-    "f": "archstones"
-  },
-  {
-    "j": "les pièrres dé votte",
-    "e": "arch stone",
-    "k": "lespierresdevotte",
-    "f": "archstone"
+    "f": "archstone,archstones"
   },
   {
     "j": "les pliombs",
@@ -28728,22 +30930,16 @@ export const vocabData = [
     "f": "leatherloopforshafts"
   },
   {
-    "j": "Les P'tites Îles d's Êtats Unnis",
-    "e": "United States Minor Outlying Islands",
-    "k": "lesptitesilesdsetatsunnis",
-    "f": "unitedstatesminoroutlyingislands"
-  },
-  {
-    "j": "les p'tits faît'tchieaux",
-    "e": "the little people, fairies",
-    "k": "lesptitsfaittchieaux",
-    "f": "thelittlepeople,fairies"
-  },
-  {
     "j": "les pyjamas",
     "e": "pyjamas",
     "k": "lespyjamas",
     "f": "pyjamas"
+  },
+  {
+    "j": "les r'liques",
+    "e": "relics",
+    "k": "lesrliques",
+    "f": "relics"
   },
   {
     "j": "les radigotes",
@@ -28800,12 +30996,6 @@ export const vocabData = [
     "f": "curtains"
   },
   {
-    "j": "les r'liques",
-    "e": "relics",
-    "k": "lesrliques",
-    "f": "relics"
-  },
-  {
     "j": "les rouelles",
     "e": "wheels",
     "k": "lesrouelles",
@@ -28824,8 +31014,14 @@ export const vocabData = [
     "f": "ruins"
   },
   {
-    "j": "les Saintes Êcrituthes",
-    "e": "Holy Scripture",
+    "j": "les s'tembres",
+    "e": "ague",
+    "k": "lesstembres",
+    "f": "ague"
+  },
+  {
+    "j": "les saintes êcrituthes",
+    "e": "holy scripture",
     "k": "lessaintesecrituthes",
     "f": "holyscripture"
   },
@@ -28836,34 +31032,22 @@ export const vocabData = [
     "f": "breasts"
   },
   {
+    "j": "les sou",
+    "e": "money",
+    "k": "lessou",
+    "f": "money"
+  },
+  {
     "j": "les sou d'êpaîngne",
     "e": "savings",
     "k": "lessoudepaingne",
     "f": "savings"
   },
   {
-    "j": "les sou",
-    "e": "money",
-    "k": "lessou",
-    "f": "money"
-  },
-  {
-    "j": "les sou",
-    "e": "money",
-    "k": "lessou",
-    "f": "money"
-  },
-  {
     "j": "les statistiques",
     "e": "statistics",
     "k": "lesstatistiques",
     "f": "statistics"
-  },
-  {
-    "j": "les s'tembres",
-    "e": "ague",
-    "k": "lesstembres",
-    "f": "ague"
   },
   {
     "j": "les sujets",
@@ -28890,8 +31074,8 @@ export const vocabData = [
     "f": "trainers"
   },
   {
-    "j": "les Trais Rouais",
-    "e": "Belt of Orion",
+    "j": "les trais rouais",
+    "e": "belt of orion",
     "k": "lestraisrouais",
     "f": "beltoforion"
   },
@@ -28902,16 +31086,16 @@ export const vocabData = [
     "f": "stonechippings"
   },
   {
-    "j": "les traits des tchulasses",
-    "e": "rear harness chains",
-    "k": "lestraitsdestchulasses",
-    "f": "rearharnesschains"
-  },
-  {
     "j": "les traits",
     "e": "traces",
     "k": "lestraits",
     "f": "traces"
+  },
+  {
+    "j": "les traits des tchulasses",
+    "e": "rear harness chains",
+    "k": "lestraitsdestchulasses",
+    "f": "rearharnesschains"
   },
   {
     "j": "les tranchies",
@@ -28926,8 +31110,8 @@ export const vocabData = [
     "f": "hardlabour"
   },
   {
-    "j": "les Tropiques",
-    "e": "Tropics",
+    "j": "les tropiques",
+    "e": "tropics",
     "k": "lestropiques",
     "f": "tropics"
   },
@@ -28956,16 +31140,10 @@ export const vocabData = [
     "f": "birch"
   },
   {
-    "j": "les Vèrts",
-    "e": "Greens",
+    "j": "les vèrts",
+    "e": "greens",
     "k": "lesverts",
     "f": "greens"
-  },
-  {
-    "j": "les veues d'trafi",
-    "e": "traffic lights",
-    "k": "lesveuesdtrafi",
-    "f": "trafficlights"
   },
   {
     "j": "les veues",
@@ -28974,494 +31152,44 @@ export const vocabData = [
     "f": "lights"
   },
   {
+    "j": "les veues d'trafi",
+    "e": "traffic lights",
+    "k": "lesveuesdtrafi",
+    "f": "trafficlights"
+  },
+  {
     "j": "les yièrs couis",
     "e": "bloodshot eyes",
     "k": "lesyierscouis",
     "f": "bloodshoteyes"
   },
   {
-    "j": "Lesotho",
-    "e": "Lesotho",
+    "j": "lesotho",
+    "e": "lesotho",
     "k": "lesotho",
     "f": "lesotho"
   },
   {
-    "j": "l'espace",
-    "e": "space",
-    "k": "lespace",
-    "f": "space"
-  },
-  {
-    "j": "L'Espangno",
-    "e": "Spanish",
-    "k": "lespangno",
-    "f": "spanish"
-  },
-  {
-    "j": "l'espion",
-    "e": "spy",
-    "k": "lespion",
-    "f": "spy"
-  },
-  {
-    "j": "l'esprit d'vîn",
-    "e": "spirits",
-    "k": "lespritdvin",
-    "f": "spirits"
-  },
-  {
-    "j": "l'esseu",
-    "e": "axle",
-    "k": "lesseu",
-    "f": "axle"
-  },
-  {
-    "j": "l'êssuie-tâsses",
-    "e": "cloth (tea)",
-    "k": "lessuietasses",
-    "f": "cloth(tea)"
-  },
-  {
-    "j": "l'êssuie-tâsses",
-    "e": "teatowel",
-    "k": "lessuietasses",
-    "f": "teatowel"
-  },
-  {
-    "j": "l'estonma",
-    "e": "chest",
-    "k": "lestonma",
-    "f": "chest"
-  },
-  {
-    "j": "l'êtablyie ès rouelles",
-    "e": "the wheelwright's stand",
-    "k": "letablyieesrouelles",
-    "f": "thewheelwrightsstand"
-  },
-  {
-    "j": "l'êtabl'yie",
-    "e": "workbench",
-    "k": "letablyie",
-    "f": "workbench"
-  },
-  {
-    "j": "l'êtai, l'êtai du grand mât",
-    "e": "stay",
-    "k": "letai,letaidugrandmat",
-    "f": "stay"
-  },
-  {
-    "j": "L'Êtaile au Tchian",
-    "e": "Dog Star",
-    "k": "letaileautchian",
-    "f": "dogstar"
-  },
-  {
-    "j": "L'Êtaile du Jour",
-    "e": "Venus",
-    "k": "letailedujour",
-    "f": "venus"
-  },
-  {
-    "j": "L'Êtaile du Nord",
-    "e": "Pole Star",
-    "k": "letailedunord",
-    "f": "polestar"
-  },
-  {
-    "j": "L'Êtaile du Sé",
-    "e": "Venus",
-    "k": "letaileduse",
-    "f": "venus"
-  },
-  {
-    "j": "l'êtaile",
-    "e": "star",
-    "k": "letaile",
-    "f": "star"
-  },
-  {
-    "j": "l'êtailes",
-    "e": "the stars",
-    "k": "letailes",
-    "f": "thestars"
-  },
-  {
-    "j": "l'êtalage",
-    "e": "display, stall",
-    "k": "letalage",
-    "f": "display,stall"
-  },
-  {
-    "j": "l'êtalon, lé j'val entchi",
-    "e": "stallion",
-    "k": "letalon,lejvalentchi",
-    "f": "stallion"
-  },
-  {
-    "j": "l'êtane",
-    "e": "stem, stem-post",
-    "k": "letane",
-    "f": "stem,stempost"
-  },
-  {
-    "j": "l'êtché",
-    "e": "reef",
-    "k": "letche",
-    "f": "reef"
-  },
-  {
-    "j": "l'êtchelle",
-    "e": "ladder",
-    "k": "letchelle",
-    "f": "ladder"
-  },
-  {
-    "j": "l'êtchèrbot, lé bourdon",
-    "e": "dor-beetle",
-    "k": "letcherbot,lebourdon",
-    "f": "dorbeetle"
-  },
-  {
-    "j": "l'êtchèrre",
-    "e": "set square",
-    "k": "letcherre",
-    "f": "setsquare"
-  },
-  {
-    "j": "l'êtcheunme",
-    "e": "foam",
-    "k": "letcheunme",
-    "f": "foam"
-  },
-  {
-    "j": "l'êtchinnée (d'lard)",
-    "e": "chine",
-    "k": "letchinnee(dlard)",
-    "f": "chine"
-  },
-  {
-    "j": "l'êtchipage",
-    "e": "fishing tackle",
-    "k": "letchipage",
-    "f": "fishingtackle"
-  },
-  {
-    "j": "l'êtchuelle",
-    "e": "bowl",
-    "k": "letchuelle",
-    "f": "bowl"
-  },
-  {
-    "j": "l'êtibotcheux",
-    "e": "stirrer",
-    "k": "letibotcheux",
-    "f": "stirrer"
-  },
-  {
-    "j": "l'êtoffe",
-    "e": "material",
-    "k": "letoffe",
-    "f": "material"
-  },
-  {
-    "j": "l'étole",
-    "e": "stole",
-    "k": "letole",
-    "f": "stole"
-  },
-  {
-    "j": "l'êtouinne",
-    "e": "scudding-sail, studding-sail",
-    "k": "letouinne",
-    "f": "scuddingsail,studdingsail"
-  },
-  {
-    "j": "l'êtourdissaison",
-    "e": "dizziness",
-    "k": "letourdissaison",
-    "f": "dizziness"
-  },
-  {
-    "j": "l'êtrain",
-    "e": "straw",
-    "k": "letrain",
-    "f": "straw"
-  },
-  {
-    "j": "l'êtraiteûthe",
-    "e": "coping stone",
-    "k": "letraiteuthe",
-    "f": "copingstone"
-  },
-  {
-    "j": "l'êtrangi",
-    "e": "stranger, foreigner",
-    "k": "letrangi",
-    "f": "stranger,foreigner"
-  },
-  {
-    "j": "l'êtrangliéthie",
-    "e": "strangling",
-    "k": "letrangliethie",
-    "f": "strangling"
-  },
-  {
-    "j": "Lettonnie",
-    "e": "Latvia",
+    "j": "lettonnie",
+    "e": "latvia",
     "k": "lettonnie",
     "f": "latvia"
   },
   {
-    "j": "l'êtude",
-    "e": "study",
-    "k": "letude",
-    "f": "study"
+    "j": "lèv'ous",
+    "e": "stand up",
+    "k": "levous",
+    "f": "standup"
   },
   {
-    "j": "l'êtudgiant",
-    "e": "student",
-    "k": "letudgiant",
-    "f": "student"
+    "j": "lève-té",
+    "e": "stand up",
+    "k": "levete",
+    "f": "standup"
   },
   {
-    "j": "l'êtudgiant",
-    "e": "student",
-    "k": "letudgiant",
-    "f": "student"
-  },
-  {
-    "j": "l'êtui à leunettes",
-    "e": "spectacle-case",
-    "k": "letuialeunettes",
-    "f": "spectaclecase"
-  },
-  {
-    "j": "l'êtuivée",
-    "e": "stew",
-    "k": "letuivee",
-    "f": "stew"
-  },
-  {
-    "j": "l'euche",
-    "e": "axle-pin",
-    "k": "leuche",
-    "f": "axlepin"
-  },
-  {
-    "j": "l'eunanînmité",
-    "e": "unanimity",
-    "k": "leunaninmite",
-    "f": "unanimity"
-  },
-  {
-    "j": "l'Êvangile",
-    "e": "Gospel",
-    "k": "levangile",
-    "f": "gospel"
-  },
-  {
-    "j": "l'êvêque",
-    "e": "bishop",
-    "k": "leveque",
-    "f": "bishop"
-  },
-  {
-    "j": "l'êvidence",
-    "e": "evidence",
-    "k": "levidence",
-    "f": "evidence"
-  },
-  {
-    "j": "l'êvilement",
-    "e": "embrasure",
-    "k": "levilement",
-    "f": "embrasure"
-  },
-  {
-    "j": "l'êvyi",
-    "e": "sink",
-    "k": "levyi",
-    "f": "sink"
-  },
-  {
-    "j": "l'examen",
-    "e": "exam",
-    "k": "lexamen",
-    "f": "exam"
-  },
-  {
-    "j": "l'examinneux",
-    "e": "examiner",
-    "k": "lexaminneux",
-    "f": "examiner"
-  },
-  {
-    "j": "l'excommunicâtion",
-    "e": "excommunication",
-    "k": "lexcommunication",
-    "f": "excommunication"
-  },
-  {
-    "j": "l'exèrcice",
-    "e": "exercise",
-    "k": "lexercice",
-    "f": "exercise"
-  },
-  {
-    "j": "l'expèrt",
-    "e": "expert",
-    "k": "lexpert",
-    "f": "expert"
-  },
-  {
-    "j": "l'expèrt",
-    "e": "rate assessor",
-    "k": "lexpert",
-    "f": "rateassessor"
-  },
-  {
-    "j": "l'granit",
-    "e": "granite",
-    "k": "lgranit",
-    "f": "granite"
-  },
-  {
-    "j": "l'gravi",
-    "e": "gravel",
-    "k": "lgravi",
-    "f": "gravel"
-  },
-  {
-    "j": "l'habitant",
-    "e": "inhabitant",
-    "k": "lhabitant",
-    "f": "inhabitant"
-  },
-  {
-    "j": "l'hèrbe à la reine",
-    "e": "petty spurge",
-    "k": "lherbealareine",
-    "f": "pettyspurge"
-  },
-  {
-    "j": "l'hèrbe",
-    "e": "grass",
-    "k": "lherbe",
-    "f": "grass"
-  },
-  {
-    "j": "l'héthèque",
-    "e": "fishbone",
-    "k": "lhetheque",
-    "f": "fishbone"
-  },
-  {
-    "j": "l'héthique",
-    "e": "haddock",
-    "k": "lhethique",
-    "f": "haddock"
-  },
-  {
-    "j": "l'héthitage",
-    "e": "heritage",
-    "k": "lhethitage",
-    "f": "heritage"
-  },
-  {
-    "j": "l'hielle d'olives",
-    "e": "olive oil",
-    "k": "lhielledolives",
-    "f": "oliveoil"
-  },
-  {
-    "j": "l'hièrredouais",
-    "e": "heartburn",
-    "k": "lhierredouais",
-    "f": "heartburn"
-  },
-  {
-    "j": "l'histouaithe",
-    "e": "history",
-    "k": "lhistouaithe",
-    "f": "history"
-  },
-  {
-    "j": "l'histouaithe dé fanmil'ye",
-    "e": "family history",
-    "k": "lhistouaithedefanmilye",
-    "f": "familyhistory"
-  },
-  {
-    "j": "l'histouaithe",
-    "e": "history",
-    "k": "lhistouaithe",
-    "f": "history"
-  },
-  {
-    "j": "l'hôlouoge",
-    "e": "clock",
-    "k": "lholouoge",
-    "f": "clock"
-  },
-  {
-    "j": "l'hôlouogi",
-    "e": "clockmaker",
-    "k": "lholouogi",
-    "f": "clockmaker"
-  },
-  {
-    "j": "l'homicide",
-    "e": "homicide",
-    "k": "lhomicide",
-    "f": "homicide"
-  },
-  {
-    "j": "l'homme à tout faithe",
-    "e": "jack of all trades",
-    "k": "lhommeatoutfaithe",
-    "f": "jackofalltrades"
-  },
-  {
-    "j": "l'hôpita",
-    "e": "hospital",
-    "k": "lhopita",
-    "f": "hospital"
-  },
-  {
-    "j": "l'horizon",
-    "e": "horizon",
-    "k": "lhorizon",
-    "f": "horizon"
-  },
-  {
-    "j": "l'hortitchultuthe",
-    "e": "horticulture",
-    "k": "lhortitchultuthe",
-    "f": "horticulture"
-  },
-  {
-    "j": "l'hôtelyi",
-    "e": "hôtelier",
-    "k": "lhotelyi",
-    "f": "hotelier"
-  },
-  {
-    "j": "l'Houmme dans la Leune",
-    "e": "Man in the Moon",
-    "k": "lhoummedanslaleune",
-    "f": "maninthemoon"
-  },
-  {
-    "j": "l'hysope",
-    "e": "hyssop",
-    "k": "lhysope",
-    "f": "hyssop"
-  },
-  {
-    "j": "Liban",
-    "e": "Lebanon",
+    "j": "liban",
+    "e": "lebanon",
     "k": "liban",
     "f": "lebanon"
   },
@@ -29472,8 +31200,8 @@ export const vocabData = [
     "f": "liberal"
   },
   {
-    "j": "Libérie",
-    "e": "Liberia",
+    "j": "libérie",
+    "e": "liberia",
     "k": "liberie",
     "f": "liberia"
   },
@@ -29484,44 +31212,14 @@ export const vocabData = [
     "f": "bookshop"
   },
   {
-    "j": "Libye",
-    "e": "Libya",
+    "j": "libye",
+    "e": "libya",
     "k": "libye",
     "f": "libya"
   },
   {
-    "j": "l'idolâtrie",
-    "e": "idolatry",
-    "k": "lidolatrie",
-    "f": "idolatry"
-  },
-  {
-    "j": "l'ieau d'câle",
-    "e": "bilge-water",
-    "k": "lieaudcale",
-    "f": "bilgewater"
-  },
-  {
-    "j": "l'ieau d'la mé",
-    "e": "seawater",
-    "k": "lieaudlame",
-    "f": "seawater"
-  },
-  {
-    "j": "l'ieau d'orge",
-    "e": "barley water",
-    "k": "lieaudorge",
-    "f": "barleywater"
-  },
-  {
-    "j": "l'ieau-d'vie d'cidre",
-    "e": "apple brandy, calvados",
-    "k": "lieaudviedcidre",
-    "f": "applebrandy,calvados"
-  },
-  {
-    "j": "Liechtenstein",
-    "e": "Liechtenstein",
+    "j": "liechtenstein",
+    "e": "liechtenstein",
     "k": "liechtenstein",
     "f": "liechtenstein"
   },
@@ -29538,22 +31236,10 @@ export const vocabData = [
     "f": "toharnessinlongharness"
   },
   {
-    "j": "l'iérrîn",
-    "e": "ladder-rope",
-    "k": "lierrin",
-    "f": "ladderrope"
-  },
-  {
     "j": "liéthe",
-    "e": "read",
+    "e": "to read, read",
     "k": "liethe",
-    "f": "read"
-  },
-  {
-    "j": "liéthe",
-    "e": "to read",
-    "k": "liethe",
-    "f": "toread"
+    "f": "toread,read"
   },
   {
     "j": "ligi",
@@ -29568,76 +31254,10 @@ export const vocabData = [
     "f": "tocuddle"
   },
   {
-    "j": "l'île",
-    "e": "island",
-    "k": "lile",
-    "f": "island"
-  },
-  {
-    "j": "l'îlet",
-    "e": "islet",
-    "k": "lilet",
-    "f": "islet"
-  },
-  {
-    "j": "l'îmbécile",
-    "e": "imbecile",
-    "k": "limbecile",
-    "f": "imbecile"
-  },
-  {
-    "j": "l'împrînmeux",
-    "e": "printer",
-    "k": "limprinmeux",
-    "f": "printer"
-  },
-  {
-    "j": "l'împrînm'thie",
-    "e": "printing",
-    "k": "limprinmthie",
-    "f": "printing"
-  },
-  {
-    "j": "l'înconnu",
-    "e": "stranger",
-    "k": "linconnu",
-    "f": "stranger"
-  },
-  {
-    "j": "l'îndividu",
-    "e": "individual",
-    "k": "lindividu",
-    "f": "individual"
-  },
-  {
     "j": "lînge",
     "e": "linen",
     "k": "linge",
     "f": "linen"
-  },
-  {
-    "j": "l'înginnieux",
-    "e": "engineer",
-    "k": "linginnieux",
-    "f": "engineer"
-  },
-  {
-    "j": "l'îngnot",
-    "e": "ignoramus",
-    "k": "lingnot",
-    "f": "ignoramus"
-  },
-  {
-    "j": "l'înjecteux",
-    "e": "injector",
-    "k": "linjecteux",
-    "f": "injector"
-  },
-  {
-    "j": "l'înjection",
-    "e": "injection",
-    "k": "linjection",
-    "f": "injection"
   },
   {
     "j": "lînmage",
@@ -29652,18 +31272,6 @@ export const vocabData = [
     "f": "file"
   },
   {
-    "j": "l'înmeubl'ye",
-    "e": "building",
-    "k": "linmeublye",
-    "f": "building"
-  },
-  {
-    "j": "l'înmigrant",
-    "e": "immigrant",
-    "k": "linmigrant",
-    "f": "immigrant"
-  },
-  {
     "j": "lînmiter",
     "e": "limit",
     "k": "linmiter",
@@ -29674,72 +31282,6 @@ export const vocabData = [
     "e": "linseed, flax",
     "k": "linnette",
     "f": "linseed,flax"
-  },
-  {
-    "j": "l'înnotchulâtion",
-    "e": "innoculation",
-    "k": "linnotchulation",
-    "f": "innoculation"
-  },
-  {
-    "j": "l'însensé",
-    "e": "mad person",
-    "k": "linsense",
-    "f": "madperson"
-  },
-  {
-    "j": "l'înspecteux",
-    "e": "inspector",
-    "k": "linspecteux",
-    "f": "inspector"
-  },
-  {
-    "j": "l'Înternet",
-    "e": "Internet",
-    "k": "linternet",
-    "f": "internet"
-  },
-  {
-    "j": "l'întèrprète",
-    "e": "interpreter",
-    "k": "linterprete",
-    "f": "interpreter"
-  },
-  {
-    "j": "l'întethêt",
-    "e": "interest",
-    "k": "lintethet",
-    "f": "interest"
-  },
-  {
-    "j": "l'întroducteur",
-    "e": "introducer",
-    "k": "lintroducteur",
-    "f": "introducer"
-  },
-  {
-    "j": "l'întrus",
-    "e": "intruder",
-    "k": "lintrus",
-    "f": "intruder"
-  },
-  {
-    "j": "l'învâsion",
-    "e": "invasion",
-    "k": "linvasion",
-    "f": "invasion"
-  },
-  {
-    "j": "l'înventeux",
-    "e": "inventor",
-    "k": "linventeux",
-    "f": "inventor"
-  },
-  {
-    "j": "l'învité",
-    "e": "guest",
-    "k": "linvite",
-    "f": "guest"
   },
   {
     "j": "litchi",
@@ -29754,20 +31296,8 @@ export const vocabData = [
     "f": "liquid"
   },
   {
-    "j": "l'Ithangnie",
-    "e": "the Web",
-    "k": "lithangnie",
-    "f": "theweb"
-  },
-  {
-    "j": "l'ithangnie",
-    "e": "cobweb",
-    "k": "lithangnie",
-    "f": "cobweb"
-  },
-  {
-    "j": "Lithuanie",
-    "e": "Lithuania",
+    "j": "lithuanie",
+    "e": "lithuania",
     "k": "lithuanie",
     "f": "lithuania"
   },
@@ -29790,100 +31320,10 @@ export const vocabData = [
     "f": "shipslog"
   },
   {
-    "j": "l'ivrouongn'nie",
-    "e": "drunkenness",
-    "k": "livrouongnnie",
-    "f": "drunkenness"
-  },
-  {
-    "j": "l'maréchal",
-    "e": "field marshal",
-    "k": "lmarechal",
-    "f": "fieldmarshal"
-  },
-  {
-    "j": "l'minnistre dêssèrvant",
-    "e": "priest-in-charge",
-    "k": "lminnistredesservant",
-    "f": "priestincharge"
-  },
-  {
-    "j": "l'moniteu",
-    "e": "monitor",
-    "k": "lmoniteu",
-    "f": "monitor"
-  },
-  {
-    "j": "l'Mouoyen Âge",
-    "e": "Middle Ages",
-    "k": "lmouoyenage",
-    "f": "middleages"
-  },
-  {
-    "j": "l'noeud papillote",
-    "e": "bow tie",
-    "k": "lnoeudpapillote",
-    "f": "bowtie"
-  },
-  {
-    "j": "l'Océan Atlantique",
-    "e": "Atlantic Ocean",
-    "k": "loceanatlantique",
-    "f": "atlanticocean"
-  },
-  {
-    "j": "l'Océan Îndgien",
-    "e": "Indian Ocean",
-    "k": "loceanindgien",
-    "f": "indianocean"
-  },
-  {
-    "j": "l'Océan Pacifique",
-    "e": "Pacific Ocean",
-    "k": "loceanpacifique",
-    "f": "pacificocean"
-  },
-  {
-    "j": "l'océan",
-    "e": "ocean",
-    "k": "locean",
-    "f": "ocean"
-  },
-  {
-    "j": "l'oeu",
-    "e": "egg",
-    "k": "loeu",
-    "f": "egg"
-  },
-  {
-    "j": "l'oeuvre",
-    "e": "knitting",
-    "k": "loeuvre",
-    "f": "knitting"
-  },
-  {
     "j": "lofer",
     "e": "to luff",
     "k": "lofer",
     "f": "toluff"
-  },
-  {
-    "j": "l'office",
-    "e": "office",
-    "k": "loffice",
-    "f": "office"
-  },
-  {
-    "j": "l'Offici d'Connêtabl'ye",
-    "e": "Constable's Officer",
-    "k": "lofficidconnetablye",
-    "f": "constablesofficer"
-  },
-  {
-    "j": "l'offici",
-    "e": "officer",
-    "k": "loffici",
-    "f": "officer"
   },
   {
     "j": "lôlô",
@@ -29892,14 +31332,8 @@ export const vocabData = [
     "f": "beddybyes,bed"
   },
   {
-    "j": "l'oncl'ye",
-    "e": "uncle",
-    "k": "lonclye",
-    "f": "uncle"
-  },
-  {
-    "j": "Londres",
-    "e": "London",
+    "j": "londres",
+    "e": "london",
     "k": "londres",
     "f": "london"
   },
@@ -29910,208 +31344,22 @@ export const vocabData = [
     "f": "long"
   },
   {
-    "j": "l'ongl'ye",
-    "e": "nail",
-    "k": "longlye",
-    "f": "nail"
-  },
-  {
-    "j": "l'onguent",
-    "e": "ointment",
-    "k": "longuent",
-    "f": "ointment"
-  },
-  {
-    "j": "l'opinnion",
-    "e": "opinion",
-    "k": "lopinnion",
-    "f": "opinion"
-  },
-  {
-    "j": "l'opposition",
-    "e": "opposition",
-    "k": "lopposition",
-    "f": "opposition"
-  },
-  {
-    "j": "l'opticien",
-    "e": "optician",
-    "k": "lopticien",
-    "f": "optician"
-  },
-  {
-    "j": "l'orâge",
-    "e": "thunder",
-    "k": "lorage",
-    "f": "thunder"
-  },
-  {
-    "j": "l'orateur",
-    "e": "orator",
-    "k": "lorateur",
-    "f": "orator"
-  },
-  {
-    "j": "l'ordinnateu",
-    "e": "computer",
-    "k": "lordinnateu",
-    "f": "computer"
-  },
-  {
-    "j": "l'ordre",
-    "e": "order",
-    "k": "lordre",
-    "f": "order"
-  },
-  {
-    "j": "l'organiste",
-    "e": "organist",
-    "k": "lorganiste",
-    "f": "organist"
-  },
-  {
-    "j": "l'orgue",
-    "e": "organ",
-    "k": "lorgue",
-    "f": "organ"
-  },
-  {
-    "j": "l'orîngna",
-    "e": "moose",
-    "k": "loringna",
-    "f": "moose"
-  },
-  {
-    "j": "l'orphélîn",
-    "e": "orphan",
-    "k": "lorphelin",
-    "f": "orphan"
-  },
-  {
-    "j": "l'orvet",
-    "e": "blind worm",
-    "k": "lorvet",
-    "f": "blindworm"
-  },
-  {
-    "j": "l'os",
-    "e": "bone",
-    "k": "los",
-    "f": "bone"
-  },
-  {
-    "j": "l'otchuliste",
-    "e": "oculist",
-    "k": "lotchuliste",
-    "f": "oculist"
-  },
-  {
-    "j": "l'otchupant",
-    "e": "occupier",
-    "k": "lotchupant",
-    "f": "occupier"
-  },
-  {
-    "j": "l'Otchupâtion",
-    "e": "the Occupation",
-    "k": "lotchupation",
-    "f": "theoccupation"
-  },
-  {
-    "j": "l'ouadgîn",
-    "e": "truck",
-    "k": "louadgin",
-    "f": "truck"
-  },
-  {
-    "j": "l'ouaîrage, lé vârage",
-    "e": "flotsam and jetsam",
-    "k": "louairage,levarage",
-    "f": "flotsamandjetsam"
-  },
-  {
-    "j": "l'ouaîsé du R'nouvé",
-    "e": "wryneck",
-    "k": "louaisedurnouve",
-    "f": "wryneck"
-  },
-  {
-    "j": "l'ouaiyou",
-    "e": "hooligan",
-    "k": "louaiyou",
-    "f": "hooligan"
-  },
-  {
-    "j": "l'ouïe d'l'us",
-    "e": "peephole (in door)",
-    "k": "louïedlus",
-    "f": "peephole(indoor)"
-  },
-  {
-    "j": "Louiseu, Loulou",
-    "e": "Louisa",
+    "j": "louiseu, loulou",
+    "e": "louisa",
     "k": "louiseu,loulou",
     "f": "louisa"
   },
   {
-    "j": "Louisianne",
-    "e": "Louisiana",
+    "j": "louisianne",
+    "e": "louisiana",
     "k": "louisianne",
     "f": "louisiana"
   },
   {
-    "j": "l'ouognon",
-    "e": "onion",
-    "k": "louognon",
-    "f": "onion"
-  },
-  {
-    "j": "l'ouôlet",
-    "e": "hem",
-    "k": "louolet",
-    "f": "hem"
-  },
-  {
-    "j": "l'ouôlet, l'ouôlîn",
-    "e": "hem",
-    "k": "louolet,louolin",
-    "f": "hem"
-  },
-  {
-    "j": "l'ouongnon",
-    "e": "onion",
-    "k": "louongnon",
-    "f": "onion"
-  },
-  {
-    "j": "Louothains",
-    "e": "Lawrence",
+    "j": "louothains",
+    "e": "lawrence",
     "k": "louothains",
     "f": "lawrence"
-  },
-  {
-    "j": "l'ouothilyi",
-    "e": "pillow",
-    "k": "louothilyi",
-    "f": "pillow"
-  },
-  {
-    "j": "l'ouotho",
-    "e": "playful spirit, werewolf",
-    "k": "louotho",
-    "f": "playfulspirit,werewolf"
-  },
-  {
-    "j": "l'ours",
-    "e": "bear",
-    "k": "lours",
-    "f": "bear"
-  },
-  {
-    "j": "l'oursas",
-    "e": "bilge-channel",
-    "k": "loursas",
-    "f": "bilgechannel"
   },
   {
     "j": "loûseau",
@@ -30120,290 +31368,128 @@ export const vocabData = [
     "f": "birdie,dickybird"
   },
   {
-    "j": "l'ouvriyi",
-    "e": "worker",
-    "k": "louvriyi",
-    "f": "worker"
-  },
-  {
     "j": "lôvier",
     "e": "tack",
     "k": "lovier",
     "f": "tack"
   },
   {
-    "j": "l'paîvre",
-    "e": "pepper",
-    "k": "lpaivre",
-    "f": "pepper"
-  },
-  {
-    "j": "l'pâssé",
-    "e": "past",
-    "k": "lpasse",
-    "f": "past"
-  },
-  {
-    "j": "l's ahans",
-    "e": "aches and pains",
-    "k": "lsahans",
-    "f": "achesandpains"
-  },
-  {
-    "j": "l's Alpes",
-    "e": "the Alps",
-    "k": "lsalpes",
-    "f": "thealps"
-  },
-  {
-    "j": "l's annonces",
-    "e": "banns",
-    "k": "lsannonces",
-    "f": "banns"
-  },
-  {
-    "j": "l's apparténances",
-    "e": "outhouses",
-    "k": "lsappartenances",
-    "f": "outhouses"
-  },
-  {
-    "j": "l's arriéthages",
-    "e": "arrears",
-    "k": "lsarriethages",
-    "f": "arrears"
-  },
-  {
-    "j": "l's assiettes",
-    "e": "the round stones",
-    "k": "lsassiettes",
-    "f": "theroundstones"
-  },
-  {
-    "j": "l's assiettes",
-    "e": "plates",
-    "k": "lsassiettes",
-    "f": "plates"
-  },
-  {
-    "j": "l's aubes",
-    "e": "propeller",
-    "k": "lsaubes",
-    "f": "propeller"
-  },
-  {
-    "j": "l's êclons",
-    "e": "hay ladders",
-    "k": "lseclons",
-    "f": "hayladders"
-  },
-  {
-    "j": "l's êcouards",
-    "e": "rear uprights",
-    "k": "lsecouards",
-    "f": "rearuprights"
-  },
-  {
-    "j": "l's êpées",
-    "e": "stanchions",
-    "k": "lsepees",
-    "f": "stanchions"
-  },
-  {
-    "j": "l's êpices",
-    "e": "spices",
-    "k": "lsepices",
-    "f": "spices"
-  },
-  {
-    "j": "l's estrandes",
-    "e": "vraic",
-    "k": "lsestrandes",
-    "f": "vraic"
-  },
-  {
-    "j": "l's Êtats d'Jèrri",
-    "e": "States of Jersey",
-    "k": "lsetatsdjerri",
-    "f": "statesofjersey"
-  },
-  {
-    "j": "l's êtouailes dé tèrre",
-    "e": "starflower, winter-green",
-    "k": "lsetouailesdeterre",
-    "f": "starflower,wintergreen"
-  },
-  {
-    "j": "l's êtudes èrligieuses",
-    "e": "religious studies",
-    "k": "lsetudeserligieuses",
-    "f": "religiousstudies"
-  },
-  {
-    "j": "l's habits dé d'ssous, lé lînge dé corps, lé lînge dé d'ssous",
-    "e": "underwear",
-    "k": "lshabitsdedssous,lelingedecorps,lelingededssous",
-    "f": "underwear"
-  },
-  {
-    "j": "l's hèrbes",
-    "e": "herbs",
-    "k": "lsherbes",
-    "f": "herbs"
-  },
-  {
-    "j": "l's hèrpies",
-    "e": "herpes",
-    "k": "lsherpies",
-    "f": "herpes"
-  },
-  {
-    "j": "l's heuthes d'ouvèrtuthe",
-    "e": "opening hours",
-    "k": "lsheuthesdouvertuthe",
-    "f": "openinghours"
-  },
-  {
-    "j": "L's Îles du Vent",
-    "e": "Windward Isles",
-    "k": "lsilesduvent",
-    "f": "windwardisles"
-  },
-  {
-    "j": "L's Îles souos l'Vent",
-    "e": "Leeward Isles",
-    "k": "lsilessouoslvent",
-    "f": "leewardisles"
-  },
-  {
-    "j": "l's offices",
-    "e": "outhouses",
-    "k": "lsoffices",
-    "f": "outhouses"
-  },
-  {
-    "j": "l's ortés",
-    "e": "toes",
-    "k": "lsortes",
-    "f": "toes"
-  },
-  {
-    "j": "l's ouothelles d'eune arche",
-    "e": "shoulder stones",
-    "k": "lsouothellesdeunearche",
-    "f": "shoulderstones"
-  },
-  {
-    "j": "l's ouothipieaux",
-    "e": "mumps",
-    "k": "lsouothipieaux",
-    "f": "mumps"
-  },
-  {
-    "j": "l'sang d'navet",
-    "e": "anaemia",
-    "k": "lsangdnavet",
-    "f": "anaemia"
-  },
-  {
-    "j": "l'sang porté à la tête",
-    "e": "blood pressure",
-    "k": "lsangportealatete",
-    "f": "bloodpressure"
-  },
-  {
-    "j": "l'solé",
-    "e": "sun",
-    "k": "lsole",
-    "f": "sun"
-  },
-  {
-    "j": "Luc",
-    "e": "Luke, Luc",
+    "j": "luc",
+    "e": "luke, luc",
     "k": "luc",
     "f": "luke,luc"
   },
   {
-    "j": "l'ulcéthe",
-    "e": "ulcer",
-    "k": "lulcethe",
-    "f": "ulcer"
-  },
-  {
-    "j": "Lundi",
-    "e": "Monday",
+    "j": "lundi",
+    "e": "monday",
     "k": "lundi",
     "f": "monday"
   },
   {
-    "j": "l'unniforme d'êcole",
-    "e": "school uniform",
-    "k": "lunniformedecole",
-    "f": "schooluniform"
+    "j": "lus fil’ye a chînq ans",
+    "e": "their daughter is five",
+    "k": "lusfilyeachinqans",
+    "f": "theirdaughterisfive"
   },
   {
-    "j": "l'unniforme",
-    "e": "uniform",
-    "k": "lunniforme",
-    "f": "uniform"
+    "j": "lus fis a siêx ans",
+    "e": "their son is six",
+    "k": "lusfisasiexans",
+    "f": "theirsonissix"
   },
   {
-    "j": "l'unnivèrsité",
-    "e": "university",
-    "k": "lunniversite",
-    "f": "university"
-  },
-  {
-    "j": "l'urne du scrutîn",
-    "e": "ballot box",
-    "k": "lurneduscrutin",
-    "f": "ballotbox"
-  },
-  {
-    "j": "l'usage",
-    "e": "usage",
-    "k": "lusage",
-    "f": "usage"
-  },
-  {
-    "j": "l'uss'sie",
-    "e": "doorway",
-    "k": "lusssie",
-    "f": "doorway"
-  },
-  {
-    "j": "Luxembourg",
-    "e": "Luxembourg",
+    "j": "luxembourg",
+    "e": "luxembourg",
     "k": "luxembourg",
     "f": "luxembourg"
   },
   {
-    "j": "l'ver l'coute",
-    "e": "to drink heavily",
-    "k": "lverlcoute",
-    "f": "todrinkheavily"
+    "j": "l’addition, s’i’ vos pliaît",
+    "e": "the bill please",
+    "k": "laddition,sivospliait",
+    "f": "thebillplease"
   },
   {
-    "j": "l'veste",
-    "e": "waistcoat",
-    "k": "lveste",
-    "f": "waistcoat"
+    "j": "l’s avis",
+    "e": "opinions",
+    "k": "lsavis",
+    "f": "opinions"
   },
   {
-    "j": "Ma chiéthe Madanme",
-    "e": "Dear Madam",
+    "j": "l’s habits",
+    "e": "clothes",
+    "k": "lshabits",
+    "f": "clothes"
+  },
+  {
+    "j": "m'mèe",
+    "e": "mummy",
+    "k": "mmee",
+    "f": "mummy"
+  },
+  {
+    "j": "m'ner",
+    "e": "lead",
+    "k": "mner",
+    "f": "lead"
+  },
+  {
+    "j": "m'nichi",
+    "e": "to menace, threaten",
+    "k": "mnichi",
+    "f": "tomenace,threaten"
+  },
+  {
+    "j": "m'suthe",
+    "e": "tape measure",
+    "k": "msuthe",
+    "f": "tapemeasure"
+  },
+  {
+    "j": "m'suther",
+    "e": "to measure",
+    "k": "msuther",
+    "f": "tomeasure"
+  },
+  {
+    "j": "m'ttez ch'na dans la boête",
+    "e": "put it in the bin",
+    "k": "mttezchnadanslaboete",
+    "f": "putitinthebin"
+  },
+  {
+    "j": "ma chiéthe madanme",
+    "e": "dear madam",
     "k": "machiethemadanme",
     "f": "dearmadam"
   },
   {
-    "j": "Macao",
-    "e": "Macao",
+    "j": "ma fé!",
+    "e": "goodness!",
+    "k": "mafe!",
+    "f": "goodness!"
+  },
+  {
+    "j": "ma fîngre!",
+    "e": "goodness!",
+    "k": "mafingre!",
+    "f": "goodness!"
+  },
+  {
+    "j": "ma-ma",
+    "e": "hurt",
+    "k": "mama",
+    "f": "hurt"
+  },
+  {
+    "j": "macao",
+    "e": "macao",
     "k": "macao",
     "f": "macao"
   },
   {
-    "j": "Macédoine",
-    "e": "Macedonia",
+    "j": "macédoine",
+    "e": "macedonia",
     "k": "macedoine",
     "f": "macedonia"
   },
@@ -30420,20 +31506,20 @@ export const vocabData = [
     "f": "cashmachine"
   },
   {
-    "j": "Madagascar",
-    "e": "Madagascar",
+    "j": "madagascar",
+    "e": "madagascar",
     "k": "madagascar",
     "f": "madagascar"
   },
   {
-    "j": "Madère",
-    "e": "Madeira",
+    "j": "madère",
+    "e": "madeira",
     "k": "madere",
     "f": "madeira"
   },
   {
-    "j": "Mai",
-    "e": "May",
+    "j": "mai",
+    "e": "may",
     "k": "mai",
     "f": "may"
   },
@@ -30468,52 +31554,64 @@ export const vocabData = [
     "f": "sickasadog"
   },
   {
-    "j": "Malawi",
-    "e": "Malawi",
+    "j": "malawi",
+    "e": "malawi",
     "k": "malawi",
     "f": "malawi"
   },
   {
-    "j": "Malaysie",
-    "e": "Malaysia",
+    "j": "malaysie",
+    "e": "malaysia",
     "k": "malaysie",
     "f": "malaysia"
   },
   {
-    "j": "Maldives",
-    "e": "Maldives",
+    "j": "maldives",
+    "e": "maldives",
     "k": "maldives",
     "f": "maldives"
   },
   {
-    "j": "Mali",
-    "e": "Mali",
+    "j": "malheutheuse",
+    "e": "bad (for women)",
+    "k": "malheutheuse",
+    "f": "bad(forwomen)"
+  },
+  {
+    "j": "malheutheux",
+    "e": "bad (for men)",
+    "k": "malheutheux",
+    "f": "bad(formen)"
+  },
+  {
+    "j": "mali",
+    "e": "mali",
     "k": "mali",
     "f": "mali"
   },
   {
-    "j": "Malquamme",
-    "e": "Malcolm",
+    "j": "malquamme",
+    "e": "malcolm",
     "k": "malquamme",
     "f": "malcolm"
   },
   {
-    "j": "Malte",
-    "e": "Malta",
+    "j": "malte",
+    "e": "malta",
     "k": "malte",
     "f": "malta"
   },
   {
-    "j": "ma-ma",
-    "e": "hurt",
-    "k": "mama",
-    "f": "hurt"
-  },
-  {
-    "j": "Man chièr Moussieu",
-    "e": "Dear Sir",
+    "j": "man chièr moussieu",
+    "e": "dear sir",
     "k": "manchiermoussieu",
     "f": "dearsir"
+  },
+  {
+    "j": "man corset d’oeuvre est trîlyi",
+    "e": "my jumper is ripped",
+    "k": "mancorsetdoeuvreesttrilyi",
+    "f": "myjumperisripped"
   },
   {
     "j": "man doûdîn",
@@ -30522,10 +31620,34 @@ export const vocabData = [
     "f": "mypetal...(etc)"
   },
   {
+    "j": "man fréthe soulait d’meuther à st cliément",
+    "e": "my brother used to live in st clement",
+    "k": "manfrethesoulaitdmeutherastcliement",
+    "f": "mybrotherusedtoliveinstclement"
+  },
+  {
+    "j": "man nom est jean",
+    "e": "my name is john",
+    "k": "mannomestjean",
+    "f": "mynameisjohn"
+  },
+  {
+    "j": "man n’veu a neuf ans",
+    "e": "my nephew is nine",
+    "k": "mannveuaneufans",
+    "f": "mynephewisnine"
+  },
+  {
     "j": "mandrîn",
     "e": "punch, mandrel",
     "k": "mandrin",
     "f": "punch,mandrel"
+  },
+  {
+    "j": "mangi",
+    "e": "eat",
+    "k": "mangi",
+    "f": "eat"
   },
   {
     "j": "mangi des vèrs",
@@ -30534,10 +31656,16 @@ export const vocabData = [
     "f": "motheaten"
   },
   {
-    "j": "mangi",
-    "e": "eat",
-    "k": "mangi",
-    "f": "eat"
+    "j": "mangi et baithe",
+    "e": "food and drink",
+    "k": "mangietbaithe",
+    "f": "foodanddrink"
+  },
+  {
+    "j": "mângnifique!",
+    "e": "wonderful, great",
+    "k": "mangnifique!",
+    "f": "wonderful,great"
   },
   {
     "j": "manman",
@@ -30552,16 +31680,10 @@ export const vocabData = [
     "f": "miss"
   },
   {
-    "j": "Mar",
-    "e": "March",
+    "j": "mar",
+    "e": "march, mark, marc",
     "k": "mar",
-    "f": "march"
-  },
-  {
-    "j": "Mar",
-    "e": "Mark, Marc",
-    "k": "mar",
-    "f": "mark,marc"
+    "f": "march,mark,marc"
   },
   {
     "j": "marbre",
@@ -30571,55 +31693,43 @@ export const vocabData = [
   },
   {
     "j": "marchi",
-    "e": "market",
+    "e": "walk, function, to march, market",
     "k": "marchi",
-    "f": "market"
+    "f": "walk,function,tomarch,market"
   },
   {
-    "j": "marchi",
-    "e": "to march",
-    "k": "marchi",
-    "f": "tomarch"
-  },
-  {
-    "j": "marchi",
-    "e": "walk, function",
-    "k": "marchi",
-    "f": "walk,function"
-  },
-  {
-    "j": "Mardi Gras",
-    "e": "Shrove Tuesday",
-    "k": "mardigras",
-    "f": "shrovetuesday"
-  },
-  {
-    "j": "Mardi",
-    "e": "Tuesday",
+    "j": "mardi",
+    "e": "tuesday",
     "k": "mardi",
     "f": "tuesday"
   },
   {
-    "j": "Marguérite, Mèrdgitte, Mèrgot, Mèrgotte, Mèrgotton",
-    "e": "Margaret, Marguerite",
+    "j": "mardi gras",
+    "e": "shrove tuesday",
+    "k": "mardigras",
+    "f": "shrovetuesday"
+  },
+  {
+    "j": "marguérite, mèrdgitte, mèrgot, mèrgotte, mèrgotton",
+    "e": "margaret, marguerite",
     "k": "marguerite,merdgitte,mergot,mergotte,mergotton",
     "f": "margaret,marguerite"
   },
   {
-    "j": "Marie, Mathie, Manon, Mathotte, Mèrrotte, Micotte",
-    "e": "Mary, Marie",
+    "j": "marie, mathie, manon, mathotte, mèrrotte, micotte",
+    "e": "mary, marie",
     "k": "marie,mathie,manon,mathotte,merrotte,micotte",
     "f": "mary,marie"
   },
   {
-    "j": "Maroc",
-    "e": "Morocco",
+    "j": "maroc",
+    "e": "morocco",
     "k": "maroc",
     "f": "morocco"
   },
   {
-    "j": "Mars",
-    "e": "Mars",
+    "j": "mars",
+    "e": "mars",
     "k": "mars",
     "f": "mars"
   },
@@ -30654,14 +31764,14 @@ export const vocabData = [
     "f": "rivethammer"
   },
   {
-    "j": "Martîn",
-    "e": "Martin",
+    "j": "martîn",
+    "e": "martin",
     "k": "martin",
     "f": "martin"
   },
   {
-    "j": "Martinique",
-    "e": "Martinique",
+    "j": "martinique",
+    "e": "martinique",
     "k": "martinique",
     "f": "martinique"
   },
@@ -30672,8 +31782,8 @@ export const vocabData = [
     "f": "scaffolding"
   },
   {
-    "j": "Matchi",
-    "e": "Matthew",
+    "j": "matchi",
+    "e": "matthew",
     "k": "matchi",
     "f": "matthew"
   },
@@ -30690,8 +31800,8 @@ export const vocabData = [
     "f": "marry"
   },
   {
-    "j": "Mauritannie",
-    "e": "Mauritania",
+    "j": "mauritannie",
+    "e": "mauritania",
     "k": "mauritannie",
     "f": "mauritania"
   },
@@ -30702,10 +31812,16 @@ export const vocabData = [
     "f": "bad"
   },
   {
-    "j": "Mayotte",
-    "e": "Mayotte",
+    "j": "mayotte",
+    "e": "mayotte",
     "k": "mayotte",
     "f": "mayotte"
+  },
+  {
+    "j": "mé v’chîn!",
+    "e": "here i am!",
+    "k": "mevchin!",
+    "f": "hereiam!"
   },
   {
     "j": "méaguinné",
@@ -30714,16 +31830,40 @@ export const vocabData = [
     "f": "mahogany"
   },
   {
-    "j": "Mêcrédi des Chendres",
-    "e": "Ash Wednesday",
+    "j": "mêcrédi",
+    "e": "wednesday",
+    "k": "mecredi",
+    "f": "wednesday"
+  },
+  {
+    "j": "mêcrédi des chendres",
+    "e": "ash wednesday",
     "k": "mecredideschendres",
     "f": "ashwednesday"
   },
   {
-    "j": "Mêcrédi",
-    "e": "Wednesday",
-    "k": "mecredi",
-    "f": "wednesday"
+    "j": "mêcrédi en huit",
+    "e": "a week on wednesday",
+    "k": "mecredienhuit",
+    "f": "aweekonwednesday"
+  },
+  {
+    "j": "mêfi'-ous",
+    "e": "be careful",
+    "k": "mefious",
+    "f": "becareful"
+  },
+  {
+    "j": "mêfie-té",
+    "e": "be careful",
+    "k": "mefiete",
+    "f": "becareful"
+  },
+  {
+    "j": "mêfi’-ous! y’a des vaques dans la rue.",
+    "e": "watch out! there are cows in the road.",
+    "k": "mefious!yadesvaquesdanslarue.",
+    "f": "watchout!therearecowsintheroad."
   },
   {
     "j": "mêler",
@@ -30744,14 +31884,26 @@ export const vocabData = [
     "f": "manage"
   },
   {
-    "j": "Mêrrienne, Micotte",
-    "e": "Mary Ann",
+    "j": "mèrcie",
+    "e": "thank you",
+    "k": "mercie",
+    "f": "thankyou"
+  },
+  {
+    "j": "mèrcie bein des fais",
+    "e": "thank you very much",
+    "k": "merciebeindesfais",
+    "f": "thankyouverymuch"
+  },
+  {
+    "j": "mêrrienne, micotte",
+    "e": "mary ann",
     "k": "merrienne,micotte",
     "f": "maryann"
   },
   {
-    "j": "Mêrriennes du Nord",
-    "e": "Northern Marianas",
+    "j": "mêrriennes du nord",
+    "e": "northern marianas",
     "k": "merriennesdunord",
     "f": "northernmarianas"
   },
@@ -30762,10 +31914,16 @@ export const vocabData = [
     "f": "marker,stamp"
   },
   {
-    "j": "Mèrtchure",
-    "e": "Mercury",
+    "j": "mèrtchure",
+    "e": "mercury",
     "k": "mertchure",
     "f": "mercury"
+  },
+  {
+    "j": "met ch'na dans la boête",
+    "e": "put it in the bin",
+    "k": "metchnadanslaboete",
+    "f": "putitinthebin"
   },
   {
     "j": "méta",
@@ -30778,6 +31936,12 @@ export const vocabData = [
     "e": "merit",
     "k": "methiter",
     "f": "merit"
+  },
+  {
+    "j": "mettre",
+    "e": "put",
+    "k": "mettre",
+    "f": "put"
   },
   {
     "j": "mettre à la cape",
@@ -30804,12 +31968,6 @@ export const vocabData = [
     "f": "layup"
   },
   {
-    "j": "mettre",
-    "e": "put",
-    "k": "mettre",
-    "f": "put"
-  },
-  {
     "j": "meule",
     "e": "grindstone",
     "k": "meule",
@@ -30834,8 +31992,8 @@ export const vocabData = [
     "f": "sore"
   },
   {
-    "j": "Mexique",
-    "e": "Mexico",
+    "j": "mexique",
+    "e": "mexico",
     "k": "mexique",
     "f": "mexico"
   },
@@ -30846,14 +32004,14 @@ export const vocabData = [
     "f": "miaouw"
   },
   {
-    "j": "Miché",
-    "e": "Michael, Michel",
+    "j": "miché",
+    "e": "michael, michel",
     "k": "miche",
     "f": "michael,michel"
   },
   {
-    "j": "Micronésie",
-    "e": "Micronesia",
+    "j": "micronésie",
+    "e": "micronesia",
     "k": "micronesie",
     "f": "micronesia"
   },
@@ -30894,34 +32052,16 @@ export const vocabData = [
     "f": "handies,hands"
   },
   {
+    "j": "mînséthe!",
+    "e": "drat!",
+    "k": "minsethe!",
+    "f": "drat!"
+  },
+  {
     "j": "mitonner",
     "e": "to simmer",
     "k": "mitonner",
     "f": "tosimmer"
-  },
-  {
-    "j": "m'mèe",
-    "e": "mummy",
-    "k": "mmee",
-    "f": "mummy"
-  },
-  {
-    "j": "m'ner",
-    "e": "lead",
-    "k": "mner",
-    "f": "lead"
-  },
-  {
-    "j": "m'nichi",
-    "e": "threaten",
-    "k": "mnichi",
-    "f": "threaten"
-  },
-  {
-    "j": "m'nichi",
-    "e": "to menace",
-    "k": "mnichi",
-    "f": "tomenace"
   },
   {
     "j": "mo",
@@ -30936,32 +32076,32 @@ export const vocabData = [
     "f": "tomobilise"
   },
   {
-    "j": "Moïse",
-    "e": "Moses",
-    "k": "moïse",
+    "j": "moïse",
+    "e": "moses",
+    "k": "moise",
     "f": "moses"
   },
   {
-    "j": "Moldova",
-    "e": "Moldavia",
+    "j": "moldova",
+    "e": "moldavia",
     "k": "moldova",
     "f": "moldavia"
   },
   {
-    "j": "Mollé",
-    "e": "Molly",
+    "j": "mollé",
+    "e": "molly",
     "k": "molle",
     "f": "molly"
   },
   {
-    "j": "Monaco",
-    "e": "Monaco",
+    "j": "monaco",
+    "e": "monaco",
     "k": "monaco",
     "f": "monaco"
   },
   {
-    "j": "Mongolie",
-    "e": "Mongolia",
+    "j": "mongolie",
+    "e": "mongolia",
     "k": "mongolie",
     "f": "mongolia"
   },
@@ -30984,8 +32124,8 @@ export const vocabData = [
     "f": "goup"
   },
   {
-    "j": "Montréal",
-    "e": "Montreal",
+    "j": "montréal",
+    "e": "montreal",
     "k": "montreal",
     "f": "montreal"
   },
@@ -30996,8 +32136,8 @@ export const vocabData = [
     "f": "show"
   },
   {
-    "j": "Montserrat",
-    "e": "Montserrat",
+    "j": "montserrat",
+    "e": "montserrat",
     "k": "montserrat",
     "f": "montserrat"
   },
@@ -31006,6 +32146,12 @@ export const vocabData = [
     "e": "dead",
     "k": "mort",
     "f": "dead"
+  },
+  {
+    "j": "mort-né",
+    "e": "stillborn",
+    "k": "mortne",
+    "f": "stillborn"
   },
   {
     "j": "mortchi",
@@ -31020,14 +32166,8 @@ export const vocabData = [
     "f": "mortal"
   },
   {
-    "j": "mort-né",
-    "e": "stillborn",
-    "k": "mortne",
-    "f": "stillborn"
-  },
-  {
-    "j": "Moscou",
-    "e": "Moscow",
+    "j": "moscou",
+    "e": "moscow",
     "k": "moscou",
     "f": "moscow"
   },
@@ -31080,6 +32220,18 @@ export const vocabData = [
     "f": "anchor"
   },
   {
+    "j": "mouôn doue d'la vie!",
+    "e": "my god!",
+    "k": "mouondouedlavie!",
+    "f": "mygod!"
+  },
+  {
+    "j": "mouôn doue!",
+    "e": "my god!",
+    "k": "mouondoue!",
+    "f": "mygod!"
+  },
+  {
     "j": "mouothant",
     "e": "dying",
     "k": "mouothant",
@@ -31092,8 +32244,8 @@ export const vocabData = [
     "f": "todie"
   },
   {
-    "j": "Mouoyen Orient",
-    "e": "Middle East",
+    "j": "mouoyen orient",
+    "e": "middle east",
     "k": "mouoyenorient",
     "f": "middleeast"
   },
@@ -31104,22 +32256,10 @@ export const vocabData = [
     "f": "tomuster"
   },
   {
-    "j": "Mozambique",
-    "e": "Mozambique",
+    "j": "mozambique",
+    "e": "mozambique",
     "k": "mozambique",
     "f": "mozambique"
-  },
-  {
-    "j": "m'suthe",
-    "e": "tape measure",
-    "k": "msuthe",
-    "f": "tapemeasure"
-  },
-  {
-    "j": "m'suther",
-    "e": "to measure",
-    "k": "msuther",
-    "f": "tomeasure"
   },
   {
     "j": "muchi",
@@ -31134,10 +32274,22 @@ export const vocabData = [
     "f": "murmur"
   },
   {
-    "j": "Myanmar",
-    "e": "Myanmar",
+    "j": "myanmar",
+    "e": "myanmar",
     "k": "myanmar",
     "f": "myanmar"
+  },
+  {
+    "j": "n'pon dormi un clyîn",
+    "e": "not to sleep a wink",
+    "k": "npondormiunclyin",
+    "f": "nottosleepawink"
+  },
+  {
+    "j": "n'y a pon d'soin!",
+    "e": "doesn't matter!",
+    "k": "nyapondsoin!",
+    "f": "doesntmatter!"
   },
   {
     "j": "nâbl'ye",
@@ -31158,14 +32310,26 @@ export const vocabData = [
     "f": "yumyum"
   },
   {
-    "j": "Namibie",
-    "e": "Namibia",
+    "j": "namibie",
+    "e": "namibia",
     "k": "namibie",
     "f": "namibia"
   },
   {
-    "j": "Napl'yes",
-    "e": "Naples",
+    "j": "nânnîn",
+    "e": "no",
+    "k": "nannin",
+    "f": "no"
+  },
+  {
+    "j": "nânnîn-dgia!",
+    "e": "absolutely not",
+    "k": "nannindgia!",
+    "f": "absolutelynot"
+  },
+  {
+    "j": "napl'yes",
+    "e": "naples",
     "k": "naplyes",
     "f": "naples"
   },
@@ -31176,8 +32340,8 @@ export const vocabData = [
     "f": "national"
   },
   {
-    "j": "Nauru",
-    "e": "Nauru",
+    "j": "nauru",
+    "e": "nauru",
     "k": "nauru",
     "f": "nauru"
   },
@@ -31186,6 +32350,36 @@ export const vocabData = [
     "e": "sail",
     "k": "navidgi",
     "f": "sail"
+  },
+  {
+    "j": "né plieuthe pon",
+    "e": "don't cry",
+    "k": "neplieuthepon",
+    "f": "dontcry"
+  },
+  {
+    "j": "né plieuthez pon",
+    "e": "don't cry",
+    "k": "neplieuthezpon",
+    "f": "dontcry"
+  },
+  {
+    "j": "né v'là assez",
+    "e": "that's enough",
+    "k": "nevlaassez",
+    "f": "thatsenough"
+  },
+  {
+    "j": "né v’chîn ma bouonnefemme",
+    "e": "this is my wife",
+    "k": "nevchinmabouonnefemme",
+    "f": "thisismywife"
+  },
+  {
+    "j": "né v’chîn...",
+    "e": "here’s..., here are...",
+    "k": "nevchin...",
+    "f": "heres...,hereare..."
   },
   {
     "j": "néglyigi",
@@ -31206,20 +32400,20 @@ export const vocabData = [
     "f": "ninetyone"
   },
   {
-    "j": "Néné, Nénotte, Nénai, Nancy",
-    "e": "Nancy",
+    "j": "néné, nénotte, nénai, nancy",
+    "e": "nancy",
     "k": "nene,nenotte,nenai,nancy",
     "f": "nancy"
   },
   {
-    "j": "Népal",
-    "e": "Nepal",
+    "j": "népal",
+    "e": "nepal",
     "k": "nepal",
     "f": "nepal"
   },
   {
-    "j": "Nepteune",
-    "e": "Neptune",
+    "j": "nepteune",
+    "e": "neptune",
     "k": "nepteune",
     "f": "neptune"
   },
@@ -31236,14 +32430,26 @@ export const vocabData = [
     "f": "nine"
   },
   {
-    "j": "Nic, Nico, Nicolas, Nic'lesse",
-    "e": "Nicholas",
+    "j": "neuf heuthes",
+    "e": "nine o'clock",
+    "k": "neufheuthes",
+    "f": "nineoclock"
+  },
+  {
+    "j": "neuf heuthes dgix",
+    "e": "ten past nine",
+    "k": "neufheuthesdgix",
+    "f": "tenpastnine"
+  },
+  {
+    "j": "nic, nico, nicolas, nic'lesse",
+    "e": "nicholas",
     "k": "nic,nico,nicolas,niclesse",
     "f": "nicholas"
   },
   {
-    "j": "Nicaragua",
-    "e": "Nicaragua",
+    "j": "nicaragua",
+    "e": "nicaragua",
     "k": "nicaragua",
     "f": "nicaragua"
   },
@@ -31254,20 +32460,20 @@ export const vocabData = [
     "f": "dark"
   },
   {
-    "j": "Niger",
-    "e": "Niger",
+    "j": "niger",
+    "e": "niger",
     "k": "niger",
     "f": "niger"
   },
   {
-    "j": "Nigérie",
-    "e": "Nigeria",
+    "j": "nigérie",
+    "e": "nigeria",
     "k": "nigerie",
     "f": "nigeria"
   },
   {
-    "j": "Niue",
-    "e": "Niue",
+    "j": "niue",
+    "e": "niue",
     "k": "niue",
     "f": "niue"
   },
@@ -31290,10 +32496,22 @@ export const vocabData = [
     "f": "notguilty"
   },
   {
-    "j": "Norouague",
-    "e": "Norway",
+    "j": "non-feunmeux, s’i’ vos pliaît",
+    "e": "non-smoking please",
+    "k": "nonfeunmeux,sivospliait",
+    "f": "nonsmokingplease"
+  },
+  {
+    "j": "norouague",
+    "e": "norway",
     "k": "norouague",
     "f": "norway"
+  },
+  {
+    "j": "nos v'chîn!",
+    "e": "here we are!",
+    "k": "nosvchin!",
+    "f": "hereweare!"
   },
   {
     "j": "nosse",
@@ -31302,20 +32520,38 @@ export const vocabData = [
     "f": "nurse"
   },
   {
+    "j": "nou dit qué...",
+    "e": "they say...",
+    "k": "nouditque...",
+    "f": "theysay..."
+  },
+  {
+    "j": "nou m’a învité à un parti",
+    "e": "i’ve been invited to a party",
+    "k": "noumainviteaunparti",
+    "f": "ivebeeninvitedtoaparty"
+  },
+  {
+    "j": "nou peut-i’ nagi en seuth’té ichîn?",
+    "e": "is it safe to swim here?",
+    "k": "noupeutinagienseuthteichin?",
+    "f": "isitsafetoswimhere?"
+  },
+  {
+    "j": "nou-fait!",
+    "e": "surely not!",
+    "k": "noufait!",
+    "f": "surelynot!"
+  },
+  {
     "j": "nouachi",
     "e": "to tie badly",
     "k": "nouachi",
     "f": "totiebadly"
   },
   {
-    "j": "Noué",
-    "e": "Christmas",
-    "k": "noue",
-    "f": "christmas"
-  },
-  {
-    "j": "Noué",
-    "e": "Christmas",
+    "j": "noué",
+    "e": "christmas",
     "k": "noue",
     "f": "christmas"
   },
@@ -31326,10 +32562,16 @@ export const vocabData = [
     "f": "totie"
   },
   {
-    "j": "Nouormandie",
-    "e": "Normandy",
+    "j": "nouormandie",
+    "e": "normandy",
     "k": "nouormandie",
     "f": "normandy"
+  },
+  {
+    "j": "nouos-y-v'là!",
+    "e": "there we are!",
+    "k": "nouosyvla!",
+    "f": "thereweare!"
   },
   {
     "j": "nouvé",
@@ -31338,58 +32580,52 @@ export const vocabData = [
     "f": "new"
   },
   {
-    "j": "Nouvelle Angliétèrre",
-    "e": "New England",
+    "j": "nouvelle angliétèrre",
+    "e": "new england",
     "k": "nouvelleanglieterre",
     "f": "newengland"
   },
   {
-    "j": "Nouvelle Calédonie",
-    "e": "New Caledonia",
+    "j": "nouvelle calédonie",
+    "e": "new caledonia",
     "k": "nouvellecaledonie",
     "f": "newcaledonia"
   },
   {
-    "j": "Nouvelle Galles du Sud",
-    "e": "New South Wales",
+    "j": "nouvelle galles du sud",
+    "e": "new south wales",
     "k": "nouvellegallesdusud",
     "f": "newsouthwales"
   },
   {
-    "j": "Nouvelle Orléans",
-    "e": "New Orleans",
+    "j": "nouvelle orléans",
+    "e": "new orleans",
     "k": "nouvelleorleans",
     "f": "neworleans"
   },
   {
-    "j": "Nouvelle Zélande",
-    "e": "New Zealand",
+    "j": "nouvelle zélande",
+    "e": "new zealand",
     "k": "nouvellezelande",
     "f": "newzealand"
   },
   {
-    "j": "Nouvieau Brunswick",
-    "e": "New Brunswick",
+    "j": "nouvieau brunswick",
+    "e": "new brunswick",
     "k": "nouvieaubrunswick",
     "f": "newbrunswick"
   },
   {
-    "j": "Nouvieau Jèrri",
-    "e": "New Jersey",
+    "j": "nouvieau jèrri",
+    "e": "new jersey",
     "k": "nouvieaujerri",
     "f": "newjersey"
   },
   {
-    "j": "Novembre",
-    "e": "November",
+    "j": "novembre",
+    "e": "november",
     "k": "novembre",
     "f": "november"
-  },
-  {
-    "j": "n'pon dormi un clyîn",
-    "e": "not to sleep a wink",
-    "k": "npondormiunclyin",
-    "f": "nottosleepawink"
   },
   {
     "j": "occi",
@@ -31398,8 +32634,8 @@ export const vocabData = [
     "f": "kill"
   },
   {
-    "j": "Octobre",
-    "e": "October",
+    "j": "octobre",
+    "e": "october",
     "k": "octobre",
     "f": "october"
   },
@@ -31411,19 +32647,19 @@ export const vocabData = [
   },
   {
     "j": "offri",
-    "e": "offer",
+    "e": "to bid, offer",
     "k": "offri",
-    "f": "offer"
+    "f": "tobid,offer"
   },
   {
-    "j": "offri",
-    "e": "to bid",
-    "k": "offri",
-    "f": "tobid"
+    "j": "oh las!",
+    "e": "oh dear!",
+    "k": "ohlas!",
+    "f": "ohdear!"
   },
   {
-    "j": "Oman",
-    "e": "Oman",
+    "j": "oman",
+    "e": "oman",
     "k": "oman",
     "f": "oman"
   },
@@ -31432,6 +32668,12 @@ export const vocabData = [
     "e": "eleven",
     "k": "onze",
     "f": "eleven"
+  },
+  {
+    "j": "onze heuthes",
+    "e": "eleven o'clock",
+    "k": "onzeheuthes",
+    "f": "elevenoclock"
   },
   {
     "j": "opéther",
@@ -31446,8 +32688,8 @@ export const vocabData = [
     "f": "gold"
   },
   {
-    "j": "ordgilleux coumme un poux sus l'gant d'la Reine",
-    "e": "as proud as Punch",
+    "j": "ordgilleux coumme un poux sus l'gant d'la reine",
+    "e": "as proud as punch",
     "k": "ordgilleuxcoummeunpouxsuslgantdlareine",
     "f": "asproudaspunch"
   },
@@ -31458,8 +32700,8 @@ export const vocabData = [
     "f": "order"
   },
   {
-    "j": "Orthodoxe",
-    "e": "Orthodox",
+    "j": "orthodoxe",
+    "e": "orthodox",
     "k": "orthodoxe",
     "f": "orthodox"
   },
@@ -31468,6 +32710,48 @@ export const vocabData = [
     "e": "to occupy",
     "k": "otchuper",
     "f": "tooccupy"
+  },
+  {
+    "j": "ou d’meuthe à st pièrre",
+    "e": "she lives in st peter",
+    "k": "oudmeutheastpierre",
+    "f": "shelivesinstpeter"
+  },
+  {
+    "j": "ou fut née en êcosse",
+    "e": "she was born in scotland",
+    "k": "oufutneeenecosse",
+    "f": "shewasborninscotland"
+  },
+  {
+    "j": "ou l’a tchitté",
+    "e": "she’s left him",
+    "k": "oulatchitte",
+    "f": "sheslefthim"
+  },
+  {
+    "j": "ou trouv’thez un tas d’boutiques dans les rues pavées.",
+    "e": "you’ll find a lot of shops in the precinct.",
+    "k": "outrouvthezuntasdboutiquesdanslesruespavees.",
+    "f": "youllfindalotofshopsintheprecinct."
+  },
+  {
+    "j": "ou vèrrez la maîson sus vot’ drouaite.",
+    "e": "you’ll see the house on your right.",
+    "k": "ouverrezlamaisonsusvotdrouaite.",
+    "f": "youllseethehouseonyourright."
+  },
+  {
+    "j": "où'est qu'ou d'meuthez?",
+    "e": "where do you live?",
+    "k": "ouestquoudmeuthez?",
+    "f": "wheredoyoulive?"
+  },
+  {
+    "j": "où'est qu'tu d'meuthe?",
+    "e": "where do you live?",
+    "k": "ouestqutudmeuthe?",
+    "f": "wheredoyoulive?"
   },
   {
     "j": "ouâchinner",
@@ -31488,8 +32772,8 @@ export const vocabData = [
     "f": "hod"
   },
   {
-    "j": "Ouallonnie",
-    "e": "Wallonia",
+    "j": "ouallonnie",
+    "e": "wallonia",
     "k": "ouallonnie",
     "f": "wallonia"
   },
@@ -31506,22 +32790,88 @@ export const vocabData = [
     "f": "forget"
   },
   {
-    "j": "Ouêmue",
-    "e": "Weymouth",
+    "j": "ouêmue",
+    "e": "weymouth",
     "k": "ouemue",
     "f": "weymouth"
   },
   {
     "j": "ouï",
     "e": "hear",
-    "k": "ouï",
+    "k": "oui",
     "f": "hear"
   },
   {
-    "j": "Ouinneteur",
-    "e": "Winter",
+    "j": "oui",
+    "e": "yes (to a question)",
+    "k": "oui",
+    "f": "yes(toaquestion)"
+  },
+  {
+    "j": "oui-dgia!",
+    "e": "yes indeed",
+    "k": "ouidgia!",
+    "f": "yesindeed"
+  },
+  {
+    "j": "ouinneteur",
+    "e": "winter",
     "k": "ouinneteur",
     "f": "winter"
+  },
+  {
+    "j": "oulle a chînquante siêx ans",
+    "e": "she is fifty six",
+    "k": "oulleachinquantesiexans",
+    "f": "sheisfiftysix"
+  },
+  {
+    "j": "oulle a eune longue vèrte cotelle",
+    "e": "she’s got a long green skirt",
+    "k": "oulleaeunelonguevertecotelle",
+    "f": "shesgotalonggreenskirt"
+  },
+  {
+    "j": "oulle a mal ès dents",
+    "e": "she’s got toothache",
+    "k": "oulleamalesdents",
+    "f": "shesgottoothache"
+  },
+  {
+    "j": "oulle appathut d’vant la cour rouoyale",
+    "e": "she appeared before the royal court",
+    "k": "oulleappathutdvantlacourrouoyale",
+    "f": "sheappearedbeforetheroyalcourt"
+  },
+  {
+    "j": "oulle est en amour dé li",
+    "e": "she’s in love with him",
+    "k": "oulleestenamourdeli",
+    "f": "shesinlovewithhim"
+  },
+  {
+    "j": "oulle est eune boulandgiéthe",
+    "e": "she’s a baker",
+    "k": "oulleesteuneboulandgiethe",
+    "f": "shesabaker"
+  },
+  {
+    "j": "oulle est horte",
+    "e": "she’s out",
+    "k": "oulleesthorte",
+    "f": "shesout"
+  },
+  {
+    "j": "oulle est malade coumme un tchian",
+    "e": "she’s as sick as a dog",
+    "k": "oulleestmaladecoummeuntchian",
+    "f": "shesassickasadog"
+  },
+  {
+    "j": "oulle est siez l’docteu",
+    "e": "she’s at the doctor’s",
+    "k": "oulleestsiezldocteu",
+    "f": "shesatthedoctors"
   },
   {
     "j": "ouo-ouo",
@@ -31534,6 +32884,12 @@ export const vocabData = [
     "e": "reamer",
     "k": "ouothelledane",
     "f": "reamer"
+  },
+  {
+    "j": "ous avez l’s ièrs couis",
+    "e": "your eyes are bloodshot",
+    "k": "ousavezlsierscouis",
+    "f": "youreyesarebloodshot"
   },
   {
     "j": "ouvèrt",
@@ -31554,6 +32910,126 @@ export const vocabData = [
     "f": "toopen"
   },
   {
+    "j": "où’est qué j’peux acater un titchet?",
+    "e": "where can i buy a ticket?",
+    "k": "ouestquejpeuxacateruntitchet?",
+    "f": "wherecanibuyaticket?"
+  },
+  {
+    "j": "où’est qué j’peux louer eune vouaituthe?",
+    "e": "where can i  hire a car?",
+    "k": "ouestquejpeuxlouereunevouaituthe?",
+    "f": "wherecanihireacar?"
+  },
+  {
+    "j": "où’est qué j’peux stâtionner la vouaituthe?",
+    "e": "where can i park the car?",
+    "k": "ouestquejpeuxstationnerlavouaituthe?",
+    "f": "wherecaniparkthecar?"
+  },
+  {
+    "j": "où’est qué j’peux trouver un taxi?",
+    "e": "where can i get a taxi?",
+    "k": "ouestquejpeuxtrouveruntaxi?",
+    "f": "wherecanigetataxi?"
+  },
+  {
+    "j": "où’est qu’est la banque?",
+    "e": "where is the bank?",
+    "k": "ouestquestlabanque?",
+    "f": "whereisthebank?"
+  },
+  {
+    "j": "où’est qu’est la boutique?",
+    "e": "where is the shop?",
+    "k": "ouestquestlaboutique?",
+    "f": "whereistheshop?"
+  },
+  {
+    "j": "où’est qu’est la grève?",
+    "e": "where is the beach?",
+    "k": "ouestquestlagreve?",
+    "f": "whereisthebeach?"
+  },
+  {
+    "j": "où’est qu’est la p’tite maîson ès dames?",
+    "e": "where is the ladies toilet?",
+    "k": "ouestquestlaptitemaisonesdames?",
+    "f": "whereistheladiestoilet?"
+  },
+  {
+    "j": "où’est qu’est la p’tite maîson ès mêssieurs?",
+    "e": "where is the gents toilet",
+    "k": "ouestquestlaptitemaisonesmessieurs?",
+    "f": "whereisthegentstoilet"
+  },
+  {
+    "j": "où’est qu’est la stâtion’beusse?",
+    "e": "where is the bus station?",
+    "k": "ouestquestlastationbeusse?",
+    "f": "whereisthebusstation?"
+  },
+  {
+    "j": "où’est qu’est l’apotitchi?",
+    "e": "where is the chemist?",
+    "k": "ouestquestlapotitchi?",
+    "f": "whereisthechemist?"
+  },
+  {
+    "j": "où’est qu’est l’arrêt d’beusse",
+    "e": "where’s the bus stop?",
+    "k": "ouestquestlarretdbeusse",
+    "f": "wheresthebusstop?"
+  },
+  {
+    "j": "où’est qu’i sont, les valises?",
+    "e": "where are the suitcases?",
+    "k": "ouestquisont,lesvalises?",
+    "f": "wherearethesuitcases?"
+  },
+  {
+    "j": "où’est qu’nou peut partchi?",
+    "e": "where can one park?",
+    "k": "ouestqunoupeutpartchi?",
+    "f": "wherecanonepark?"
+  },
+  {
+    "j": "où’est qu’tu’as mîns...?",
+    "e": "where have you put...?",
+    "k": "ouestqutuasmins...?",
+    "f": "wherehaveyouput...?"
+  },
+  {
+    "j": "p'ler",
+    "e": "to peel",
+    "k": "pler",
+    "f": "topeel"
+  },
+  {
+    "j": "p'pèe",
+    "e": "daddy",
+    "k": "ppee",
+    "f": "daddy"
+  },
+  {
+    "j": "p'ser",
+    "e": "to weigh",
+    "k": "pser",
+    "f": "toweigh"
+  },
+  {
+    "j": "p'tit",
+    "e": "small",
+    "k": "ptit",
+    "f": "small"
+  },
+  {
+    "j": "p'tites pînchettes",
+    "e": "tweezers",
+    "k": "ptitespinchettes",
+    "f": "tweezers"
+  },
+  {
     "j": "paffer",
     "e": "to hit",
     "k": "paffer",
@@ -31568,7 +33044,7 @@ export const vocabData = [
   {
     "j": "païen",
     "e": "pagan",
-    "k": "païen",
+    "k": "paien",
     "f": "pagan"
   },
   {
@@ -31578,8 +33054,8 @@ export const vocabData = [
     "f": "tograze"
   },
   {
-    "j": "Pakistan",
-    "e": "Pakistan",
+    "j": "pakistan",
+    "e": "pakistan",
     "k": "pakistan",
     "f": "pakistan"
   },
@@ -31596,8 +33072,8 @@ export const vocabData = [
     "f": "speak"
   },
   {
-    "j": "Palestîn",
-    "e": "Palestine",
+    "j": "palestîn",
+    "e": "palestine",
     "k": "palestin",
     "f": "palestine"
   },
@@ -31620,6 +33096,12 @@ export const vocabData = [
     "f": "coalshovel"
   },
   {
+    "j": "pâlez pus douochement, s’i’ vos pliaît",
+    "e": "please speak more slowly",
+    "k": "palezpusdouochement,sivospliait",
+    "f": "pleasespeakmoreslowly"
+  },
+  {
     "j": "pâlîn",
     "e": "brass",
     "k": "palin",
@@ -31632,8 +33114,14 @@ export const vocabData = [
     "f": "hydrangea"
   },
   {
-    "j": "Panama",
-    "e": "Panama",
+    "j": "pâl’-ous l’portûndgais?",
+    "e": "do you speak portuguese?",
+    "k": "palouslportundgais?",
+    "f": "doyouspeakportuguese?"
+  },
+  {
+    "j": "panama",
+    "e": "panama",
     "k": "panama",
     "f": "panama"
   },
@@ -31656,8 +33144,8 @@ export const vocabData = [
     "f": "grandad"
   },
   {
-    "j": "Papa Noué",
-    "e": "Father Christmas",
+    "j": "papa noué",
+    "e": "father christmas",
     "k": "papanoue",
     "f": "fatherchristmas"
   },
@@ -31668,16 +33156,16 @@ export const vocabData = [
     "f": "stationers"
   },
   {
-    "j": "papi tîmbré",
-    "e": "sandpaper",
-    "k": "papitimbre",
-    "f": "sandpaper"
-  },
-  {
     "j": "papi",
     "e": "paper",
     "k": "papi",
     "f": "paper"
+  },
+  {
+    "j": "papi tîmbré",
+    "e": "sandpaper",
+    "k": "papitimbre",
+    "f": "sandpaper"
   },
   {
     "j": "papièrs dé bord",
@@ -31686,22 +33174,22 @@ export const vocabData = [
     "f": "shipspapers"
   },
   {
-    "j": "Papua Nouvelle Dginnée",
-    "e": "Papua New Guinea",
+    "j": "papua nouvelle dginnée",
+    "e": "papua new guinea",
     "k": "papuanouvelledginnee",
     "f": "papuanewguinea"
   },
   {
-    "j": "Pâques",
-    "e": "Easter",
+    "j": "pâques",
+    "e": "easter",
     "k": "paques",
     "f": "easter"
   },
   {
-    "j": "Pâques",
-    "e": "Easter",
-    "k": "paques",
-    "f": "easter"
+    "j": "par",
+    "e": "park",
+    "k": "par",
+    "f": "park"
   },
   {
     "j": "par à bikes",
@@ -31716,20 +33204,26 @@ export const vocabData = [
     "f": "carpark"
   },
   {
+    "j": "par heuthe ou par tard",
+    "e": "sooner or later",
+    "k": "parheutheoupartard",
+    "f": "soonerorlater"
+  },
+  {
+    "j": "par les c’mîns",
+    "e": "round and about",
+    "k": "parlescmins",
+    "f": "roundandabout"
+  },
+  {
     "j": "par sus l's ièrs",
     "e": "up to the eyeballs",
     "k": "parsuslsiers",
     "f": "uptotheeyeballs"
   },
   {
-    "j": "par",
-    "e": "park",
-    "k": "par",
-    "f": "park"
-  },
-  {
-    "j": "Paraguay",
-    "e": "Paraguay",
+    "j": "paraguay",
+    "e": "paraguay",
     "k": "paraguay",
     "f": "paraguay"
   },
@@ -31746,8 +33240,8 @@ export const vocabData = [
     "f": "perfumery"
   },
   {
-    "j": "Paris",
-    "e": "Paris",
+    "j": "paris",
+    "e": "paris",
     "k": "paris",
     "f": "paris"
   },
@@ -31764,8 +33258,14 @@ export const vocabData = [
     "f": "topark"
   },
   {
-    "j": "Paspédgia",
-    "e": "Paspébiac",
+    "j": "pas du tout!",
+    "e": "not at all!",
+    "k": "pasdutout!",
+    "f": "notatall!"
+  },
+  {
+    "j": "paspédgia",
+    "e": "paspébiac",
     "k": "paspedgia",
     "f": "paspebiac"
   },
@@ -31782,22 +33282,16 @@ export const vocabData = [
     "f": "compasssaw,keyholesaw"
   },
   {
-    "j": "pâsser l'pas",
-    "e": "to die",
-    "k": "passerlpas",
-    "f": "todie"
-  },
-  {
-    "j": "pâsser l'pas",
-    "e": "to pass away",
-    "k": "passerlpas",
-    "f": "topassaway"
-  },
-  {
     "j": "pâsser",
     "e": "pass",
     "k": "passer",
     "f": "pass"
+  },
+  {
+    "j": "pâsser l'pas",
+    "e": "to pass away, to die",
+    "k": "passerlpas",
+    "f": "topassaway,todie"
   },
   {
     "j": "pataûgi",
@@ -31806,22 +33300,16 @@ export const vocabData = [
     "f": "wade"
   },
   {
+    "j": "patchi",
+    "e": "to wrap, pack",
+    "k": "patchi",
+    "f": "towrap,pack"
+  },
+  {
     "j": "patchi ses vailes",
     "e": "to die",
     "k": "patchisesvailes",
     "f": "todie"
-  },
-  {
-    "j": "patchi",
-    "e": "pack",
-    "k": "patchi",
-    "f": "pack"
-  },
-  {
-    "j": "patchi",
-    "e": "to wrap",
-    "k": "patchi",
-    "f": "towrap"
   },
   {
     "j": "pathader",
@@ -31842,6 +33330,12 @@ export const vocabData = [
     "f": "tobet"
   },
   {
+    "j": "pathole",
+    "e": "word",
+    "k": "pathole",
+    "f": "word"
+  },
+  {
     "j": "patinner",
     "e": "skate",
     "k": "patinner",
@@ -31854,8 +33348,8 @@ export const vocabData = [
     "f": "walkindew"
   },
   {
-    "j": "Patrice",
-    "e": "Patrick",
+    "j": "patrice",
+    "e": "patrick",
     "k": "patrice",
     "f": "patrick"
   },
@@ -31866,20 +33360,20 @@ export const vocabData = [
     "f": "topay"
   },
   {
-    "j": "Pays Bas",
-    "e": "The Netherlands",
+    "j": "pays bas",
+    "e": "the netherlands",
     "k": "paysbas",
     "f": "thenetherlands"
   },
   {
-    "j": "Pays Bastchais",
-    "e": "Basque Country",
+    "j": "pays bastchais",
+    "e": "basque country",
     "k": "paysbastchais",
     "f": "basquecountry"
   },
   {
-    "j": "Pays d'Caux",
-    "e": "Pays de Caux",
+    "j": "pays d'caux",
+    "e": "pays de caux",
     "k": "paysdcaux",
     "f": "paysdecaux"
   },
@@ -31926,8 +33420,8 @@ export const vocabData = [
     "f": "pearl"
   },
   {
-    "j": "Pérou",
-    "e": "Peru",
+    "j": "pérou",
+    "e": "peru",
     "k": "perou",
     "f": "peru"
   },
@@ -31939,15 +33433,9 @@ export const vocabData = [
   },
   {
     "j": "pêtri",
-    "e": "to churn",
+    "e": "to knead, to churn",
     "k": "petri",
-    "f": "tochurn"
-  },
-  {
-    "j": "pêtri",
-    "e": "to knead",
-    "k": "petri",
-    "f": "toknead"
+    "f": "toknead,tochurn"
   },
   {
     "j": "pétrole",
@@ -31962,20 +33450,20 @@ export const vocabData = [
     "f": "punishable"
   },
   {
-    "j": "Ph'lippe, Ph'lip",
-    "e": "Philippe, Philip",
+    "j": "ph'lippe, ph'lip",
+    "e": "philippe, philip",
     "k": "phlippe,phlip",
     "f": "philippe,philip"
   },
   {
-    "j": "Ph'lippines",
-    "e": "The Philippines",
+    "j": "ph'lippines",
+    "e": "the philippines",
     "k": "phlippines",
     "f": "thephilippines"
   },
   {
-    "j": "Ph'lippot   , Philot, Philosse, Philinne",
-    "e": "Phil",
+    "j": "ph'lippot   , philot, philosse, philinne",
+    "e": "phil",
     "k": "phlippot,philot,philosse,philinne",
     "f": "phil"
   },
@@ -31992,8 +33480,8 @@ export const vocabData = [
     "f": "cheep"
   },
   {
-    "j": "Picardie",
-    "e": "Picardy",
+    "j": "picardie",
+    "e": "picardy",
     "k": "picardie",
     "f": "picardy"
   },
@@ -32014,6 +33502,12 @@ export const vocabData = [
     "e": "hay rake",
     "k": "piegneachorchi",
     "f": "hayrake"
+  },
+  {
+    "j": "pièrre",
+    "e": "stone",
+    "k": "pierre",
+    "f": "stone"
   },
   {
     "j": "pièrre à feu",
@@ -32040,14 +33534,8 @@ export const vocabData = [
     "f": "pumice"
   },
   {
-    "j": "pièrre",
-    "e": "stone",
-    "k": "pierre",
-    "f": "stone"
-  },
-  {
-    "j": "Pièrre, Piteur",
-    "e": "Peter, Pierre",
+    "j": "pièrre, piteur",
+    "e": "peter, pierre",
     "k": "pierre,piteur",
     "f": "peter,pierre"
   },
@@ -32058,8 +33546,8 @@ export const vocabData = [
     "f": "stony"
   },
   {
-    "j": "Pièrrot, Pèrrotîn",
-    "e": "Pete",
+    "j": "pièrrot, pèrrotîn",
+    "e": "pete",
     "k": "pierrot,perrotin",
     "f": "pete"
   },
@@ -32094,16 +33582,16 @@ export const vocabData = [
     "f": "coaltongs"
   },
   {
-    "j": "pînchi l'vent",
-    "e": "hug the wind",
-    "k": "pinchilvent",
-    "f": "hugthewind"
-  },
-  {
     "j": "pînchi",
     "e": "pinch",
     "k": "pinchi",
     "f": "pinch"
+  },
+  {
+    "j": "pînchi l'vent",
+    "e": "hug the wind",
+    "k": "pinchilvent",
+    "f": "hugthewind"
   },
   {
     "j": "pîncieau",
@@ -32142,6 +33630,12 @@ export const vocabData = [
     "f": "weewee"
   },
   {
+    "j": "pitchi",
+    "e": "throw, sting",
+    "k": "pitchi",
+    "f": "throw,sting"
+  },
+  {
     "j": "pitchi hors",
     "e": "to trash, to delete",
     "k": "pitchihors",
@@ -32154,12 +33648,6 @@ export const vocabData = [
     "f": "tostabapig"
   },
   {
-    "j": "pitchi",
-    "e": "throw, sting",
-    "k": "pitchi",
-    "f": "throw,sting"
-  },
-  {
     "j": "pité",
     "e": "mud",
     "k": "pite",
@@ -32170,12 +33658,6 @@ export const vocabData = [
     "e": "plastic",
     "k": "plastique",
     "f": "plastic"
-  },
-  {
-    "j": "p'ler",
-    "e": "to peel",
-    "k": "pler",
-    "f": "topeel"
   },
   {
     "j": "pliaichi",
@@ -32232,8 +33714,8 @@ export const vocabData = [
     "f": "full"
   },
   {
-    "j": "Pliémue",
-    "e": "Plymouth",
+    "j": "pliémue",
+    "e": "plymouth",
     "k": "pliemue",
     "f": "plymouth"
   },
@@ -32245,15 +33727,9 @@ export const vocabData = [
   },
   {
     "j": "pliomb",
-    "e": "plumbline",
+    "e": "lead, plumbline",
     "k": "pliomb",
-    "f": "plumbline"
-  },
-  {
-    "j": "pliomb",
-    "e": "lead",
-    "k": "pliomb",
-    "f": "lead"
+    "f": "lead,plumbline"
   },
   {
     "j": "plionmet",
@@ -32274,8 +33750,8 @@ export const vocabData = [
     "f": "fluffy"
   },
   {
-    "j": "Pliuton",
-    "e": "Pluto",
+    "j": "pliuton",
+    "e": "pluto",
     "k": "pliuton",
     "f": "pluto"
   },
@@ -32292,7 +33768,7 @@ export const vocabData = [
     "f": "towaveoneshair"
   },
   {
-    "j": "pointes dé Paris",
+    "j": "pointes dé paris",
     "e": "wire nails",
     "k": "pointesdeparis",
     "f": "wirenails"
@@ -32316,14 +33792,14 @@ export const vocabData = [
     "f": "political"
   },
   {
-    "j": "Polongne",
-    "e": "Poland",
+    "j": "polongne",
+    "e": "poland",
     "k": "polongne",
     "f": "poland"
   },
   {
-    "j": "Polynésie Française",
-    "e": "French Polynesia",
+    "j": "polynésie française",
+    "e": "french polynesia",
     "k": "polynesiefrancaise",
     "f": "frenchpolynesia"
   },
@@ -32332,6 +33808,12 @@ export const vocabData = [
     "e": "pump",
     "k": "pompe",
     "f": "pump"
+  },
+  {
+    "j": "pon trop mal",
+    "e": "not too bad",
+    "k": "pontropmal",
+    "f": "nottoobad"
   },
   {
     "j": "pondre",
@@ -32352,8 +33834,8 @@ export const vocabData = [
     "f": "poker(auvetchiagiterlfeu)"
   },
   {
-    "j": "Porbas",
-    "e": "Portbail",
+    "j": "porbas",
+    "e": "portbail",
     "k": "porbas",
     "f": "portbail"
   },
@@ -32364,8 +33846,8 @@ export const vocabData = [
     "f": "china"
   },
   {
-    "j": "Porchémue",
-    "e": "Portsmouth",
+    "j": "porchémue",
+    "e": "portsmouth",
     "k": "porchemue",
     "f": "portsmouth"
   },
@@ -32376,8 +33858,8 @@ export const vocabData = [
     "f": "plasterershod"
   },
   {
-    "j": "Porte-Fagot",
-    "e": "Man in the Moon",
+    "j": "porte-fagot",
+    "e": "man in the moon",
     "k": "portefagot",
     "f": "maninthemoon"
   },
@@ -32388,20 +33870,20 @@ export const vocabData = [
     "f": "hod"
   },
   {
-    "j": "porter un coup",
-    "e": "to strike",
-    "k": "porteruncoup",
-    "f": "tostrike"
-  },
-  {
     "j": "porter",
     "e": "carry",
     "k": "porter",
     "f": "carry"
   },
   {
-    "j": "Portûnga",
-    "e": "Portugal",
+    "j": "porter un coup",
+    "e": "to strike",
+    "k": "porteruncoup",
+    "f": "tostrike"
+  },
+  {
+    "j": "portûnga",
+    "e": "portugal",
     "k": "portunga",
     "f": "portugal"
   },
@@ -32460,10 +33942,22 @@ export const vocabData = [
     "f": "powderflask"
   },
   {
+    "j": "pouor tchi qu’tu t’en vas voter?",
+    "e": "who’ll you vote for?",
+    "k": "pouortchiqututenvasvoter?",
+    "f": "whollyouvotefor?"
+  },
+  {
     "j": "poursuivre",
     "e": "to prosecute",
     "k": "poursuivre",
     "f": "toprosecute"
+  },
+  {
+    "j": "pourtchi?",
+    "e": "why?",
+    "k": "pourtchi?",
+    "f": "why?"
   },
   {
     "j": "pouver",
@@ -32472,10 +33966,10 @@ export const vocabData = [
     "f": "can"
   },
   {
-    "j": "p'pèe",
-    "e": "daddy",
-    "k": "ppee",
-    "f": "daddy"
+    "j": "prannez chennechîn",
+    "e": "take this",
+    "k": "prannezchennechin",
+    "f": "takethis"
   },
   {
     "j": "pratitchi",
@@ -32494,6 +33988,18 @@ export const vocabData = [
     "e": "prehistoric",
     "k": "prehistorique",
     "f": "prehistoric"
+  },
+  {
+    "j": "prend chennechîn",
+    "e": "take this",
+    "k": "prendchennechin",
+    "f": "takethis"
+  },
+  {
+    "j": "prendre",
+    "e": "take",
+    "k": "prendre",
+    "f": "take"
   },
   {
     "j": "prendre du paîsson",
@@ -32530,12 +34036,6 @@ export const vocabData = [
     "e": "take in a reef",
     "k": "prendreunris",
     "f": "takeinareef"
-  },
-  {
-    "j": "prendre",
-    "e": "take",
-    "k": "prendre",
-    "f": "take"
   },
   {
     "j": "présider",
@@ -32604,40 +34104,58 @@ export const vocabData = [
     "f": "protestant"
   },
   {
-    "j": "p'ser",
-    "e": "to weigh",
-    "k": "pser",
-    "f": "toweigh"
+    "j": "puèque!",
+    "e": "pooh!",
+    "k": "pueque!",
+    "f": "pooh!"
   },
   {
-    "j": "p'tit",
-    "e": "small",
-    "k": "ptit",
-    "f": "small"
-  },
-  {
-    "j": "p'tites pînchettes",
-    "e": "tweezers",
-    "k": "ptitespinchettes",
-    "f": "tweezers"
-  },
-  {
-    "j": "Puerto Rico",
-    "e": "Puerto Rico",
+    "j": "puerto rico",
+    "e": "puerto rico",
     "k": "puertorico",
     "f": "puertorico"
   },
   {
-    "j": "Qatar",
-    "e": "Qatar",
+    "j": "qatar",
+    "e": "qatar",
     "k": "qatar",
     "f": "qatar"
+  },
+  {
+    "j": "qu'si",
+    "e": "fetch",
+    "k": "qusi",
+    "f": "fetch"
+  },
+  {
+    "j": "quand tchi qu’est la dreine beusse pouor la ville?",
+    "e": "when’s the last bus into town?",
+    "k": "quandtchiquestladreinebeussepouorlaville?",
+    "f": "whensthelastbusintotown?"
+  },
+  {
+    "j": "quand tchi qu’est la préchaine beusse pouor la corbiéthe?",
+    "e": "when’s the next bus for la corbière?",
+    "k": "quandtchiquestlaprechainebeussepouorlacorbiethe?",
+    "f": "whensthenextbusforlacorbiere?"
+  },
+  {
+    "j": "quand tchi?",
+    "e": "when?",
+    "k": "quandtchi?",
+    "f": "when?"
   },
   {
     "j": "quarante",
     "e": "forty",
     "k": "quarante",
     "f": "forty"
+  },
+  {
+    "j": "quarante milles à l’heuthe",
+    "e": "forty miles an hour",
+    "k": "quarantemillesalheuthe",
+    "f": "fortymilesanhour"
   },
   {
     "j": "quarante'tch'ieune",
@@ -32670,6 +34188,24 @@ export const vocabData = [
     "f": "fourteen"
   },
   {
+    "j": "quatre heuthes",
+    "e": "four o'clock",
+    "k": "quatreheuthes",
+    "f": "fouroclock"
+  },
+  {
+    "j": "quatre heuthes un quart",
+    "e": "quarter past four",
+    "k": "quatreheuthesunquart",
+    "f": "quarterpastfour"
+  },
+  {
+    "j": "quatre heuthes vîngt",
+    "e": "twenty past four",
+    "k": "quatreheuthesvingt",
+    "f": "twentypastfour"
+  },
+  {
     "j": "quatre-vîngt-ieune",
     "e": "eighty one",
     "k": "quatrevingtieune",
@@ -32680,6 +34216,12 @@ export const vocabData = [
     "e": "eighty",
     "k": "quatrevingts",
     "f": "eighty"
+  },
+  {
+    "j": "qué!",
+    "e": "what!",
+    "k": "que!",
+    "f": "what!"
   },
   {
     "j": "quétilyi",
@@ -32694,10 +34236,70 @@ export const vocabData = [
     "f": "cluck"
   },
   {
-    "j": "qu'si",
-    "e": "fetch",
-    "k": "qusi",
-    "f": "fetch"
+    "j": "r'chard",
+    "e": "richard",
+    "k": "rchard",
+    "f": "richard"
+  },
+  {
+    "j": "r'chéver",
+    "e": "receive",
+    "k": "rchever",
+    "f": "receive"
+  },
+  {
+    "j": "r'couôtre",
+    "e": "to sew up",
+    "k": "rcouotre",
+    "f": "tosewup"
+  },
+  {
+    "j": "r'garder gare",
+    "e": "to squint",
+    "k": "rgardergare",
+    "f": "tosquint"
+  },
+  {
+    "j": "r'gardez",
+    "e": "look",
+    "k": "rgardez",
+    "f": "look"
+  },
+  {
+    "j": "r'lâchi",
+    "e": "put back into port",
+    "k": "rlachi",
+    "f": "putbackintoport"
+  },
+  {
+    "j": "r'mèrcier l'boulandgi pouor la dreine fais",
+    "e": "to pop one's clogs",
+    "k": "rmercierlboulandgipouorladreinefais",
+    "f": "topoponesclogs"
+  },
+  {
+    "j": "r'mèrtchi",
+    "e": "remark",
+    "k": "rmertchi",
+    "f": "remark"
+  },
+  {
+    "j": "r'penti",
+    "e": "to repent",
+    "k": "rpenti",
+    "f": "torepent"
+  },
+  {
+    "j": "r'sourdre",
+    "e": "to rise",
+    "k": "rsourdre",
+    "f": "torise"
+  },
+  {
+    "j": "r'vither",
+    "e": "to tack",
+    "k": "rvither",
+    "f": "totack"
   },
   {
     "j": "rabot",
@@ -32730,8 +34332,8 @@ export const vocabData = [
     "f": "mend"
   },
   {
-    "j": "Râché",
-    "e": "Rachel",
+    "j": "râché",
+    "e": "rachel",
     "k": "rache",
     "f": "rachel"
   },
@@ -32746,6 +34348,12 @@ export const vocabData = [
     "e": "to drink heavily",
     "k": "radaler",
     "f": "todrinkheavily"
+  },
+  {
+    "j": "raide bein!",
+    "e": "very good",
+    "k": "raidebein!",
+    "f": "verygood"
   },
   {
     "j": "râlîndgi (et dêrâlîndgi)",
@@ -32778,28 +34386,28 @@ export const vocabData = [
     "f": "torestuff"
   },
   {
-    "j": "râpe",
-    "e": "rasp, grater",
-    "k": "rape",
-    "f": "rasp,grater"
-  },
-  {
     "j": "rap'tichi",
     "e": "shrink",
     "k": "raptichi",
     "f": "shrink"
   },
   {
-    "j": "râqu'ter des flieunmes",
-    "e": "hawk up phlegm",
-    "k": "raquterdesflieunmes",
-    "f": "hawkupphlegm"
+    "j": "râpe",
+    "e": "rasp, grater",
+    "k": "rape",
+    "f": "rasp,grater"
   },
   {
     "j": "râqu'ter",
     "e": "clear one's throat",
     "k": "raquter",
     "f": "clearonesthroat"
+  },
+  {
+    "j": "râqu'ter des flieunmes",
+    "e": "hawk up phlegm",
+    "k": "raquterdesflieunmes",
+    "f": "hawkupphlegm"
   },
   {
     "j": "râser",
@@ -32818,24 +34426,6 @@ export const vocabData = [
     "e": "rake",
     "k": "rate",
     "f": "rake"
-  },
-  {
-    "j": "R'chard",
-    "e": "Richard",
-    "k": "rchard",
-    "f": "richard"
-  },
-  {
-    "j": "r'chéver",
-    "e": "receive",
-    "k": "rchever",
-    "f": "receive"
-  },
-  {
-    "j": "r'couôtre",
-    "e": "to sew up",
-    "k": "rcouotre",
-    "f": "tosewup"
   },
   {
     "j": "rêcaûffer",
@@ -32898,26 +34488,26 @@ export const vocabData = [
     "f": "toreply"
   },
   {
-    "j": "République Centrafritchaine",
-    "e": "Central African Republic",
+    "j": "république centrafritchaine",
+    "e": "central african republic",
     "k": "republiquecentrafritchaine",
     "f": "centralafricanrepublic"
   },
   {
-    "j": "République Démocratique du Congo",
-    "e": "Democratic Republic of the Congo,",
+    "j": "république démocratique du congo",
+    "e": "democratic republic of the congo,",
     "k": "republiquedemocratiqueducongo",
     "f": "democraticrepublicofthecongo,"
   },
   {
-    "j": "République Dominnicaine",
-    "e": "Dominican Republic",
+    "j": "république dominnicaine",
+    "e": "dominican republic",
     "k": "republiquedominnicaine",
     "f": "dominicanrepublic"
   },
   {
-    "j": "République Tchèque",
-    "e": "Czech Republic",
+    "j": "république tchèque",
+    "e": "czech republic",
     "k": "republiquetcheque",
     "f": "czechrepublic"
   },
@@ -32928,10 +34518,22 @@ export const vocabData = [
     "f": "restaurant"
   },
   {
+    "j": "reste ichîn",
+    "e": "stay here",
+    "k": "resteichin",
+    "f": "stayhere"
+  },
+  {
     "j": "rester",
     "e": "stay",
     "k": "rester",
     "f": "stay"
+  },
+  {
+    "j": "restez ichîn",
+    "e": "stay here",
+    "k": "restezichin",
+    "f": "stayhere"
   },
   {
     "j": "rêussi",
@@ -32944,12 +34546,6 @@ export const vocabData = [
     "e": "wake",
     "k": "revilyi",
     "f": "wake"
-  },
-  {
-    "j": "r'garder gare",
-    "e": "to squint",
-    "k": "rgardergare",
-    "f": "tosquint"
   },
   {
     "j": "riboter",
@@ -33000,26 +34596,8 @@ export const vocabData = [
     "f": "rivettool,rivetingblock"
   },
   {
-    "j": "r'lâchi",
-    "e": "put back into port",
-    "k": "rlachi",
-    "f": "putbackintoport"
-  },
-  {
-    "j": "r'mèrcier l'boulandgi pouor la dreine fais",
-    "e": "to pop one's clogs",
-    "k": "rmercierlboulandgipouorladreinefais",
-    "f": "topoponesclogs"
-  },
-  {
-    "j": "r'mèrtchi",
-    "e": "remark",
-    "k": "rmertchi",
-    "f": "remark"
-  },
-  {
-    "j": "Robèrt",
-    "e": "Robert",
+    "j": "robèrt",
+    "e": "robert",
     "k": "robert",
     "f": "robert"
   },
@@ -33042,12 +34620,6 @@ export const vocabData = [
     "f": "snore"
   },
   {
-    "j": "ronflier",
-    "e": "snore",
-    "k": "ronflier",
-    "f": "snore"
-  },
-  {
     "j": "ronner",
     "e": "growl, purr",
     "k": "ronner",
@@ -33055,13 +34627,13 @@ export const vocabData = [
   },
   {
     "j": "rose dé papi, des clioches",
-    "e": "Canterbury bells",
+    "e": "canterbury bells",
     "k": "rosedepapi,desclioches",
     "f": "canterburybells"
   },
   {
-    "j": "rosé dé Sharon",
-    "e": "Rose of Sharon",
+    "j": "rosé dé sharon",
+    "e": "rose of sharon",
     "k": "rosedesharon",
     "f": "roseofsharon"
   },
@@ -33096,9 +34668,9 @@ export const vocabData = [
     "f": "screech"
   },
   {
-    "j": "Rouën",
-    "e": "Rouen",
-    "k": "rouën",
+    "j": "rouën",
+    "e": "rouen",
+    "k": "rouen",
     "f": "rouen"
   },
   {
@@ -33120,8 +34692,8 @@ export const vocabData = [
     "f": "rust"
   },
   {
-    "j": "Roumanie",
-    "e": "Romania",
+    "j": "roumanie",
+    "e": "romania",
     "k": "roumanie",
     "f": "romania"
   },
@@ -33132,26 +34704,20 @@ export const vocabData = [
     "f": "copper"
   },
   {
+    "j": "rouôler",
+    "e": "to scroll, roll",
+    "k": "rouoler",
+    "f": "toscroll,roll"
+  },
+  {
     "j": "rouôler tchitch'un",
     "e": "to swindle someone",
     "k": "rouolertchitchun",
     "f": "toswindlesomeone"
   },
   {
-    "j": "rouôler",
-    "e": "roll",
-    "k": "rouoler",
-    "f": "roll"
-  },
-  {
-    "j": "rouôler",
-    "e": "to scroll",
-    "k": "rouoler",
-    "f": "toscroll"
-  },
-  {
-    "j": "Rouoyaume Unni d'la Grande Brétangne et d'l'Irlande du Nord",
-    "e": "United Kingdom of Great Britain and Northern Ireland",
+    "j": "rouoyaume unni d'la grande brétangne et d'l'irlande du nord",
+    "e": "united kingdom of great britain and northern ireland",
     "k": "rouoyaumeunnidlagrandebretangneetdlirlandedunord",
     "f": "unitedkingdomofgreatbritainandnorthernireland"
   },
@@ -33174,28 +34740,10 @@ export const vocabData = [
     "f": "redhaired"
   },
   {
-    "j": "r'penti",
-    "e": "to repent",
-    "k": "rpenti",
-    "f": "torepent"
-  },
-  {
-    "j": "r'sourdre",
-    "e": "to rise",
-    "k": "rsourdre",
-    "f": "torise"
-  },
-  {
     "j": "rubis",
     "e": "ruby",
     "k": "rubis",
     "f": "ruby"
-  },
-  {
-    "j": "rue pavée",
-    "e": "pedestrian street",
-    "k": "ruepavee",
-    "f": "pedestrianstreet"
   },
   {
     "j": "rue",
@@ -33204,34 +34752,22 @@ export const vocabData = [
     "f": "street"
   },
   {
-    "j": "Russie",
-    "e": "Russia",
+    "j": "rue pavée",
+    "e": "pedestrian street",
+    "k": "ruepavee",
+    "f": "pedestrianstreet"
+  },
+  {
+    "j": "russie",
+    "e": "russia",
     "k": "russie",
     "f": "russia"
   },
   {
-    "j": "r'vither",
-    "e": "to tack",
-    "k": "rvither",
-    "f": "totack"
-  },
-  {
-    "j": "Rwanda",
-    "e": "Rwanda",
+    "j": "rwanda",
+    "e": "rwanda",
     "k": "rwanda",
     "f": "rwanda"
-  },
-  {
-    "j": "sablion",
-    "e": "sand",
-    "k": "sablion",
-    "f": "sand"
-  },
-  {
-    "j": "sâbrer",
-    "e": "to slash",
-    "k": "sabrer",
-    "f": "toslash"
   },
   {
     "j": "s'accouter",
@@ -33258,34 +34794,274 @@ export const vocabData = [
     "f": "kneel"
   },
   {
-    "j": "Sahara du Vouêt",
-    "e": "Western Sahara",
+    "j": "s'asphyxier",
+    "e": "to asphyxiate oneself",
+    "k": "sasphyxier",
+    "f": "toasphyxiateoneself"
+  },
+  {
+    "j": "s'assiéthe",
+    "e": "sit down",
+    "k": "sassiethe",
+    "f": "sitdown"
+  },
+  {
+    "j": "s'atchitter d'eune dette",
+    "e": "to pay off a debt",
+    "k": "satchitterdeunedette",
+    "f": "topayoffadebt"
+  },
+  {
+    "j": "s'battre",
+    "e": "to fight",
+    "k": "sbattre",
+    "f": "tofight"
+  },
+  {
+    "j": "s'canter",
+    "e": "lean",
+    "k": "scanter",
+    "f": "lean"
+  },
+  {
+    "j": "s'cârrer",
+    "e": "get out of the way",
+    "k": "scarrer",
+    "f": "getoutoftheway"
+  },
+  {
+    "j": "s'coêffi",
+    "e": "to get tipsy",
+    "k": "scoeffi",
+    "f": "togettipsy"
+  },
+  {
+    "j": "s'coincer",
+    "e": "to get tipsy",
+    "k": "scoincer",
+    "f": "togettipsy"
+  },
+  {
+    "j": "s'corler",
+    "e": "to curl one's hair",
+    "k": "scorler",
+    "f": "tocurloneshair"
+  },
+  {
+    "j": "s'dêmathier",
+    "e": "to get divorced",
+    "k": "sdemathier",
+    "f": "togetdivorced"
+  },
+  {
+    "j": "s'divorcer",
+    "e": "to get divorced",
+    "k": "sdivorcer",
+    "f": "togetdivorced"
+  },
+  {
+    "j": "s'doctrinner",
+    "e": "treat oneself",
+    "k": "sdoctrinner",
+    "f": "treatoneself"
+  },
+  {
+    "j": "s'drodgi",
+    "e": "to take drugs",
+    "k": "sdrodgi",
+    "f": "totakedrugs"
+  },
+  {
+    "j": "s'êbailli",
+    "e": "yawn",
+    "k": "sebailli",
+    "f": "yawn"
+  },
+  {
+    "j": "s'engagi",
+    "e": "to get engaged",
+    "k": "sengagi",
+    "f": "togetengaged"
+  },
+  {
+    "j": "s'enlachi",
+    "e": "to entwine",
+    "k": "senlachi",
+    "f": "toentwine"
+  },
+  {
+    "j": "s'enrhînmer",
+    "e": "to catch cold",
+    "k": "senrhinmer",
+    "f": "tocatchcold"
+  },
+  {
+    "j": "s'êteurtre la g'vil'ye",
+    "e": "twist one's ankle",
+    "k": "seteurtrelagvilye",
+    "f": "twistonesankle"
+  },
+  {
+    "j": "s'êvanni",
+    "e": "faint",
+    "k": "sevanni",
+    "f": "faint"
+  },
+  {
+    "j": "s'faithe touôser",
+    "e": "to have one's hair cut short",
+    "k": "sfaithetouoser",
+    "f": "tohaveoneshaircutshort"
+  },
+  {
+    "j": "s'freûler",
+    "e": "to fight, scuffle",
+    "k": "sfreuler",
+    "f": "tofight,scuffle"
+  },
+  {
+    "j": "s'friper",
+    "e": "to fight",
+    "k": "sfriper",
+    "f": "tofight"
+  },
+  {
+    "j": "s'gonder",
+    "e": "to second",
+    "k": "sgonder",
+    "f": "tosecond"
+  },
+  {
+    "j": "s'i' t'pliaît!",
+    "e": "please !",
+    "k": "sitpliait!",
+    "f": "please!"
+  },
+  {
+    "j": "s'i' vos pliaît!",
+    "e": "please !",
+    "k": "sivospliait!",
+    "f": "please!"
+  },
+  {
+    "j": "s'laîssi corrompre",
+    "e": "to take bribes",
+    "k": "slaissicorrompre",
+    "f": "totakebribes"
+  },
+  {
+    "j": "s'mathier",
+    "e": "to get married",
+    "k": "smathier",
+    "f": "togetmarried"
+  },
+  {
+    "j": "s'mêfaithe",
+    "e": "to commit suicide",
+    "k": "smefaithe",
+    "f": "tocommitsuicide"
+  },
+  {
+    "j": "s'menchi",
+    "e": "to sow a field",
+    "k": "smenchi",
+    "f": "tosowafield"
+  },
+  {
+    "j": "s'mer",
+    "e": "to sow seed",
+    "k": "smer",
+    "f": "tosowseed"
+  },
+  {
+    "j": "s'mett' sus les rangs",
+    "e": "to become a candidate",
+    "k": "smettsuslesrangs",
+    "f": "tobecomeacandidate"
+  },
+  {
+    "j": "s'mettre l'dé dans l'yi",
+    "e": "to put one's foot in it",
+    "k": "smettreldedanslyi",
+    "f": "toputonesfootinit"
+  },
+  {
+    "j": "s'mither",
+    "e": "to look at oneself in the mirror",
+    "k": "smither",
+    "f": "tolookatoneselfinthemirror"
+  },
+  {
+    "j": "s'n'yer",
+    "e": "to drown",
+    "k": "snyer",
+    "f": "todrown"
+  },
+  {
+    "j": "s'pather",
+    "e": "separate",
+    "k": "spather",
+    "f": "separate"
+  },
+  {
+    "j": "s'roussi les g'veux",
+    "e": "singe one's hair",
+    "k": "sroussilesgveux",
+    "f": "singeoneshair"
+  },
+  {
+    "j": "s'tchi",
+    "e": "to dry",
+    "k": "stchi",
+    "f": "todry"
+  },
+  {
+    "j": "s'tchi les g'veux",
+    "e": "dry one's hair",
+    "k": "stchilesgveux",
+    "f": "dryoneshair"
+  },
+  {
+    "j": "s'traûler",
+    "e": "stroll",
+    "k": "strauler",
+    "f": "stroll"
+  },
+  {
+    "j": "sa c’mînse est blianche",
+    "e": "his shirt is white, her shirt is white",
+    "k": "sacminseestblianche",
+    "f": "hisshirtiswhite,hershirtiswhite"
+  },
+  {
+    "j": "sablion",
+    "e": "sand",
+    "k": "sablion",
+    "f": "sand"
+  },
+  {
+    "j": "sâbre dé bouais!",
+    "e": "goodness!",
+    "k": "sabredebouais!",
+    "f": "goodness!"
+  },
+  {
+    "j": "sâbrer",
+    "e": "to slash",
+    "k": "sabrer",
+    "f": "toslash"
+  },
+  {
+    "j": "sâcré...!",
+    "e": "damn...!",
+    "k": "sacre...!",
+    "f": "damn...!"
+  },
+  {
+    "j": "sahara du vouêt",
+    "e": "western sahara",
     "k": "saharaduvouet",
     "f": "westernsahara"
-  },
-  {
-    "j": "Saint Helena, Ascension et Tristan da Cunha",
-    "e": "Saint Helena, Ascension and Tristan da Cunha",
-    "k": "sainthelena,ascensionettristandacunha",
-    "f": "sainthelena,ascensionandtristandacunha"
-  },
-  {
-    "j": "Saint Kitts et Nevis",
-    "e": "Saint Kitts and Nevis",
-    "k": "saintkittsetnevis",
-    "f": "saintkittsandnevis"
-  },
-  {
-    "j": "Saint Mathîn",
-    "e": "San Marino",
-    "k": "saintmathin",
-    "f": "sanmarino"
-  },
-  {
-    "j": "Saint Vîncent et les Grénadinnes",
-    "e": "Saint Vincent and the Grenadines",
-    "k": "saintvincentetlesgrenadinnes",
-    "f": "saintvincentandthegrenadines"
   },
   {
     "j": "saint",
@@ -33294,16 +35070,40 @@ export const vocabData = [
     "f": "holy"
   },
   {
-    "j": "Sainte Lucie",
-    "e": "Saint Lucia",
-    "k": "saintelucie",
-    "f": "saintlucia"
+    "j": "saint helena, ascension et tristan da cunha",
+    "e": "saint helena, ascension and tristan da cunha",
+    "k": "sainthelena,ascensionettristandacunha",
+    "f": "sainthelena,ascensionandtristandacunha"
   },
   {
-    "j": "Saint-Pièrre et Miquelon",
-    "e": "Saint-Pierre and Miquelon",
+    "j": "saint kitts et nevis",
+    "e": "saint kitts and nevis",
+    "k": "saintkittsetnevis",
+    "f": "saintkittsandnevis"
+  },
+  {
+    "j": "saint mathîn",
+    "e": "san marino",
+    "k": "saintmathin",
+    "f": "sanmarino"
+  },
+  {
+    "j": "saint vîncent et les grénadinnes",
+    "e": "saint vincent and the grenadines",
+    "k": "saintvincentetlesgrenadinnes",
+    "f": "saintvincentandthegrenadines"
+  },
+  {
+    "j": "saint-pièrre et miquelon",
+    "e": "saint-pierre and miquelon",
     "k": "saintpierreetmiquelon",
     "f": "saintpierreandmiquelon"
+  },
+  {
+    "j": "sainte lucie",
+    "e": "saint lucia",
+    "k": "saintelucie",
+    "f": "saintlucia"
   },
   {
     "j": "sale",
@@ -33318,8 +35118,8 @@ export const vocabData = [
     "f": "tosalt"
   },
   {
-    "j": "Salle Parouaîssiale",
-    "e": "Parish Hall",
+    "j": "salle parouaîssiale",
+    "e": "parish hall",
     "k": "salleparouaissiale",
     "f": "parishhall"
   },
@@ -33330,16 +35130,34 @@ export const vocabData = [
     "f": "tosalute"
   },
   {
-    "j": "Samoa",
-    "e": "Samoa",
+    "j": "salut!",
+    "e": "hi!",
+    "k": "salut!",
+    "f": "hi!"
+  },
+  {
+    "j": "samoa",
+    "e": "samoa",
     "k": "samoa",
     "f": "samoa"
   },
   {
-    "j": "Samoa Améthitchain",
-    "e": "American Samoa",
+    "j": "samoa améthitchain",
+    "e": "american samoa",
     "k": "samoaamethitchain",
     "f": "americansamoa"
+  },
+  {
+    "j": "san bouonnehomme est pus vyi qu’lyi",
+    "e": "her husband is older than her",
+    "k": "sanbouonnehommeestpusvyiqulyi",
+    "f": "herhusbandisolderthanher"
+  },
+  {
+    "j": "san tee-corset est blianc",
+    "e": "his tee-shirt is white, her tee-shirt is white",
+    "k": "santeecorsetestblianc",
+    "f": "histeeshirtiswhite,herteeshirtiswhite"
   },
   {
     "j": "sangni",
@@ -33348,10 +35166,16 @@ export const vocabData = [
     "f": "tobleed"
   },
   {
-    "j": "Sanm'di",
-    "e": "Saturday",
+    "j": "sanm'di",
+    "e": "saturday",
     "k": "sanmdi",
     "f": "saturday"
+  },
+  {
+    "j": "sanm’di en tchînze",
+    "e": "a fortnight on saturday",
+    "k": "sanmdientchinze",
+    "f": "afortnightonsaturday"
   },
   {
     "j": "sannitaithe",
@@ -33378,16 +35202,28 @@ export const vocabData = [
     "f": "cheers!"
   },
   {
-    "j": "São Tomé et Principe",
-    "e": "São Tomé and Principe",
-    "k": "sãotomeetprincipe",
-    "f": "sãotomeandprincipe"
+    "j": "são tomé et principe",
+    "e": "são tomé and principe",
+    "k": "saotomeetprincipe",
+    "f": "saotomeandprincipe"
   },
   {
-    "j": "s'asphyxier",
-    "e": "to asphyxiate oneself",
-    "k": "sasphyxier",
-    "f": "toasphyxiateoneself"
+    "j": "sâpré mâtîn!",
+    "e": "drat!",
+    "k": "saprematin!",
+    "f": "drat!"
+  },
+  {
+    "j": "sâpré mille pipes!",
+    "e": "drat!",
+    "k": "sapremillepipes!",
+    "f": "drat!"
+  },
+  {
+    "j": "sapresti!",
+    "e": "gosh!",
+    "k": "sapresti!",
+    "f": "gosh!"
   },
   {
     "j": "sâsse-paine",
@@ -33396,22 +35232,10 @@ export const vocabData = [
     "f": "saucepan"
   },
   {
-    "j": "s'assiéthe",
-    "e": "sit down",
-    "k": "sassiethe",
-    "f": "sitdown"
-  },
-  {
     "j": "satchi",
     "e": "strike",
     "k": "satchi",
     "f": "strike"
-  },
-  {
-    "j": "s'atchitter d'eune dette",
-    "e": "to pay off a debt",
-    "k": "satchitterdeunedette",
-    "f": "topayoffadebt"
   },
   {
     "j": "satîn",
@@ -33420,8 +35244,8 @@ export const vocabData = [
     "f": "satin"
   },
   {
-    "j": "Saturne",
-    "e": "Saturn",
+    "j": "saturne",
+    "e": "saturn",
     "k": "saturne",
     "f": "saturn"
   },
@@ -33468,16 +35292,10 @@ export const vocabData = [
     "f": "shavingbrush"
   },
   {
-    "j": "Savouaie",
-    "e": "Savoy",
+    "j": "savouaie",
+    "e": "savoy",
     "k": "savouaie",
     "f": "savoy"
-  },
-  {
-    "j": "s'battre",
-    "e": "to fight",
-    "k": "sbattre",
-    "f": "tofight"
   },
   {
     "j": "scâler",
@@ -33490,18 +35308,6 @@ export const vocabData = [
     "e": "to scan",
     "k": "scanner",
     "f": "toscan"
-  },
-  {
-    "j": "s'canter",
-    "e": "lean",
-    "k": "scanter",
-    "f": "lean"
-  },
-  {
-    "j": "s'cârrer",
-    "e": "get out of the way",
-    "k": "scarrer",
-    "f": "getoutoftheway"
   },
   {
     "j": "scie",
@@ -33540,24 +35346,6 @@ export const vocabData = [
     "f": "pitsaw"
   },
   {
-    "j": "s'coêffi",
-    "e": "to get tipsy",
-    "k": "scoeffi",
-    "f": "togettipsy"
-  },
-  {
-    "j": "s'coincer",
-    "e": "to get tipsy",
-    "k": "scoincer",
-    "f": "togettipsy"
-  },
-  {
-    "j": "s'corler",
-    "e": "to curl one's hair",
-    "k": "scorler",
-    "f": "tocurloneshair"
-  },
-  {
     "j": "scorvé",
     "e": "scurvy",
     "k": "scorve",
@@ -33582,28 +35370,10 @@ export const vocabData = [
     "f": "scrubbingbrush"
   },
   {
-    "j": "s'dêmathier",
-    "e": "to get divorced",
-    "k": "sdemathier",
-    "f": "togetdivorced"
-  },
-  {
-    "j": "s'divorcer",
-    "e": "to get divorced",
-    "k": "sdivorcer",
-    "f": "togetdivorced"
-  },
-  {
-    "j": "s'doctrinner",
-    "e": "treat oneself",
-    "k": "sdoctrinner",
-    "f": "treatoneself"
-  },
-  {
-    "j": "s'drodgi",
-    "e": "to take drugs",
-    "k": "sdrodgi",
-    "f": "totakedrugs"
+    "j": "sé",
+    "e": "salt, dry",
+    "k": "se",
+    "f": "salt,dry"
   },
   {
     "j": "sé soûler",
@@ -33618,22 +35388,10 @@ export const vocabData = [
     "f": "tocommitsuicide"
   },
   {
-    "j": "sé",
-    "e": "dry",
-    "k": "se",
-    "f": "dry"
-  },
-  {
-    "j": "sé",
-    "e": "salt",
-    "k": "se",
-    "f": "salt"
-  },
-  {
-    "j": "s'êbailli",
-    "e": "yawn",
-    "k": "sebailli",
-    "f": "yawn"
+    "j": "sécours!",
+    "e": "help!",
+    "k": "secours!",
+    "f": "help!"
   },
   {
     "j": "séduithe",
@@ -33660,28 +35418,10 @@ export const vocabData = [
     "f": "seem"
   },
   {
-    "j": "Sénégal",
-    "e": "Senegal",
+    "j": "sénégal",
+    "e": "senegal",
     "k": "senegal",
     "f": "senegal"
-  },
-  {
-    "j": "s'engagi",
-    "e": "to get engaged",
-    "k": "sengagi",
-    "f": "togetengaged"
-  },
-  {
-    "j": "s'enlachi",
-    "e": "to entwine",
-    "k": "senlachi",
-    "f": "toentwine"
-  },
-  {
-    "j": "s'enrhînmer",
-    "e": "to catch cold",
-    "k": "senrhinmer",
-    "f": "tocatchcold"
   },
   {
     "j": "sente à bike",
@@ -33690,22 +35430,34 @@ export const vocabData = [
     "f": "cyclepath"
   },
   {
-    "j": "senti lé bouchon",
-    "e": "to like a drink",
-    "k": "sentilebouchon",
-    "f": "tolikeadrink"
-  },
-  {
     "j": "senti",
     "e": "feel",
     "k": "senti",
     "f": "feel"
   },
   {
+    "j": "senti lé bouchon",
+    "e": "to like a drink",
+    "k": "sentilebouchon",
+    "f": "tolikeadrink"
+  },
+  {
     "j": "sept",
     "e": "seven",
     "k": "sept",
     "f": "seven"
+  },
+  {
+    "j": "sept heuthes",
+    "e": "seven o'clock",
+    "k": "septheuthes",
+    "f": "sevenoclock"
+  },
+  {
+    "j": "sept heuthes vîngt-chînq",
+    "e": "twenty-five past seven",
+    "k": "septheuthesvingtchinq",
+    "f": "twentyfivepastseven"
   },
   {
     "j": "septante",
@@ -33720,14 +35472,14 @@ export const vocabData = [
     "f": "seventyone"
   },
   {
-    "j": "Septembre",
-    "e": "September",
+    "j": "septembre",
+    "e": "september",
     "k": "septembre",
     "f": "september"
   },
   {
-    "j": "Serbie et Monténégro/Nièrmont (Yougoslavie)",
-    "e": "Serbia and Montenegro (Yugoslavia)",
+    "j": "serbie et monténégro/nièrmont (yougoslavie)",
+    "e": "serbia and montenegro (yugoslavia)",
     "k": "serbieetmontenegro/niermont(yougoslavie)",
     "f": "serbiaandmontenegro(yugoslavia)"
   },
@@ -33774,58 +35526,16 @@ export const vocabData = [
     "f": "secular"
   },
   {
-    "j": "s'êteurtre la g'vil'ye",
-    "e": "twist one's ankle",
-    "k": "seteurtrelagvilye",
-    "f": "twistonesankle"
-  },
-  {
     "j": "settler",
     "e": "to settle",
     "k": "settler",
     "f": "tosettle"
   },
   {
-    "j": "s'êvanni",
-    "e": "faint",
-    "k": "sevanni",
-    "f": "faint"
-  },
-  {
-    "j": "Seychelles",
-    "e": "Seychelles",
+    "j": "seychelles",
+    "e": "seychelles",
     "k": "seychelles",
     "f": "seychelles"
-  },
-  {
-    "j": "s'faithe touôser",
-    "e": "to have one's hair cut short",
-    "k": "sfaithetouoser",
-    "f": "tohaveoneshaircutshort"
-  },
-  {
-    "j": "s'freûler",
-    "e": "scuffle",
-    "k": "sfreuler",
-    "f": "scuffle"
-  },
-  {
-    "j": "s'freûler",
-    "e": "to fight",
-    "k": "sfreuler",
-    "f": "tofight"
-  },
-  {
-    "j": "s'friper",
-    "e": "to fight",
-    "k": "sfriper",
-    "f": "tofight"
-  },
-  {
-    "j": "s'gonder",
-    "e": "to second",
-    "k": "sgonder",
-    "f": "tosecond"
   },
   {
     "j": "sie",
@@ -33834,8 +35544,8 @@ export const vocabData = [
     "f": "soot"
   },
   {
-    "j": "Sierra Leone",
-    "e": "Sierra Leone",
+    "j": "sierra leone",
+    "e": "sierra leone",
     "k": "sierraleone",
     "f": "sierraleone"
   },
@@ -33846,20 +35556,56 @@ export const vocabData = [
     "f": "follow"
   },
   {
+    "j": "siex heuthes",
+    "e": "six o'clock",
+    "k": "siexheuthes",
+    "f": "sixoclock"
+  },
+  {
+    "j": "siêx heuthes un quart",
+    "e": "quarter past six",
+    "k": "siexheuthesunquart",
+    "f": "quarterpastsix"
+  },
+  {
+    "j": "siez mé",
+    "e": "at (my) home",
+    "k": "siezme",
+    "f": "at(my)home"
+  },
+  {
+    "j": "siez nous",
+    "e": "at (our) home",
+    "k": "sieznous",
+    "f": "at(our)home"
+  },
+  {
+    "j": "siez té",
+    "e": "at (your) home",
+    "k": "siezte",
+    "f": "at(your)home"
+  },
+  {
+    "j": "siez vous",
+    "e": "at (your) home",
+    "k": "siezvous",
+    "f": "at(your)home"
+  },
+  {
     "j": "sîlyi",
     "e": "to furrow",
     "k": "silyi",
     "f": "tofurrow"
   },
   {
-    "j": "Sîncéthement",
-    "e": "Yours sincerely",
+    "j": "sîncéthement",
+    "e": "yours sincerely",
     "k": "sincethement",
     "f": "yourssincerely"
   },
   {
-    "j": "Sîngapour",
-    "e": "Singapore",
+    "j": "sîngapour",
+    "e": "singapore",
     "k": "singapour",
     "f": "singapore"
   },
@@ -33888,88 +35634,28 @@ export const vocabData = [
     "f": "slash(auveunfouet)"
   },
   {
-    "j": "s'laîssi corrompre",
-    "e": "to take bribes",
-    "k": "slaissicorrompre",
-    "f": "totakebribes"
-  },
-  {
     "j": "slîndgi",
-    "e": "to belt",
+    "e": "clout (dé \"sling\"), to belt",
     "k": "slindgi",
-    "f": "tobelt"
+    "f": "clout(de\"sling\"),tobelt"
   },
   {
-    "j": "slîndgi",
-    "e": "clout (dé \"sling\")",
-    "k": "slindgi",
-    "f": "clout(de\"sling\")"
-  },
-  {
-    "j": "Slovaquie",
-    "e": "Slovakia",
+    "j": "slovaquie",
+    "e": "slovakia",
     "k": "slovaquie",
     "f": "slovakia"
   },
   {
-    "j": "Slovénie",
-    "e": "Slovenia",
+    "j": "slovénie",
+    "e": "slovenia",
     "k": "slovenie",
     "f": "slovenia"
-  },
-  {
-    "j": "s'mathier",
-    "e": "to get married",
-    "k": "smathier",
-    "f": "togetmarried"
-  },
-  {
-    "j": "s'mêfaithe",
-    "e": "to commit suicide",
-    "k": "smefaithe",
-    "f": "tocommitsuicide"
-  },
-  {
-    "j": "s'menchi",
-    "e": "to sow a field",
-    "k": "smenchi",
-    "f": "tosowafield"
-  },
-  {
-    "j": "s'mer",
-    "e": "to sow seed",
-    "k": "smer",
-    "f": "tosowseed"
-  },
-  {
-    "j": "s'mett' sus les rangs",
-    "e": "to become a candidate",
-    "k": "smettsuslesrangs",
-    "f": "tobecomeacandidate"
-  },
-  {
-    "j": "s'mettre l'dé dans l'yi",
-    "e": "to put one's foot in it",
-    "k": "smettreldedanslyi",
-    "f": "toputonesfootinit"
-  },
-  {
-    "j": "s'mither",
-    "e": "to look at oneself in the mirror",
-    "k": "smither",
-    "f": "tolookatoneselfinthemirror"
   },
   {
     "j": "snifflier",
     "e": "to sniffle",
     "k": "snifflier",
     "f": "tosniffle"
-  },
-  {
-    "j": "s'n'yer",
-    "e": "to drown",
-    "k": "snyer",
-    "f": "todrown"
   },
   {
     "j": "social",
@@ -33990,8 +35676,8 @@ export const vocabData = [
     "f": "solderingiron"
   },
   {
-    "j": "Somalie",
-    "e": "Somalia",
+    "j": "somalie",
+    "e": "somalia",
     "k": "somalie",
     "f": "somalia"
   },
@@ -34003,21 +35689,9 @@ export const vocabData = [
   },
   {
     "j": "sonner",
-    "e": "ring",
+    "e": "to play an instrument, ring",
     "k": "sonner",
-    "f": "ring"
-  },
-  {
-    "j": "sonner",
-    "e": "to play an instrument",
-    "k": "sonner",
-    "f": "toplayaninstrument"
-  },
-  {
-    "j": "sorti au baté",
-    "e": "put out to sea",
-    "k": "sortiaubate",
-    "f": "putouttosea"
+    "f": "toplayaninstrument,ring"
   },
   {
     "j": "sorti",
@@ -34026,16 +35700,16 @@ export const vocabData = [
     "f": "goout"
   },
   {
+    "j": "sorti au baté",
+    "e": "put out to sea",
+    "k": "sortiaubate",
+    "f": "putouttosea"
+  },
+  {
     "j": "souaie",
     "e": "silk",
     "k": "souaie",
     "f": "silk"
-  },
-  {
-    "j": "souaixante tch'ieune",
-    "e": "sixty one",
-    "k": "souaixantetchieune",
-    "f": "sixtyone"
   },
   {
     "j": "souaixante",
@@ -34044,14 +35718,20 @@ export const vocabData = [
     "f": "sixty"
   },
   {
+    "j": "souaixante tch'ieune",
+    "e": "sixty one",
+    "k": "souaixantetchieune",
+    "f": "sixtyone"
+  },
+  {
     "j": "souard",
     "e": "tipsy",
     "k": "souard",
     "f": "tipsy"
   },
   {
-    "j": "Soudan",
-    "e": "The Sudan",
+    "j": "soudan",
+    "e": "the sudan",
     "k": "soudan",
     "f": "thesudan"
   },
@@ -34110,6 +35790,12 @@ export const vocabData = [
     "f": "underguarantee"
   },
   {
+    "j": "souos l'vent",
+    "e": "leeward",
+    "k": "souoslvent",
+    "f": "leeward"
+  },
+  {
     "j": "souos la bliête",
     "e": "six feet under",
     "k": "souoslabliete",
@@ -34120,12 +35806,6 @@ export const vocabData = [
     "e": "dead and buried",
     "k": "souoslesmergots",
     "f": "deadandburied"
-  },
-  {
-    "j": "souos l'vent",
-    "e": "leeward",
-    "k": "souoslvent",
-    "f": "leeward"
   },
   {
     "j": "soupither",
@@ -34140,8 +35820,8 @@ export const vocabData = [
     "f": "deaf"
   },
   {
-    "j": "South Georgia et l's Îles South Sandwich",
-    "e": "South Georgia and the South Sandwich Islands",
+    "j": "south georgia et l's îles south sandwich",
+    "e": "south georgia and the south sandwich islands",
     "k": "southgeorgiaetlsilessouthsandwich",
     "f": "southgeorgiaandthesouthsandwichislands"
   },
@@ -34152,44 +35832,32 @@ export const vocabData = [
     "f": "spallinghammer"
   },
   {
-    "j": "s'pather",
-    "e": "separate",
-    "k": "spather",
-    "f": "separate"
-  },
-  {
     "j": "spirituel",
     "e": "spiritual",
     "k": "spirituel",
     "f": "spiritual"
   },
   {
-    "j": "Sri Lanka",
-    "e": "Sri Lanka",
+    "j": "sri lanka",
+    "e": "sri lanka",
     "k": "srilanka",
     "f": "srilanka"
   },
   {
-    "j": "s'roussi les g'veux",
-    "e": "singe one's hair",
-    "k": "sroussilesgveux",
-    "f": "singeoneshair"
-  },
-  {
-    "j": "St Hélyi",
-    "e": "St Helier",
+    "j": "st hélyi",
+    "e": "st helier",
     "k": "sthelyi",
     "f": "sthelier"
   },
   {
-    "j": "St Mâlo",
-    "e": "St Malo",
+    "j": "st mâlo",
+    "e": "st malo",
     "k": "stmalo",
     "f": "stmalo"
   },
   {
-    "j": "St Pièrre Port",
-    "e": "St Peter Port",
+    "j": "st pièrre port",
+    "e": "st peter port",
     "k": "stpierreport",
     "f": "stpeterport"
   },
@@ -34228,18 +35896,6 @@ export const vocabData = [
     "e": "statue",
     "k": "statue",
     "f": "statue"
-  },
-  {
-    "j": "s'tchi les g'veux",
-    "e": "dry one's hair",
-    "k": "stchilesgveux",
-    "f": "dryoneshair"
-  },
-  {
-    "j": "s'tchi",
-    "e": "to dry",
-    "k": "stchi",
-    "f": "todry"
   },
   {
     "j": "stégrîn",
@@ -34290,14 +35946,8 @@ export const vocabData = [
     "f": "strap"
   },
   {
-    "j": "s'traûler",
-    "e": "stroll",
-    "k": "strauler",
-    "f": "stroll"
-  },
-  {
-    "j": "Suède",
-    "e": "Sweden",
+    "j": "suède",
+    "e": "sweden",
     "k": "suede",
     "f": "sweden"
   },
@@ -34320,8 +35970,8 @@ export const vocabData = [
     "f": "swede(laledgeunme)"
   },
   {
-    "j": "Suisse",
-    "e": "Switzerland",
+    "j": "suisse",
+    "e": "switzerland",
     "k": "suisse",
     "f": "switzerland"
   },
@@ -34350,8 +36000,8 @@ export const vocabData = [
     "f": "toovercharge"
   },
   {
-    "j": "Suriname",
-    "e": "Suriname",
+    "j": "suriname",
+    "e": "suriname",
     "k": "suriname",
     "f": "suriname"
   },
@@ -34368,20 +36018,20 @@ export const vocabData = [
     "f": "ononetackorrun"
   },
   {
-    "j": "Sûson, Sûthon, Sûzon, Susanne",
-    "e": "Suzan, Susan, Suzanne",
+    "j": "sûson, sûthon, sûzon, susanne",
+    "e": "suzan, susan, suzanne",
     "k": "suson,suthon,suzon,susanne",
     "f": "suzan,susan,suzanne"
   },
   {
-    "j": "Svalbard et Jan Mayen",
-    "e": "Svalbard and Jan Mayen",
+    "j": "svalbard et jan mayen",
+    "e": "svalbard and jan mayen",
     "k": "svalbardetjanmayen",
     "f": "svalbardandjanmayen"
   },
   {
-    "j": "Swaziland",
-    "e": "Swaziland",
+    "j": "swaziland",
+    "e": "swaziland",
     "k": "swaziland",
     "f": "swaziland"
   },
@@ -34392,8 +36042,8 @@ export const vocabData = [
     "f": "symptom"
   },
   {
-    "j": "Syrie",
-    "e": "Syria",
+    "j": "syrie",
+    "e": "syria",
     "k": "syrie",
     "f": "syria"
   },
@@ -34404,20 +36054,50 @@ export const vocabData = [
     "f": "try"
   },
   {
+    "j": "tai-té",
+    "e": "be quiet",
+    "k": "taite",
+    "f": "bequiet"
+  },
+  {
     "j": "tailli",
     "e": "to cut wood",
     "k": "tailli",
     "f": "tocutwood"
   },
   {
-    "j": "Taiwan",
-    "e": "Taiwan",
+    "j": "tais la goule!",
+    "e": "shut your face!",
+    "k": "taislagoule!",
+    "f": "shutyourface!"
+  },
+  {
+    "j": "tais ta becque!",
+    "e": "shut your face!",
+    "k": "taistabecque!",
+    "f": "shutyourface!"
+  },
+  {
+    "j": "tais-té!",
+    "e": "shut up!",
+    "k": "taiste!",
+    "f": "shutup!"
+  },
+  {
+    "j": "taîs’-ous",
+    "e": "be quiet",
+    "k": "taisous",
+    "f": "bequiet"
+  },
+  {
+    "j": "taiwan",
+    "e": "taiwan",
     "k": "taiwan",
     "f": "taiwan"
   },
   {
-    "j": "Tajikistan",
-    "e": "Tajikistan",
+    "j": "tajikistan",
+    "e": "tajikistan",
     "k": "tajikistan",
     "f": "tajikistan"
   },
@@ -34428,14 +36108,14 @@ export const vocabData = [
     "f": "tohit"
   },
   {
-    "j": "Tam, Tamme, Tanme, Thomas, Thonmas",
-    "e": "Thomas",
+    "j": "tam, tamme, tanme, thomas, thonmas",
+    "e": "thomas",
     "k": "tam,tamme,tanme,thomas,thonmas",
     "f": "thomas"
   },
   {
-    "j": "Tanmîn, Tanminne",
-    "e": "Tommy",
+    "j": "tanmîn, tanminne",
+    "e": "tommy",
     "k": "tanmin,tanminne",
     "f": "tommy"
   },
@@ -34446,28 +36126,22 @@ export const vocabData = [
     "f": "auntie"
   },
   {
-    "j": "Tanzania",
-    "e": "Tanzania",
+    "j": "tanzania",
+    "e": "tanzania",
     "k": "tanzania",
     "f": "tanzania"
   },
   {
     "j": "taper",
-    "e": "to hit",
+    "e": "knock, to hit",
     "k": "taper",
-    "f": "tohit"
+    "f": "knock,tohit"
   },
   {
     "j": "taper raide",
     "e": "to hit hard",
     "k": "taperraide",
     "f": "tohithard"
-  },
-  {
-    "j": "taper",
-    "e": "knock",
-    "k": "taper",
-    "f": "knock"
   },
   {
     "j": "tata",
@@ -34494,10 +36168,46 @@ export const vocabData = [
     "f": "taxi"
   },
   {
-    "j": "Tchad",
-    "e": "Chad",
+    "j": "tch'est qu' ch'est?",
+    "e": "what is it?",
+    "k": "tchestquchest?",
+    "f": "whatisit?"
+  },
+  {
+    "j": "tch'est qu'est vot' nom?",
+    "e": "what is your name?",
+    "k": "tchestquestvotnom?",
+    "f": "whatisyourname?"
+  },
+  {
+    "j": "tch'est qu'i' y'a?",
+    "e": "what's the matter?",
+    "k": "tchestquiya?",
+    "f": "whatsthematter?"
+  },
+  {
+    "j": "tch'est qu'ou voulez?",
+    "e": "what do you want?",
+    "k": "tchestquouvoulez?",
+    "f": "whatdoyouwant?"
+  },
+  {
+    "j": "tch'est qu'tu veurs?",
+    "e": "what do you want?",
+    "k": "tchestqutuveurs?",
+    "f": "whatdoyouwant?"
+  },
+  {
+    "j": "tchad",
+    "e": "chad",
     "k": "tchad",
     "f": "chad"
+  },
+  {
+    "j": "tchaie",
+    "e": "fall",
+    "k": "tchaie",
+    "f": "fall"
   },
   {
     "j": "tchaie du ma",
@@ -34506,28 +36216,10 @@ export const vocabData = [
     "f": "haveafit"
   },
   {
-    "j": "tchaie",
-    "e": "fall",
-    "k": "tchaie",
-    "f": "fall"
-  },
-  {
-    "j": "tchaie",
-    "e": "fall",
-    "k": "tchaie",
-    "f": "fall"
-  },
-  {
     "j": "tcheindre",
     "e": "hold",
     "k": "tcheindre",
     "f": "hold"
-  },
-  {
-    "j": "tchèrbon d'bouais",
-    "e": "charcoal",
-    "k": "tcherbondbouais",
-    "f": "charcoal"
   },
   {
     "j": "tchèrbon",
@@ -34536,8 +36228,14 @@ export const vocabData = [
     "f": "coal"
   },
   {
-    "j": "Tchèrlerouai",
-    "e": "Charleroi",
+    "j": "tchèrbon d'bouais",
+    "e": "charcoal",
+    "k": "tcherbondbouais",
+    "f": "charcoal"
+  },
+  {
+    "j": "tchèrlerouai",
+    "e": "charleroi",
     "k": "tcherlerouai",
     "f": "charleroi"
   },
@@ -34554,6 +36252,66 @@ export const vocabData = [
     "f": "toplough"
   },
   {
+    "j": "tchi bieau temps!",
+    "e": "what fine weather!",
+    "k": "tchibieautemps!",
+    "f": "whatfineweather!"
+  },
+  {
+    "j": "tchi damage!",
+    "e": "what a pity!",
+    "k": "tchidamage!",
+    "f": "whatapity!"
+  },
+  {
+    "j": "tchi dgiâbl'ye!",
+    "e": "what the devil!",
+    "k": "tchidgiablye!",
+    "f": "whatthedevil!"
+  },
+  {
+    "j": "tchi grand' caleu ch't arlévée!",
+    "e": "what a heatwave this afternoon!",
+    "k": "tchigrandcaleuchtarlevee!",
+    "f": "whataheatwavethisafternoon!"
+  },
+  {
+    "j": "tchi niolîn!",
+    "e": "rubbish!",
+    "k": "tchiniolin!",
+    "f": "rubbish!"
+  },
+  {
+    "j": "tchi pitchi!",
+    "e": "what a pity!",
+    "k": "tchipitchi!",
+    "f": "whatapity!"
+  },
+  {
+    "j": "tchi qui gângnit?",
+    "e": "who won?",
+    "k": "tchiquigangnit?",
+    "f": "whowon?"
+  },
+  {
+    "j": "tchi surprînse!",
+    "e": "what a surprise!",
+    "k": "tchisurprinse!",
+    "f": "whatasurprise!"
+  },
+  {
+    "j": "tchi temps qu'j'avons aniet?",
+    "e": "what's the weather like today?",
+    "k": "tchitempsqujavonsaniet?",
+    "f": "whatstheweatherliketoday?"
+  },
+  {
+    "j": "tchi temps!",
+    "e": "what weather!",
+    "k": "tchitemps!",
+    "f": "whatweather!"
+  },
+  {
     "j": "tchian",
     "e": "jack-screw, cooper's dog",
     "k": "tchian",
@@ -34564,6 +36322,12 @@ export const vocabData = [
     "e": "doggy, bow-wow",
     "k": "tchiannot",
     "f": "doggy,bowwow"
+  },
+  {
+    "j": "tchille heuthe qu’il est?",
+    "e": "what time is it?",
+    "k": "tchilleheuthequilest?",
+    "f": "whattimeisit?"
   },
   {
     "j": "tchilyi",
@@ -34590,8 +36354,8 @@ export const vocabData = [
     "f": "leave"
   },
   {
-    "j": "Tchubec",
-    "e": "Québec",
+    "j": "tchubec",
+    "e": "québec",
     "k": "tchubec",
     "f": "quebec"
   },
@@ -34608,16 +36372,16 @@ export const vocabData = [
     "f": "cooked"
   },
   {
-    "j": "tchuithe à l'ieau",
-    "e": "to steam",
-    "k": "tchuithealieau",
-    "f": "tosteam"
-  },
-  {
     "j": "tchuithe",
     "e": "to cook",
     "k": "tchuithe",
     "f": "tocook"
+  },
+  {
+    "j": "tchuithe à l'ieau",
+    "e": "to steam",
+    "k": "tchuithealieau",
+    "f": "tosteam"
   },
   {
     "j": "tchultiver",
@@ -34638,10 +36402,82 @@ export const vocabData = [
     "f": "hose"
   },
   {
+    "j": "tch’est qué chenna veurt dithe?",
+    "e": "what does that mean?",
+    "k": "tchestquechennaveurtdithe?",
+    "f": "whatdoesthatmean?"
+  },
+  {
+    "j": "tch’est qu’...?",
+    "e": "what?",
+    "k": "tchestqu...?",
+    "f": "what?"
+  },
+  {
+    "j": "tch’est qu’est la prédiction du temps?",
+    "e": "what’s the weather forecast?",
+    "k": "tchestquestlapredictiondutemps?",
+    "f": "whatstheweatherforecast?"
+  },
+  {
+    "j": "tch’est qu’est l’neunmétho d’téléphone?",
+    "e": "what is the telephone number?",
+    "k": "tchestquestlneunmethodtelephone?",
+    "f": "whatisthetelephonenumber?"
+  },
+  {
+    "j": "tch’est qu’est vot’ adresse d’e-mail?",
+    "e": "what’s your e-mail address?",
+    "k": "tchestquestvotadressedemail?",
+    "f": "whatsyouremailaddress?"
+  },
+  {
+    "j": "tch’est qu’est vot’ mêtchi?",
+    "e": "what do you do?",
+    "k": "tchestquestvotmetchi?",
+    "f": "whatdoyoudo?"
+  },
+  {
+    "j": "tch’est qu’i’ vos pliaît à baithe?",
+    "e": "what would you like to drink?",
+    "k": "tchestquivospliaitabaithe?",
+    "f": "whatwouldyouliketodrink?"
+  },
+  {
+    "j": "tch’est qu’ous en pensez?",
+    "e": "what do you think?",
+    "k": "tchestquousenpensez?",
+    "f": "whatdoyouthink?"
+  },
+  {
+    "j": "tch’est qu’tu’en pense?",
+    "e": "what do you think?",
+    "k": "tchestqutuenpense?",
+    "f": "whatdoyouthink?"
+  },
+  {
+    "j": "té pliaît-i’ eune tâssée d’thée?",
+    "e": "would you like a cup of tea?",
+    "k": "tepliaitieunetasseedthee?",
+    "f": "wouldyoulikeacupoftea?"
+  },
+  {
     "j": "tèe",
     "e": "ta, thankyou",
     "k": "tee",
     "f": "ta,thankyou"
+  },
+  {
+    "j": "tèe!",
+    "e": "ta!",
+    "k": "tee!",
+    "f": "ta!"
+  },
+  {
+    "j": "temps pâssé jé d’meuthais à la trinneté",
+    "e": "time past i lived in trinity",
+    "k": "tempspassejedmeuthaisalatrinnete",
+    "f": "timepastilivedintrinity"
   },
   {
     "j": "tenter",
@@ -34656,10 +36492,10 @@ export const vocabData = [
     "f": "narrowbeam"
   },
   {
-    "j": "Tèrre Sainte",
-    "e": "Holy Land",
-    "k": "terresainte",
-    "f": "holyland"
+    "j": "tèrr'rie",
+    "e": "earthenware",
+    "k": "terrrie",
+    "f": "earthenware"
   },
   {
     "j": "tèrre",
@@ -34668,28 +36504,28 @@ export const vocabData = [
     "f": "soil"
   },
   {
-    "j": "Tèrre-Neuve",
-    "e": "Newfoundland",
+    "j": "tèrre sainte",
+    "e": "holy land",
+    "k": "terresainte",
+    "f": "holyland"
+  },
+  {
+    "j": "tèrre-neuve",
+    "e": "newfoundland",
     "k": "terreneuve",
     "f": "newfoundland"
   },
   {
-    "j": "Territouaithe Britannique d'l'Océan Îndgien",
-    "e": "British Indian Ocean Territory",
+    "j": "territouaithe britannique d'l'océan îndgien",
+    "e": "british indian ocean territory",
     "k": "territouaithebritanniquedloceanindgien",
     "f": "britishindianoceanterritory"
   },
   {
-    "j": "Territouaithes Français du Sud",
-    "e": "French Southern Territories",
+    "j": "territouaithes français du sud",
+    "e": "french southern territories",
     "k": "territouaithesfrancaisdusud",
     "f": "frenchsouthernterritories"
-  },
-  {
-    "j": "tèrr'rie",
-    "e": "earthenware",
-    "k": "terrrie",
-    "f": "earthenware"
   },
   {
     "j": "téthiéthe",
@@ -34704,16 +36540,10 @@ export const vocabData = [
     "f": "tumour"
   },
   {
-    "j": "Teunnisie",
-    "e": "Tunisia",
+    "j": "teunnisie",
+    "e": "tunisia",
     "k": "teunnisie",
     "f": "tunisia"
-  },
-  {
-    "j": "teurtre lé lînge",
-    "e": "to wring laundry",
-    "k": "teurtrelelinge",
-    "f": "towringlaundry"
   },
   {
     "j": "teurtre",
@@ -34722,14 +36552,20 @@ export const vocabData = [
     "f": "twist"
   },
   {
+    "j": "teurtre lé lînge",
+    "e": "to wring laundry",
+    "k": "teurtrelelinge",
+    "f": "towringlaundry"
+  },
+  {
     "j": "texter",
     "e": "to text",
     "k": "texter",
     "f": "totext"
   },
   {
-    "j": "Thailande",
-    "e": "Thailand",
+    "j": "thailande",
+    "e": "thailand",
     "k": "thailande",
     "f": "thailand"
   },
@@ -34764,14 +36600,14 @@ export const vocabData = [
     "f": "coopersadze"
   },
   {
-    "j": "Timor d'l'Est",
-    "e": "East Timor",
+    "j": "timor d'l'est",
+    "e": "east timor",
     "k": "timordlest",
     "f": "easttimor"
   },
   {
-    "j": "Timothée",
-    "e": "Timothy",
+    "j": "timothée",
+    "e": "timothy",
     "k": "timothee",
     "f": "timothy"
   },
@@ -34818,14 +36654,14 @@ export const vocabData = [
     "f": "handbit"
   },
   {
-    "j": "Togo",
-    "e": "Togo",
+    "j": "togo",
+    "e": "togo",
     "k": "togo",
     "f": "togo"
   },
   {
-    "j": "Tokelau",
-    "e": "Tokelau",
+    "j": "tokelau",
+    "e": "tokelau",
     "k": "tokelau",
     "f": "tokelau"
   },
@@ -34842,8 +36678,8 @@ export const vocabData = [
     "f": "tinder"
   },
   {
-    "j": "Tonga",
-    "e": "Tonga",
+    "j": "tonga",
+    "e": "tonga",
     "k": "tonga",
     "f": "tonga"
   },
@@ -34860,28 +36696,22 @@ export const vocabData = [
     "f": "totope"
   },
   {
-    "j": "torchi la goule",
-    "e": "hit in the face",
-    "k": "torchilagoule",
-    "f": "hitintheface"
-  },
-  {
     "j": "torchi",
     "e": "to wipe",
     "k": "torchi",
     "f": "towipe"
   },
   {
+    "j": "torchi la goule",
+    "e": "hit in the face",
+    "k": "torchilagoule",
+    "f": "hitintheface"
+  },
+  {
     "j": "tortuther",
     "e": "to torture",
     "k": "tortuther",
     "f": "totorture"
-  },
-  {
-    "j": "'tôt",
-    "e": "bye",
-    "k": "tot",
-    "f": "bye"
   },
   {
     "j": "touchi",
@@ -34938,12 +36768,6 @@ export const vocabData = [
     "f": "cough"
   },
   {
-    "j": "toûtre",
-    "e": "cough",
-    "k": "toutre",
-    "f": "cough"
-  },
-  {
     "j": "trafi",
     "e": "traffic",
     "k": "trafi",
@@ -34962,16 +36786,28 @@ export const vocabData = [
     "f": "drag"
   },
   {
-    "j": "trais quarts d'heuthe",
-    "e": "three quarters of an hour",
-    "k": "traisquartsdheuthe",
-    "f": "threequartersofanhour"
-  },
-  {
     "j": "trais",
     "e": "three",
     "k": "trais",
     "f": "three"
+  },
+  {
+    "j": "trais heuthes",
+    "e": "three o'clock",
+    "k": "traisheuthes",
+    "f": "threeoclock"
+  },
+  {
+    "j": "trais heuthes dgix",
+    "e": "ten past three",
+    "k": "traisheuthesdgix",
+    "f": "tenpastthree"
+  },
+  {
+    "j": "trais quarts d'heuthe",
+    "e": "three quarters of an hour",
+    "k": "traisquartsdheuthe",
+    "f": "threequartersofanhour"
   },
   {
     "j": "traithe",
@@ -35076,8 +36912,8 @@ export const vocabData = [
     "f": "cookthebooks"
   },
   {
-    "j": "Trinidad et Tobago",
-    "e": "Trinidad and Tobago",
+    "j": "trinidad et tobago",
+    "e": "trinidad and tobago",
     "k": "trinidadettobago",
     "f": "trinidadandtobago"
   },
@@ -35088,16 +36924,16 @@ export const vocabData = [
     "f": "trim"
   },
   {
-    "j": "trîntchi les vèrres",
-    "e": "to clink glasses",
-    "k": "trintchilesverres",
-    "f": "toclinkglasses"
-  },
-  {
     "j": "trîntchi",
     "e": "clink (glasses)",
     "k": "trintchi",
     "f": "clink(glasses)"
+  },
+  {
+    "j": "trîntchi les vèrres",
+    "e": "to clink glasses",
+    "k": "trintchilesverres",
+    "f": "toclinkglasses"
   },
   {
     "j": "trique",
@@ -35166,40 +37002,52 @@ export const vocabData = [
     "f": "cheep"
   },
   {
-    "j": "Turkmenistan",
-    "e": "Turkmenistan",
+    "j": "turkmenistan",
+    "e": "turkmenistan",
     "k": "turkmenistan",
     "f": "turkmenistan"
   },
   {
-    "j": "Turtchie",
-    "e": "Turkey",
+    "j": "turtchie",
+    "e": "turkey",
     "k": "turtchie",
     "f": "turkey"
   },
   {
-    "j": "Tuvalu",
-    "e": "Tuvalu",
+    "j": "tuvalu",
+    "e": "tuvalu",
     "k": "tuvalu",
     "f": "tuvalu"
   },
   {
-    "j": "Uganda",
-    "e": "Uganda",
+    "j": "tu’es blianc l'tou des dginnes",
+    "e": "you’re green around the gills",
+    "k": "tuesbliancltoudesdginnes",
+    "f": "youregreenaroundthegills"
+  },
+  {
+    "j": "uganda",
+    "e": "uganda",
     "k": "uganda",
     "f": "uganda"
   },
   {
-    "j": "Ukraîne",
-    "e": "Ukraine",
+    "j": "ukraîne",
+    "e": "ukraine",
     "k": "ukraine",
     "f": "ukraine"
   },
   {
     "j": "un (ou eune) orme",
-    "e": "Elm",
+    "e": "elm",
     "k": "un(oueune)orme",
     "f": "elm"
+  },
+  {
+    "j": "un abat d'plyie",
+    "e": "a downpour",
+    "k": "unabatdplyie",
+    "f": "adownpour"
   },
   {
     "j": "un acat",
@@ -35274,8 +37122,8 @@ export const vocabData = [
     "f": "appointment"
   },
   {
-    "j": "un arbre d'Noué",
-    "e": "Christmas tree",
+    "j": "un arbre d'noué",
+    "e": "christmas tree",
     "k": "unarbrednoue",
     "f": "christmastree"
   },
@@ -35341,7 +37189,7 @@ export const vocabData = [
   },
   {
     "j": "un aune",
-    "e": "Alder",
+    "e": "alder",
     "k": "unaune",
     "f": "alder"
   },
@@ -35358,8 +37206,14 @@ export const vocabData = [
     "f": "advocate"
   },
   {
+    "j": "un b'veux",
+    "e": "drinker",
+    "k": "unbveux",
+    "f": "drinker"
+  },
+  {
     "j": "un badgiolyi",
-    "e": "Dwarf wild cherry",
+    "e": "dwarf wild cherry",
     "k": "unbadgiolyi",
     "f": "dwarfwildcherry"
   },
@@ -35460,6 +37314,12 @@ export const vocabData = [
     "f": "litterbin"
   },
   {
+    "j": "un bâtisse en brique",
+    "e": "a brick building",
+    "k": "unbatisseenbrique",
+    "f": "abrickbuilding"
+  },
+  {
     "j": "un bé d'corbîn",
     "e": "mussel",
     "k": "unbedcorbin",
@@ -35485,7 +37345,7 @@ export const vocabData = [
   },
   {
     "j": "un blianc-bouais",
-    "e": "White Popular",
+    "e": "white popular",
     "k": "unbliancbouais",
     "f": "whitepopular"
   },
@@ -35503,7 +37363,7 @@ export const vocabData = [
   },
   {
     "j": "un bouais d'coing",
-    "e": "Quince tree",
+    "e": "quince tree",
     "k": "unbouaisdcoing",
     "f": "quincetree"
   },
@@ -35514,10 +37374,16 @@ export const vocabData = [
     "f": "adrunkard"
   },
   {
-    "j": "Un bouan Noué!",
-    "e": "Merry Christmas!",
+    "j": "un bouan noué!",
+    "e": "merry christmas!",
     "k": "unbouannoue!",
     "f": "merrychristmas!"
+  },
+  {
+    "j": "un bouanhomme dé né",
+    "e": "snowman",
+    "k": "unbouanhommedene",
+    "f": "snowman"
   },
   {
     "j": "un bouchon d'liège",
@@ -35551,7 +37417,7 @@ export const vocabData = [
   },
   {
     "j": "un bouôlias",
-    "e": "Silver Birch",
+    "e": "silver birch",
     "k": "unbouolias",
     "f": "silverbirch"
   },
@@ -35562,7 +37428,7 @@ export const vocabData = [
     "f": "horsecollar"
   },
   {
-    "j": "un bouothé (bouosé à La Rocque )",
+    "j": "un bouothé (bouosé à la rocque )",
     "e": "flobber",
     "k": "unbouothe(bouosealarocque)",
     "f": "flobber"
@@ -35623,7 +37489,7 @@ export const vocabData = [
   },
   {
     "j": "un brochet",
-    "e": "pike (La Rocque)",
+    "e": "pike (la rocque)",
     "k": "unbrochet",
     "f": "pike(larocque)"
   },
@@ -35638,12 +37504,6 @@ export const vocabData = [
     "e": "yard-arm",
     "k": "unbutdvergue",
     "f": "yardarm"
-  },
-  {
-    "j": "un b'veux",
-    "e": "drinker",
-    "k": "unbveux",
-    "f": "drinker"
   },
   {
     "j": "un cabot",
@@ -35718,28 +37578,28 @@ export const vocabData = [
     "f": "gunner"
   },
   {
-    "j": "un cantique d'Noué",
-    "e": "Christmas carol",
-    "k": "uncantiquednoue",
-    "f": "christmascarol"
-  },
-  {
     "j": "un cantique",
     "e": "hymn",
     "k": "uncantique",
     "f": "hymn"
   },
   {
-    "j": "un capelain",
-    "e": "caplin",
-    "k": "uncapelain",
-    "f": "caplin"
+    "j": "un cantique d'noué",
+    "e": "christmas carol",
+    "k": "uncantiquednoue",
+    "f": "christmascarol"
   },
   {
     "j": "un cap'taine à la course",
     "e": "privateer",
     "k": "uncaptainealacourse",
     "f": "privateer"
+  },
+  {
+    "j": "un capelain",
+    "e": "caplin",
+    "k": "uncapelain",
+    "f": "caplin"
   },
   {
     "j": "un cârré",
@@ -35773,7 +37633,7 @@ export const vocabData = [
   },
   {
     "j": "un cèdre",
-    "e": "Cedar",
+    "e": "cedar",
     "k": "uncedre",
     "f": "cedar"
   },
@@ -35791,7 +37651,7 @@ export const vocabData = [
   },
   {
     "j": "un chancre",
-    "e": "Guernsey crab",
+    "e": "guernsey crab",
     "k": "unchancre",
     "f": "guernseycrab"
   },
@@ -35809,7 +37669,7 @@ export const vocabData = [
   },
   {
     "j": "un chap'lain",
-    "e": "Methodist",
+    "e": "methodist",
     "k": "unchaplain",
     "f": "methodist"
   },
@@ -35820,34 +37680,22 @@ export const vocabData = [
     "f": "aspell"
   },
   {
+    "j": "un chât'nyi",
+    "e": "sweet chestnut",
+    "k": "unchatnyi",
+    "f": "sweetchestnut"
+  },
+  {
+    "j": "un chât'nyi à j'va",
+    "e": "horse chestnut",
+    "k": "unchatnyiajva",
+    "f": "horsechestnut"
+  },
+  {
     "j": "un châté",
     "e": "castle",
     "k": "unchate",
     "f": "castle"
-  },
-  {
-    "j": "un chât'nyi",
-    "e": "Sweet Chestnut",
-    "k": "unchatnyi",
-    "f": "sweetchestnut"
-  },
-  {
-    "j": "un chât'nyi",
-    "e": "Sweet Chestnut",
-    "k": "unchatnyi",
-    "f": "sweetchestnut"
-  },
-  {
-    "j": "un chât'nyi à j'va",
-    "e": "Horse Chestnut",
-    "k": "unchatnyiajva",
-    "f": "horsechestnut"
-  },
-  {
-    "j": "un chât'nyi à j'va",
-    "e": "Horse Chestnut",
-    "k": "unchatnyiajva",
-    "f": "horsechestnut"
   },
   {
     "j": "un chélîn",
@@ -35868,28 +37716,22 @@ export const vocabData = [
     "f": "centenary"
   },
   {
-    "j": "un Chentn'yi",
-    "e": "Centenier",
+    "j": "un chentn'yi",
+    "e": "centenier",
     "k": "unchentnyi",
     "f": "centenier"
   },
   {
     "j": "un chérîsyi",
-    "e": "Cherry tree (short stemmed)",
+    "e": "cherry tree (short stemmed)",
     "k": "uncherisyi",
     "f": "cherrytree(shortstemmed)"
   },
   {
     "j": "un chètchi",
-    "e": "a cheque book",
+    "e": "a chequebook, a cheque book",
     "k": "unchetchi",
-    "f": "achequebook"
-  },
-  {
-    "j": "un chètchi",
-    "e": "a chequebook",
-    "k": "unchetchi",
-    "f": "achequebook"
+    "f": "achequebook,achequebook"
   },
   {
     "j": "un cheurque",
@@ -35965,15 +37807,9 @@ export const vocabData = [
   },
   {
     "j": "un co",
-    "e": "blow",
+    "e": "cockerel, blow",
     "k": "unco",
-    "f": "blow"
-  },
-  {
-    "j": "un co",
-    "e": "cockerel",
-    "k": "unco",
-    "f": "cockerel"
+    "f": "cockerel,blow"
   },
   {
     "j": "un co d'poing",
@@ -35989,7 +37825,7 @@ export const vocabData = [
   },
   {
     "j": "un codriyi",
-    "e": "Hazel",
+    "e": "hazel",
     "k": "uncodriyi",
     "f": "hazel"
   },
@@ -36103,15 +37939,9 @@ export const vocabData = [
   },
   {
     "j": "un coucou",
-    "e": "cuckoo",
+    "e": "striped wrasse, cuckoo",
     "k": "uncoucou",
-    "f": "cuckoo"
-  },
-  {
-    "j": "un coucou",
-    "e": "striped wrasse",
-    "k": "uncoucou",
-    "f": "stripedwrasse"
+    "f": "stripedwrasse,cuckoo"
   },
   {
     "j": "un couotheux",
@@ -36139,9 +37969,9 @@ export const vocabData = [
   },
   {
     "j": "un coup d'ôrage",
-    "e": "a clap of thunder",
+    "e": "a thunderclap, a clap of thunder",
     "k": "uncoupdorage",
-    "f": "aclapofthunder"
+    "f": "athunderclap,aclapofthunder"
   },
   {
     "j": "un coup d'sang",
@@ -36180,7 +38010,7 @@ export const vocabData = [
     "f": "stonechat"
   },
   {
-    "j": "un crapaud , lé Jèrriais",
+    "j": "un crapaud , lé jèrriais",
     "e": "toad",
     "k": "uncrapaud,lejerriais",
     "f": "toad"
@@ -36226,6 +38056,30 @@ export const vocabData = [
     "e": "swan",
     "k": "uncyngne",
     "f": "swan"
+  },
+  {
+    "j": "un d'mié-nodgîn",
+    "e": "1/16 pint",
+    "k": "undmienodgin",
+    "f": "1/16pint"
+  },
+  {
+    "j": "un d'mié-pigeon",
+    "e": "turtle dove",
+    "k": "undmiepigeon",
+    "f": "turtledove"
+  },
+  {
+    "j": "un d'senchorchéleux",
+    "e": "an exorcist",
+    "k": "undsenchorcheleux",
+    "f": "anexorcist"
+  },
+  {
+    "j": "un d'vîn",
+    "e": "a fortune teller",
+    "k": "undvin",
+    "f": "afortuneteller"
   },
   {
     "j": "un dauphîn",
@@ -36301,15 +38155,9 @@ export const vocabData = [
   },
   {
     "j": "un dgiâbliotîn",
-    "e": "an imp, little devil",
+    "e": "christmas cracker, an imp, little devil",
     "k": "undgiabliotin",
-    "f": "animp,littledevil"
-  },
-  {
-    "j": "un dgiâbliotîn",
-    "e": "Christmas cracker",
-    "k": "undgiabliotin",
-    "f": "christmascracker"
+    "f": "christmascracker,animp,littledevil"
   },
   {
     "j": "un dgillemot",
@@ -36337,13 +38185,13 @@ export const vocabData = [
   },
   {
     "j": "un disque enr'gistrabl'ye",
-    "e": "CD-R",
+    "e": "cd-r",
     "k": "undisqueenrgistrablye",
     "f": "cdr"
   },
   {
     "j": "un disque èrenr'gistrabl'ye",
-    "e": "CD-RW",
+    "e": "cd-rw",
     "k": "undisqueerenrgistrablye",
     "f": "cdrw"
   },
@@ -36352,18 +38200,6 @@ export const vocabData = [
     "e": "a monster",
     "k": "undivers",
     "f": "amonster"
-  },
-  {
-    "j": "un d'mié-nodgîn",
-    "e": "1/16 pint",
-    "k": "undmienodgin",
-    "f": "1/16pint"
-  },
-  {
-    "j": "un d'mié-pigeon",
-    "e": "turtle dove",
-    "k": "undmiepigeon",
-    "f": "turtledove"
   },
   {
     "j": "un dolmen",
@@ -36382,18 +38218,6 @@ export const vocabData = [
     "e": "large skate",
     "k": "undravan",
     "f": "largeskate"
-  },
-  {
-    "j": "un d'senchorchéleux",
-    "e": "an exorcist",
-    "k": "undsenchorcheleux",
-    "f": "anexorcist"
-  },
-  {
-    "j": "un d'vîn",
-    "e": "a fortune teller",
-    "k": "undvin",
-    "f": "afortuneteller"
   },
   {
     "j": "un êcliat",
@@ -36472,6 +38296,12 @@ export const vocabData = [
     "e": "tape recorder",
     "k": "unenrgistreux",
     "f": "taperecorder"
+  },
+  {
+    "j": "un êpart d'feu",
+    "e": "a bolt of lightning",
+    "k": "unepartdfeu",
+    "f": "aboltoflightning"
   },
   {
     "j": "un êpèrvi",
@@ -36577,7 +38407,7 @@ export const vocabData = [
   },
   {
     "j": "un fau",
-    "e": "Beech",
+    "e": "beech",
     "k": "unfau",
     "f": "beech"
   },
@@ -36595,7 +38425,7 @@ export const vocabData = [
   },
   {
     "j": "un fidgi",
-    "e": "Fig",
+    "e": "fig",
     "k": "unfidgi",
     "f": "fig"
   },
@@ -36649,7 +38479,7 @@ export const vocabData = [
   },
   {
     "j": "un frêne",
-    "e": "Ash",
+    "e": "ash",
     "k": "unfrene",
     "f": "ash"
   },
@@ -36662,7 +38492,7 @@ export const vocabData = [
   {
     "j": "un frouët",
     "e": "boil",
-    "k": "unfrouët",
+    "k": "unfrouet",
     "f": "boil"
   },
   {
@@ -36700,12 +38530,6 @@ export const vocabData = [
     "e": "a breadwinner",
     "k": "ungangnepain",
     "f": "abreadwinner"
-  },
-  {
-    "j": "un garanti",
-    "e": "a guarantee",
-    "k": "ungaranti",
-    "f": "aguarantee"
   },
   {
     "j": "un garanti",
@@ -36889,7 +38713,7 @@ export const vocabData = [
   },
   {
     "j": "un houais",
-    "e": "Guernsey crab",
+    "e": "guernsey crab",
     "k": "unhouais",
     "f": "guernseycrab"
   },
@@ -36901,21 +38725,9 @@ export const vocabData = [
   },
   {
     "j": "un housse",
-    "e": "Holly",
+    "e": "holly",
     "k": "unhousse",
     "f": "holly"
-  },
-  {
-    "j": "un housse",
-    "e": "Holly",
-    "k": "unhousse",
-    "f": "holly"
-  },
-  {
-    "j": "un huit jours",
-    "e": "week",
-    "k": "unhuitjours",
-    "f": "week"
   },
   {
     "j": "un huit",
@@ -36924,8 +38736,14 @@ export const vocabData = [
     "f": "figureofeightknot"
   },
   {
+    "j": "un huit jours",
+    "e": "week",
+    "k": "unhuitjours",
+    "f": "week"
+  },
+  {
     "j": "un if",
-    "e": "Yew",
+    "e": "yew",
     "k": "unif",
     "f": "yew"
   },
@@ -36942,6 +38760,12 @@ export const vocabData = [
     "f": "adrunkard"
   },
   {
+    "j": "un j'va d'mé",
+    "e": "seahorse",
+    "k": "unjvadme",
+    "f": "seahorse"
+  },
+  {
     "j": "un jaune êprivyi",
     "e": "golden plover",
     "k": "unjauneeprivyi",
@@ -36954,8 +38778,8 @@ export const vocabData = [
     "f": "yellowhammer"
   },
   {
-    "j": "un Jean-doré",
-    "e": "John Dory",
+    "j": "un jean-doré",
+    "e": "john dory",
     "k": "unjeandore",
     "f": "johndory"
   },
@@ -36966,28 +38790,22 @@ export const vocabData = [
     "f": "agambler"
   },
   {
-    "j": "un jour pouor lé Rouai",
-    "e": "a day off",
-    "k": "unjourpouorlerouai",
-    "f": "adayoff"
-  },
-  {
     "j": "un jour",
     "e": "day",
     "k": "unjour",
     "f": "day"
   },
   {
+    "j": "un jour pouor lé rouai",
+    "e": "a day off",
+    "k": "unjourpouorlerouai",
+    "f": "adayoff"
+  },
+  {
     "j": "un juré",
     "e": "jurat",
     "k": "unjure",
     "f": "jurat"
-  },
-  {
-    "j": "un j'va d'mé",
-    "e": "seahorse",
-    "k": "unjvadme",
-    "f": "seahorse"
   },
   {
     "j": "un kilo",
@@ -37015,15 +38833,9 @@ export const vocabData = [
   },
   {
     "j": "un laitchi",
-    "e": "milk jug",
+    "e": "milkman, milk jug",
     "k": "unlaitchi",
-    "f": "milkjug"
-  },
-  {
-    "j": "un laitchi",
-    "e": "milkman",
-    "k": "unlaitchi",
-    "f": "milkman"
+    "f": "milkman,milkjug"
   },
   {
     "j": "un lanchon",
@@ -37099,9 +38911,9 @@ export const vocabData = [
   },
   {
     "j": "un louis",
-    "e": "a pound",
+    "e": "one pound (£1), a pound",
     "k": "unlouis",
-    "f": "apound"
+    "f": "onepound(£1),apound"
   },
   {
     "j": "un loup d'mé",
@@ -37114,6 +38926,18 @@ export const vocabData = [
     "e": "a goblin",
     "k": "unlutin",
     "f": "agoblin"
+  },
+  {
+    "j": "un m'lon",
+    "e": "pumpkin",
+    "k": "unmlon",
+    "f": "pumpkin"
+  },
+  {
+    "j": "un m'sutheux d'êlectricité",
+    "e": "meter reader",
+    "k": "unmsutheuxdelectricite",
+    "f": "meterreader"
   },
   {
     "j": "un machacre",
@@ -37129,7 +38953,7 @@ export const vocabData = [
   },
   {
     "j": "un magnolia",
-    "e": "Magnolia",
+    "e": "magnolia",
     "k": "unmagnolia",
     "f": "magnolia"
   },
@@ -37165,7 +38989,7 @@ export const vocabData = [
   },
   {
     "j": "un mârronyi",
-    "e": "Chestnut",
+    "e": "chestnut",
     "k": "unmarronyi",
     "f": "chestnut"
   },
@@ -37201,7 +39025,7 @@ export const vocabData = [
   },
   {
     "j": "un meîlyi",
-    "e": "Medlar",
+    "e": "medlar",
     "k": "unmeilyi",
     "f": "medlar"
   },
@@ -37213,7 +39037,7 @@ export const vocabData = [
   },
   {
     "j": "un mélèze",
-    "e": "Larch",
+    "e": "larch",
     "k": "unmeleze",
     "f": "larch"
   },
@@ -37225,13 +39049,13 @@ export const vocabData = [
   },
   {
     "j": "un mérîsyi",
-    "e": "Cherry tree (for wood)",
+    "e": "cherry tree (for wood)",
     "k": "unmerisyi",
     "f": "cherrytree(forwood)"
   },
   {
-    "j": "un Méthodiste",
-    "e": "Methodist",
+    "j": "un méthodiste",
+    "e": "methodist",
     "k": "unmethodiste",
     "f": "methodist"
   },
@@ -37252,12 +39076,6 @@ export const vocabData = [
     "e": "a bit",
     "k": "unmio",
     "f": "abit"
-  },
-  {
-    "j": "un m'lon",
-    "e": "pumpkin",
-    "k": "unmlon",
-    "f": "pumpkin"
   },
   {
     "j": "un monstre",
@@ -37285,15 +39103,9 @@ export const vocabData = [
   },
   {
     "j": "un mouaine",
-    "e": "monkfish",
+    "e": "monk, monkfish",
     "k": "unmouaine",
-    "f": "monkfish"
-  },
-  {
-    "j": "un mouaine",
-    "e": "monk",
-    "k": "unmouaine",
-    "f": "monk"
+    "f": "monk,monkfish"
   },
   {
     "j": "un mouesson",
@@ -37332,12 +39144,6 @@ export const vocabData = [
     "f": "batteringram"
   },
   {
-    "j": "un m'sutheux d'êlectricité",
-    "e": "meter reader",
-    "k": "unmsutheuxdelectricite",
-    "f": "meterreader"
-  },
-  {
     "j": "un mulet (gris, rouoge)",
     "e": "mullet (grey, red)",
     "k": "unmulet(gris,rouoge)",
@@ -37357,7 +39163,7 @@ export const vocabData = [
   },
   {
     "j": "un myrtre",
-    "e": "Myrtle",
+    "e": "myrtle",
     "k": "unmyrtre",
     "f": "myrtle"
   },
@@ -37380,22 +39186,28 @@ export const vocabData = [
     "f": "shipoftheline"
   },
   {
-    "j": "un nettisseux dé f'nêtres",
-    "e": "window cleaner",
-    "k": "unnettisseuxdefnetres",
-    "f": "windowcleaner"
-  },
-  {
     "j": "un nettisseux",
     "e": "cleaner",
     "k": "unnettisseux",
     "f": "cleaner"
   },
   {
+    "j": "un nettisseux dé f'nêtres",
+    "e": "window cleaner",
+    "k": "unnettisseuxdefnetres",
+    "f": "windowcleaner"
+  },
+  {
     "j": "un nièr cat",
     "e": "black cat",
     "k": "unniercat",
     "f": "blackcat"
+  },
+  {
+    "j": "un nièr fa pouor un entèrrement",
+    "e": "a black suit for a funeral",
+    "k": "unnierfapouorunenterrement",
+    "f": "ablacksuitforafuneral"
   },
   {
     "j": "un noc",
@@ -37477,7 +39289,7 @@ export const vocabData = [
   },
   {
     "j": "un nouoyi",
-    "e": "Walnut",
+    "e": "walnut",
     "k": "unnouoyi",
     "f": "walnut"
   },
@@ -37507,7 +39319,7 @@ export const vocabData = [
   },
   {
     "j": "un orangyi",
-    "e": "Orange tree",
+    "e": "orange tree",
     "k": "unorangyi",
     "f": "orangetree"
   },
@@ -37537,15 +39349,9 @@ export const vocabData = [
   },
   {
     "j": "un ou eune orme",
-    "e": "Cornish Elm",
+    "e": "cornish elm",
     "k": "unoueuneorme",
     "f": "cornishelm"
-  },
-  {
-    "j": "un ouaisé â blié",
-    "e": "wryneck",
-    "k": "unouaiseablie",
-    "f": "wryneck"
   },
   {
     "j": "un ouaîsé",
@@ -37554,10 +39360,46 @@ export const vocabData = [
     "f": "bird"
   },
   {
+    "j": "un ouaisé â blié",
+    "e": "wryneck",
+    "k": "unouaiseablie",
+    "f": "wryneck"
+  },
+  {
     "j": "un ouappe",
     "e": "biff",
     "k": "unouappe",
     "f": "biff"
+  },
+  {
+    "j": "un p'tit bé",
+    "e": "hedge-sparrow",
+    "k": "unptitbe",
+    "f": "hedgesparrow"
+  },
+  {
+    "j": "un p'tit boeu",
+    "e": "dunlin, ringed plover",
+    "k": "unptitboeu",
+    "f": "dunlin,ringedplover"
+  },
+  {
+    "j": "un p'tit jèrriais",
+    "e": "hedge-sparrow",
+    "k": "unptitjerriais",
+    "f": "hedgesparrow"
+  },
+  {
+    "j": "un p'tit mio",
+    "e": "a little bit",
+    "k": "unptitmio",
+    "f": "alittlebit"
+  },
+  {
+    "j": "un p'tit pigeon d'france",
+    "e": "turtle dove",
+    "k": "unptitpigeondfrance",
+    "f": "turtledove"
   },
   {
     "j": "un paffot",
@@ -37578,20 +39420,20 @@ export const vocabData = [
     "f": "fish"
   },
   {
-    "j": "un paithyi sauvage",
-    "e": "Wild Pear",
-    "k": "unpaithyisauvage",
-    "f": "wildpear"
-  },
-  {
     "j": "un paithyi",
-    "e": "Pear tree",
+    "e": "pear tree",
     "k": "unpaithyi",
     "f": "peartree"
   },
   {
+    "j": "un paithyi sauvage",
+    "e": "wild pear",
+    "k": "unpaithyisauvage",
+    "f": "wildpear"
+  },
+  {
     "j": "un palme",
-    "e": "Palm",
+    "e": "palm",
     "k": "unpalme",
     "f": "palm"
   },
@@ -37620,16 +39462,16 @@ export const vocabData = [
     "f": "parapet"
   },
   {
-    "j": "un partèrre d'hèrbe",
-    "e": "lawn",
-    "k": "unparterredherbe",
-    "f": "lawn"
-  },
-  {
     "j": "un partèrre",
     "e": "flowerbed",
     "k": "unparterre",
     "f": "flowerbed"
+  },
+  {
+    "j": "un partèrre d'hèrbe",
+    "e": "lawn",
+    "k": "unparterredherbe",
+    "f": "lawn"
   },
   {
     "j": "un pâssagi",
@@ -37640,7 +39482,7 @@ export const vocabData = [
   {
     "j": "un pataöuarre",
     "e": "clout",
-    "k": "unpataöuarre",
+    "k": "unpataouarre",
     "f": "clout"
   },
   {
@@ -37675,9 +39517,9 @@ export const vocabData = [
   },
   {
     "j": "un pénîn",
-    "e": "a penny",
+    "e": "one penny, a penny",
     "k": "unpenin",
-    "f": "apenny"
+    "f": "onepenny,apenny"
   },
   {
     "j": "un pépîn",
@@ -37711,18 +39553,12 @@ export const vocabData = [
   },
   {
     "j": "un pêtcheux",
-    "e": "fisherman",
+    "e": "kingfisher, fisherman",
     "k": "unpetcheux",
-    "f": "fisherman"
+    "f": "kingfisher,fisherman"
   },
   {
-    "j": "un pêtcheux",
-    "e": "kingfisher",
-    "k": "unpetcheux",
-    "f": "kingfisher"
-  },
-  {
-    "j": "un pêtcheux d'St. Martîn",
+    "j": "un pêtcheux d'st. martîn",
     "e": "kingfisher",
     "k": "unpetcheuxdst.martin",
     "f": "kingfisher"
@@ -37735,7 +39571,7 @@ export const vocabData = [
   },
   {
     "j": "un peuplyi",
-    "e": "Poplar",
+    "e": "poplar",
     "k": "unpeuplyi",
     "f": "poplar"
   },
@@ -37915,7 +39751,7 @@ export const vocabData = [
   },
   {
     "j": "un poingclios",
-    "e": "Guernsey crab",
+    "e": "guernsey crab",
     "k": "unpoingclios",
     "f": "guernseycrab"
   },
@@ -37933,7 +39769,7 @@ export const vocabData = [
   },
   {
     "j": "un pommyi",
-    "e": "Apple tree",
+    "e": "apple tree",
     "k": "unpommyi",
     "f": "appletree"
   },
@@ -38004,8 +39840,8 @@ export const vocabData = [
     "f": "preacher"
   },
   {
-    "j": "un présent d'Noué",
-    "e": "Christmas present",
+    "j": "un présent d'noué",
+    "e": "christmas present",
     "k": "unpresentdnoue",
     "f": "christmaspresent"
   },
@@ -38046,30 +39882,6 @@ export const vocabData = [
     "f": "attorney"
   },
   {
-    "j": "un p'tit bé",
-    "e": "hedge-sparrow",
-    "k": "unptitbe",
-    "f": "hedgesparrow"
-  },
-  {
-    "j": "un p'tit boeu",
-    "e": "dunlin, ringed plover",
-    "k": "unptitboeu",
-    "f": "dunlin,ringedplover"
-  },
-  {
-    "j": "un p'tit jèrriais",
-    "e": "hedge-sparrow",
-    "k": "unptitjerriais",
-    "f": "hedgesparrow"
-  },
-  {
-    "j": "un p'tit pigeon d'France",
-    "e": "turtle dove",
-    "k": "unptitpigeondfrance",
-    "f": "turtledove"
-  },
-  {
     "j": "un puant",
     "e": "swift",
     "k": "unpuant",
@@ -38088,22 +39900,34 @@ export const vocabData = [
     "f": "aquarterofanhour"
   },
   {
-    "j": "un quartchi",
-    "e": "8 cabots",
-    "k": "unquartchi",
-    "f": "8cabots"
+    "j": "un quart dé dgix",
+    "e": "quarter to ten",
+    "k": "unquartdedgix",
+    "f": "quartertoten"
   },
   {
-    "j": "un quartchi",
-    "e": "a quarter",
-    "k": "unquartchi",
-    "f": "aquarter"
+    "j": "un quart dé huit",
+    "e": "quarter to eight",
+    "k": "unquartdehuit",
+    "f": "quartertoeight"
+  },
+  {
+    "j": "un quart dé quatre",
+    "e": "quarter to four",
+    "k": "unquartdequatre",
+    "f": "quartertofour"
   },
   {
     "j": "un quart'ron",
     "e": "a quarter pound",
     "k": "unquartron",
     "f": "aquarterpound"
+  },
+  {
+    "j": "un quartchi",
+    "e": "a quarter, 8 cabots",
+    "k": "unquartchi",
+    "f": "aquarter,8cabots"
   },
   {
     "j": "un quêméreu digital",
@@ -38116,6 +39940,42 @@ export const vocabData = [
     "e": "trap",
     "k": "unquerre",
     "f": "trap"
+  },
+  {
+    "j": "un r'chu",
+    "e": "a receipt",
+    "k": "unrchu",
+    "f": "areceipt"
+  },
+  {
+    "j": "un r'confort",
+    "e": "stimulant",
+    "k": "unrconfort",
+    "f": "stimulant"
+  },
+  {
+    "j": "un r'cord",
+    "e": "record",
+    "k": "unrcord",
+    "f": "record"
+  },
+  {
+    "j": "un r'pas à la broche",
+    "e": "barbecue",
+    "k": "unrpasalabroche",
+    "f": "barbecue"
+  },
+  {
+    "j": "un r'pas rouoya",
+    "e": "a feast",
+    "k": "unrpasrouoya",
+    "f": "afeast"
+  },
+  {
+    "j": "un r'vénant",
+    "e": "ghost, a ghost",
+    "k": "unrvenant",
+    "f": "ghost,aghost"
   },
   {
     "j": "un raccro",
@@ -38160,24 +40020,6 @@ export const vocabData = [
     "f": "shaver"
   },
   {
-    "j": "un r'chu",
-    "e": "a receipt",
-    "k": "unrchu",
-    "f": "areceipt"
-  },
-  {
-    "j": "un r'confort",
-    "e": "stimulant",
-    "k": "unrconfort",
-    "f": "stimulant"
-  },
-  {
-    "j": "un r'cord",
-    "e": "record",
-    "k": "unrcord",
-    "f": "record"
-  },
-  {
     "j": "un rédgulyi",
     "e": "regular soldier",
     "k": "unredgulyi",
@@ -38215,15 +40057,9 @@ export const vocabData = [
   },
   {
     "j": "un rossîngno",
-    "e": "chaffinch",
+    "e": "nightingale, chaffinch",
     "k": "unrossingno",
-    "f": "chaffinch"
-  },
-  {
-    "j": "un rossîngno",
-    "e": "nightingale",
-    "k": "unrossingno",
-    "f": "nightingale"
+    "f": "nightingale,chaffinch"
   },
   {
     "j": "un rotchi",
@@ -38268,28 +40104,16 @@ export const vocabData = [
     "f": "redhead"
   },
   {
-    "j": "un r'pas à la broche",
-    "e": "barbecue",
-    "k": "unrpasalabroche",
-    "f": "barbecue"
+    "j": "un s'meux",
+    "e": "pied wagtail",
+    "k": "unsmeux",
+    "f": "piedwagtail"
   },
   {
-    "j": "un r'pas rouoya",
-    "e": "a feast",
-    "k": "unrpasrouoya",
-    "f": "afeast"
-  },
-  {
-    "j": "un r'vénant",
-    "e": "a ghost",
-    "k": "unrvenant",
-    "f": "aghost"
-  },
-  {
-    "j": "un r'vénant",
-    "e": "ghost",
-    "k": "unrvenant",
-    "f": "ghost"
+    "j": "un s'tcheux",
+    "e": "hairdryer",
+    "k": "unstcheux",
+    "f": "hairdryer"
   },
   {
     "j": "un sacrément",
@@ -38322,12 +40146,6 @@ export const vocabData = [
     "f": "sedative"
   },
   {
-    "j": "un sédatif",
-    "e": "sedative",
-    "k": "unsedatif",
-    "f": "sedative"
-  },
-  {
     "j": "un sèrveux",
     "e": "a server",
     "k": "unserveux",
@@ -38352,12 +40170,6 @@ export const vocabData = [
     "f": "century"
   },
   {
-    "j": "un siècl'ye",
-    "e": "century",
-    "k": "unsieclye",
-    "f": "century"
-  },
-  {
     "j": "un siêxtonnyi",
     "e": "1/6 cabot",
     "k": "unsiextonnyi",
@@ -38368,12 +40180,6 @@ export const vocabData = [
     "e": "private",
     "k": "unsimplyesoudard",
     "f": "private"
-  },
-  {
-    "j": "un s'meux",
-    "e": "pied wagtail",
-    "k": "unsmeux",
-    "f": "piedwagtail"
   },
   {
     "j": "un solé",
@@ -38394,16 +40200,10 @@ export const vocabData = [
     "f": "adrunkard"
   },
   {
-    "j": "un St. Martinnais",
+    "j": "un st. martinnais",
     "e": "kingfisher",
     "k": "unst.martinnais",
     "f": "kingfisher"
-  },
-  {
-    "j": "un s'tcheux",
-    "e": "hairdryer",
-    "k": "unstcheux",
-    "f": "hairdryer"
   },
   {
     "j": "un stégrîn",
@@ -38413,7 +40213,7 @@ export const vocabData = [
   },
   {
     "j": "un sycomôre",
-    "e": "Sycamore",
+    "e": "sycamore",
     "k": "unsycomore",
     "f": "sycamore"
   },
@@ -38443,7 +40243,7 @@ export const vocabData = [
   },
   {
     "j": "un tchêne",
-    "e": "Oak",
+    "e": "oak",
     "k": "untchene",
     "f": "oak"
   },
@@ -38497,7 +40297,7 @@ export const vocabData = [
   },
   {
     "j": "un tchoeuryi",
-    "e": "Cherry tree",
+    "e": "cherry tree",
     "k": "untchoeuryi",
     "f": "cherrytree"
   },
@@ -38533,9 +40333,15 @@ export const vocabData = [
   },
   {
     "j": "un tilleul",
-    "e": "Lime",
+    "e": "lime",
     "k": "untilleul",
     "f": "lime"
+  },
+  {
+    "j": "un tîmbre",
+    "e": "stamp",
+    "k": "untimbre",
+    "f": "stamp"
   },
   {
     "j": "un tîmbre local",
@@ -38548,12 +40354,6 @@ export const vocabData = [
     "e": "stamp for abroad",
     "k": "untimbrepouorletrangi",
     "f": "stampforabroad"
-  },
-  {
-    "j": "un tîmbre",
-    "e": "stamp",
-    "k": "untimbre",
-    "f": "stamp"
   },
   {
     "j": "un titchet",
@@ -38593,7 +40393,7 @@ export const vocabData = [
   },
   {
     "j": "un tournésol",
-    "e": "Sunflower",
+    "e": "sunflower",
     "k": "untournesol",
     "f": "sunflower"
   },
@@ -38611,7 +40411,7 @@ export const vocabData = [
   },
   {
     "j": "un trembl'ye",
-    "e": "Aspen",
+    "e": "aspen",
     "k": "untremblye",
     "f": "aspen"
   },
@@ -38635,15 +40435,9 @@ export const vocabData = [
   },
   {
     "j": "un trop-pliein",
-    "e": "a drunk man",
+    "e": "waste pipe, a drunk man",
     "k": "untroppliein",
-    "f": "adrunkman"
-  },
-  {
-    "j": "un trop-pliein",
-    "e": "waste pipe",
-    "k": "untroppliein",
-    "f": "wastepipe"
+    "f": "wastepipe,adrunkman"
   },
   {
     "j": "un troupé",
@@ -38700,6 +40494,18 @@ export const vocabData = [
     "f": "tyre"
   },
   {
+    "j": "un v'licot",
+    "e": "winkle",
+    "k": "unvlicot",
+    "f": "winkle"
+  },
+  {
+    "j": "un v'loûsé",
+    "e": "polishing pad",
+    "k": "unvlouse",
+    "f": "polishingpad"
+  },
+  {
     "j": "un valentîn",
     "e": "valentine (m)",
     "k": "unvalentin",
@@ -38716,6 +40522,54 @@ export const vocabData = [
     "e": "seller",
     "k": "unvendeux",
     "f": "seller"
+  },
+  {
+    "j": "un vent d’êst",
+    "e": "an east wind",
+    "k": "unventdest",
+    "f": "aneastwind"
+  },
+  {
+    "j": "un vent d’nord",
+    "e": "a north wind",
+    "k": "unventdnord",
+    "f": "anorthwind"
+  },
+  {
+    "j": "un vent d’nord-êt",
+    "e": "a north-east wind",
+    "k": "unventdnordet",
+    "f": "anortheastwind"
+  },
+  {
+    "j": "un vent d’nord-vouêt",
+    "e": "a north-west wind",
+    "k": "unventdnordvouet",
+    "f": "anorthwestwind"
+  },
+  {
+    "j": "un vent d’ouêst",
+    "e": "a west wind",
+    "k": "unventdouest",
+    "f": "awestwind"
+  },
+  {
+    "j": "un vent d’seur-vouêt",
+    "e": "a south west wind",
+    "k": "unventdseurvouet",
+    "f": "asouthwestwind"
+  },
+  {
+    "j": "un vent d’sud",
+    "e": "a south wind",
+    "k": "unventdsud",
+    "f": "asouthwind"
+  },
+  {
+    "j": "un vent d’su’êt’",
+    "e": "a south-east wind",
+    "k": "unventdsuet",
+    "f": "asoutheastwind"
   },
   {
     "j": "un vèrdreu",
@@ -38749,13 +40603,13 @@ export const vocabData = [
   },
   {
     "j": "un vèrt tchêne",
-    "e": "Evergreen Oak or Holm Oak",
+    "e": "evergreen oak or holm oak",
     "k": "unverttchene",
     "f": "evergreenoakorholmoak"
   },
   {
     "j": "un vèrt-bouais",
-    "e": "Spindle-tree",
+    "e": "spindle-tree",
     "k": "unvertbouais",
     "f": "spindletree"
   },
@@ -38767,15 +40621,9 @@ export const vocabData = [
   },
   {
     "j": "un violon",
-    "e": "monkfish",
+    "e": "violin, monkfish",
     "k": "unviolon",
-    "f": "monkfish"
-  },
-  {
-    "j": "un violon",
-    "e": "violin",
-    "k": "unviolon",
-    "f": "violin"
+    "f": "violin,monkfish"
   },
   {
     "j": "un violonniste",
@@ -38796,18 +40644,6 @@ export const vocabData = [
     "f": "pane"
   },
   {
-    "j": "un v'licot",
-    "e": "winkle",
-    "k": "unvlicot",
-    "f": "winkle"
-  },
-  {
-    "j": "un v'loûsé",
-    "e": "polishing pad",
-    "k": "unvlouse",
-    "f": "polishingpad"
-  },
-  {
     "j": "un vra",
     "e": "rock fish",
     "k": "unvra",
@@ -38820,8 +40656,8 @@ export const vocabData = [
     "f": "avraicqueur"
   },
   {
-    "j": "un Wesleyen",
-    "e": "Methodist",
+    "j": "un wesleyen",
+    "e": "methodist",
     "k": "unwesleyen",
     "f": "methodist"
   },
@@ -38844,28 +40680,58 @@ export const vocabData = [
     "f": "greaterweever"
   },
   {
-    "j": "Uranus",
-    "e": "Uranus",
+    "j": "uranus",
+    "e": "uranus",
     "k": "uranus",
     "f": "uranus"
   },
   {
-    "j": "Ûrope",
-    "e": "Europe",
+    "j": "ûrope",
+    "e": "europe",
     "k": "urope",
     "f": "europe"
   },
   {
-    "j": "Uruguay",
-    "e": "Uruguay",
+    "j": "uruguay",
+    "e": "uruguay",
     "k": "uruguay",
     "f": "uruguay"
   },
   {
-    "j": "Uzbekistan",
-    "e": "Uzbekistan",
+    "j": "uzbekistan",
+    "e": "uzbekistan",
     "k": "uzbekistan",
     "f": "uzbekistan"
+  },
+  {
+    "j": "v'lous",
+    "e": "velvet",
+    "k": "vlous",
+    "f": "velvet"
+  },
+  {
+    "j": "v'nez ichîn",
+    "e": "come here",
+    "k": "vnezichin",
+    "f": "comehere"
+  },
+  {
+    "j": "v'nîn",
+    "e": "come",
+    "k": "vnin",
+    "f": "come"
+  },
+  {
+    "j": "v'nu d'vant san temps",
+    "e": "premature",
+    "k": "vnudvantsantemps",
+    "f": "premature"
+  },
+  {
+    "j": "va-s-y!",
+    "e": "go on!",
+    "k": "vasy!",
+    "f": "goon!"
   },
   {
     "j": "vaccinner",
@@ -38874,16 +40740,16 @@ export const vocabData = [
     "f": "tovaccinate"
   },
   {
+    "j": "vaie",
+    "e": "to see",
+    "k": "vaie",
+    "f": "tosee"
+  },
+  {
     "j": "vaie d'la carre d'san yi",
     "e": "to see out of the corner of one's eye",
     "k": "vaiedlacarredsanyi",
     "f": "toseeoutofthecornerofoneseye"
-  },
-  {
-    "j": "vaie doubl'ye",
-    "e": "to see double",
-    "k": "vaiedoublye",
-    "f": "toseedouble"
   },
   {
     "j": "vaie d'près",
@@ -38898,16 +40764,16 @@ export const vocabData = [
     "f": "tosquint"
   },
   {
+    "j": "vaie doubl'ye",
+    "e": "to see double",
+    "k": "vaiedoublye",
+    "f": "toseedouble"
+  },
+  {
     "j": "vaie rouoge",
     "e": "to see red",
     "k": "vaierouoge",
     "f": "toseered"
-  },
-  {
-    "j": "vaie",
-    "e": "to see",
-    "k": "vaie",
-    "f": "tosee"
   },
   {
     "j": "vaillabl'ye",
@@ -38934,20 +40800,20 @@ export const vocabData = [
     "f": "tobeworth"
   },
   {
-    "j": "Valongnes",
-    "e": "Valognes",
+    "j": "valongnes",
+    "e": "valognes",
     "k": "valongnes",
     "f": "valognes"
   },
   {
-    "j": "Vanuatu",
-    "e": "Vanuatu",
+    "j": "vanuatu",
+    "e": "vanuatu",
     "k": "vanuatu",
     "f": "vanuatu"
   },
   {
-    "j": "Vatican",
-    "e": "Vatican",
+    "j": "vatican",
+    "e": "vatican",
     "k": "vatican",
     "f": "vatican"
   },
@@ -38964,6 +40830,12 @@ export const vocabData = [
     "f": "vjointer"
   },
   {
+    "j": "vein ichîn",
+    "e": "come here",
+    "k": "veinichin",
+    "f": "comehere"
+  },
+  {
     "j": "vêlîn",
     "e": "calfskin",
     "k": "velin",
@@ -38976,20 +40848,26 @@ export const vocabData = [
     "f": "tosell"
   },
   {
-    "j": "Vendrédi",
-    "e": "Friday",
+    "j": "vendrédi",
+    "e": "friday",
     "k": "vendredi",
     "f": "friday"
   },
   {
-    "j": "Venezuela",
-    "e": "Venezuela",
+    "j": "vendrédi tchi veint",
+    "e": "next friday",
+    "k": "vendreditchiveint",
+    "f": "nextfriday"
+  },
+  {
+    "j": "venezuela",
+    "e": "venezuela",
     "k": "venezuela",
     "f": "venezuela"
   },
   {
-    "j": "Vênus",
-    "e": "Venus",
+    "j": "vênus",
+    "e": "venus",
     "k": "venus",
     "f": "venus"
   },
@@ -39006,16 +40884,16 @@ export const vocabData = [
     "f": "varnish"
   },
   {
-    "j": "vèrre d'approche",
-    "e": "magnifying glass",
-    "k": "verredapproche",
-    "f": "magnifyingglass"
-  },
-  {
     "j": "vèrre",
     "e": "glass",
     "k": "verre",
     "f": "glass"
+  },
+  {
+    "j": "vèrre d'approche",
+    "e": "magnifying glass",
+    "k": "verredapproche",
+    "f": "magnifyingglass"
   },
   {
     "j": "vèrser",
@@ -39024,10 +40902,16 @@ export const vocabData = [
     "f": "pour"
   },
   {
-    "j": "Vèrt Cap",
-    "e": "Cape Verde",
+    "j": "vèrt cap",
+    "e": "cape verde",
     "k": "vertcap",
     "f": "capeverde"
+  },
+  {
+    "j": "véthe",
+    "e": "yes (to a statement)",
+    "k": "vethe",
+    "f": "yes(toastatement)"
   },
   {
     "j": "veue d'rue",
@@ -39060,8 +40944,8 @@ export const vocabData = [
     "f": "empty"
   },
   {
-    "j": "Vietnam",
-    "e": "Vietnam",
+    "j": "vietnam",
+    "e": "vietnam",
     "k": "vietnam",
     "f": "vietnam"
   },
@@ -39082,6 +40966,36 @@ export const vocabData = [
     "e": "twenty",
     "k": "vingt",
     "f": "twenty"
+  },
+  {
+    "j": "vîngt louis",
+    "e": "twenty pounds (£20)",
+    "k": "vingtlouis",
+    "f": "twentypounds(£20)"
+  },
+  {
+    "j": "vîngt minnutes dé deux",
+    "e": "twenty to two",
+    "k": "vingtminnutesdedeux",
+    "f": "twentytotwo"
+  },
+  {
+    "j": "vîngt minnutes dé douze",
+    "e": "twenty to twelve",
+    "k": "vingtminnutesdedouze",
+    "f": "twentytotwelve"
+  },
+  {
+    "j": "vîngt pénîns",
+    "e": "twenty pence",
+    "k": "vingtpenins",
+    "f": "twentypence"
+  },
+  {
+    "j": "vîngt'tch'ieune",
+    "e": "twenty one",
+    "k": "vingttchieune",
+    "f": "twentyone"
   },
   {
     "j": "vîngt-chînq",
@@ -39126,12 +41040,6 @@ export const vocabData = [
     "f": "twentysix"
   },
   {
-    "j": "vîngt'tch'ieune",
-    "e": "twenty one",
-    "k": "vingttchieune",
-    "f": "twentyone"
-  },
-  {
     "j": "vîngt-trais",
     "e": "twenty three",
     "k": "vingttrais",
@@ -39139,7 +41047,7 @@ export const vocabData = [
   },
   {
     "j": "violettes d'êté, d'la ravenelle",
-    "e": "Stock (Virginia)",
+    "e": "stock (virginia)",
     "k": "violettesdete,dlaravenelle",
     "f": "stock(virginia)"
   },
@@ -39160,6 +41068,12 @@ export const vocabData = [
     "e": "fast",
     "k": "vite",
     "f": "fast"
+  },
+  {
+    "j": "vite!",
+    "e": "quickly",
+    "k": "vite!",
+    "f": "quickly"
   },
   {
     "j": "vither d'bord",
@@ -39192,40 +41106,34 @@ export const vocabData = [
     "f": "togivealicking"
   },
   {
-    "j": "v'lous",
-    "e": "velvet",
-    "k": "vlous",
-    "f": "velvet"
-  },
-  {
-    "j": "v'nîn",
-    "e": "come",
-    "k": "vnin",
-    "f": "come"
-  },
-  {
-    "j": "v'nu d'vant san temps",
-    "e": "premature",
-    "k": "vnudvantsantemps",
-    "f": "premature"
-  },
-  {
     "j": "voler",
     "e": "steal, fly",
     "k": "voler",
     "f": "steal,fly"
   },
   {
-    "j": "voter au scrutîn",
-    "e": "to ballot",
-    "k": "voterauscrutin",
-    "f": "toballot"
+    "j": "vos pliaît-i’ du chucre?",
+    "e": "would you like some sugar?",
+    "k": "vospliaitiduchucre?",
+    "f": "wouldyoulikesomesugar?"
+  },
+  {
+    "j": "vos pliaît-i’ eune vèrrée d’vîn?",
+    "e": "would you like a glass of wine?",
+    "k": "vospliaitieuneverreedvin?",
+    "f": "wouldyoulikeaglassofwine?"
   },
   {
     "j": "voter",
     "e": "to vote",
     "k": "voter",
     "f": "tovote"
+  },
+  {
+    "j": "voter au scrutîn",
+    "e": "to ballot",
+    "k": "voterauscrutin",
+    "f": "toballot"
   },
   {
     "j": "vouler",
@@ -39264,10 +41172,22 @@ export const vocabData = [
     "f": "old"
   },
   {
-    "j": "Wallis et Futuna",
-    "e": "Wallis and Futuna",
+    "j": "wallis et futuna",
+    "e": "wallis and futuna",
     "k": "wallisetfutuna",
     "f": "wallisandfutuna"
+  },
+  {
+    "j": "y'a un hâthîn",
+    "e": "there's a haze",
+    "k": "yaunhathin",
+    "f": "theresahaze"
+  },
+  {
+    "j": "y'a-t-i acouo tchiquechose?",
+    "e": "is there anything else?",
+    "k": "yatiacouotchiquechose?",
+    "f": "isthereanythingelse?"
   },
   {
     "j": "y'a-t-i' acouo tchiquechose?",
@@ -39276,21 +41196,141 @@ export const vocabData = [
     "f": "isthereanythingelse?"
   },
   {
-    "j": "Yemen",
-    "e": "Yemen",
+    "j": "yemen",
+    "e": "yemen",
     "k": "yemen",
     "f": "yemen"
   },
   {
-    "j": "Zambia",
-    "e": "Zambia",
+    "j": "y’a acouo du run.",
+    "e": "there’s some space left.",
+    "k": "yaacouodurun.",
+    "f": "theressomespaceleft."
+  },
+  {
+    "j": "y’a des bouonnes articl’yes",
+    "e": "there are some good articles",
+    "k": "yadesbouonnesarticlyes",
+    "f": "therearesomegoodarticles"
+  },
+  {
+    "j": "y’a d’la gliaiche dans les rues",
+    "e": "there’s ice on the roads",
+    "k": "yadlagliaichedanslesrues",
+    "f": "theresiceontheroads"
+  },
+  {
+    "j": "y’a eune exhibition à la gal’lie",
+    "e": "there’s an exhibition in the gallery",
+    "k": "yaeuneexhibitionalagallie",
+    "f": "theresanexhibitioninthegallery"
+  },
+  {
+    "j": "y’a neu maîsons dans chutte rue",
+    "e": "there are nine houses in this street",
+    "k": "yaneumaisonsdanschutterue",
+    "f": "thereareninehousesinthisstreet"
+  },
+  {
+    "j": "y’a trop d'brit",
+    "e": "there's too much noise",
+    "k": "yatropdbrit",
+    "f": "therestoomuchnoise"
+  },
+  {
+    "j": "y’a un clièrgeon dans l'êst",
+    "e": "it’s clearing in the east",
+    "k": "yauncliergeondanslest",
+    "f": "itsclearingintheeast"
+  },
+  {
+    "j": "y’a un par à bikes driéthe lé bâtisse.",
+    "e": "there’s a bike rack behind the building.",
+    "k": "yaunparabikesdriethelebatisse.",
+    "f": "theresabikerackbehindthebuilding."
+  },
+  {
+    "j": "y’a-t-i’ autchun bord pouor partchi?",
+    "e": "is there anywhere to park?",
+    "k": "yatiautchunbordpouorpartchi?",
+    "f": "isthereanywheretopark?"
+  },
+  {
+    "j": "y’a-t-i’ eune beusse tchi va à la grève dé lé?",
+    "e": "is there a bus going to grève de lecq?",
+    "k": "yatieunebeussetchivaalagrevedele?",
+    "f": "isthereabusgoingtogrevedelecq?"
+  },
+  {
+    "j": "y’a-t-i’ eune stâtion d’taxis dans l’vaîsinné?",
+    "e": "is there a taxi rank nearby?",
+    "k": "yatieunestationdtaxisdanslvaisinne?",
+    "f": "isthereataxiranknearby?"
+  },
+  {
+    "j": "y’a-t-i’ un baté tchi va à cart’ret aniet?",
+    "e": "is there a boat going to carteret today?",
+    "k": "yatiunbatetchivaacartretaniet?",
+    "f": "isthereaboatgoingtocarterettoday?"
+  },
+  {
+    "j": "y’a-t-i’ un bouôn film au cinnéma aniet?",
+    "e": "is there a good film at the cinema today?",
+    "k": "yatiunbouonfilmaucinnemaaniet?",
+    "f": "isthereagoodfilmatthecinematoday?"
+  },
+  {
+    "j": "y’a-t-i’...?",
+    "e": "is there...?/are there...?",
+    "k": "yati...?",
+    "f": "isthere...?/arethere...?"
+  },
+  {
+    "j": "y’a...",
+    "e": "there is..., there are...",
+    "k": "ya...",
+    "f": "thereis...,thereare..."
+  },
+  {
+    "j": "y’avait eune annonce sus la gâzette",
+    "e": "there’s an ad in the newspaper",
+    "k": "yavaiteuneannoncesuslagazette",
+    "f": "theresanadinthenewspaper"
+  },
+  {
+    "j": "y’avait un rapport entouor...",
+    "e": "there’s a report on...",
+    "k": "yavaitunrapportentouor...",
+    "f": "theresareporton..."
+  },
+  {
+    "j": "y’étha des scouâles dé plyie",
+    "e": "there’ll be squally showers",
+    "k": "yethadesscoualesdeplyie",
+    "f": "therellbesquallyshowers"
+  },
+  {
+    "j": "y’étha eune s’crèche",
+    "e": "there’ll be a drought",
+    "k": "yethaeunescreche",
+    "f": "therellbeadrought"
+  },
+  {
+    "j": "y’étha-t-i’ un baté d’main au matîn?",
+    "e": "will there be a boat tomorrow morning?",
+    "k": "yethatiunbatedmainaumatin?",
+    "f": "willtherebeaboattomorrowmorning?"
+  },
+  {
+    "j": "zambia",
+    "e": "zambia",
     "k": "zambia",
     "f": "zambia"
   },
   {
-    "j": "Zimbabwe",
-    "e": "Zimbabwe",
+    "j": "zimbabwe",
+    "e": "zimbabwe",
     "k": "zimbabwe",
     "f": "zimbabwe"
   }
-];
+]

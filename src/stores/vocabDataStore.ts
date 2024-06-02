@@ -11,14 +11,16 @@ function normalizeString(str) {
 }
 
 export const useVocabDataStore = defineStore('vocabData', () => {
-    const vocab = ref(vocabData);
+  const vocab = ref(vocabData);
+  const lastSearchedTerm = ref('');
 
-    function search(term: string) {
-        const normalized = normalizeString(term);
-        return vocab.value.filter(row =>
-            row.f.includes(normalized) || row.k.includes(normalized)
-        );
-    }
+  function search(term: string) {
+    lastSearchedTerm.value = term;
+    const normalized = normalizeString(term);
+    return vocab.value.filter(row =>
+      row.f.includes(normalized) || row.k.includes(normalized)
+    );
+  }
 
-    return { vocab, search }
+  return { vocab, search, lastSearchedTerm }
 });
